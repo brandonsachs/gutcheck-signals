@@ -1,0 +1,4946 @@
+{
+ "by_phase": {
+  "in-window": {
+   "brier": 0.19353768318181813,
+   "edge_pp": -1.3211038961038923,
+   "implied": 0.47424999999999995,
+   "n": 154,
+   "roi": -0.12743239660687875,
+   "win_rate": 0.461038961038961,
+   "wins": 71,
+   "z": -0.3483830082929998
+  },
+  "pre-match": {
+   "brier": 0.22825265521978041,
+   "edge_pp": 4.924450549450555,
+   "implied": 0.5057005494505494,
+   "n": 182,
+   "roi": 0.12366313081703273,
+   "win_rate": 0.554945054945055,
+   "wins": 101,
+   "z": 1.3960429957684575
+  }
+ },
+ "generated": "2026-07-31T03:34:04Z",
+ "markets_replayed": 7906,
+ "markets_without_trade_data": 5882,
+ "methodology": "Signals reconstructed from Polymarket trade history for matches that were played before live signal tracking began. Wallet grades are walk-forward: a wallet's grade for a match uses only matches that had already settled when that match started, so no result can influence its own signal. The lock rule is identical to the live scanner. These calls were NOT published before the matches resolved and are therefore not independently verifiable the way the locked record is. Never combine the two into a single figure.",
+ "overall": {
+  "brier": 0.21234162636904763,
+  "edge_pp": 2.061904761904759,
+  "implied": 0.49128571428571427,
+  "n": 336,
+  "roi": 0.008577680747739966,
+  "win_rate": 0.5119047619047619,
+  "wins": 172,
+  "z": 0.7982795258749528
+ },
+ "provenance": "RECONSTRUCTED, NOT TIMESTAMPED",
+ "signals": [
+  {
+   "cid": "0x19e99f329fa0c324a61fd1cb93dc0177c0b963b8fd8c77cac4c9a8de6e5f4a8c",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.505,
+   "side": "Cobolli",
+   "start": "2025-08-01T22:30:00Z",
+   "title": "ATP Toronto \u2013 Cobolli vs. Marozsan",
+   "tour": "ATP",
+   "winner": "Cobolli"
+  },
+  {
+   "cid": "0xd6a9c95c4fd9f39d778003e5dd87ca90757b97efa82cfe96c7a75ced3c48ff43",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 25,
+   "phase": "in-window",
+   "price": 0.46,
+   "side": "Ruud",
+   "start": "2025-08-02T18:00:00Z",
+   "title": "ATP Toronto \u2013 Khachanov vs. Ruud",
+   "tour": "ATP",
+   "winner": "Khachanov"
+  },
+  {
+   "cid": "0x507e2ee9d73e3dbbeecec667545c1e28b74728ef9354a5bfab13749dc8983b6e",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "none"
+   },
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.685,
+   "side": "Fritz ",
+   "start": "2025-08-05T23:00:00Z",
+   "title": "ATP Toronto \u2013 Rublev vs. Fritz",
+   "tour": "ATP",
+   "winner": "Fritz "
+  },
+  {
+   "cid": "0xf4e85d392c549efadd6b699b9917ef93ef595f9343d3a32edf164e31cc9e0a11",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.605,
+   "side": "Machac",
+   "start": "2025-08-09T18:00:00Z",
+   "title": "ATP Cincinnati - Machac vs. Mannarino",
+   "tour": "ATP",
+   "winner": "Mannarino"
+  },
+  {
+   "cid": "0x764edba2aca742c31d5254dbee7a260fd146b9161d9d907c4c2f56ca5cfeaed3",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 15,
+   "phase": "in-window",
+   "price": 0.8,
+   "side": "Alcaraz",
+   "start": "2025-08-15T19:00:00Z",
+   "title": "ATP Cincinnati - Rublev vs. Alcaraz",
+   "tour": "ATP",
+   "winner": "Alcaraz"
+  },
+  {
+   "cid": "0x55a4adfdbfa1b020a6093060bb4b06f1ad784001067a79ad1ffd888299f278ae",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.9,
+   "side": "Sinner ",
+   "start": "2025-08-16T19:00:00Z",
+   "title": "ATP Cincinnati - Sinner vs. Atmane",
+   "tour": "ATP",
+   "winner": "Sinner "
+  },
+  {
+   "cid": "0xb478b704e0cca431f77326efdac0c29618779f8f37375dfb7508595de57226ab",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.54,
+   "side": "Paolini",
+   "start": "2025-08-17T19:00:00Z",
+   "title": "WTA Cincinnati - Kudermetova vs. Paolini",
+   "tour": "WTA",
+   "winner": "Paolini"
+  },
+  {
+   "cid": "0xa2faa2eb780027b5d3017175682d2c9b9ff1cacb8d9427b9c90849b7c1fbd3a0",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "none"
+   },
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.36,
+   "side": "Tjen",
+   "start": "2026-02-03T09:00:00Z",
+   "title": "Mubadala Abu Dhabi Open: Liudmila Samsonova vs Janice Tjen",
+   "tour": "WTA",
+   "winner": "Samsonova"
+  },
+  {
+   "cid": "0x6701478db2feb7ea268e5b1bb6a4e0bb113014c81eab28c7edb28f07c7f673aa",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.365,
+   "side": "Perricard",
+   "start": "2026-02-10T12:15:00Z",
+   "title": "Rotterdam Open: Tallon Griekspoor vs Giovanni Mpetshi Perricard",
+   "tour": "ATP",
+   "winner": "Griekspoor"
+  },
+  {
+   "cid": "0xf53e79eb82b386014d0924e41143dfa64cb6aefd0e442cbe520a58fe89764acd",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "none"
+   },
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.695,
+   "side": "Tien",
+   "start": "2026-02-10T18:05:00Z",
+   "title": "Dallas Open: Marin Cilic vs Learner Tien",
+   "tour": "ATP",
+   "winner": "Cilic"
+  },
+  {
+   "cid": "0x3cdf588ae0c7893855f70657e1afda53c9a13ae0cc3c9b4f63b4f1619e227a7d",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 30,
+   "phase": "in-window",
+   "price": 0.45,
+   "side": "Kecmanovic",
+   "start": "2026-02-10T19:30:00Z",
+   "title": "Dallas Open: Sho Shimabukuro vs Miomir Kecmanovic",
+   "tour": "ATP",
+   "winner": "Kecmanovic"
+  },
+  {
+   "cid": "0x46d5d9b651c53de8e20cd3daae2d9ca0f7f802bef701e03808153b9322870afb",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.51,
+   "side": "Michelsen",
+   "start": "2026-02-10T20:20:00Z",
+   "title": "Dallas Open: Grigor Dimitrov vs Alex Michelsen",
+   "tour": "ATP",
+   "winner": "Michelsen"
+  },
+  {
+   "cid": "0xb08b2edae7588d0a8c05b80b2b9ad814bf6417914c10f7771617047eab051d16",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.595,
+   "side": "Humbert",
+   "start": "2026-02-17T13:45:00Z",
+   "title": "Qatar Open: Ugo Humbert vs Fabian Marozsan",
+   "tour": "ATP",
+   "winner": "Marozsan"
+  },
+  {
+   "cid": "0x7bea234fa4fd3a4f637c0fc53d7de5d335f7ba753b2ebfdd5702f6cfe3c916fa",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.745,
+   "side": "Fonseca",
+   "start": "2026-02-17T22:20:00Z",
+   "title": "Rio Open: Joao Fonseca vs Thiago Monteiro",
+   "tour": "ATP",
+   "winner": "Fonseca"
+  },
+  {
+   "cid": "0xb61fa24ba6936e9ceb00fbf6c101d69743b44e52da101400c7e1bbea5e3a5226",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.315,
+   "side": "Navone",
+   "start": "2026-02-17T22:30:00Z",
+   "title": "Rio Open: Francisco Cerundolo vs Mariano Navone",
+   "tour": "ATP",
+   "winner": "Cerundolo"
+  },
+  {
+   "cid": "0xd0ca19fa126372248e16a75e163722c807e3dde3df009a17b19cf15043c9b337",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.58,
+   "side": "Martinez",
+   "start": "2026-02-17T23:15:00Z",
+   "title": "Rio Open: Damir Dzumhur vs Pedro Martinez",
+   "tour": "ATP",
+   "winner": "Dzumhur"
+  },
+  {
+   "cid": "0xcceec6528fea29ffcf9eb0df9cfdef5871e1e4b7b348fafca53a87952cdf2e42",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "none"
+   },
+   "hit": true,
+   "locked_min": 30,
+   "phase": "in-window",
+   "price": 0.59,
+   "side": "Rublev",
+   "start": "2026-02-18T14:15:00Z",
+   "title": "Qatar Open: Fabian Marozsan vs Andrey Rublev",
+   "tour": "ATP",
+   "winner": "Rublev"
+  },
+  {
+   "cid": "0xa4c5d5f525598352b19b9894d33eef2642bef66f804587e7472167d73132d74b",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.415,
+   "side": "Droguet",
+   "start": "2026-02-20T18:00:00Z",
+   "title": "Lille: Jerome Kym vs Titouan Droguet",
+   "tour": "ATP",
+   "winner": "Kym"
+  },
+  {
+   "cid": "0x94ad472f5f554f74768855aafbf48a983080184b2a7e38e9358b24a7146c1660",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "none"
+   },
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.66,
+   "side": "Berrettini",
+   "start": "2026-02-20T22:15:00Z",
+   "title": "Rio Open: Ignacio Buse vs Matteo Berrettini",
+   "tour": "ATP",
+   "winner": "Buse"
+  },
+  {
+   "cid": "0xad2203cdd252b5afe0a8c5a6c7c91e5795f8cabce6956d97a9dfd6c70e20f55d",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 30,
+   "phase": "in-window",
+   "price": 0.6095,
+   "side": "Tien",
+   "start": "2026-02-20T23:25:00Z",
+   "title": "Delray Beach Open: Learner Tien vs Frances Tiafoe",
+   "tour": "ATP",
+   "winner": "Tien"
+  },
+  {
+   "cid": "0xd9fdf2aa0b9d177f29168fb8d2e668bfb7304a5d2e883c2d0d8636214a10c8ce",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 20,
+   "phase": "in-window",
+   "price": 0.39,
+   "side": "Fritz",
+   "start": "2026-02-21T02:10:00Z",
+   "title": "Delray Beach Open: Taylor Fritz vs Tommy Paul",
+   "tour": "ATP",
+   "winner": "Paul"
+  },
+  {
+   "cid": "0x434b41af2b51d5eafb3c8104673708811fb76d199d41785a44bfecfbe530d6fa",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.865,
+   "side": "Alcaraz",
+   "start": "2026-02-21T18:00:00Z",
+   "title": "Qatar Open: Carlos Alcaraz vs Arthur Fils",
+   "tour": "ATP",
+   "winner": "Alcaraz"
+  },
+  {
+   "cid": "0xadfdcb01de3266e2ffc37403180100e3fc1ed932c52940f65033db957aac0c79",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 20,
+   "phase": "in-window",
+   "price": 0.32,
+   "side": "Tien",
+   "start": "2026-02-22T01:00:00Z",
+   "title": "Delray Beach Open: Tommy Paul vs Learner Tien",
+   "tour": "ATP",
+   "winner": "Paul"
+  },
+  {
+   "cid": "0xc8ea7c0cab020acf5c9f675689896b3a60471bfc57768effc74e1d929073049b",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.59,
+   "side": "Tabilo",
+   "start": "2026-02-22T14:00:00Z",
+   "title": "Rio Open: Alejandro Tabilo vs Ignacio Buse",
+   "tour": "ATP",
+   "winner": "Tabilo"
+  },
+  {
+   "cid": "0x9bdb963732410ec4416472978e7113c80a6bc9c7337a2dd7d33329f868e8f8ae",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "none"
+   },
+   "hit": false,
+   "locked_min": 20,
+   "phase": "in-window",
+   "price": 0.5044,
+   "side": "Paul",
+   "start": "2026-02-22T21:05:00Z",
+   "title": "Delray Beach Open: Tommy Paul vs Sebastian Korda",
+   "tour": "ATP",
+   "winner": "Korda"
+  },
+  {
+   "cid": "0xd9d57ac27344c8aeb4b2d2679a36f69746ef89935cd81a08b285f2d9280da2fb",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.595,
+   "side": "Hanfmann",
+   "start": "2026-02-23T16:00:00Z",
+   "title": "Chile Open: Dusan Lajovic vs Yannick Hanfmann",
+   "tour": "ATP",
+   "winner": "Hanfmann"
+  },
+  {
+   "cid": "0x2ce63769204bbdfa838afe502dafb46235110457715b83e8e429e15a8f7cc6b4",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.64,
+   "side": "Comesana",
+   "start": "2026-02-23T20:25:00Z",
+   "title": "Chile Open: Francisco Comesana vs Pedro Martinez",
+   "tour": "ATP",
+   "winner": "Comesana"
+  },
+  {
+   "cid": "0xa199e4ef3ef2dbd8c1c96e1ee28c0b6e6463d89841a3cec08553066fcf11a607",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 15,
+   "phase": "in-window",
+   "price": 0.7496,
+   "side": "Kecmanovic",
+   "start": "2026-02-24T00:00:00Z",
+   "title": "Mexican Open: Tristan Schoolkate vs Miomir Kecmanovic",
+   "tour": "ATP",
+   "winner": "Kecmanovic"
+  },
+  {
+   "cid": "0x3b6fedb63bc645e4ab46a35a2ec47e6182b7909f2c180a0fd45982448ff80d87",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "none"
+   },
+   "hit": false,
+   "locked_min": 20,
+   "phase": "in-window",
+   "price": 0.5894,
+   "side": "Minaur",
+   "start": "2026-02-24T02:00:00Z",
+   "title": "Mexican Open: Patrick Kypson vs Alex de Minaur",
+   "tour": "ATP",
+   "winner": "Kypson"
+  },
+  {
+   "cid": "0x86f8e673fe06893dbb82b5d3faa786d0618e09b936d0e0e29a53905dc3541884",
+   "drift_after_lock": {
+    "side_name": "Norrie",
+    "state": "aligned"
+   },
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.4,
+   "side": "Jodar",
+   "start": "2026-02-24T05:00:00Z",
+   "title": "Mexican Open: Rafael Jodar vs Cameron Norrie",
+   "tour": "ATP",
+   "winner": "Jodar"
+  },
+  {
+   "cid": "0x2708c470f811bf9a98125878be3a8d006b91ca24bce041eac102b370269dfe16",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.605,
+   "side": "Andreescu",
+   "start": "2026-02-24T18:05:00Z",
+   "title": "ATX Open: Bianca Andreescu vs Dalma Galfi",
+   "tour": "WTA",
+   "winner": "Galfi"
+  },
+  {
+   "cid": "0xd5bac483604b731f6da7d4695d390bce110acf8eb50a2aec9e9c8a5878bc330e",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 25,
+   "phase": "in-window",
+   "price": 0.1384,
+   "side": "Brace",
+   "start": "2026-02-25T00:00:00Z",
+   "title": "Merida Open Akron: Cadence Brace vs Zeynep Sonmez",
+   "tour": "WTA",
+   "winner": "Sonmez"
+  },
+  {
+   "cid": "0xa2eb7fb7ed00f785d53eaee365cc614f2242cc181da74277a6fd7e84acbcef7f",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 10,
+   "phase": "in-window",
+   "price": 0.6088,
+   "side": "Comesana",
+   "start": "2026-02-25T18:00:00Z",
+   "title": "Chile Open: Francisco Comesana vs Andrea Pellegrino",
+   "tour": "ATP",
+   "winner": "Pellegrino"
+  },
+  {
+   "cid": "0xc2459b5bb69a61c3921d5ca2e6685f3d2da8d4f76cbf007362456851f5cf926e",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.315,
+   "side": "Atmane",
+   "start": "2026-02-26T00:00:00Z",
+   "title": "Mexican Open: Terence Atmane vs Rafael Jodar",
+   "tour": "ATP",
+   "winner": "Atmane"
+  },
+  {
+   "cid": "0x87395f005164fe7e4cfd27c90b927d7f7834bf6a7e0b210772bc2bbf0f746eb6",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.47,
+   "side": "Yuan",
+   "start": "2026-02-26T01:45:00Z",
+   "title": "ATX Open: Yue Yuan vs Dalma Galfi",
+   "tour": "WTA",
+   "winner": "Yuan"
+  },
+  {
+   "cid": "0x85bbc4653d62c6dcafcd40aa7430e053282f54cd2eaa1ffb85698d2fe44e3e7b",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.155,
+   "side": "Moeller",
+   "start": "2026-02-26T18:05:00Z",
+   "title": "Chile Open: Francisco Cerundolo vs Elmer Moeller",
+   "tour": "ATP",
+   "winner": "Cerundolo"
+  },
+  {
+   "cid": "0xb12ee2f7e1737a424c56f8f318222821cc873a4f364061cb99cdcb15c1e39053",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.445,
+   "side": "Frech",
+   "start": "2026-02-26T20:05:00Z",
+   "title": "Merida Open Akron: Jessica Bouzas Maneiro vs Magdalena Frech",
+   "tour": "WTA",
+   "winner": "Frech"
+  },
+  {
+   "cid": "0xcd3c8d6ad2e05e993d79ed759e1159a1630de1e49a6b24ee66d599432c3d0a2d",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 20,
+   "phase": "in-window",
+   "price": 0.33,
+   "side": "Dolehide",
+   "start": "2026-02-26T20:30:00Z",
+   "title": "ATX Open: Kimberly Birrell vs Caroline Dolehide",
+   "tour": "WTA",
+   "winner": "Birrell"
+  },
+  {
+   "cid": "0xd915229ffc8b1f511fd7a14e18f55110ce36430751a4552f0e7766ad9aa4f481",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "none"
+   },
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.705,
+   "side": "Baez",
+   "start": "2026-02-26T21:30:00Z",
+   "title": "Chile Open: Cristian Garin vs Sebastian Baez",
+   "tour": "ATP",
+   "winner": "Baez"
+  },
+  {
+   "cid": "0x8d7b4b02a6fcef641b4980cafec80d46472930d623bf2f316731c662703aa5c7",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "none"
+   },
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.355,
+   "side": "Zhang",
+   "start": "2026-02-27T01:30:00Z",
+   "title": "Merida Open Akron: Shuai Zhang vs Emma Navarro",
+   "tour": "WTA",
+   "winner": "Zhang"
+  },
+  {
+   "cid": "0x1e2e4d45af5eb159952f0eadc1742dab498eea1dc6529a780cf0667aa820aede",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 15,
+   "phase": "in-window",
+   "price": 0.3892,
+   "side": "Terence Atmane",
+   "start": "2026-02-27T02:05:00Z",
+   "title": "Mexican Open: Miomir Kecmanovic vs Terence Atmane",
+   "tour": "ATP",
+   "winner": "Miomir Kecmanovic"
+  },
+  {
+   "cid": "0x5f25efc56b4f37e3f9ad38f7d077c81c64a1d0e774dc4475299f4b4969697bae",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 10,
+   "phase": "in-window",
+   "price": 0.12,
+   "side": "Amarissa Kiara Toth",
+   "start": "2026-02-27T11:45:00Z",
+   "title": "Antalya: Amarissa Kiara Toth vs Mayar Sherif",
+   "tour": "WTA",
+   "winner": "Mayar Sherif"
+  },
+  {
+   "cid": "0xc8f42c79466cdddc6c58000f012ec78d0f84ae6bf7624f7e043a69a2beda1f47",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.525,
+   "side": "Sebastian Baez",
+   "start": "2026-02-28T00:10:00Z",
+   "title": "Chile Open: Alejandro Tabilo vs Sebastian Baez",
+   "tour": "ATP",
+   "winner": "Sebastian Baez"
+  },
+  {
+   "cid": "0x95ecfa83e0eae74903933445ead8c41ec93eb99393b14ac58e091609fb6b5c56",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 15,
+   "phase": "in-window",
+   "price": 0.49,
+   "side": "Felix Gill",
+   "start": "2026-02-28T08:00:00Z",
+   "title": "Pune: Felix Gill vs Edas Butvilas",
+   "tour": "ATP",
+   "winner": "Felix Gill"
+  },
+  {
+   "cid": "0x678df96db579517f8b739c0aa2240b45c025196181e76d0b74eec22f98357ede",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.665,
+   "side": "Luciano Darderi",
+   "start": "2026-03-01T22:40:00Z",
+   "title": "Chile Open: Yannick Hanfmann vs Luciano Darderi",
+   "tour": "ATP",
+   "winner": "Luciano Darderi"
+  },
+  {
+   "cid": "0x8d2d43be524261f4eebced1f2e32e068142a83a9110a789bda61e0a784b811b2",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 15,
+   "phase": "in-window",
+   "price": 0.4469,
+   "side": "Mathys Erhard",
+   "start": "2026-03-03T13:05:00Z",
+   "title": "Kigali: Mathys Erhard vs Joel Schwaerzler",
+   "tour": "ATP",
+   "winner": "Joel Schwaerzler"
+  },
+  {
+   "cid": "0x5221d594c3f756dd6ca10c3d5db583bf73e71b4d2bc1a7acff78d130008ab0e2",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "none"
+   },
+   "hit": false,
+   "locked_min": 25,
+   "phase": "in-window",
+   "price": 0.76,
+   "side": "Leyre Romero Gormaz",
+   "start": "2026-03-27T16:40:00Z",
+   "title": "Dubrovnik: Mayar Sherif vs Leyre Romero Gormaz",
+   "tour": "WTA",
+   "winner": "Mayar Sherif"
+  },
+  {
+   "cid": "0xb26c099994d60d7620b6d21fa1ba112d90edc07355bcdb8da0c0e471aad71950",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 15,
+   "phase": "in-window",
+   "price": 0.51,
+   "side": "Marco Trungelliti",
+   "start": "2026-03-31T13:00:00Z",
+   "title": "Grand Prix Hassan II: Henrique Rocha vs Marco Trungelliti",
+   "tour": "ATP",
+   "winner": "Marco Trungelliti"
+  },
+  {
+   "cid": "0x3c34058167e55446435320fc597a714d5918e8f658f99f3b8b327d93c2162640",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "none"
+   },
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.28,
+   "side": "Timofey Skatov",
+   "start": "2026-03-31T14:50:00Z",
+   "title": "Grand Prix Hassan II: Timofey Skatov vs Camilo Ugo Carabelli",
+   "tour": "ATP",
+   "winner": "Camilo Ugo Carabelli"
+  },
+  {
+   "cid": "0xd8288a85f9edb8d8f3f30110f0a059d24ee26077718a23708c9d6a47f49d52bf",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "none"
+   },
+   "hit": false,
+   "locked_min": 10,
+   "phase": "in-window",
+   "price": 0.39,
+   "side": "Dalma Galfi",
+   "start": "2026-03-31T15:10:00Z",
+   "title": "Credit One Charleston Open: Bianca Andreescu vs Dalma Galfi",
+   "tour": "WTA",
+   "winner": "Bianca Andreescu"
+  },
+  {
+   "cid": "0x43e705d3613106d9995c50a9b2fae845081e0909f1ede2edcf02468e51d3855f",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 15,
+   "phase": "in-window",
+   "price": 0.81,
+   "side": "Anna Kalinskaya",
+   "start": "2026-03-31T19:15:00Z",
+   "title": "Credit One Charleston Open: Viktoriya Tomova vs Anna Kalinskaya",
+   "tour": "WTA",
+   "winner": "Anna Kalinskaya"
+  },
+  {
+   "cid": "0xfaa459180d11fae791843ae1036938a53b0fdb7a12303b2daa965b48afda02ac",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 20,
+   "phase": "in-window",
+   "price": 0.65,
+   "side": "Jessica Bouzas Maneiro",
+   "start": "2026-04-02T21:40:00Z",
+   "title": "Copa Colsanitas: Varvara Lepchenko vs Jessica Bouzas Maneiro",
+   "tour": "WTA",
+   "winner": "Varvara Lepchenko"
+  },
+  {
+   "cid": "0x905c98eaf11ba023309463fbe7dc3dac4bdba585838bced918ac16437a7a8f65",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 5,
+   "phase": "in-window",
+   "price": 0.5424,
+   "side": "Iva Jovic",
+   "start": "2026-04-02T22:00:00Z",
+   "title": "Credit One Charleston Open: Iva Jovic vs Sofia Kenin",
+   "tour": "WTA",
+   "winner": "Iva Jovic"
+  },
+  {
+   "cid": "0x15c8489be14e2f2f4b7909d31b74174cf9be3c0ff86e54fa48272acb61c431aa",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.685,
+   "side": "Corentin Moutet",
+   "start": "2026-04-03T10:00:00Z",
+   "title": "Grand Prix Hassan II: Corentin Moutet vs Marco Trungelliti",
+   "tour": "ATP",
+   "winner": "Marco Trungelliti"
+  },
+  {
+   "cid": "0xdfdd95be230f21ed86c0304da9590eea7ab19b32716ab8e0880bc1a6ccf112d5",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 15,
+   "phase": "in-window",
+   "price": 0.52,
+   "side": "Flavio Cobolli",
+   "start": "2026-04-06T16:10:00Z",
+   "title": "Rolex Monte Carlo Masters: Flavio Cobolli vs Francisco Comesana",
+   "tour": "ATP",
+   "winner": "Flavio Cobolli"
+  },
+  {
+   "cid": "0x5c57e6b622206157ffc4f40363ddcab319dc671285cef3ee15c94e011adc4431",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.385,
+   "side": "Tatjana Maria",
+   "start": "2026-04-06T16:45:00Z",
+   "title": "Upper Austria Ladies Linz: Sloane Stephens vs Tatjana Maria",
+   "tour": "WTA",
+   "winner": "Sloane Stephens"
+  },
+  {
+   "cid": "0x3a58b412206d8a90c81cf7a86e64d3e207c36fdb21683318935c6c68a9db52de",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.705,
+   "side": "Polona Hercog",
+   "start": "2026-04-07T10:25:00Z",
+   "title": "Madrid: Marina Bassols Ribera vs Polona Hercog",
+   "tour": "WTA",
+   "winner": "Marina Bassols Ribera"
+  },
+  {
+   "cid": "0x281af0b053725133c85f82a5a9689888ec8e19026deeb7a2b7e76e1444ff3790",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 30,
+   "phase": "in-window",
+   "price": 0.55,
+   "side": "Alex de Minaur",
+   "start": "2026-04-07T14:40:00Z",
+   "title": "Rolex Monte Carlo Masters: Cameron Norrie vs Alex de Minaur",
+   "tour": "ATP",
+   "winner": "Alex de Minaur"
+  },
+  {
+   "cid": "0x112398b4483dd9c6d0a943a583f7e026236f7bcbcd773d33cb6a343c6a09bd72",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 5,
+   "phase": "in-window",
+   "price": 0.39,
+   "side": "Julia Grabher",
+   "start": "2026-04-07T16:45:00Z",
+   "title": "Upper Austria Ladies Linz: Julia Grabher vs Alexandra Eala",
+   "tour": "WTA",
+   "winner": "Alexandra Eala"
+  },
+  {
+   "cid": "0x4859174e88914050d5cab169d6f89d26f4afb843d3fe087ed20317a4851cff11",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.71,
+   "side": "Tristan Schoolkate",
+   "start": "2026-04-07T17:05:00Z",
+   "title": "Mexico City: Blaise Bicknell vs Tristan Schoolkate",
+   "tour": "ATP",
+   "winner": "Tristan Schoolkate"
+  },
+  {
+   "cid": "0xa845a1ce7fc0c16d02de12724aea68141b74678cf598dc856b102016dddf859a",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 10,
+   "phase": "in-window",
+   "price": 0.482,
+   "side": "Dayana Yastremska",
+   "start": "2026-04-08T10:05:00Z",
+   "title": "Upper Austria Ladies Linz: Gabriela Ruse vs Dayana Yastremska",
+   "tour": "WTA",
+   "winner": "Gabriela Ruse"
+  },
+  {
+   "cid": "0xb3edbaaeaa5d43b5e43a8a70c83074e60eb3b7781da36a4685e3d064a8515994",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 20,
+   "phase": "in-window",
+   "price": 0.17,
+   "side": "Cristian Garin",
+   "start": "2026-04-08T10:20:00Z",
+   "title": "Rolex Monte Carlo Masters: Cristian Garin vs Alexander Zverev",
+   "tour": "ATP",
+   "winner": "Alexander Zverev"
+  },
+  {
+   "cid": "0x3f73c56122134c1ab88a5b9563f71e6eebdc61c9fb2b7f1042f97bdc532c52cd",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.615,
+   "side": "Jelena Ostapenko",
+   "start": "2026-04-08T12:55:00Z",
+   "title": "Upper Austria Ladies Linz: Jelena Ostapenko vs Alexandra Eala",
+   "tour": "WTA",
+   "winner": "Jelena Ostapenko"
+  },
+  {
+   "cid": "0x8626403d6328dac29003229bcfef807e4bf41c4763324d2772a08dc50ab55abd",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 15,
+   "phase": "in-window",
+   "price": 0.6105,
+   "side": "Felix Auger-Aliassime",
+   "start": "2026-04-08T13:30:00Z",
+   "title": "Rolex Monte Carlo Masters: Felix Auger-Aliassime vs Marin Cilic",
+   "tour": "ATP",
+   "winner": "Felix Auger-Aliassime"
+  },
+  {
+   "cid": "0x36d4a9ac8258cb17d3592341515fb6df6f27e68be8b566049b0eaa2e1553093a",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 30,
+   "phase": "in-window",
+   "price": 0.59,
+   "side": "Casper Ruud",
+   "start": "2026-04-08T13:35:00Z",
+   "title": "Rolex Monte Carlo Masters: Corentin Moutet vs Casper Ruud",
+   "tour": "ATP",
+   "winner": "Casper Ruud"
+  },
+  {
+   "cid": "0x8ef768db6dbdd6f6dbcea8c72c6c0542ff17dd9165551503f0eabd43c2f7d15f",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 25,
+   "phase": "in-window",
+   "price": 0.3,
+   "side": "Alejandro Moro Canas",
+   "start": "2026-04-08T14:50:00Z",
+   "title": "Madrid: Pablo Llamas Ruiz vs Alejandro Moro Canas",
+   "tour": "ATP",
+   "winner": "Alejandro Moro Canas"
+  },
+  {
+   "cid": "0x5ff80549e6982743f8468b10e0e4c27641a11405d3f30e55054ec2257d1b231a",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "none"
+   },
+   "hit": false,
+   "locked_min": 20,
+   "phase": "in-window",
+   "price": 0.29,
+   "side": "Fabian Marozsan",
+   "start": "2026-04-08T16:30:00Z",
+   "title": "Rolex Monte Carlo Masters: Fabian Marozsan vs Hubert Hurkacz",
+   "tour": "ATP",
+   "winner": "Hubert Hurkacz"
+  },
+  {
+   "cid": "0xb5f7e743cec2cfb915232b8e06c714b34302ea64dece68cdfb153e93cb6e0831",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.495,
+   "side": "Li Tu",
+   "start": "2026-04-09T03:00:00Z",
+   "title": "Wuning: Li Tu vs Alastair Gray",
+   "tour": "ATP",
+   "winner": "Li Tu"
+  },
+  {
+   "cid": "0x450c7e18010068e73eb8cb7182d7675136831d3f9c9aea9ec2e1e67e530a3eb7",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 10,
+   "phase": "in-window",
+   "price": 0.6822,
+   "side": "Clement Chidekh",
+   "start": "2026-04-09T04:35:00Z",
+   "title": "Wuning: Clement Chidekh vs Buvaysar Gadamauri",
+   "tour": "ATP",
+   "winner": "Clement Chidekh"
+  },
+  {
+   "cid": "0x04211139d4723fe1148442cca0d4cecc1b2fca5a30864c8ed91cd598cbda328a",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "none"
+   },
+   "hit": false,
+   "locked_min": 10,
+   "phase": "in-window",
+   "price": 0.42,
+   "side": "Timofey Skatov",
+   "start": "2026-04-09T11:00:00Z",
+   "title": "Monza: Timofey Skatov vs Hugo Gaston",
+   "tour": "ATP",
+   "winner": "Hugo Gaston"
+  },
+  {
+   "cid": "0x662a1098d5f3c886d4d068c956f4b99047f46f57de432d185fc2c290e4e21cea",
+   "drift_after_lock": {
+    "side_name": "Alexander Bublik",
+    "state": "aligned"
+   },
+   "hit": false,
+   "locked_min": 20,
+   "phase": "in-window",
+   "price": 0.33,
+   "side": "Jiri Lehecka",
+   "start": "2026-04-09T13:00:00Z",
+   "title": "Rolex Monte Carlo Masters: Jiri Lehecka vs Alexander Bublik",
+   "tour": "ATP",
+   "winner": "Alexander Bublik"
+  },
+  {
+   "cid": "0xb7813f061e5117edc2655306743d84c06ab8f4b65e73546829c487d616d4517a",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.565,
+   "side": "Lilli Tagger",
+   "start": "2026-04-09T14:05:00Z",
+   "title": "Upper Austria Ladies Linz: Lilli Tagger vs Liudmila Samsonova",
+   "tour": "WTA",
+   "winner": "Lilli Tagger"
+  },
+  {
+   "cid": "0x44e2895af64284ef129d854cacd546b311c9d6dcd3275365b131cb52ae197f69",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 10,
+   "phase": "in-window",
+   "price": 0.45,
+   "side": "Joel Schwaerzler",
+   "start": "2026-04-09T15:05:00Z",
+   "title": "Madrid: Joel Schwaerzler vs Roman Safiullin",
+   "tour": "ATP",
+   "winner": "Joel Schwaerzler"
+  },
+  {
+   "cid": "0x63622cd3ec8d7f8ecce60c08b7a7210b1428b424764189fe59bb59b8e012c146",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 25,
+   "phase": "in-window",
+   "price": 0.32,
+   "side": "Ekaterina Alexandrova",
+   "start": "2026-04-09T16:25:00Z",
+   "title": "Upper Austria Ladies Linz: Karolina Pliskova vs Ekaterina Alexandrova",
+   "tour": "WTA",
+   "winner": "Karolina Pliskova"
+  },
+  {
+   "cid": "0x41e01e9f017e73835d91ae47b710aeaf3b51827fa2df9d2359396fd2b4cca7ba",
+   "drift_after_lock": {
+    "side_name": "Darwin Blanch",
+    "state": "aligned"
+   },
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.465,
+   "side": "Duje Ajdukovic",
+   "start": "2026-04-09T20:00:00Z",
+   "title": "Sarasota: Duje Ajdukovic vs Darwin Blanch",
+   "tour": "ATP",
+   "winner": "Darwin Blanch"
+  },
+  {
+   "cid": "0x442822463c308ce1a89a2ce93b1602420a83b6ca773ba6e75bde665911550d7d",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.375,
+   "side": "Joao Fonseca",
+   "start": "2026-04-10T09:05:00Z",
+   "title": "Rolex Monte Carlo Masters: Joao Fonseca vs Alexander Zverev",
+   "tour": "ATP",
+   "winner": "Alexander Zverev"
+  },
+  {
+   "cid": "0x9ad3511fe96df1a4d8df442c7189034356c99673c82974ac6c1495e629ac7dd4",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.415,
+   "side": "Ane Mintegi Del Olmo",
+   "start": "2026-04-10T13:30:00Z",
+   "title": "Madrid: Elina Avanesyan vs Ane Mintegi Del Olmo",
+   "tour": "WTA",
+   "winner": "Ane Mintegi Del Olmo"
+  },
+  {
+   "cid": "0xb5c955a7ca817cee4900d87bd9f18d931c090de893b31ea8a6435c00899298c8",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 5,
+   "phase": "in-window",
+   "price": 0.69,
+   "side": "Mirra Andreeva",
+   "start": "2026-04-10T13:45:00Z",
+   "title": "Upper Austria Ladies Linz: Mirra Andreeva vs Sorana Cirstea",
+   "tour": "WTA",
+   "winner": "Mirra Andreeva"
+  },
+  {
+   "cid": "0xf4c48229144219f5cab3a2b576d02b829cb37e23d0a065865b8ea0fda9473a7c",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "none"
+   },
+   "hit": true,
+   "locked_min": 15,
+   "phase": "in-window",
+   "price": 0.61,
+   "side": "Valentin Vacherot",
+   "start": "2026-04-10T15:45:00Z",
+   "title": "Rolex Monte Carlo Masters: Valentin Vacherot vs Alex de Minaur",
+   "tour": "ATP",
+   "winner": "Valentin Vacherot"
+  },
+  {
+   "cid": "0xcf04ae3d77fd71eb9d506a8cfe2314c20b912811f8056fc426480a9456d0aba6",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 10,
+   "phase": "in-window",
+   "price": 0.42,
+   "side": "Alvaro Guillen Meza",
+   "start": "2026-04-10T16:50:00Z",
+   "title": "Campinas: Pedro Boscardin Dias vs Alvaro Guillen Meza",
+   "tour": "ATP",
+   "winner": "Pedro Boscardin Dias"
+  },
+  {
+   "cid": "0xbc2548a5c77db10984baba9f1fc8395a816c6c501ae7a1d69d89a4289fe164ad",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 30,
+   "phase": "in-window",
+   "price": 0.35,
+   "side": "Karolina Pliskova",
+   "start": "2026-04-10T18:15:00Z",
+   "title": "Upper Austria Ladies Linz: Donna Vekic vs Karolina Pliskova",
+   "tour": "WTA",
+   "winner": "Donna Vekic"
+  },
+  {
+   "cid": "0x304816aa2a41d3ebfdb5237a91fd634abcb6d7f4ffec2e826a3c22341e3ee314",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "none"
+   },
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.545,
+   "side": "Darwin Blanch",
+   "start": "2026-04-10T19:50:00Z",
+   "title": "Sarasota: Hugo Dellien vs Darwin Blanch",
+   "tour": "ATP",
+   "winner": "Darwin Blanch"
+  },
+  {
+   "cid": "0xd8e8fb67c79cedf1c8ceeb75cde26ba1baec60698d17915fac325ddebafb6b17",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.455,
+   "side": "Tristan Schoolkate",
+   "start": "2026-04-10T21:40:00Z",
+   "title": "Mexico City: Stefano Napolitano vs Tristan Schoolkate",
+   "tour": "ATP",
+   "winner": "Stefano Napolitano"
+  },
+  {
+   "cid": "0x24c5878446042396a820230bc5b20229f5a2a4b6be318ec705b150b659d5d3d9",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.685,
+   "side": "James Duckworth",
+   "start": "2026-04-10T21:45:00Z",
+   "title": "Mexico City: James Duckworth vs Beibit Zhukayev",
+   "tour": "ATP",
+   "winner": "James Duckworth"
+  },
+  {
+   "cid": "0x45b5079036a7e9f2923e4c3e31cc7b1e713d70fdda64c59cc931b5afd0dc96cf",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.365,
+   "side": "Martin Landaluce",
+   "start": "2026-04-11T09:00:00Z",
+   "title": "Monza: Raphael Collignon vs Martin Landaluce",
+   "tour": "ATP",
+   "winner": "Raphael Collignon"
+  },
+  {
+   "cid": "0x0dabf5b2d560d6a7d4868d862cfcf26c9ba7d37906ccb1ccf63eb114a573647e",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 5,
+   "phase": "in-window",
+   "price": 0.54,
+   "side": "Jannik Sinner",
+   "start": "2026-04-12T13:05:00Z",
+   "title": "Rolex Monte Carlo Masters: Carlos Alcaraz vs Jannik Sinner",
+   "tour": "ATP",
+   "winner": "Jannik Sinner"
+  },
+  {
+   "cid": "0xb36016483751ff3e3f3853c195690f9a38613a40323dd55adaeb8e869cc28051",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "none"
+   },
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.46,
+   "side": "Alex Michelsen",
+   "start": "2026-04-13T09:10:00Z",
+   "title": "BMW Open: Arthur Rinderknech vs Alex Michelsen",
+   "tour": "ATP",
+   "winner": "Arthur Rinderknech"
+  },
+  {
+   "cid": "0xca00ee24c384cfcf84c89672b1e734d67174938266a768bebcd82c31d2abf1a3",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 5,
+   "phase": "in-window",
+   "price": 0.3807,
+   "side": "Tomas Etcheverry",
+   "start": "2026-04-13T11:10:00Z",
+   "title": "Barcelona Open: Tomas Etcheverry vs Jack Draper",
+   "tour": "ATP",
+   "winner": "Tomas Etcheverry"
+  },
+  {
+   "cid": "0x217db707a1509b097d62cbba18f64f43cfee936879fe7aa40fc8bcfd65a9de82",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.445,
+   "side": "Daria Kasatkina",
+   "start": "2026-04-13T11:40:00Z",
+   "title": "Open Capfinances Rouen Metropole: Daria Kasatkina vs Ann Li",
+   "tour": "WTA",
+   "winner": "Ann Li"
+  },
+  {
+   "cid": "0x52f880be80649009b84c378a5b0086f5a693345623da5eb057379a1525210b34",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "none"
+   },
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.365,
+   "side": "Reilly Opelka",
+   "start": "2026-04-13T12:10:00Z",
+   "title": "Barcelona Open: Reilly Opelka vs Ethan Quinn",
+   "tour": "ATP",
+   "winner": "Ethan Quinn"
+  },
+  {
+   "cid": "0xc02864a59e86ca8f5b45a3b565a6544bb0b2a81b65babba420a4b9fd34547641",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.235,
+   "side": "Emilio Nava",
+   "start": "2026-04-13T12:50:00Z",
+   "title": "BMW Open: Emilio Nava vs Ben Shelton",
+   "tour": "ATP",
+   "winner": "Ben Shelton"
+  },
+  {
+   "cid": "0x91b3372c9f968251181e43a08b4813fd7e48525c656a2c2f2aab56e72c13a5cf",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.345,
+   "side": "Marco Trungelliti",
+   "start": "2026-04-13T14:20:00Z",
+   "title": "Barcelona Open: Marco Trungelliti vs Hamad Medjedovic",
+   "tour": "ATP",
+   "winner": "Hamad Medjedovic"
+  },
+  {
+   "cid": "0xc497bb00cb1a81f5776c1a064e2fcd72a1f412e72f1850764a1c9d8c713db2aa",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 15,
+   "phase": "in-window",
+   "price": 0.3663,
+   "side": "Robin Montgomery",
+   "start": "2026-04-13T15:00:00Z",
+   "title": "Oeiras 3: Robin Montgomery vs Mayar Sherif",
+   "tour": "WTA",
+   "winner": "Robin Montgomery"
+  },
+  {
+   "cid": "0xbd3828bdaf8d637158033f6ecba746bd5b876ea1a2bbba77ceba0d1a3bec2cdf",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.495,
+   "side": "Alexander Blockx",
+   "start": "2026-04-13T15:25:00Z",
+   "title": "BMW Open: Alexander Blockx vs Yannick Hanfmann",
+   "tour": "ATP",
+   "winner": "Alexander Blockx"
+  },
+  {
+   "cid": "0x858602e2edcbfbd377cb899b6efd806fc4a156b864d2d10aa228eb562c543c59",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 10,
+   "phase": "in-window",
+   "price": 0.8,
+   "side": "Liudmila Samsonova",
+   "start": "2026-04-13T19:40:00Z",
+   "title": "Porsche Tennis Grand Prix: Antonia Ruzic vs Liudmila Samsonova",
+   "tour": "WTA",
+   "winner": "Liudmila Samsonova"
+  },
+  {
+   "cid": "0x6945949e3b7246e8e347314766baab161f003741e5c9e938f43daf0d58e4f9b0",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 15,
+   "phase": "in-window",
+   "price": 0.6633,
+   "side": "Juan Carlos Prado",
+   "start": "2026-04-14T02:15:00Z",
+   "title": "Santa Cruz: Murkel Dellien vs Juan Carlos Prado",
+   "tour": "ATP",
+   "winner": "Juan Carlos Prado"
+  },
+  {
+   "cid": "0xe25aa7309774d1d1debf338bb6dd338e3898130f84242aff30f98a058501c794",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.485,
+   "side": "Denis Shapovalov",
+   "start": "2026-04-14T09:10:00Z",
+   "title": "BMW Open: Tallon Griekspoor vs Denis Shapovalov",
+   "tour": "ATP",
+   "winner": "Denis Shapovalov"
+  },
+  {
+   "cid": "0xd7d0ec3ea3618315f7162eefbd08352336a92b3522f698c7d37c381e96672631",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.235,
+   "side": "Aliaksandra Sasnovich",
+   "start": "2026-04-14T10:40:00Z",
+   "title": "Porsche Tennis Grand Prix: Karolina Muchova vs Aliaksandra Sasnovich",
+   "tour": "WTA",
+   "winner": "Karolina Muchova"
+  },
+  {
+   "cid": "0x99700d8bbd1407f5062208581ef89c9ff6b83f09a42a6d1e09f859bb27e87b94",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.575,
+   "side": "Tomas Machac",
+   "start": "2026-04-14T13:40:00Z",
+   "title": "Barcelona Open: Tomas Machac vs Sebastian Baez",
+   "tour": "ATP",
+   "winner": "Tomas Machac"
+  },
+  {
+   "cid": "0x4b1c26fd7c6266cfb8a5837d44f28b3afef7af2e7b7c138f18f9e53dccf4f689",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 15,
+   "phase": "in-window",
+   "price": 0.5599,
+   "side": "Juan Manuel Cerundolo",
+   "start": "2026-04-14T15:40:00Z",
+   "title": "Barcelona Open: Brandon Nakashima vs Juan Manuel Cerundolo",
+   "tour": "ATP",
+   "winner": "Brandon Nakashima"
+  },
+  {
+   "cid": "0x6a7fac1da50244e250bb8d1b8c68257df3df29a6fa2169ad2d83eb75de6d5d66",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 30,
+   "phase": "in-window",
+   "price": 0.57,
+   "side": "Mariano Navone",
+   "start": "2026-04-14T16:00:00Z",
+   "title": "Barcelona Open: Mariano Navone vs Andrey Rublev",
+   "tour": "ATP",
+   "winner": "Andrey Rublev"
+  },
+  {
+   "cid": "0xc2e7d253414cd243e511ead92c054748d58623cd2f1d416f0cd5cf154a78aba3",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 15,
+   "phase": "in-window",
+   "price": 0.32,
+   "side": "Ethan Quinn",
+   "start": "2026-04-15T16:00:00Z",
+   "title": "Barcelona Open: Cameron Norrie vs Ethan Quinn",
+   "tour": "ATP",
+   "winner": "Cameron Norrie"
+  },
+  {
+   "cid": "0x78a190c68674370a3aa94e40dfc0fb9d621a17ded021af1ef04256d1675d4102",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 10,
+   "phase": "in-window",
+   "price": 0.48,
+   "side": "Jurij Rodionov",
+   "start": "2026-04-15T16:50:00Z",
+   "title": "Oeiras 3: Valentin Royer vs Jurij Rodionov",
+   "tour": "ATP",
+   "winner": "Valentin Royer"
+  },
+  {
+   "cid": "0x525114a0d9fc2e72bf04a3490399f9193e39e389bde7acf72ec1b175458382b1",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 5,
+   "phase": "in-window",
+   "price": 0.52,
+   "side": "Katie Boulter",
+   "start": "2026-04-15T19:20:00Z",
+   "title": "Open Capfinances Rouen Metropole: Katie Boulter vs Jaqueline Cristian",
+   "tour": "WTA",
+   "winner": "Katie Boulter"
+  },
+  {
+   "cid": "0xe305dbb9a1f5f0667530bf8da2a3b49ab3ac9d1e61efd9fe0865ce4cfcfa4bea",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 5,
+   "phase": "in-window",
+   "price": 0.89,
+   "side": "Juan Carlos Prado",
+   "start": "2026-04-15T22:05:00Z",
+   "title": "Santa Cruz: Ryan Dickerson vs Juan Carlos Prado",
+   "tour": "ATP",
+   "winner": "Juan Carlos Prado"
+  },
+  {
+   "cid": "0x167ba1b0442db34fcac92feecc49e9d3758a0a74d827b960d399872c0dd75900",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.365,
+   "side": "Linda Noskova",
+   "start": "2026-04-17T10:30:00Z",
+   "title": "Porsche Tennis Grand Prix: Linda Noskova vs Elina Svitolina",
+   "tour": "WTA",
+   "winner": "Elina Svitolina"
+  },
+  {
+   "cid": "0xe1acc64db5f73b8ce42fee0c700c3c54c8244f770cd713e22d48b12f323b5af8",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 25,
+   "phase": "in-window",
+   "price": 0.51,
+   "side": "Tomas Machac",
+   "start": "2026-04-17T11:00:00Z",
+   "title": "Barcelona Open: Tomas Machac vs Andrey Rublev",
+   "tour": "ATP",
+   "winner": "Andrey Rublev"
+  },
+  {
+   "cid": "0x3ba42dde5df0f0ae8f562d027acec306201018bd10eb40db4e146ab465d81ca1",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "none"
+   },
+   "hit": true,
+   "locked_min": 25,
+   "phase": "in-window",
+   "price": 0.55,
+   "side": "Maja Chwalinska",
+   "start": "2026-04-17T11:30:00Z",
+   "title": "Oeiras 3: Maja Chwalinska vs Simona Waltert",
+   "tour": "WTA",
+   "winner": "Maja Chwalinska"
+  },
+  {
+   "cid": "0x1f398f7a9f59be0295c74d8123ce2e92eeccc6d363f7089b9791d3c114b563cb",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.62,
+   "side": "Juan Carlos Prado",
+   "start": "2026-04-17T22:30:00Z",
+   "title": "Santa Cruz: Matias Soto vs Juan Carlos Prado",
+   "tour": "ATP",
+   "winner": "Juan Carlos Prado"
+  },
+  {
+   "cid": "0x01952d8dfa438da10d74098a30b06e348aa0e05cadba504c21681a2ed6dfdbbf",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 25,
+   "phase": "in-window",
+   "price": 0.62,
+   "side": "Petra Marcinko",
+   "start": "2026-04-18T10:00:00Z",
+   "title": "Oeiras 3: Petra Marcinko vs Sinja Kraus",
+   "tour": "WTA",
+   "winner": "Sinja Kraus"
+  },
+  {
+   "cid": "0xa9b7ebebd4853bde6aec51d8b5647645c543011c42afc801dc513c69aa48bd2a",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 30,
+   "phase": "in-window",
+   "price": 0.5,
+   "side": "Alexander Zverev",
+   "start": "2026-04-18T11:40:00Z",
+   "title": "BMW Open: Alexander Zverev vs Flavio Cobolli",
+   "tour": "ATP",
+   "winner": "Flavio Cobolli"
+  },
+  {
+   "cid": "0xc49d21c9a5093586f794b42991bd9add30f511545156f13580c2e325b839f5f2",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.555,
+   "side": "Elina Svitolina",
+   "start": "2026-04-18T12:00:00Z",
+   "title": "Porsche Tennis Grand Prix: Elina Svitolina vs Karolina Muchova",
+   "tour": "WTA",
+   "winner": "Karolina Muchova"
+  },
+  {
+   "cid": "0x9517b221eaf58ac1ee5bd779e6b88012abfdcd2f319989e04a476b9df46a53fb",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 25,
+   "phase": "in-window",
+   "price": 0.35,
+   "side": "Juan Carlos Prado",
+   "start": "2026-04-18T21:15:00Z",
+   "title": "Santa Cruz: Hugo Dellien vs Juan Carlos Prado",
+   "tour": "ATP",
+   "winner": "Hugo Dellien"
+  },
+  {
+   "cid": "0x8330a3ca42c093bfa289e0a9256e37e5a512ae457b661faaa2c1fd2be6a95229",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.345,
+   "side": "Sinja Kraus",
+   "start": "2026-04-19T10:00:00Z",
+   "title": "Oeiras 3: Maja Chwalinska vs Sinja Kraus",
+   "tour": "WTA",
+   "winner": "Maja Chwalinska"
+  },
+  {
+   "cid": "0x4ad056145759a178e19f3300d74444665a3e5dddb6098c2a65137a8c6a0df93b",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.695,
+   "side": "Elena Rybakina",
+   "start": "2026-04-19T11:00:00Z",
+   "title": "Porsche Tennis Grand Prix: Elena Rybakina vs Karolina Muchova",
+   "tour": "WTA",
+   "winner": "Elena Rybakina"
+  },
+  {
+   "cid": "0xd622cd2b841a6c6d3291fe0b51a56072136a082e5d436f13ef2abf40b0f16eee",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.52,
+   "side": "Flavio Cobolli",
+   "start": "2026-04-19T11:40:00Z",
+   "title": "BMW Open: Flavio Cobolli vs Ben Shelton",
+   "tour": "ATP",
+   "winner": "Ben Shelton"
+  },
+  {
+   "cid": "0xed327ef3f9d474175da27da6fa936f478f419d7c40696237be26c9c310954ac3",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.455,
+   "side": "Roman Safiullin",
+   "start": "2026-04-19T12:00:00Z",
+   "title": "Oeiras 3: Valentin Royer vs Roman Safiullin",
+   "tour": "ATP",
+   "winner": "Roman Safiullin"
+  },
+  {
+   "cid": "0x5789957af6a44b02ffa274babda7d09068cb95b337223179582a6b07e27a5281",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.315,
+   "side": "Andrey Rublev",
+   "start": "2026-04-19T14:10:00Z",
+   "title": "Barcelona Open: Andrey Rublev vs Arthur Fils",
+   "tour": "ATP",
+   "winner": "Arthur Fils"
+  },
+  {
+   "cid": "0x40df303ab17caaf09dbc239e4ed22c901251313d2937c1cf2edb782770905e7a",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 5,
+   "phase": "in-window",
+   "price": 0.6439,
+   "side": "Clement Tabur",
+   "start": "2026-04-19T16:40:00Z",
+   "title": "Tallahassee: Joao Lucas Da Silva vs Clement Tabur",
+   "tour": "ATP",
+   "winner": "Clement Tabur"
+  },
+  {
+   "cid": "0x1988a27cf666c58407da396be643840421a44d77c11fd73374c1b4a964a4557b",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.685,
+   "side": "Coleman Wong",
+   "start": "2026-04-20T05:20:00Z",
+   "title": "Gwangju: Clement Chidekh vs Coleman Wong",
+   "tour": "ATP",
+   "winner": "Clement Chidekh"
+  },
+  {
+   "cid": "0xa9e8137a24ea4a3ab4d2a5ad8bbc776fd586e9ad0d5e5ea4d94fe8869af2a606",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 10,
+   "phase": "in-window",
+   "price": 0.62,
+   "side": "Yu-Hsiou Hsu",
+   "start": "2026-04-20T06:35:00Z",
+   "title": "Gwangju: Yu-Hsiou Hsu vs Murphy Cassone",
+   "tour": "ATP",
+   "winner": "Yu-Hsiou Hsu"
+  },
+  {
+   "cid": "0x796cad5e63e1f13b63242e5a6d9ffd83a11aaec0e2c21bc02b9c2a4027eb3e0e",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.55,
+   "side": "Kilian Feldbausch",
+   "start": "2026-04-21T18:40:00Z",
+   "title": "Savannah: Alex Rybakov vs Kilian Feldbausch",
+   "tour": "ATP",
+   "winner": "Kilian Feldbausch"
+  },
+  {
+   "cid": "0xfdead1166f61ecf7bbb50b8b509224cbbf358c295f52b5e7f03229e5101282d4",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.62,
+   "side": "Sandro Kopp",
+   "start": "2026-04-22T05:05:00Z",
+   "title": "Shymkent: Sandro Kopp vs Sergey Fomin",
+   "tour": "ATP",
+   "winner": "Sergey Fomin"
+  },
+  {
+   "cid": "0x683e365262992a5a4bfa383b9b91bdbc89e469813170077de0d8d170781f9efb",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.505,
+   "side": "Zhizhen Zhang",
+   "start": "2026-04-22T09:05:00Z",
+   "title": "Madrid Open: Zhizhen Zhang vs Vit Kopriva",
+   "tour": "ATP",
+   "winner": "Vit Kopriva"
+  },
+  {
+   "cid": "0x5a4694c70f529918401bd39df9cdb5e2c11fed851ea44ec99f247ef656cd878b",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 20,
+   "phase": "in-window",
+   "price": 0.5907,
+   "side": "Kimberly Birrell",
+   "start": "2026-04-22T09:05:00Z",
+   "title": "Madrid Open: Panna Udvardy vs Kimberly Birrell",
+   "tour": "WTA",
+   "winner": "Panna Udvardy"
+  },
+  {
+   "cid": "0x28a736701110c5e8d400356b8a960da1107c14e4673189851259b7d944522543",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "none"
+   },
+   "hit": false,
+   "locked_min": 30,
+   "phase": "in-window",
+   "price": 0.2181,
+   "side": "Adrian Mannarino",
+   "start": "2026-04-22T10:20:00Z",
+   "title": "Madrid Open: Ignacio Buse vs Adrian Mannarino",
+   "tour": "ATP",
+   "winner": "Ignacio Buse"
+  },
+  {
+   "cid": "0xff1cb2ae5368bfcf6e602290d33a836046951635fadb0384bf7b4c946d829b37",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 10,
+   "phase": "in-window",
+   "price": 0.62,
+   "side": "Daria Kasatkina",
+   "start": "2026-04-22T10:55:00Z",
+   "title": "Madrid Open: Daria Snigur vs Daria Kasatkina",
+   "tour": "WTA",
+   "winner": "Daria Snigur"
+  },
+  {
+   "cid": "0x7106d6378ab28f1ccd3a54e6d78eb5a8422cb4cb00050616678740cb6c4fa575",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 30,
+   "phase": "in-window",
+   "price": 0.3,
+   "side": "Dalma Galfi",
+   "start": "2026-04-22T11:20:00Z",
+   "title": "Madrid Open: Dalma Galfi vs Ajla Tomljanovic",
+   "tour": "WTA",
+   "winner": "Dalma Galfi"
+  },
+  {
+   "cid": "0x25a80f72d0b4c661f378cc100513b061b276245930edf386700c9b40f9ca7b79",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 5,
+   "phase": "in-window",
+   "price": 0.36,
+   "side": "Moyuka Uchijima",
+   "start": "2026-04-22T11:30:00Z",
+   "title": "Madrid Open: Moyuka Uchijima vs Yulia Starodubtseva",
+   "tour": "WTA",
+   "winner": "Yulia Starodubtseva"
+  },
+  {
+   "cid": "0x814aa6f460b499922f56f057dd60030d7685dd4a7982e10f21725283d4afbaab",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 5,
+   "phase": "in-window",
+   "price": 0.59,
+   "side": "Matteo Berrettini",
+   "start": "2026-04-22T11:35:00Z",
+   "title": "Madrid Open: Dino Prizmic vs Matteo Berrettini",
+   "tour": "ATP",
+   "winner": "Dino Prizmic"
+  },
+  {
+   "cid": "0xcc7fce17f0c811efe5fe58d9d03f8105395748d8189387b113013307307f6cd6",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.625,
+   "side": "Alexandra Eala",
+   "start": "2026-04-22T11:40:00Z",
+   "title": "Madrid Open: Anastasia Pavlyuchenkova vs Alexandra Eala",
+   "tour": "WTA",
+   "winner": "Alexandra Eala"
+  },
+  {
+   "cid": "0x223f2dd5883df8956066c520cef8c4d2160354130afafd7823952ee46bca8330",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.465,
+   "side": "Nikoloz Basilashvili",
+   "start": "2026-04-22T13:50:00Z",
+   "title": "Madrid Open: Nikoloz Basilashvili vs Sebastian Ofner",
+   "tour": "ATP",
+   "winner": "Sebastian Ofner"
+  },
+  {
+   "cid": "0x0a10ac084c43ed7847c73851a3070d1c43ab1b7009c6d291e06c2bfa573a8ec6",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 25,
+   "phase": "in-window",
+   "price": 0.514,
+   "side": "Benjamin Bonzi",
+   "start": "2026-04-22T15:35:00Z",
+   "title": "Madrid Open: Benjamin Bonzi vs Titouan Droguet",
+   "tour": "ATP",
+   "winner": "Benjamin Bonzi"
+  },
+  {
+   "cid": "0x2c97eea440cd011080ba792ef22bf6af7914a9422a59ff6cc1416cf13363c971",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "none"
+   },
+   "hit": true,
+   "locked_min": 15,
+   "phase": "in-window",
+   "price": 0.64,
+   "side": "Tyra Caterina Grant",
+   "start": "2026-04-22T18:00:00Z",
+   "title": "Madrid Open: Elsa Jacquemot vs Tyra Caterina Grant",
+   "tour": "WTA",
+   "winner": "Tyra Caterina Grant"
+  },
+  {
+   "cid": "0x5283b5b4308d47f70675f40925bd18d83c3d80d1586c8719adc434290934252a",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.345,
+   "side": "Kilian Feldbausch",
+   "start": "2026-04-22T22:00:00Z",
+   "title": "Savannah: Liam Draxl vs Kilian Feldbausch",
+   "tour": "ATP",
+   "winner": "Kilian Feldbausch"
+  },
+  {
+   "cid": "0x928b42ad0f015391ce7b6a53490d2466630c60259d4f558051ebe17bf7d66966",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 25,
+   "phase": "in-window",
+   "price": 0.6439,
+   "side": "Soon-Woo Kwon",
+   "start": "2026-04-23T04:40:00Z",
+   "title": "Gwangju: Ilia Simakin vs Soon-Woo Kwon",
+   "tour": "ATP",
+   "winner": "Soon-Woo Kwon"
+  },
+  {
+   "cid": "0xb3204ba192f24e6e60a5ed6d1352c8c7e7a1bcb6dbf4a9a03515d87ef79a591b",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 5,
+   "phase": "in-window",
+   "price": 0.5,
+   "side": "Tristan Schoolkate",
+   "start": "2026-04-23T05:55:00Z",
+   "title": "Gwangju: Liam Broady vs Tristan Schoolkate",
+   "tour": "ATP",
+   "winner": "Tristan Schoolkate"
+  },
+  {
+   "cid": "0x695cdfb7191791f7c2aa2c2806d3ecbccf852dbfaf5aab7e0642cc1678673c38",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.505,
+   "side": "Miomir Kecmanovic",
+   "start": "2026-04-23T09:10:00Z",
+   "title": "Madrid Open: Terence Atmane vs Miomir Kecmanovic",
+   "tour": "ATP",
+   "winner": "Terence Atmane"
+  },
+  {
+   "cid": "0x6183fa5473b9cecc043bf70809c48bdb4ae760d27c33cb7211ec9e63c1d91af2",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.415,
+   "side": "Pol Martin Tiffon",
+   "start": "2026-04-23T09:10:00Z",
+   "title": "Rome: Pol Martin Tiffon vs Nerman Fatic",
+   "tour": "ATP",
+   "winner": "Pol Martin Tiffon"
+  },
+  {
+   "cid": "0x16f14e44cea11cbea5c310799d05eaa3e841f3c81fda403dbc2b1c74d6ae8343",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.575,
+   "side": "Alexander Blockx",
+   "start": "2026-04-23T09:10:00Z",
+   "title": "Madrid Open: Cristian Garin vs Alexander Blockx",
+   "tour": "ATP",
+   "winner": "Alexander Blockx"
+  },
+  {
+   "cid": "0xfa9330d4434ee321d2e9e3d3b3dc65c873731a13d4deb676cea73322455efe27",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.55,
+   "side": "Fabian Marozsan",
+   "start": "2026-04-23T10:40:00Z",
+   "title": "Madrid Open: Fabian Marozsan vs Ethan Quinn",
+   "tour": "ATP",
+   "winner": "Fabian Marozsan"
+  },
+  {
+   "cid": "0xa6959d23df63e51f9c643a164623f3895cd0d66012b0056f040c5c666cfff302",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.325,
+   "side": "Alexander Shevchenko",
+   "start": "2026-04-23T10:50:00Z",
+   "title": "Madrid Open: Jaume Munar vs Alexander Shevchenko",
+   "tour": "ATP",
+   "winner": "Jaume Munar"
+  },
+  {
+   "cid": "0x65dd748e0da185805497a8496aa18ba8bfed82f053d1ec38e36d80885d937f69",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.515,
+   "side": "Adolfo Vallejo",
+   "start": "2026-04-23T12:30:00Z",
+   "title": "Madrid Open: Adolfo Vallejo vs Grigor Dimitrov",
+   "tour": "ATP",
+   "winner": "Adolfo Vallejo"
+  },
+  {
+   "cid": "0xa6f12021137cf8f7f92279b4b972900a118d6f1a9faf17607f6380c67cf0c339",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.425,
+   "side": "Anhelina Kalinina",
+   "start": "2026-04-23T12:45:00Z",
+   "title": "Madrid Open: Marie Bouzkova vs Anhelina Kalinina",
+   "tour": "WTA",
+   "winner": "Anhelina Kalinina"
+  },
+  {
+   "cid": "0xff8b9e12a3804640d546b6a0fab423d552d70431dd3741d6088435aac921646d",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 10,
+   "phase": "in-window",
+   "price": 0.57,
+   "side": "Jasmine Paolini",
+   "start": "2026-04-23T12:55:00Z",
+   "title": "Madrid Open: Laura Siegemund vs Jasmine Paolini",
+   "tour": "WTA",
+   "winner": "Jasmine Paolini"
+  },
+  {
+   "cid": "0x0d3ae38af4e9e954295b412cb02d7024aafe50e33f60ad8face5ad9874911bc3",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.455,
+   "side": "Alycia Parks",
+   "start": "2026-04-23T14:05:00Z",
+   "title": "Madrid Open: Alycia Parks vs Ann Li",
+   "tour": "WTA",
+   "winner": "Ann Li"
+  },
+  {
+   "cid": "0xd4e277a77f88b58337bbdf09cc5d77d505067906b51954297f1681aef12c32a1",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "none"
+   },
+   "hit": true,
+   "locked_min": 20,
+   "phase": "in-window",
+   "price": 0.63,
+   "side": "Iva Jovic",
+   "start": "2026-04-23T15:40:00Z",
+   "title": "Madrid Open: Magda Linette vs Iva Jovic",
+   "tour": "WTA",
+   "winner": "Iva Jovic"
+  },
+  {
+   "cid": "0x8073b8f56ce8d453912bc97f8e183329ea2fbb138b79f68daf1b7a02210d07bb",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.585,
+   "side": "Daniel Merida Aguilar",
+   "start": "2026-04-23T16:10:00Z",
+   "title": "Madrid Open: Marco Trungelliti vs Daniel Merida Aguilar",
+   "tour": "ATP",
+   "winner": "Daniel Merida Aguilar"
+  },
+  {
+   "cid": "0xa85e600fcbe103124c8ae2532ea22b1338328e1f209659d804b390e091d4590d",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.315,
+   "side": "Kaitlin Quevedo",
+   "start": "2026-04-23T17:10:00Z",
+   "title": "Madrid Open: Hailey Baptiste vs Kaitlin Quevedo",
+   "tour": "WTA",
+   "winner": "Hailey Baptiste"
+  },
+  {
+   "cid": "0xd758c74a9d1731a2c9a650f4c873d805e6e580f3340a893379adac9c8e49e369",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "none"
+   },
+   "hit": true,
+   "locked_min": 30,
+   "phase": "in-window",
+   "price": 0.47,
+   "side": "Sergey Fomin",
+   "start": "2026-04-24T06:00:00Z",
+   "title": "Shymkent: Andrej Nedic vs Sergey Fomin",
+   "tour": "ATP",
+   "winner": "Sergey Fomin"
+  },
+  {
+   "cid": "0x2de9d90a9baa1c7e35411eab69aed1f4141668e2b5a1acb0304c8cc1958f048a",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.745,
+   "side": "Valentin Vacherot",
+   "start": "2026-04-24T09:05:00Z",
+   "title": "Madrid Open: Emilio Nava vs Valentin Vacherot",
+   "tour": "ATP",
+   "winner": "Emilio Nava"
+  },
+  {
+   "cid": "0x2626739a6a0a9728244d116935c914212f0c0f639542205aaa146281ca7292cf",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.375,
+   "side": "Damir Dzumhur",
+   "start": "2026-04-24T09:05:00Z",
+   "title": "Madrid Open: Tallon Griekspoor vs Damir Dzumhur",
+   "tour": "ATP",
+   "winner": "Tallon Griekspoor"
+  },
+  {
+   "cid": "0x24a8a4a7fffe1173f54c602aa80c6f086fe848dbd586e38bef9b4ae9aacda1c1",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.6,
+   "side": "Jelena Ostapenko",
+   "start": "2026-04-24T12:00:00Z",
+   "title": "Madrid Open: Simona Waltert vs Jelena Ostapenko",
+   "tour": "WTA",
+   "winner": "Jelena Ostapenko"
+  },
+  {
+   "cid": "0x600809188bac703a0bd29031007b5624d051559eb566de390795ff941e08267d",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.845,
+   "side": "Arthur Fils",
+   "start": "2026-04-24T13:00:00Z",
+   "title": "Madrid Open: Arthur Fils vs Ignacio Buse",
+   "tour": "ATP",
+   "winner": "Arthur Fils"
+  },
+  {
+   "cid": "0x60922bd32dac831e4d5c7c34388be2718b690010cc4b882b98c29e6fbe087b5e",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "none"
+   },
+   "hit": false,
+   "locked_min": 15,
+   "phase": "in-window",
+   "price": 0.1322,
+   "side": "Yulia Putintseva",
+   "start": "2026-04-24T13:50:00Z",
+   "title": "Madrid Open: Yulia Putintseva vs Marta Kostyuk",
+   "tour": "WTA",
+   "winner": "Marta Kostyuk"
+  },
+  {
+   "cid": "0xd88c91bf506505ccbdc2c7d03ef3a5810e9a6a5aff3e3640179a5698f8b609a2",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.375,
+   "side": "Sebastian Ofner",
+   "start": "2026-04-24T15:00:00Z",
+   "title": "Madrid Open: Sebastian Ofner vs Tomas Etcheverry",
+   "tour": "ATP",
+   "winner": "Tomas Etcheverry"
+  },
+  {
+   "cid": "0x61e29e101898c1d572a46d355b0a34ca7b29553c2d1784c01589fb484c43aa3a",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "none"
+   },
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.425,
+   "side": "Cameron Norrie",
+   "start": "2026-04-24T16:40:00Z",
+   "title": "Madrid Open: Cameron Norrie vs Tomas Machac",
+   "tour": "ATP",
+   "winner": "Cameron Norrie"
+  },
+  {
+   "cid": "0x9822710687e9a90ac888487b9bad1e233afa3bec193a3ba65898325c4b2a43ec",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "none"
+   },
+   "hit": false,
+   "locked_min": 5,
+   "phase": "in-window",
+   "price": 0.26,
+   "side": "Yu-Hsiou Hsu",
+   "start": "2026-04-25T02:05:00Z",
+   "title": "Gwangju: Soon-Woo Kwon vs Yu-Hsiou Hsu",
+   "tour": "ATP",
+   "winner": "Soon-Woo Kwon"
+  },
+  {
+   "cid": "0x4e5748aaf8bc689ffa00a6fa7ddb17223d9b8b3661d9c06cc0e39e134f4dda05",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "none"
+   },
+   "hit": true,
+   "locked_min": 5,
+   "phase": "in-window",
+   "price": 0.69,
+   "side": "Belinda Bencic",
+   "start": "2026-04-25T09:10:00Z",
+   "title": "Madrid Open: Belinda Bencic vs Diana Shnaider",
+   "tour": "WTA",
+   "winner": "Belinda Bencic"
+  },
+  {
+   "cid": "0x22e5ecfdee9c342e9fef540665b2d20817d8fc5c21dcb3bf4b37aa27c630871d",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.3,
+   "side": "Yannick Hanfmann",
+   "start": "2026-04-25T09:10:00Z",
+   "title": "Madrid Open: Francisco Cerundolo vs Yannick Hanfmann",
+   "tour": "ATP",
+   "winner": "Francisco Cerundolo"
+  },
+  {
+   "cid": "0xb8f509ad5fb592d54cd8381bfd27d87f4452a227a25d67fdb69344880ee4133c",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.335,
+   "side": "Whitney Osuigwe",
+   "start": "2026-04-25T10:10:00Z",
+   "title": "Oeiras 4: Polina Kudermetova vs Whitney Osuigwe",
+   "tour": "WTA",
+   "winner": "Polina Kudermetova"
+  },
+  {
+   "cid": "0x8c06036b857877a0404c72d1e2726de97e47fd48f43352d9288419e0e74d7770",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.405,
+   "side": "Leylah Fernandez",
+   "start": "2026-04-25T10:55:00Z",
+   "title": "Madrid Open: Leylah Fernandez vs Iva Jovic",
+   "tour": "WTA",
+   "winner": "Leylah Fernandez"
+  },
+  {
+   "cid": "0x37aaf2e2c88b240ba5978374adf06a21f1b10c79485959f696fe32897cae580e",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 25,
+   "phase": "in-window",
+   "price": 0.6,
+   "side": "Terence Atmane",
+   "start": "2026-04-25T12:45:00Z",
+   "title": "Madrid Open: Ugo Humbert vs Terence Atmane",
+   "tour": "ATP",
+   "winner": "Terence Atmane"
+  },
+  {
+   "cid": "0xff1ca410a27da52de4f031071650cdae3775d8a33cdbd1dcfbe7dffdf6f37dcb",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.56,
+   "side": "Alexander Blockx",
+   "start": "2026-04-25T12:45:00Z",
+   "title": "Madrid Open: Brandon Nakashima vs Alexander Blockx",
+   "tour": "ATP",
+   "winner": "Alexander Blockx"
+  },
+  {
+   "cid": "0xf7020139c74dd9f38a6729f94b59543309c08343916743556676ffcd73e5de1a",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.215,
+   "side": "Vilius Gaubas",
+   "start": "2026-04-25T13:20:00Z",
+   "title": "Madrid Open: Vilius Gaubas vs Felix Auger-Aliassime",
+   "tour": "ATP",
+   "winner": "Felix Auger-Aliassime"
+  },
+  {
+   "cid": "0x197b8e0aff756858432ca9baf15848bb937b274d1140577bc6804b778fbf6ccb",
+   "drift_after_lock": {
+    "side_name": "Hailey Baptiste",
+    "state": "aligned"
+   },
+   "hit": false,
+   "locked_min": 15,
+   "phase": "in-window",
+   "price": 0.74,
+   "side": "Jasmine Paolini",
+   "start": "2026-04-25T15:00:00Z",
+   "title": "Madrid Open: Hailey Baptiste vs Jasmine Paolini",
+   "tour": "WTA",
+   "winner": "Hailey Baptiste"
+  },
+  {
+   "cid": "0xb24f97a377fb76f08464328dd884358916fa64ddc36003d6f9194a543c3751c5",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.425,
+   "side": "Learner Tien",
+   "start": "2026-04-25T15:20:00Z",
+   "title": "Madrid Open: Learner Tien vs Adolfo Vallejo",
+   "tour": "ATP",
+   "winner": "Adolfo Vallejo"
+  },
+  {
+   "cid": "0x615e68fe17682d5607773703484e5cdf52fb9dccb6760091f13f675a2551b324",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 5,
+   "phase": "in-window",
+   "price": 0.5734,
+   "side": "Naomi Osaka",
+   "start": "2026-04-25T19:30:00Z",
+   "title": "Madrid Open: Anhelina Kalinina vs Naomi Osaka",
+   "tour": "WTA",
+   "winner": "Naomi Osaka"
+  },
+  {
+   "cid": "0xc40bfaf96d1c2a57fdeae99c92c2cdcb15b5397f863c1e00fb94c6e56fe6da49",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 15,
+   "phase": "in-window",
+   "price": 0.29,
+   "side": "Sorana Cirstea",
+   "start": "2026-04-26T09:05:00Z",
+   "title": "Madrid Open: Sorana Cirstea vs Coco Gauff",
+   "tour": "WTA",
+   "winner": "Coco Gauff"
+  },
+  {
+   "cid": "0x5f96c0dac3023184261b4a9a3d03d2b3dc5ed278cefbabe9b8f2556a8e4b1a93",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 30,
+   "phase": "in-window",
+   "price": 0.54,
+   "side": "Caty McNally",
+   "start": "2026-04-26T09:05:00Z",
+   "title": "Madrid Open: Katerina Siniakova vs Caty McNally",
+   "tour": "WTA",
+   "winner": "Caty McNally"
+  },
+  {
+   "cid": "0x737c8d3deffa5f3282ea4c5ebf536e71e439f4f88cb32af2fda80a47ceebf86f",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 20,
+   "phase": "in-window",
+   "price": 0.4,
+   "side": "Tomas Etcheverry",
+   "start": "2026-04-26T12:15:00Z",
+   "title": "Madrid Open: Dino Prizmic vs Tomas Etcheverry",
+   "tour": "ATP",
+   "winner": "Tomas Etcheverry"
+  },
+  {
+   "cid": "0x433dc80e09d99388a8d608486a2e4dc237450b54120b3c67fb34b700cb14127b",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 15,
+   "phase": "in-window",
+   "price": 0.48,
+   "side": "Jessica Pegula",
+   "start": "2026-04-26T13:45:00Z",
+   "title": "Madrid Open: Jessica Pegula vs Marta Kostyuk",
+   "tour": "WTA",
+   "winner": "Marta Kostyuk"
+  },
+  {
+   "cid": "0xccdb8dbf9a89af8c2130d83406388f8118c1f1d6950d1f070bb0ea8b60dcbd81",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.445,
+   "side": "Joao Fonseca",
+   "start": "2026-04-26T20:45:00Z",
+   "title": "Madrid Open: Joao Fonseca vs Rafael Jodar",
+   "tour": "ATP",
+   "winner": "Rafael Jodar"
+  },
+  {
+   "cid": "0x735806eb6baa781e5f534467e123274055cd47129a294154e97a635f43b9d1fb",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "none"
+   },
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.585,
+   "side": "Alexis Galarneau",
+   "start": "2026-04-27T06:30:00Z",
+   "title": "Jiujiang: Alexis Galarneau vs Dane Sweeny",
+   "tour": "ATP",
+   "winner": "Alexis Galarneau"
+  },
+  {
+   "cid": "0x3ae68fd6d6e3d0a6a43dd4a60b7d46e9b0336bfc80e242b26713f19afeacd3f0",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 20,
+   "phase": "in-window",
+   "price": 0.4989,
+   "side": "Gijs Brouwer",
+   "start": "2026-04-27T08:40:00Z",
+   "title": "Shymkent 2: Gijs Brouwer vs Ivan Gakhov",
+   "tour": "ATP",
+   "winner": "Gijs Brouwer"
+  },
+  {
+   "cid": "0x8ffd72576c8f9bfb18bf3da4d962c72f12e0c0c163e7f8ce99f188e9752a46e3",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.855,
+   "side": "Aryna Sabalenka",
+   "start": "2026-04-27T11:10:00Z",
+   "title": "Madrid Open: Aryna Sabalenka vs Naomi Osaka",
+   "tour": "WTA",
+   "winner": "Aryna Sabalenka"
+  },
+  {
+   "cid": "0x2f7ce337a25e4802e60a200fb451167b0807f619657aa2802c097861672cfefd",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.415,
+   "side": "Solana Sierra",
+   "start": "2026-04-27T11:10:00Z",
+   "title": "Madrid Open: Solana Sierra vs Karolina Pliskova",
+   "tour": "WTA",
+   "winner": "Karolina Pliskova"
+  },
+  {
+   "cid": "0x40ddd298f19a85ea126823e15af03e7e7348604a88baae50beb1f8e10c7e4bdf",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "none"
+   },
+   "hit": false,
+   "locked_min": 15,
+   "phase": "in-window",
+   "price": 0.15,
+   "side": "Ksenia Efremova",
+   "start": "2026-04-27T12:30:00Z",
+   "title": "Saint-Malo: Moyuka Uchijima vs Ksenia Efremova",
+   "tour": "WTA",
+   "winner": "Moyuka Uchijima"
+  },
+  {
+   "cid": "0xbab3c326897551c852d6d44cd98fbcd8d4c45f2569360d8107a4bd3eec6c9683",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 20,
+   "phase": "in-window",
+   "price": 0.13,
+   "side": "Luciano Darderi",
+   "start": "2026-04-27T13:10:00Z",
+   "title": "Madrid Open: Francisco Cerundolo vs Luciano Darderi",
+   "tour": "ATP",
+   "winner": "Francisco Cerundolo"
+  },
+  {
+   "cid": "0x95ec6be94a0066ecf548bbfd50754d068fffbddbfe547508916b292a028d6c79",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.53,
+   "side": "Diletta Cherubini",
+   "start": "2026-04-28T09:40:00Z",
+   "title": "Huzhou: Diletta Cherubini vs Ekaterina Reyngold",
+   "tour": "WTA",
+   "winner": "Diletta Cherubini"
+  },
+  {
+   "cid": "0xcccce38cfef89ed8fe019e8af3254afebf114390bdc0a7f19b8bc8556a6475e6",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 30,
+   "phase": "in-window",
+   "price": 0.48,
+   "side": "Talia Gibson",
+   "start": "2026-04-28T13:50:00Z",
+   "title": "Saint-Malo: Leolia Jeanjean vs Talia Gibson",
+   "tour": "WTA",
+   "winner": "Leolia Jeanjean"
+  },
+  {
+   "cid": "0x96a8c8d0e65569aebc7a1fc0ebbb3ece068bd3f9050aff0002d57001770613ef",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 5,
+   "phase": "in-window",
+   "price": 0.46,
+   "side": "Sara Sorribes Tormo",
+   "start": "2026-04-28T16:35:00Z",
+   "title": "La Bisbal: Ajla Tomljanovic vs Sara Sorribes Tormo",
+   "tour": "WTA",
+   "winner": "Sara Sorribes Tormo"
+  },
+  {
+   "cid": "0xc9a4ed42341cf7b61a05c8a451164b98909c2bd85777358dd5a740fbbe4cd1df",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.695,
+   "side": "Francisco Cerundolo",
+   "start": "2026-04-28T17:05:00Z",
+   "title": "Madrid Open: Francisco Cerundolo vs Alexander Blockx",
+   "tour": "ATP",
+   "winner": "Alexander Blockx"
+  },
+  {
+   "cid": "0x3a0e803db220c314dfe56790d78a112ae0f61ae0ef373929940b7768464482cf",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "none"
+   },
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.875,
+   "side": "Aryna Sabalenka",
+   "start": "2026-04-28T18:05:00Z",
+   "title": "Madrid Open: Aryna Sabalenka vs Hailey Baptiste",
+   "tour": "WTA",
+   "winner": "Hailey Baptiste"
+  },
+  {
+   "cid": "0x8bd45d7a46bf2903a0d25923f292eae410ad221ac499517f23f6c1aa49c9d3b2",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.51,
+   "side": "Daniil Medvedev",
+   "start": "2026-04-28T19:05:00Z",
+   "title": "Madrid Open: Daniil Medvedev vs Flavio Cobolli",
+   "tour": "ATP",
+   "winner": "Flavio Cobolli"
+  },
+  {
+   "cid": "0xdbb15e79a34d68eb89bedbea4554df508c7c20fef2087be56c16b492201f9615",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.635,
+   "side": "Alexander Zverev",
+   "start": "2026-04-28T21:05:00Z",
+   "title": "Madrid Open: Jakub Mensik vs Alexander Zverev",
+   "tour": "ATP",
+   "winner": "Alexander Zverev"
+  },
+  {
+   "cid": "0x261b0a9ddd3e9bcf3eb7478c0e64d91db7ac66b4c36e3929964809fcbde27e96",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 15,
+   "phase": "in-window",
+   "price": 0.5141,
+   "side": "Linda Noskova",
+   "start": "2026-04-29T18:05:00Z",
+   "title": "Madrid Open: Marta Kostyuk vs Linda Noskova",
+   "tour": "WTA",
+   "winner": "Marta Kostyuk"
+  },
+  {
+   "cid": "0x45b196ca248639cf35fd3f5960ebb2ababd2ee35709a5a837e4ea3eec43a9761",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 5,
+   "phase": "in-window",
+   "price": 0.3,
+   "side": "Alexander Blockx",
+   "start": "2026-04-30T11:10:00Z",
+   "title": "Madrid Open: Casper Ruud vs Alexander Blockx",
+   "tour": "ATP",
+   "winner": "Alexander Blockx"
+  },
+  {
+   "cid": "0x13f961763aa1af1c519917e3b1a5889e6b9b4c65f4b0c00c1475acfa34ef6efd",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.655,
+   "side": "Mirra Andreeva",
+   "start": "2026-04-30T14:05:00Z",
+   "title": "Madrid Open: Hailey Baptiste vs Mirra Andreeva",
+   "tour": "WTA",
+   "winner": "Mirra Andreeva"
+  },
+  {
+   "cid": "0x461c6924c3eb7f664ea68f300574ab6f220b022eed9feaaf2fb6360f1fda30d0",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.675,
+   "side": "Alexander Zverev",
+   "start": "2026-04-30T18:00:00Z",
+   "title": "Madrid Open: Flavio Cobolli vs Alexander Zverev",
+   "tour": "ATP",
+   "winner": "Alexander Zverev"
+  },
+  {
+   "cid": "0x5aac1fa8cb4d04784f7c05f880a1b3a34428eda514d3f8cb6e3aa952a8c67b29",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 5,
+   "phase": "in-window",
+   "price": 0.28,
+   "side": "Anastasia Potapova",
+   "start": "2026-04-30T20:00:00Z",
+   "title": "Madrid Open: Marta Kostyuk vs Anastasia Potapova",
+   "tour": "WTA",
+   "winner": "Marta Kostyuk"
+  },
+  {
+   "cid": "0xc78785acdc9d66e6907fd4b1ed691ce90506b40e6d9c41f23f83d071e9f6a570",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 30,
+   "phase": "in-window",
+   "price": 0.3774,
+   "side": "Jakub Mensik",
+   "start": "2026-05-09T20:50:00Z",
+   "title": "Internazionali BNL d'Italia: Alexei Popyrin vs Jakub Mensik",
+   "tour": "ATP",
+   "winner": "Alexei Popyrin"
+  },
+  {
+   "cid": "0x3aaf9bb8b49ba36ff5689517b9a3756efd6bb41bbe38b078acd3964255dd0f04",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.525,
+   "side": "En-Shuo Liang",
+   "start": "2026-05-10T05:00:00Z",
+   "title": "Jiujiang: Xiaodi You vs En-Shuo Liang",
+   "tour": "WTA",
+   "winner": "En-Shuo Liang"
+  },
+  {
+   "cid": "0xaf5420e930d4ebadec9718d476cfc8f149a76edd256e92845d37a0b518e08f8c",
+   "drift_after_lock": {
+    "side_name": "Soon-Woo Kwon",
+    "state": "aligned"
+   },
+   "hit": false,
+   "locked_min": 5,
+   "phase": "in-window",
+   "price": 0.3103,
+   "side": "Yunchaokete Bu",
+   "start": "2026-05-10T08:05:00Z",
+   "title": "Wuxi: Yunchaokete Bu vs Soon-Woo Kwon",
+   "tour": "ATP",
+   "winner": "Soon-Woo Kwon"
+  },
+  {
+   "cid": "0xc7ecceaf9489862efbd36c914c480745e473eb9386a97cb327ab3c1ff20bad74",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.315,
+   "side": "Hailey Baptiste",
+   "start": "2026-05-10T09:05:00Z",
+   "title": "Internazionali BNL d'Italia: Elina Svitolina vs Hailey Baptiste",
+   "tour": "WTA",
+   "winner": "Elina Svitolina"
+  },
+  {
+   "cid": "0xe3577c029f3ee047a625e401c3f5ee98eab3bbd34dfb9ba66ef1f7988b1395af",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 10,
+   "phase": "in-window",
+   "price": 0.341,
+   "side": "Gustavo Heide",
+   "start": "2026-05-10T09:50:00Z",
+   "title": "Francavilla: Gustavo Heide vs Facundo Acosta",
+   "tour": "ATP",
+   "winner": "Facundo Acosta"
+  },
+  {
+   "cid": "0x5a7b4e5943f3cd0a24de8b0dfe67715504867015259a94f2fa0df5c626bf0c6f",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 30,
+   "phase": "in-window",
+   "price": 0.56,
+   "side": "Donna Vekic",
+   "start": "2026-05-10T11:05:00Z",
+   "title": "Istanbul: Donna Vekic vs Maria Timofeeva",
+   "tour": "WTA",
+   "winner": "Maria Timofeeva"
+  },
+  {
+   "cid": "0xd9cd2a43b023b9e4f1b60ac7a36cd81e9dd896c08f6011295afc109be6a8b305",
+   "drift_after_lock": {
+    "side_name": "Naomi Osaka",
+    "state": "aligned"
+   },
+   "hit": false,
+   "locked_min": 25,
+   "phase": "in-window",
+   "price": 0.1969,
+   "side": "Diana Shnaider",
+   "start": "2026-05-10T12:25:00Z",
+   "title": "Internazionali BNL d'Italia: Naomi Osaka vs Diana Shnaider",
+   "tour": "WTA",
+   "winner": "Naomi Osaka"
+  },
+  {
+   "cid": "0xaac007c05ad25869a5aa5c6204dff7ce652783d9932e3640b9796c87bf657abb",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 10,
+   "phase": "in-window",
+   "price": 0.4879,
+   "side": "Francisco Cerundolo",
+   "start": "2026-05-10T13:05:00Z",
+   "title": "Internazionali BNL d'Italia: Lorenzo Musetti vs Francisco Cerundolo",
+   "tour": "ATP",
+   "winner": "Lorenzo Musetti"
+  },
+  {
+   "cid": "0x06f0e7af592c2e26f19b39285ff15151ce36cd3cf4a54f197227e537f1d8b288",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.445,
+   "side": "Luciano Darderi",
+   "start": "2026-05-10T16:00:00Z",
+   "title": "Internazionali BNL d'Italia: Tommy Paul vs Luciano Darderi",
+   "tour": "ATP",
+   "winner": "Luciano Darderi"
+  },
+  {
+   "cid": "0xde5507f0d127b33d32e649bf3e8268f77351d0d329b607fb761891a126aad84e",
+   "drift_after_lock": {
+    "side_name": "Mitsuki Wei Kang Leong",
+    "state": "aligned"
+   },
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.385,
+   "side": "Sasikumar Mukund",
+   "start": "2026-05-12T05:40:00Z",
+   "title": "Bengaluru 2: Mitsuki Wei Kang Leong vs Sasikumar Mukund",
+   "tour": "ATP",
+   "winner": "Sasikumar Mukund"
+  },
+  {
+   "cid": "0x96e3f0c1ecadc63cd8035939fb0a8755075b020da20eacedcb27097f426e68d7",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.655,
+   "side": "Hamish Stewart",
+   "start": "2026-05-12T05:40:00Z",
+   "title": "Bengaluru 2: Omar Jasika vs Hamish Stewart",
+   "tour": "ATP",
+   "winner": "Hamish Stewart"
+  },
+  {
+   "cid": "0x35ed44afe94b16fc8b2f9595cf349a0109047d0db80cad0c3f3f7a83cd119bb6",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 30,
+   "phase": "in-window",
+   "price": 0.6,
+   "side": "Kokoro Isomura",
+   "start": "2026-05-12T08:00:00Z",
+   "title": "Bengaluru 2: Kokoro Isomura vs Karan Singh",
+   "tour": "ATP",
+   "winner": "Kokoro Isomura"
+  },
+  {
+   "cid": "0xafd5fe9c9b1f40b655f6632f4db60bea862d90e8d8be3453eeadba10ecdfa50d",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.385,
+   "side": "Karen Khachanov",
+   "start": "2026-05-12T09:00:00Z",
+   "title": "Internazionali BNL d'Italia: Karen Khachanov vs Dino Prizmic",
+   "tour": "ATP",
+   "winner": "Karen Khachanov"
+  },
+  {
+   "cid": "0x71e52df7a355cd859a47de726d9940a741dd049e8ce90890716abbbc36904f40",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "none"
+   },
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.355,
+   "side": "Anastasia Zakharova",
+   "start": "2026-05-13T09:35:00Z",
+   "title": "Paris: Anastasia Zakharova vs Katie Boulter",
+   "tour": "WTA",
+   "winner": "Anastasia Zakharova"
+  },
+  {
+   "cid": "0x5b65ba6874edfa1e3f52493f3971bc6ecd4a372b8984d80a24ede5b1011b36a3",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 5,
+   "phase": "in-window",
+   "price": 0.53,
+   "side": "Diane Parry",
+   "start": "2026-05-14T14:00:00Z",
+   "title": "Paris: Diane Parry vs Chloe Paquet",
+   "tour": "WTA",
+   "winner": "Diane Parry"
+  },
+  {
+   "cid": "0xf7fe3943e30d5f76ebd63455501429d936846a250ae5a44c4cb1773dfd56eaf9",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "none"
+   },
+   "hit": false,
+   "locked_min": 5,
+   "phase": "in-window",
+   "price": 0.59,
+   "side": "Flavio Cobolli",
+   "start": "2026-05-19T10:10:00Z",
+   "title": "Hamburg European Open: Flavio Cobolli vs Ignacio Buse",
+   "tour": "ATP",
+   "winner": "Ignacio Buse"
+  },
+  {
+   "cid": "0x35bd9a3a811974890a33ee8a54fc3831f559b7f473ef88526a85be6c34300c36",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.365,
+   "side": "Roman Andres Burruchaga",
+   "start": "2026-05-19T11:05:00Z",
+   "title": "Hamburg European Open: Luciano Darderi vs Roman Andres Burruchaga",
+   "tour": "ATP",
+   "winner": "Luciano Darderi"
+  },
+  {
+   "cid": "0x07edf3bfdcc51f50b03a05d106ccdbc745dc72cc70bdfffab26cb0a4acb3df16",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 20,
+   "phase": "in-window",
+   "price": 0.56,
+   "side": "Hugo Gaston",
+   "start": "2026-05-19T13:20:00Z",
+   "title": "Hamburg European Open: Hugo Gaston vs Karen Khachanov",
+   "tour": "ATP",
+   "winner": "Karen Khachanov"
+  },
+  {
+   "cid": "0x3de3aa8123597fb801b308448af72f96628338cd3648ebd69604b478d5c1265e",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 5,
+   "phase": "in-window",
+   "price": 0.32,
+   "side": "Justin Engel",
+   "start": "2026-05-19T13:45:00Z",
+   "title": "Hamburg European Open: Justin Engel vs Ugo Humbert",
+   "tour": "ATP",
+   "winner": "Ugo Humbert"
+  },
+  {
+   "cid": "0x52a4433e1e9e90d21871dbd95f9661222054eceeaf4e5e75c4e71d26d24f3aca",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.675,
+   "side": "Ben Shelton",
+   "start": "2026-05-19T16:25:00Z",
+   "title": "Hamburg European Open: Daniel Altmaier vs Ben Shelton",
+   "tour": "ATP",
+   "winner": "Daniel Altmaier"
+  },
+  {
+   "cid": "0x4e85b18fe080e133126170e0b7a4b83296724b4e150087337f001dc1d7e2be79",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "none"
+   },
+   "hit": false,
+   "locked_min": 10,
+   "phase": "in-window",
+   "price": 0.32,
+   "side": "Taiyo Yamanaka",
+   "start": "2026-05-20T04:35:00Z",
+   "title": "Bengaluru 3: Sasikumar Mukund vs Taiyo Yamanaka",
+   "tour": "ATP",
+   "winner": "Sasikumar Mukund"
+  },
+  {
+   "cid": "0x56bca4286ca396bba2b489549b8f71abffd83494cfbcc548e6ca269a38acd81f",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.405,
+   "side": "Ignacio Buse",
+   "start": "2026-05-20T10:30:00Z",
+   "title": "Hamburg European Open: Ignacio Buse vs Jakub Mensik",
+   "tour": "ATP",
+   "winner": "Ignacio Buse"
+  },
+  {
+   "cid": "0x8ee4458a4eae7b213cf927bde905e92d44c91a95c9ffedb9745ede5073a0711e",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 25,
+   "phase": "in-window",
+   "price": 0.43,
+   "side": "Karen Khachanov",
+   "start": "2026-05-20T12:50:00Z",
+   "title": "Hamburg European Open: Ugo Humbert vs Karen Khachanov",
+   "tour": "ATP",
+   "winner": "Ugo Humbert"
+  },
+  {
+   "cid": "0x4b2dd194251849b2d1911c639d692e146c1e6f927a47b3f78b93b11bf631799e",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.685,
+   "side": "Camilo Ugo Carabelli",
+   "start": "2026-05-20T18:15:00Z",
+   "title": "Hamburg European Open: Camilo Ugo Carabelli vs Frances Tiafoe",
+   "tour": "ATP",
+   "winner": "Camilo Ugo Carabelli"
+  },
+  {
+   "cid": "0x3fa765148eb80af19ceebc0544ab4190a070bca68d1ac469acc8dfa81cfe0410",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.73,
+   "side": "Alexander Bublik",
+   "start": "2026-05-20T18:20:00Z",
+   "title": "Geneva Open: Edas Butvilas vs Alexander Bublik",
+   "tour": "ATP",
+   "winner": "Alexander Bublik"
+  },
+  {
+   "cid": "0x1a3f5a0e8faa2444be504210d1c311f874b87519bbaf23b98acb546e2f9e5388",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.655,
+   "side": "Luciano Darderi",
+   "start": "2026-05-20T19:40:00Z",
+   "title": "Hamburg European Open: Luciano Darderi vs Yannick Hanfmann",
+   "tour": "ATP",
+   "winner": "Luciano Darderi"
+  },
+  {
+   "cid": "0x9568185677ca7fc1c920370d63a7aef211ce99d5b1b6db789e723e79e2a416b2",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 20,
+   "phase": "in-window",
+   "price": 0.4859,
+   "side": "Camilo Ugo Carabelli",
+   "start": "2026-05-21T15:20:00Z",
+   "title": "Hamburg European Open: Aleksandar Kovacevic vs Camilo Ugo Carabelli",
+   "tour": "ATP",
+   "winner": "Aleksandar Kovacevic"
+  },
+  {
+   "cid": "0x1313ad6c8b02950bd0570b23904ccf95c281e3e81d7533f029c43e3542125360",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.505,
+   "side": "Luciano Darderi",
+   "start": "2026-05-21T18:20:00Z",
+   "title": "Hamburg European Open: Luciano Darderi vs Alex de Minaur",
+   "tour": "ATP",
+   "winner": "Alex de Minaur"
+  },
+  {
+   "cid": "0xb7b2f2aac40ad1dc42d1b18d7e5d18380e74ff92bee4792fd78c43e3d7eb1c83",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.425,
+   "side": "Learner Tien",
+   "start": "2026-05-22T14:10:00Z",
+   "title": "Geneva Open: Learner Tien vs Alexander Bublik",
+   "tour": "ATP",
+   "winner": "Learner Tien"
+  },
+  {
+   "cid": "0x1a2daefb66f9ba851397e90956dcc2c831d82f9ceadac8311524ba147db52c76",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.605,
+   "side": "Tommy Paul",
+   "start": "2026-05-23T12:40:00Z",
+   "title": "Hamburg European Open: Ignacio Buse vs Tommy Paul",
+   "tour": "ATP",
+   "winner": "Ignacio Buse"
+  },
+  {
+   "cid": "0x957a14d8611be56fb3150b39f5f11f072642c8a4003d6ad0641a3555096f9b9b",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.595,
+   "side": "Mariano Navone",
+   "start": "2026-05-23T13:00:00Z",
+   "title": "Geneva Open: Mariano Navone vs Learner Tien",
+   "tour": "ATP",
+   "winner": "Learner Tien"
+  },
+  {
+   "cid": "0xe1267e37ff114f91920edc834f5b12abbe6edb481b516786149fe11deba0af38",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.415,
+   "side": "Xinyu Wang",
+   "start": "2026-05-24T09:05:00Z",
+   "title": "Roland Garros WTA: Lilli Tagger vs Xinyu Wang",
+   "tour": "WTA",
+   "winner": "Xinyu Wang"
+  },
+  {
+   "cid": "0x7550901fa6a72d7106ffcc6c09b8c5f174c0fe7c731fc9a40a9816aa41f14fa8",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.395,
+   "side": "Fabian Marozsan",
+   "start": "2026-05-24T09:05:00Z",
+   "title": "Roland Garros ATP: Miomir Kecmanovic vs Fabian Marozsan",
+   "tour": "ATP",
+   "winner": "Miomir Kecmanovic"
+  },
+  {
+   "cid": "0x07fe0fbf422d71aae162f08ef230cbe5c0ac00ce2aa55b9f0b6eda8fb4c0a5ed",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.465,
+   "side": "Pablo Llamas Ruiz",
+   "start": "2026-05-24T09:05:00Z",
+   "title": "Roland Garros ATP: Pablo Llamas Ruiz vs Thiago Agustin Tirante",
+   "tour": "ATP",
+   "winner": "Thiago Agustin Tirante"
+  },
+  {
+   "cid": "0x6df8bea5eac96d29399d1c2f08b2e624e6e9db227facef370cb985ff9d00c163",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 15,
+   "phase": "in-window",
+   "price": 0.52,
+   "side": "Hailey Baptiste",
+   "start": "2026-05-24T12:05:00Z",
+   "title": "Roland Garros WTA: Hailey Baptiste vs Barbora Krejcikova",
+   "tour": "WTA",
+   "winner": "Hailey Baptiste"
+  },
+  {
+   "cid": "0xc5fba0e2b14eca92c9ad0ed99cc88bff8869387aea6253cc80bc466f629247c7",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.925,
+   "side": "Colton Smith",
+   "start": "2026-05-30T16:00:00Z",
+   "title": "Little Rock: Colton Smith vs Tyler Zink",
+   "tour": "ATP",
+   "winner": "Colton Smith"
+  },
+  {
+   "cid": "0xe0f881841d7ee6b410eeb41d9bb879e79be429f621247ac7661e4a07aad21954",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 25,
+   "phase": "in-window",
+   "price": 0.5511,
+   "side": "Stefanos Sakellaridis",
+   "start": "2026-05-31T09:05:00Z",
+   "title": "Chisinau: Cezar Cretu vs Stefanos Sakellaridis",
+   "tour": "ATP",
+   "winner": "Stefanos Sakellaridis"
+  },
+  {
+   "cid": "0xf6dd6bb0fef70a2b99b10991a4f6e7fbcc2931ec193f6881780bbce18f07a9ca",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "none"
+   },
+   "hit": true,
+   "locked_min": 30,
+   "phase": "in-window",
+   "price": 0.6,
+   "side": "Alicia Dudeney",
+   "start": "2026-06-08T14:00:00Z",
+   "title": "Ilkley: Alicia Dudeney vs Himeno Sakatsume",
+   "tour": "WTA",
+   "winner": "Alicia Dudeney"
+  },
+  {
+   "cid": "0xfe8f9bc6764dee1f99848e9a141f709319279b0386e84f68a1ea74dc9ffeb830",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 15,
+   "phase": "in-window",
+   "price": 0.6018,
+   "side": "August Holmgren",
+   "start": "2026-06-08T15:50:00Z",
+   "title": "Ilkley: August Holmgren vs Nicolai Budkov Kjaer",
+   "tour": "ATP",
+   "winner": "August Holmgren"
+  },
+  {
+   "cid": "0xa45cfdf74f3a85f98392397482ceebb7e85d4e9f7a9d3f00d16eb89e67ebb972",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 30,
+   "phase": "in-window",
+   "price": 0.4457,
+   "side": "Matias Soto",
+   "start": "2026-06-09T21:05:00Z",
+   "title": "Tucuman: Juan Estevez vs Matias Soto",
+   "tour": "ATP",
+   "winner": "Juan Estevez"
+  },
+  {
+   "cid": "0x9ce38efa85db1305a500578daa77f25bad3b475535d81a160fe7db5b828adf5f",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 30,
+   "phase": "in-window",
+   "price": 0.1522,
+   "side": "Gianmarco Ferrari",
+   "start": "2026-06-10T08:00:00Z",
+   "title": "Cattolica: Gianmarco Ferrari vs Roberto Carballes Baena",
+   "tour": "ATP",
+   "winner": "Roberto Carballes Baena"
+  },
+  {
+   "cid": "0x947d73333b4fa17f0324fa05f9face33292a43a0ba6de563ee8527d2924a1089",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "none"
+   },
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.485,
+   "side": "Federico Cina",
+   "start": "2026-06-10T08:40:00Z",
+   "title": "Bratislava: Federico Cina vs Jan Choinski",
+   "tour": "ATP",
+   "winner": "Federico Cina"
+  },
+  {
+   "cid": "0xec19396db163c02fe8060b9adc4f668f4b54ac8c8fe67c536e35ceec4df1c010",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.605,
+   "side": "Kaitlin Quevedo",
+   "start": "2026-06-10T12:05:00Z",
+   "title": "Modena: Kaitlin Quevedo vs Jeline Vandromme",
+   "tour": "WTA",
+   "winner": "Kaitlin Quevedo"
+  },
+  {
+   "cid": "0x54620298f91d072ff5843b4a3989b53a8502bc405782f1dc88859574ca815092",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.39,
+   "side": "Tereza Valentova",
+   "start": "2026-06-15T10:10:00Z",
+   "title": "Nottingham Open: Marie Bouzkova vs Tereza Valentova",
+   "tour": "WTA",
+   "winner": "Marie Bouzkova"
+  },
+  {
+   "cid": "0x83421d92a6f1160aa2feec014abc476ad593877cc40db3ab26701c90bab47161",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 5,
+   "phase": "in-window",
+   "price": 0.65,
+   "side": "Qinwen Zheng",
+   "start": "2026-06-15T10:40:00Z",
+   "title": "Nottingham Open: Qinwen Zheng vs Maria Sakkari",
+   "tour": "WTA",
+   "winner": "Qinwen Zheng"
+  },
+  {
+   "cid": "0xb4c62f3f497bf0db313be23eff9722c2fc38a07c77cf4938332e97734232e110",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 20,
+   "phase": "in-window",
+   "price": 0.5,
+   "side": "Daniel Altmaier",
+   "start": "2026-06-15T11:00:00Z",
+   "title": "Halle Open: Nikoloz Basilashvili vs Daniel Altmaier",
+   "tour": "ATP",
+   "winner": "Daniel Altmaier"
+  },
+  {
+   "cid": "0xd632ae108209d39006c1ed05648e273e378b22f84440ccadcc4ebe84ad82d5d5",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "none"
+   },
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.715,
+   "side": "Felix Auger-Aliassime",
+   "start": "2026-06-15T12:50:00Z",
+   "title": "Halle Open: Nuno Borges vs Felix Auger-Aliassime",
+   "tour": "ATP",
+   "winner": "Felix Auger-Aliassime"
+  },
+  {
+   "cid": "0x4062b12aade65cc58fc93cca1628787a67726160903075975f8011417714d35d",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.375,
+   "side": "Himeno Sakatsume",
+   "start": "2026-06-15T14:20:00Z",
+   "title": "Nottingham Open: Himeno Sakatsume vs Jessica Bouzas Maneiro",
+   "tour": "WTA",
+   "winner": "Jessica Bouzas Maneiro"
+  },
+  {
+   "cid": "0x68284920593396570a31eea8283826d0c9efde3f8f36103561647be4ec2d4135",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.615,
+   "side": "Raphael Collignon",
+   "start": "2026-06-16T09:40:00Z",
+   "title": "Halle Open: Alexei Popyrin vs Raphael Collignon",
+   "tour": "ATP",
+   "winner": "Raphael Collignon"
+  },
+  {
+   "cid": "0x9d766178fc0cd5d62cd334c02ed449952aedfe427f85d37cd66fd4a4d6414e52",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 20,
+   "phase": "in-window",
+   "price": 0.4853,
+   "side": "Alexander Bublik",
+   "start": "2026-06-16T09:40:00Z",
+   "title": "Halle Open: Mattia Bellucci vs Alexander Bublik",
+   "tour": "ATP",
+   "winner": "Mattia Bellucci"
+  },
+  {
+   "cid": "0xef9f97e9330f04fe96a3a0fe73d7f8cde7711389f3020c34b94fb568fa9bc7af",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.505,
+   "side": "Andrey Rublev",
+   "start": "2026-06-16T11:55:00Z",
+   "title": "Halle Open: Andrey Rublev vs Hubert Hurkacz",
+   "tour": "ATP",
+   "winner": "Hubert Hurkacz"
+  },
+  {
+   "cid": "0xaf8aec37289f66924f9b2eab5211feff44a1be8c722eb3867dd2c9d3c5fdabe2",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 25,
+   "phase": "in-window",
+   "price": 0.64,
+   "side": "Fabian Marozsan",
+   "start": "2026-06-16T13:30:00Z",
+   "title": "Halle Open: Fabian Marozsan vs Miomir Kecmanovic",
+   "tour": "ATP",
+   "winner": "Fabian Marozsan"
+  },
+  {
+   "cid": "0x3d4f8558a47d176a38301922deeba939a8db44b2151969944d023f0fc4c2b8c8",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "none"
+   },
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.745,
+   "side": "Karolina Pliskova",
+   "start": "2026-06-16T15:20:00Z",
+   "title": "Nottingham Open: Sara Bejlek vs Karolina Pliskova",
+   "tour": "WTA",
+   "winner": "Karolina Pliskova"
+  },
+  {
+   "cid": "0x20e17da50e527d046b43576bbafd59f83dd9bcee242d4675afecc27e5c10cb18",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 30,
+   "phase": "in-window",
+   "price": 0.3,
+   "side": "Caty McNally",
+   "start": "2026-06-18T10:35:00Z",
+   "title": "Nottingham Open: Karolina Pliskova vs Caty McNally",
+   "tour": "WTA",
+   "winner": "Karolina Pliskova"
+  },
+  {
+   "cid": "0x19016f8ec1d959f681b733a896a4456cd5e20ec6fde11079e2807f87fefa2bb0",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 20,
+   "phase": "in-window",
+   "price": 0.5298,
+   "side": "Ann Li",
+   "start": "2026-06-18T14:55:00Z",
+   "title": "Nottingham Open: Ann Li vs Taylah Preston",
+   "tour": "WTA",
+   "winner": "Ann Li"
+  },
+  {
+   "cid": "0xe3a4e9a806eb0d08c2ad4b541d4e68d153eb69dad367a6f23e7f78f3005ef246",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.515,
+   "side": "Raphael Collignon",
+   "start": "2026-06-18T15:30:00Z",
+   "title": "Halle Open: Raphael Collignon vs Mattia Bellucci",
+   "tour": "ATP",
+   "winner": "Raphael Collignon"
+  },
+  {
+   "cid": "0x13fa53035b715cd965cc4ebdb82ff83d49a55186276ebd260252f18f23cbb311",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.53,
+   "side": "Taylor Fritz",
+   "start": "2026-06-19T09:40:00Z",
+   "title": "Halle Open: Ben Shelton vs Taylor Fritz",
+   "tour": "ATP",
+   "winner": "Taylor Fritz"
+  },
+  {
+   "cid": "0xdea063b6b79c85a36fc2ac6b11f45257ab2089d8a6028208714cd46bf550d1ef",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.525,
+   "side": "Marie Bouzkova",
+   "start": "2026-06-20T10:15:00Z",
+   "title": "Nottingham Open: Karolina Pliskova vs Marie Bouzkova",
+   "tour": "WTA",
+   "winner": "Marie Bouzkova"
+  },
+  {
+   "cid": "0x38cba70be0ad9209fa5d17ad1a098cba794f46fbb30e31423f5c2ed8939a72f0",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.685,
+   "side": "Emma Navarro",
+   "start": "2026-06-20T12:15:00Z",
+   "title": "Nottingham Open: Emma Navarro vs Viktorija Golubic",
+   "tour": "WTA",
+   "winner": "Emma Navarro"
+  },
+  {
+   "cid": "0x5389df46fbc0366e12650d7e9cfc50eab40641484aa4ae024e22585bbdba41cc",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.575,
+   "side": "Alexander Zverev",
+   "start": "2026-06-20T13:15:00Z",
+   "title": "Halle Open: Alexander Zverev vs Taylor Fritz",
+   "tour": "ATP",
+   "winner": "Taylor Fritz"
+  },
+  {
+   "cid": "0x7324ddd79f1525ecc5c758781329b3cfb7cc30e00061de6a9a89e81bd3a93ccf",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.695,
+   "side": "Frances Tiafoe",
+   "start": "2026-06-20T16:20:00Z",
+   "title": "Halle Open: Daniel Altmaier vs Frances Tiafoe",
+   "tour": "ATP",
+   "winner": "Frances Tiafoe"
+  },
+  {
+   "cid": "0xa29f5a03d3067ee72f451d66c72c64bca465857c364f61b036ccaf42530ac0e9",
+   "drift_after_lock": {
+    "side_name": "Mirra Andreeva",
+    "state": "aligned"
+   },
+   "hit": true,
+   "locked_min": 30,
+   "phase": "in-window",
+   "price": 0.35,
+   "side": "Ekaterina Alexandrova",
+   "start": "2026-06-24T09:05:00Z",
+   "title": "Bad Homburg Open: Ekaterina Alexandrova vs Mirra Andreeva",
+   "tour": "WTA",
+   "winner": "Ekaterina Alexandrova"
+  },
+  {
+   "cid": "0x9a24247ddb3b464a251cc8048cecb22f59566aa79bd7afb59ede71acf0d74bb5",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.575,
+   "side": "Toby Samuel",
+   "start": "2026-06-24T10:05:00Z",
+   "title": "Lexus Eastbourne Open: Toby Samuel vs Thiago Agustin Tirante",
+   "tour": "ATP",
+   "winner": "Toby Samuel"
+  },
+  {
+   "cid": "0x42068dce7f0bf4a70a076bb77f74925a11a785b40d3ca22e736c36c951be23a9",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 5,
+   "phase": "in-window",
+   "price": 0.5318,
+   "side": "Qinwen Zheng",
+   "start": "2026-06-24T10:45:00Z",
+   "title": "Bad Homburg Open: Qinwen Zheng vs Clara Tauson",
+   "tour": "WTA",
+   "winner": "Clara Tauson"
+  },
+  {
+   "cid": "0x44a7936005d25f0e3d8438adf2e3c6f1ed568aa39ffc7bb38e9817427a3070af",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "none"
+   },
+   "hit": false,
+   "locked_min": 25,
+   "phase": "in-window",
+   "price": 0.251,
+   "side": "Anhelina Kalinina",
+   "start": "2026-06-24T11:30:00Z",
+   "title": "Lexus Eastbourne Open: McCartney Kessler vs Anhelina Kalinina",
+   "tour": "WTA",
+   "winner": "McCartney Kessler"
+  },
+  {
+   "cid": "0x609ff2452770be2a20647095e76e2a5208dc36d373e4253041572ea7713ff0d5",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.685,
+   "side": "Arthur Fery",
+   "start": "2026-06-24T11:45:00Z",
+   "title": "Lexus Eastbourne Open: Arthur Fery vs Juan Manuel Cerundolo",
+   "tour": "ATP",
+   "winner": "Juan Manuel Cerundolo"
+  },
+  {
+   "cid": "0x4c10cb3647845032902556493f492ae27cd6eb8d88dd17505761fb3504472f8f",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.615,
+   "side": "Zizou Bergs",
+   "start": "2026-06-24T13:00:00Z",
+   "title": "Lexus Eastbourne Open: Daniel Altmaier vs Zizou Bergs",
+   "tour": "ATP",
+   "winner": "Zizou Bergs"
+  },
+  {
+   "cid": "0x078d11b2d2a08a20611b9af1208ae0718630c03226f307dee276f26597c431ce",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 20,
+   "phase": "in-window",
+   "price": 0.3998,
+   "side": "Jenson Brooksby",
+   "start": "2026-06-24T13:05:00Z",
+   "title": "Lexus Eastbourne Open: Ugo Humbert vs Jenson Brooksby",
+   "tour": "ATP",
+   "winner": "Ugo Humbert"
+  },
+  {
+   "cid": "0x17b8079494b8d39a53a3ced3a044a2015c44097e2fd45bb692a869bc03328b53",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.3,
+   "side": "Emma Navarro",
+   "start": "2026-06-24T13:35:00Z",
+   "title": "Bad Homburg Open: Iga Swiatek vs Emma Navarro",
+   "tour": "WTA",
+   "winner": "Emma Navarro"
+  },
+  {
+   "cid": "0xde4f6a10187e7a4a16beeb529e9376acd2446860cd3a59b1df2f62392fcdaf76",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 15,
+   "phase": "in-window",
+   "price": 0.237,
+   "side": "Emiliana Arango",
+   "start": "2026-06-24T14:00:00Z",
+   "title": "Lexus Eastbourne Open: Caty McNally vs Emiliana Arango",
+   "tour": "WTA",
+   "winner": "Caty McNally"
+  },
+  {
+   "cid": "0x9624981449f1b8fa58eace2227c2a2dcd73027734603567c8629adb34af6d2e8",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 15,
+   "phase": "in-window",
+   "price": 0.79,
+   "side": "Jelena Ostapenko",
+   "start": "2026-06-25T10:05:00Z",
+   "title": "Lexus Eastbourne Open: Jelena Ostapenko vs Zeynep Sonmez",
+   "tour": "WTA",
+   "winner": "Jelena Ostapenko"
+  },
+  {
+   "cid": "0xc6b0789f91d40e1af071d426872e7065c7bfbf745f05f8927340a417bb42b2cf",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 25,
+   "phase": "in-window",
+   "price": 0.51,
+   "side": "Sofia Kenin",
+   "start": "2026-06-30T10:10:00Z",
+   "title": "Wimbledon WTA: Petra Marcinko vs Sofia Kenin",
+   "tour": "WTA",
+   "winner": "Sofia Kenin"
+  },
+  {
+   "cid": "0x81a9bf420ad3960903ebba6bc8b4cbf5275c96b83063452e233a7ee618f6e948",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.165,
+   "side": "Jesper de Jong",
+   "start": "2026-06-30T11:30:00Z",
+   "title": "Wimbledon ATP: Jesper de Jong vs Rinky Hijikata",
+   "tour": "ATP",
+   "winner": "Jesper de Jong"
+  },
+  {
+   "cid": "0xe7c3a08a29e8169e0e72160752a0aa574640530d88e12402a2762114ad77512f",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.405,
+   "side": "Jacob Fearnley",
+   "start": "2026-06-30T11:45:00Z",
+   "title": "Wimbledon ATP: Alex Michelsen vs Jacob Fearnley",
+   "tour": "ATP",
+   "winner": "Jacob Fearnley"
+  },
+  {
+   "cid": "0x475b9074e64d7a3960f3348290afbe2b74f53f6a64316e02b39373ab278316d1",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.305,
+   "side": "Thanasi Kokkinakis",
+   "start": "2026-06-30T12:45:00Z",
+   "title": "Wimbledon ATP: Thanasi Kokkinakis vs Alexander Bublik",
+   "tour": "ATP",
+   "winner": "Alexander Bublik"
+  },
+  {
+   "cid": "0x451e9e2fbd76c060394569270753570f939e739219a314822c90d20bc83a33a1",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 10,
+   "phase": "in-window",
+   "price": 0.55,
+   "side": "Ugo Humbert",
+   "start": "2026-06-30T13:00:00Z",
+   "title": "Wimbledon ATP: Ugo Humbert vs Zizou Bergs",
+   "tour": "ATP",
+   "winner": "Zizou Bergs"
+  },
+  {
+   "cid": "0xb328e0286b4f881c12d802a57c779cfbe7c95cb7b2d074178e658dc3d0deb2c5",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.485,
+   "side": "Alina Korneeva",
+   "start": "2026-06-30T13:05:00Z",
+   "title": "Wimbledon WTA: Kimberly Birrell vs Alina Korneeva",
+   "tour": "WTA",
+   "winner": "Kimberly Birrell"
+  },
+  {
+   "cid": "0xffeb8b9248f973e55dd35cc6e8a3ca0659823597b396586d1ab1039f35499e94",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.445,
+   "side": "Mananchaya Sawangkaew",
+   "start": "2026-07-01T10:00:00Z",
+   "title": "Wimbledon WTA: Alycia Parks vs Mananchaya Sawangkaew",
+   "tour": "WTA",
+   "winner": "Mananchaya Sawangkaew"
+  },
+  {
+   "cid": "0x9ff2c75ffb73fa5390f73211336ca90873bf4893a1119e2108ff27ac9f7587d5",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.405,
+   "side": "Ignacio Buse",
+   "start": "2026-07-01T10:10:00Z",
+   "title": "Wimbledon ATP: Jenson Brooksby vs Ignacio Buse",
+   "tour": "ATP",
+   "winner": "Jenson Brooksby"
+  },
+  {
+   "cid": "0xd14d793929a97989d5a41f41b22f5a8a7ff1b89bd18c701618d02697ebeaba60",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.345,
+   "side": "Claire Liu",
+   "start": "2026-07-01T11:30:00Z",
+   "title": "Wimbledon WTA: Zeynep Sonmez vs Claire Liu",
+   "tour": "WTA",
+   "winner": "Claire Liu"
+  },
+  {
+   "cid": "0xdb61bc2c45e87114aecf80455400554bd849f959cca1d0820d2acc2577f67e30",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "none"
+   },
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.375,
+   "side": "Diane Parry",
+   "start": "2026-07-01T13:40:00Z",
+   "title": "Wimbledon WTA: Diane Parry vs Anna Kalinskaya",
+   "tour": "WTA",
+   "winner": "Anna Kalinskaya"
+  },
+  {
+   "cid": "0x620864d2007a22d19782ae9cce0bdc59b39b9e67836c2bb87f3b5431c5fe22a5",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.88,
+   "side": "Coco Gauff",
+   "start": "2026-07-01T14:05:00Z",
+   "title": "Wimbledon WTA: Solana Sierra vs Coco Gauff",
+   "tour": "WTA",
+   "winner": "Coco Gauff"
+  },
+  {
+   "cid": "0x27ea18862817bb46732ae25166086253e98e67f88be0990bce69380a4016f636",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 10,
+   "phase": "in-window",
+   "price": 0.4,
+   "side": "Shintaro Mochizuki",
+   "start": "2026-07-01T14:45:00Z",
+   "title": "Wimbledon ATP: Shintaro Mochizuki vs Ethan Quinn",
+   "tour": "ATP",
+   "winner": "Shintaro Mochizuki"
+  },
+  {
+   "cid": "0xe4fff4b3109f408e782afd5965159d90a887412c2ca74b649fc16321749d002e",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 15,
+   "phase": "in-window",
+   "price": 0.18,
+   "side": "Dino Prizmic",
+   "start": "2026-07-01T16:40:00Z",
+   "title": "Wimbledon ATP: Felix Auger-Aliassime vs Dino Prizmic",
+   "tour": "ATP",
+   "winner": "Felix Auger-Aliassime"
+  },
+  {
+   "cid": "0xa5f86311db681e5bb7f248fec11f5455d3b98cce68b307b3cd8d8067a65dff6d",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 15,
+   "phase": "in-window",
+   "price": 0.4,
+   "side": "Lanlana Tararudee",
+   "start": "2026-07-01T16:55:00Z",
+   "title": "Wimbledon WTA: Ekaterina Alexandrova vs Lanlana Tararudee",
+   "tour": "WTA",
+   "winner": "Ekaterina Alexandrova"
+  },
+  {
+   "cid": "0x12ad5730c9253c809adde7f40b45875f6f0910dd233195dad308e5c27aa5d5f8",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 25,
+   "phase": "in-window",
+   "price": 0.78,
+   "side": "Emma Navarro",
+   "start": "2026-07-02T10:00:00Z",
+   "title": "Wimbledon WTA: Emma Navarro vs Oksana Selekhmeteva",
+   "tour": "WTA",
+   "winner": "Emma Navarro"
+  },
+  {
+   "cid": "0x5bf04bea3b9d4ee70ebcc92aee7247f6198ec5183a5afc0032fdc632f0e9c979",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 25,
+   "phase": "in-window",
+   "price": 0.57,
+   "side": "Marie Bouzkova",
+   "start": "2026-07-02T10:05:00Z",
+   "title": "Wimbledon WTA: Tyra Caterina Grant vs Marie Bouzkova",
+   "tour": "WTA",
+   "winner": "Marie Bouzkova"
+  },
+  {
+   "cid": "0xa4d0f8471418b33261d02865b5838d344b3dbff250cf75e2981f2d16c85ed09f",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.685,
+   "side": "Zizou Bergs",
+   "start": "2026-07-02T11:45:00Z",
+   "title": "Wimbledon ATP: Zizou Bergs vs Jaime Faria",
+   "tour": "ATP",
+   "winner": "Zizou Bergs"
+  },
+  {
+   "cid": "0x393114ef117486c498def54adac1fd42f49f432f07efd240d3ca129c8c75bd6a",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 15,
+   "phase": "in-window",
+   "price": 0.58,
+   "side": "Alexandra Eala",
+   "start": "2026-07-02T12:20:00Z",
+   "title": "Wimbledon WTA: Alexandra Eala vs Maya Joint",
+   "tour": "WTA",
+   "winner": "Alexandra Eala"
+  },
+  {
+   "cid": "0x512ecdaf48f51c46d9cc4eecc1fa21712aed7a2bf30e1de21f32662f8f1ef319",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 15,
+   "phase": "in-window",
+   "price": 0.5593,
+   "side": "Rafael Jodar",
+   "start": "2026-07-02T12:30:00Z",
+   "title": "Wimbledon ATP: Rafael Jodar vs Pablo Carreno Busta",
+   "tour": "ATP",
+   "winner": "Rafael Jodar"
+  },
+  {
+   "cid": "0xdb52152909ef419a5ec3c4954f58740f67db0a694b3e084b822c33244c9b7a00",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 10,
+   "phase": "in-window",
+   "price": 0.1079,
+   "side": "Karolina Pliskova",
+   "start": "2026-07-02T12:35:00Z",
+   "title": "Wimbledon WTA: Karolina Pliskova vs Iga Swiatek",
+   "tour": "WTA",
+   "winner": "Iga Swiatek"
+  },
+  {
+   "cid": "0x6e8a62e037e088f9820f7a00647e324eee0198f2834eecca64d0a22f0f30f0c3",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.35,
+   "side": "Matteo Berrettini",
+   "start": "2026-07-02T14:10:00Z",
+   "title": "Wimbledon ATP: Matteo Berrettini vs Arthur Fils",
+   "tour": "ATP",
+   "winner": "Matteo Berrettini"
+  },
+  {
+   "cid": "0xee6b9beb21a7e854aa2b95880c0e1f6a4a2595aa8b77687f03708103fc297606",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.38,
+   "side": "Yannick Hanfmann",
+   "start": "2026-07-02T14:50:00Z",
+   "title": "Wimbledon ATP: Karen Khachanov vs Yannick Hanfmann",
+   "tour": "ATP",
+   "winner": "Karen Khachanov"
+  },
+  {
+   "cid": "0xb7d31b0136727cb68172e1a12b6a27c4f6ef1778fcac371a830cee8d61270bc6",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "none"
+   },
+   "hit": false,
+   "locked_min": 30,
+   "phase": "in-window",
+   "price": 0.29,
+   "side": "Kamilla Rakhimova",
+   "start": "2026-07-02T15:00:00Z",
+   "title": "Wimbledon WTA: Kamilla Rakhimova vs Maria Sakkari",
+   "tour": "WTA",
+   "winner": "Maria Sakkari"
+  },
+  {
+   "cid": "0xe1de2664660ed1b8c5bcb9f7cab2eaebd16cf2677dbb53ffe0a003acbbf5dc20",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 15,
+   "phase": "in-window",
+   "price": 0.8499,
+   "side": "Jiri Lehecka",
+   "start": "2026-07-02T16:15:00Z",
+   "title": "Wimbledon ATP: Jiri Lehecka vs Alex Molcan",
+   "tour": "ATP",
+   "winner": "Jiri Lehecka"
+  },
+  {
+   "cid": "0xc2b77717f57e01c4471aa3d6184f24dffad5099bba9ca0768e46bad7e61f7d3f",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.365,
+   "side": "Grigor Dimitrov",
+   "start": "2026-07-02T16:40:00Z",
+   "title": "Wimbledon ATP: Jakub Mensik vs Grigor Dimitrov",
+   "tour": "ATP",
+   "winner": "Grigor Dimitrov"
+  },
+  {
+   "cid": "0x9acab1d93ff637d8061f1679f9db5534196b2f972e91039d9b61b5ad710b2b79",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 20,
+   "phase": "in-window",
+   "price": 0.18,
+   "side": "Caty McNally",
+   "start": "2026-07-02T17:30:00Z",
+   "title": "Wimbledon WTA: Caty McNally vs Elena Rybakina",
+   "tour": "WTA",
+   "winner": "Elena Rybakina"
+  },
+  {
+   "cid": "0x0a9007c13018ee184d3f4de550ff79eef28d4a936731950b103e4ecb79fe6d85",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 10,
+   "phase": "in-window",
+   "price": 0.24,
+   "side": "Roman Safiullin",
+   "start": "2026-07-03T10:10:00Z",
+   "title": "Wimbledon ATP: Roman Safiullin vs Joao Fonseca",
+   "tour": "ATP",
+   "winner": "Roman Safiullin"
+  },
+  {
+   "cid": "0x5488b6f813d86edaaf2f9b490b58cdeb571a3553bdf27710448f62c4493150b8",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.715,
+   "side": "Belinda Bencic",
+   "start": "2026-07-03T10:10:00Z",
+   "title": "Wimbledon WTA: Belinda Bencic vs Anna Kalinskaya",
+   "tour": "WTA",
+   "winner": "Belinda Bencic"
+  },
+  {
+   "cid": "0x62893c1171b6e2c91ade4cda7d770f2e43e6b965a196c92dad6ac82666002e18",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.375,
+   "side": "Hubert Hurkacz",
+   "start": "2026-07-03T13:55:00Z",
+   "title": "Wimbledon ATP: Hubert Hurkacz vs Tommy Paul",
+   "tour": "ATP",
+   "winner": "Hubert Hurkacz"
+  },
+  {
+   "cid": "0x2605a86f36e02c088e12678a73754894497f32b5cedb8d2943c357271d1c24bc",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.605,
+   "side": "Marie Bouzkova",
+   "start": "2026-07-04T10:00:00Z",
+   "title": "Wimbledon WTA: Liudmila Samsonova vs Marie Bouzkova",
+   "tour": "WTA",
+   "winner": "Marie Bouzkova"
+  },
+  {
+   "cid": "0xbbefda40ca2a0f12c42e900f0a51a3a533023c4ec16ba8b7e7c737acec459269",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "none"
+   },
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.545,
+   "side": "Daria Snigur",
+   "start": "2026-07-04T12:05:00Z",
+   "title": "Wimbledon WTA: Daria Snigur vs Ashlyn Krueger",
+   "tour": "WTA",
+   "winner": "Ashlyn Krueger"
+  },
+  {
+   "cid": "0xd1c280b70052b6a75497062d8cd18c0b383f7de71f3ca6a969269bb2ccb769e0",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.535,
+   "side": "Jasmine Paolini",
+   "start": "2026-07-04T13:00:00Z",
+   "title": "Wimbledon WTA: Jasmine Paolini vs Maria Sakkari",
+   "tour": "WTA",
+   "winner": "Jasmine Paolini"
+  },
+  {
+   "cid": "0x0c4334e84edeff507fe1907f7c206a883027983f74b81469fd48d8a7746cec97",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.445,
+   "side": "Arthur Fery",
+   "start": "2026-07-04T13:20:00Z",
+   "title": "Wimbledon ATP: Zizou Bergs vs Arthur Fery",
+   "tour": "ATP",
+   "winner": "Arthur Fery"
+  },
+  {
+   "cid": "0xc2ed44192bbc60fcdf0bff292577b984b52a5cfc623e11838e255f55e197a9f3",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.365,
+   "side": "Sorana Cirstea",
+   "start": "2026-07-04T14:30:00Z",
+   "title": "Wimbledon WTA: Sorana Cirstea vs Linda Noskova",
+   "tour": "WTA",
+   "winner": "Linda Noskova"
+  },
+  {
+   "cid": "0x005e6b48f6531902c66785a93c0f849fdaf840ca859f5a08b51187d5f9f73467",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 30,
+   "phase": "in-window",
+   "price": 0.3298,
+   "side": "Matteo Berrettini",
+   "start": "2026-07-04T17:25:00Z",
+   "title": "Wimbledon ATP: Grigor Dimitrov vs Matteo Berrettini",
+   "tour": "ATP",
+   "winner": "Grigor Dimitrov"
+  },
+  {
+   "cid": "0x84ebf2d3e510e953e91032782b81834f50baadc7c0ee29c7b175cb414b1b28b4",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 20,
+   "phase": "in-window",
+   "price": 0.5103,
+   "side": "Mananchaya Sawangkaew",
+   "start": "2026-07-08T21:40:00Z",
+   "title": "Newport: Mananchaya Sawangkaew vs Caroline Dolehide",
+   "tour": "WTA",
+   "winner": "Mananchaya Sawangkaew"
+  },
+  {
+   "cid": "0x7000f5570ab067208084a00aabd4544aba60e51637d0e620f767c65d4efc18a5",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "none"
+   },
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.4,
+   "side": "Jeline Vandromme",
+   "start": "2026-07-09T09:10:00Z",
+   "title": "Contrexeville: Jeline Vandromme vs Oksana Selekhmeteva",
+   "tour": "WTA",
+   "winner": "Jeline Vandromme"
+  },
+  {
+   "cid": "0xd94118fd6be688aae367727707ca285a9eb344941341e9e4e5bd2b607753c2de",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 25,
+   "phase": "in-window",
+   "price": 0.4298,
+   "side": "Clara Burel",
+   "start": "2026-07-09T10:30:00Z",
+   "title": "Contrexeville: Clara Burel vs Alicia Herrero Linana",
+   "tour": "WTA",
+   "winner": "Alicia Herrero Linana"
+  },
+  {
+   "cid": "0x92f25609d693ae308e1153c6b64ae4a33673ece070473fc170646b27c3480d9d",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.59,
+   "side": "Taro Daniel",
+   "start": "2026-07-09T11:00:00Z",
+   "title": "Iasi: Taro Daniel vs Zdenek Kolar",
+   "tour": "ATP",
+   "winner": "Taro Daniel"
+  },
+  {
+   "cid": "0x5cf1e28bbfee9ba6342813129b8544ee17ee9b6ecea1d3dc20795fe132e396ab",
+   "drift_after_lock": {
+    "side_name": "Martin Krumich",
+    "state": "aligned"
+   },
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.475,
+   "side": "Niels McDonald",
+   "start": "2026-07-09T11:00:00Z",
+   "title": "Braunschweig: Niels McDonald vs Martin Krumich",
+   "tour": "ATP",
+   "winner": "Niels McDonald"
+  },
+  {
+   "cid": "0xd7cf3f4318d38dd719f1e14f0220d34f9c8900dfb6fbd96fdb2aacad9eccff26",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.595,
+   "side": "Marta Kostyuk",
+   "start": "2026-07-09T15:45:00Z",
+   "title": "Wimbledon WTA: Marta Kostyuk vs Linda Noskova",
+   "tour": "WTA",
+   "winner": "Linda Noskova"
+  },
+  {
+   "cid": "0x2cca602d5b206db56c62fe06a62643dd6ab81ffe76f9d7647c3294fb0ef868fe",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.525,
+   "side": "Yulia Putintseva",
+   "start": "2026-07-09T16:20:00Z",
+   "title": "Bastad: Sinja Kraus vs Yulia Putintseva",
+   "tour": "WTA",
+   "winner": "Yulia Putintseva"
+  },
+  {
+   "cid": "0x04852ad7222a7326792726de27d1409a4278a1b562c043d67bb129f517a1402c",
+   "drift_after_lock": {
+    "side_name": "Kaitlin Quevedo",
+    "state": "aligned"
+   },
+   "hit": true,
+   "locked_min": 30,
+   "phase": "in-window",
+   "price": 0.41,
+   "side": "Simona Waltert",
+   "start": "2026-07-10T09:05:00Z",
+   "title": "Bastad: Kaitlin Quevedo vs Simona Waltert",
+   "tour": "WTA",
+   "winner": "Simona Waltert"
+  },
+  {
+   "cid": "0xe58b61bc00f078a5c1ee95ad34afad71d7f44acac7bb73cbd220a4cfcb763486",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 25,
+   "phase": "in-window",
+   "price": 0.66,
+   "side": "Gina Feistel",
+   "start": "2026-07-13T13:05:00Z",
+   "title": "Kitzbuehel: Julia Avdeeva vs Gina Feistel",
+   "tour": "WTA",
+   "winner": "Gina Feistel"
+  },
+  {
+   "cid": "0x48b966381c8949011aa026d1d53f16f5f6b2674c2b655e73a62d4703d9f23a17",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "none"
+   },
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.305,
+   "side": "Dalila Jakupovic",
+   "start": "2026-07-13T14:40:00Z",
+   "title": "Kitzbuehel: Polona Hercog vs Dalila Jakupovic",
+   "tour": "WTA",
+   "winner": "Polona Hercog"
+  },
+  {
+   "cid": "0xdbb996f290ba03a623a0ca9df0b0a47c5a37dc9bc529c0583cae47879d5f021c",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "none"
+   },
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.135,
+   "side": "Lorenzo Angelini",
+   "start": "2026-07-13T15:05:00Z",
+   "title": "Cordenons: Inaki Montes vs Lorenzo Angelini",
+   "tour": "ATP",
+   "winner": "Lorenzo Angelini"
+  },
+  {
+   "cid": "0x60e94553fca1436b4ffc521bc1d7bf4b927c86c660e98e9e881153373d3fbac2",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 30,
+   "phase": "in-window",
+   "price": 0.299,
+   "side": "Ekaterina Perelygina",
+   "start": "2026-07-15T09:00:00Z",
+   "title": "Kitzbuehel: Julia Grabher vs Ekaterina Perelygina",
+   "tour": "WTA",
+   "winner": "Julia Grabher"
+  },
+  {
+   "cid": "0x09b07234e6028294612f7f369829bfd19ad8528407342e4a4286dc5f67e6d3d2",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "none"
+   },
+   "hit": false,
+   "locked_min": 5,
+   "phase": "in-window",
+   "price": 0.4146,
+   "side": "Peter Makk",
+   "start": "2026-07-15T11:35:00Z",
+   "title": "Cordenons: Peter Makk vs Thiago Seyboth Wild",
+   "tour": "ATP",
+   "winner": "Thiago Seyboth Wild"
+  },
+  {
+   "cid": "0x32e77cbaf5e1a7ba34db5e52295e67b241ef38db18774902120e7beebd06bc87",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 25,
+   "phase": "in-window",
+   "price": 0.24,
+   "side": "Gabriela Knutson",
+   "start": "2026-07-15T14:00:00Z",
+   "title": "Istanbul 2: Gabriela Knutson vs Lanlana Tararudee",
+   "tour": "WTA",
+   "winner": "Lanlana Tararudee"
+  },
+  {
+   "cid": "0x93ef6ecab1a8c9c50d084547f1648bec4de13ea1dd795ee95128320d457b73d3",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.57,
+   "side": "Raphael Collignon",
+   "start": "2026-07-17T08:40:00Z",
+   "title": "Swiss Open: Raphael Collignon vs Valentin Vacherot",
+   "tour": "ATP",
+   "winner": "Raphael Collignon"
+  },
+  {
+   "cid": "0x79cda5a8887dc03a2eb699c55d35892c4235f03d7a81a324c1079b12eff7a5ef",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.2985,
+   "side": "Stefano Travaglia",
+   "start": "2026-07-17T09:00:00Z",
+   "title": "Swedish Open: Adolfo Vallejo vs Stefano Travaglia",
+   "tour": "ATP",
+   "winner": "Adolfo Vallejo"
+  },
+  {
+   "cid": "0xc0335c9816ab0bf9b4d493f9fb9f2c31c625181a0d33a3fcd66f329b6952c731",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.684,
+   "side": "Alexander Bublik",
+   "start": "2026-07-17T10:00:00Z",
+   "title": "Swiss Open: Alexander Bublik vs Quentin Halys",
+   "tour": "ATP",
+   "winner": "Quentin Halys"
+  },
+  {
+   "cid": "0x1b531e1a84bccf3556c4e43471cf6f25ca2a37bba51db849d653301404dc780b",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.32,
+   "side": "Alexander Shevchenko",
+   "start": "2026-07-17T10:00:00Z",
+   "title": "Swiss Open: Alexander Shevchenko vs Dominic Stephan Stricker",
+   "tour": "ATP",
+   "winner": "Alexander Shevchenko"
+  },
+  {
+   "cid": "0xcacd62d4b5a5d90fa55d31686ea558c166a9579d8d98def0bd09c4815e6bf901",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 15,
+   "phase": "in-window",
+   "price": 0.53,
+   "side": "Yulia Putintseva",
+   "start": "2026-07-17T10:00:00Z",
+   "title": "Iasi Open: Yulia Putintseva vs Mayar Sherif",
+   "tour": "WTA",
+   "winner": "Mayar Sherif"
+  },
+  {
+   "cid": "0x056cf5f0999932490946ba2e6521104984dcc0ae04b97e6d2c21fbfa90e6d1cf",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.435,
+   "side": "Nuno Borges",
+   "start": "2026-07-17T11:00:00Z",
+   "title": "Swedish Open: Nuno Borges vs Luciano Darderi",
+   "tour": "ATP",
+   "winner": "Luciano Darderi"
+  },
+  {
+   "cid": "0xb8c841b5d5d1f1187db9b648626b61e175af862de3c2243541f35058c884a7c1",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.385,
+   "side": "Sebastian Baez",
+   "start": "2026-07-17T13:10:00Z",
+   "title": "Swedish Open: Andrey Rublev vs Sebastian Baez",
+   "tour": "ATP",
+   "winner": "Andrey Rublev"
+  },
+  {
+   "cid": "0xd0d87798c19179d9aabeac5068f8f30c522c080a8b9f0cdf8ab2f9ca8a334ee4",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.465,
+   "side": "Alina Korneeva",
+   "start": "2026-07-17T14:30:00Z",
+   "title": "Athens Open: Tereza Valentova vs Alina Korneeva",
+   "tour": "WTA",
+   "winner": "Alina Korneeva"
+  },
+  {
+   "cid": "0xa35be555e7aef08de0f9dfc0a237877e1ff3ea1189e632a460739fd2abda7153",
+   "drift_after_lock": {
+    "side_name": "Panna Udvardy",
+    "state": "aligned"
+   },
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.715,
+   "side": "Paula Badosa",
+   "start": "2026-07-17T15:30:00Z",
+   "title": "Iasi Open: Panna Udvardy vs Paula Badosa",
+   "tour": "WTA",
+   "winner": "Paula Badosa"
+  },
+  {
+   "cid": "0x67f00df86ea4b9b905ee01830e9c100c5e93379db212ef397e7d1429dea7008c",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 5,
+   "phase": "in-window",
+   "price": 0.38,
+   "side": "Arthur Rinderknech",
+   "start": "2026-07-17T16:00:00Z",
+   "title": "Swiss Open: Arthur Rinderknech vs Stefanos Tsitsipas",
+   "tour": "ATP",
+   "winner": "Stefanos Tsitsipas"
+  },
+  {
+   "cid": "0xc9c0f757eec0134e95664f7016fdeaaa047d2e0aeacc7c07eb85138efc63ad86",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.405,
+   "side": "Roman Andres Burruchaga",
+   "start": "2026-07-17T16:30:00Z",
+   "title": "Croatia Open: Roman Andres Burruchaga vs Daniel Merida Aguilar",
+   "tour": "ATP",
+   "winner": "Daniel Merida Aguilar"
+  },
+  {
+   "cid": "0xfd9ce0f70d4fedc2642ed184a9fe08826e15858920080d27448e5c86ab59cb61",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "none"
+   },
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.345,
+   "side": "Tamara Zidansek",
+   "start": "2026-07-17T17:50:00Z",
+   "title": "Iasi Open: Tamara Zidansek vs Petra Marcinko",
+   "tour": "WTA",
+   "winner": "Tamara Zidansek"
+  },
+  {
+   "cid": "0xef3f25aa82199f821561eebbf28bb361aea4ef659f603fe23c54821d40c2407b",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.485,
+   "side": "Sara Bejlek",
+   "start": "2026-07-17T18:15:00Z",
+   "title": "Athens Open: Clara Tauson vs Sara Bejlek",
+   "tour": "WTA",
+   "winner": "Clara Tauson"
+  },
+  {
+   "cid": "0x13bc18a3dc17580ecccb67db238c53f34ca0414c9a10334a49801993701e6504",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 25,
+   "phase": "in-window",
+   "price": 0.74,
+   "side": "Alex Molcan",
+   "start": "2026-07-17T19:10:00Z",
+   "title": "Croatia Open: Damir Dzumhur vs Alex Molcan",
+   "tour": "ATP",
+   "winner": "Damir Dzumhur"
+  },
+  {
+   "cid": "0x20623439550672a136feea970343360a0f5414ec44bfe6cd83a5c52ad3014239",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.435,
+   "side": "Alina Korneeva",
+   "start": "2026-07-18T16:35:00Z",
+   "title": "Athens Open: Maria Sakkari vs Alina Korneeva",
+   "tour": "WTA",
+   "winner": "Maria Sakkari"
+  },
+  {
+   "cid": "0xa48471b0797c414c7cd6c636c4f2cdf64fbd84e6c90027799490ff9ca224ab15",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 30,
+   "phase": "in-window",
+   "price": 0.42,
+   "side": "Bernard Tomic",
+   "start": "2026-07-18T23:30:00Z",
+   "title": "Lincoln: Bernard Tomic vs Spencer Johnson",
+   "tour": "ATP",
+   "winner": "Bernard Tomic"
+  },
+  {
+   "cid": "0xf8ac0137233acbb557852ddc40e51fe669dabb3f133fe286f06bdcd5a72c27f2",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 10,
+   "phase": "in-window",
+   "price": 0.5722,
+   "side": "Andrey Rublev",
+   "start": "2026-07-19T12:05:00Z",
+   "title": "Swedish Open: Andrey Rublev vs Luciano Darderi",
+   "tour": "ATP",
+   "winner": "Andrey Rublev"
+  },
+  {
+   "cid": "0xe49c3e534246235e99025f36bfe4ff19b0ab90efa2a3b7da7c257413f43ba830",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 30,
+   "phase": "in-window",
+   "price": 0.51,
+   "side": "Lanlana Tararudee",
+   "start": "2026-07-19T14:10:00Z",
+   "title": "Istanbul 2: Hanne Vandewinkel vs Lanlana Tararudee",
+   "tour": "WTA",
+   "winner": "Lanlana Tararudee"
+  },
+  {
+   "cid": "0x1768f684378926419bd483f767e4d03e16f1368dd0013bd0c99bc215262f4277",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.305,
+   "side": "August Holmgren",
+   "start": "2026-07-19T14:30:00Z",
+   "title": "Granby: Aleksandar Vukic vs August Holmgren",
+   "tour": "ATP",
+   "winner": "Aleksandar Vukic"
+  },
+  {
+   "cid": "0x82d9d2bd41b548eebe1b4c8c66563101048efb81b0711c5b9b29e4556ac26368",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.42,
+   "side": "Alexander Shevchenko",
+   "start": "2026-07-21T09:05:00Z",
+   "title": "Generali Open: Jan-Lennard Struff vs Alexander Shevchenko",
+   "tour": "ATP",
+   "winner": "Jan-Lennard Struff"
+  },
+  {
+   "cid": "0x2f39c668afc7b19d558be8de8e28006b0c53b5ccb0543fe3226c115eaea6a693",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 15,
+   "phase": "in-window",
+   "price": 0.47,
+   "side": "Simona Waltert",
+   "start": "2026-07-22T09:00:00Z",
+   "title": "Hamburg European Open: Simona Waltert vs Mayar Sherif",
+   "tour": "WTA",
+   "winner": "Mayar Sherif"
+  },
+  {
+   "cid": "0x305d7c3d8e2961e20ccd787118c5934bef98bc2ad9e3b55a0ab8a573371bd6eb",
+   "drift_after_lock": null,
+   "hit": true,
+   "locked_min": 0,
+   "phase": "pre-match",
+   "price": 0.525,
+   "side": "Sebastian Baez",
+   "start": "2026-07-22T09:00:00Z",
+   "title": "Generali Open: Sebastian Baez vs Arthur Rinderknech",
+   "tour": "ATP",
+   "winner": "Sebastian Baez"
+  },
+  {
+   "cid": "0x3a386263109b82a74ab4b1846e4f025f14bcd6c55bacfa834824a68b952fc7bf",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": false,
+   "locked_min": 15,
+   "phase": "in-window",
+   "price": 0.2601,
+   "side": "Akira Santillan",
+   "start": "2026-07-22T10:00:00Z",
+   "title": "Segovia: Akira Santillan vs Mert Alkaya",
+   "tour": "ATP",
+   "winner": "Mert Alkaya"
+  },
+  {
+   "cid": "0xf8502b19a602d80ac7694be67144bb1f30626fbabd6332251125874a7454edf7",
+   "drift_after_lock": {
+    "side_name": null,
+    "state": "crowded"
+   },
+   "hit": true,
+   "locked_min": 20,
+   "phase": "in-window",
+   "price": 0.77,
+   "side": "Yannick Hanfmann",
+   "start": "2026-07-22T10:45:00Z",
+   "title": "Generali Open: Marco Trungelliti vs Yannick Hanfmann",
+   "tour": "ATP",
+   "winner": "Yannick Hanfmann"
+  },
+  {
+   "cid": "0xfa086a518e7f6045b17e542de8fbab13f20b19fbbbcf05c3e26e78540c48b38d",
+   "drift_after_lock": null,
+   "hit": false,
+   "locked_min": 30,
+   "phase": "in-window",
+   "price": 0.374,
+   "side": "Kilian Feldbausch",
+   "start": "2026-07-22T11:45:00Z",
+   "title": "Generali Open: Kilian Feldbausch vs Ignacio Buse",
+   "tour": "ATP",
+   "winner": "Ignacio Buse"
+  }
+ ]
+}
