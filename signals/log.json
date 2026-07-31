@@ -62,11 +62,28 @@
    "title": "Samsun: Kenta Miyoshi vs Vadym Ursu",
    "tour": "ATP"
   },
-  "0x0ea94f77bc791e279b989cff193f7dbdda61bbddf3526c0c44bb58f1c4a620b5": {
-   "cid": "0x0ea94f77bc791e279b989cff193f7dbdda61bbddf3526c0c44bb58f1c4a620b5",
-   "first_seen": "2026-07-31T05:46:04Z",
+  "0x072d48c31ab64de2fcae4c3700b609373ebc88ae2665a71b43ab76763015db99": {
+   "cid": "0x072d48c31ab64de2fcae4c3700b609373ebc88ae2665a71b43ab76763015db99",
+   "first_seen": "2026-07-31T22:43:10Z",
+   "last_pre": null,
+   "last_scan": "2026-07-31T22:43:10Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Maddison Inglis",
+    "Taylah Preston"
+   ],
+   "result": null,
+   "slug": "wta-inglis-preston-2026-08-01",
+   "start": "2026-08-01T19:00:00Z",
+   "title": "Vancouver: Maddison Inglis vs Taylah Preston",
+   "tour": "WTA"
+  },
+  "0x0a6dcd08ccd3428a2cdcd068b85e9738190384ed1afbf59d6748ae7c4f40e5f9": {
+   "cid": "0x0a6dcd08ccd3428a2cdcd068b85e9738190384ed1afbf59d6748ae7c4f40e5f9",
+   "first_seen": "2026-07-31T22:43:10Z",
    "last_pre": {
-    "at": "2026-07-31T21:39:03Z",
+    "at": "2026-07-31T22:43:10Z",
     "fish": [
      0.0,
      0.0
@@ -80,7 +97,69 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-07-31T21:39:03Z",
+   "last_scan": "2026-07-31T22:43:10Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Norbert Gombos",
+    "Gonzalo Bueno"
+   ],
+   "result": null,
+   "slug": "atp-gombos-bueno-2026-08-01",
+   "start": "2026-08-01T11:00:00Z",
+   "title": "Liberec: Norbert Gombos vs Gonzalo Bueno",
+   "tour": "ATP"
+  },
+  "0x0dc2509f78d8bfa3f216c23bd7e7a667dff78716d11772a016178a60f59dbc2d": {
+   "cid": "0x0dc2509f78d8bfa3f216c23bd7e7a667dff78716d11772a016178a60f59dbc2d",
+   "first_seen": "2026-07-31T22:43:10Z",
+   "last_pre": {
+    "at": "2026-07-31T22:43:10Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-07-31T22:43:10Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Jan Kumstat",
+    "Sumit Nagal"
+   ],
+   "result": null,
+   "slug": "atp-kumstat-nagal-2026-08-01",
+   "start": "2026-08-01T09:30:00Z",
+   "title": "Liberec: Jan Kumstat vs Sumit Nagal",
+   "tour": "ATP"
+  },
+  "0x0ea94f77bc791e279b989cff193f7dbdda61bbddf3526c0c44bb58f1c4a620b5": {
+   "cid": "0x0ea94f77bc791e279b989cff193f7dbdda61bbddf3526c0c44bb58f1c4a620b5",
+   "first_seen": "2026-07-31T05:46:04Z",
+   "last_pre": {
+    "at": "2026-07-31T22:43:10Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-07-31T22:43:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -91,6 +170,23 @@
    "slug": "atp-wong-gea-2026-08-01",
    "start": "2026-08-01T02:30:00Z",
    "title": "Los Cabos Open: Coleman Wong vs Arthur Gea",
+   "tour": "ATP"
+  },
+  "0x0f4ed4f8f0f2edfcdd3c94f0ebdfc4f2a439b3c98c3f14c6589b56e70d4bcb58": {
+   "cid": "0x0f4ed4f8f0f2edfcdd3c94f0ebdfc4f2a439b3c98c3f14c6589b56e70d4bcb58",
+   "first_seen": "2026-07-31T22:43:10Z",
+   "last_pre": null,
+   "last_scan": "2026-07-31T22:43:10Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Kenta Miyoshi",
+    "Constantin Bittoun Kouzmine"
+   ],
+   "result": null,
+   "slug": "atp-miyoshi-kouzmin-2026-08-01",
+   "start": "2026-08-01T08:00:00Z",
+   "title": "Samsun: Kenta Miyoshi vs Constantin Bittoun Kouzmine",
    "tour": "ATP"
   },
   "0x1167b1cbbacd43808bac630bea0448fc38df589d2e1bcc1239648986096c7f4b": {
@@ -173,7 +269,7 @@
     "state": "crowded",
     "wallets": 16
    },
-   "last_scan": "2026-07-31T21:39:03Z",
+   "last_scan": "2026-07-31T22:43:10Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -246,6 +342,68 @@
    "slug": "atp-varilla-skatov-2026-07-31",
    "start": "2026-07-31T14:00:00Z",
    "title": "San Marino: Juan Pablo Varillas vs Timofey Skatov",
+   "tour": "ATP"
+  },
+  "0x286f96923366bcf581259f5d81ba980aba835dcca65a05e66280714fdca06e96": {
+   "cid": "0x286f96923366bcf581259f5d81ba980aba835dcca65a05e66280714fdca06e96",
+   "first_seen": "2026-07-31T22:43:10Z",
+   "last_pre": {
+    "at": "2026-07-31T22:43:10Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-07-31T22:43:10Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Paul Inchauspe",
+    "Gabriel Debru"
+   ],
+   "result": null,
+   "slug": "atp-inchaus-debru-2026-08-01",
+   "start": "2026-08-01T10:00:00Z",
+   "title": "Samsun: Paul Inchauspe vs Gabriel Debru",
+   "tour": "ATP"
+  },
+  "0x2ea5974ac37f45a18063e7da61f04dc0bccd0a3c58f520724ec938124127bf84": {
+   "cid": "0x2ea5974ac37f45a18063e7da61f04dc0bccd0a3c58f520724ec938124127bf84",
+   "first_seen": "2026-07-31T22:43:10Z",
+   "last_pre": {
+    "at": "2026-07-31T22:43:10Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-07-31T22:43:10Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Jan Choinski",
+    "Federico Agustin Gomez"
+   ],
+   "result": null,
+   "slug": "atp-choinsk-gomez-2026-08-01",
+   "start": "2026-08-01T12:30:00Z",
+   "title": "Bonn: Jan Choinski vs Federico Agustin Gomez",
    "tour": "ATP"
   },
   "0x32d1db922d566dead9f2722439cfc960e687b579cd01f8aabc3903a7da35d021": {
@@ -347,7 +505,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-07-31T21:39:03Z",
+   "last_scan": "2026-07-31T22:43:10Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -389,6 +547,23 @@
    "slug": "wta-jones-rame-2026-07-31",
    "start": "2026-07-31T11:20:00Z",
    "title": "Targu Mures: Francesca Jones vs Alice Rame",
+   "tour": "WTA"
+  },
+  "0x3ccff9c75d27b5ba16cae4bc32742e4027929c24cc14efec45b79ea26c4294fe": {
+   "cid": "0x3ccff9c75d27b5ba16cae4bc32742e4027929c24cc14efec45b79ea26c4294fe",
+   "first_seen": "2026-07-31T22:43:10Z",
+   "last_pre": null,
+   "last_scan": "2026-07-31T22:43:10Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Kaitlin Quevedo",
+    "Francesca Jones"
+   ],
+   "result": null,
+   "slug": "wta-quevedo-jones-2026-08-01",
+   "start": "2026-08-01T13:00:00Z",
+   "title": "Targu Mures: Kaitlin Quevedo vs Francesca Jones",
    "tour": "WTA"
   },
   "0x3f3ec0623b6b0af9d06db1b19ba28c3379173a6a7fe0942d29cf187026d2ab71": {
@@ -555,10 +730,10 @@
    "cid": "0x685f6c3d333c11e65a9cca09fbd673d4de3532f9f47a04036bffe09299456a04",
    "first_seen": "2026-07-31T05:46:04Z",
    "last_pre": {
-    "at": "2026-07-31T21:39:03Z",
+    "at": "2026-07-31T22:43:10Z",
     "fish": [
-     1274.99,
-     6621.56
+     6178.83,
+     18677.57
     ],
     "price": null,
     "sharp": [
@@ -567,9 +742,9 @@
     ],
     "side": null,
     "state": "crowded",
-    "wallets": 3
+    "wallets": 5
    },
-   "last_scan": "2026-07-31T21:39:03Z",
+   "last_scan": "2026-07-31T22:43:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -650,7 +825,7 @@
     "state": "none",
     "wallets": 5
    },
-   "last_scan": "2026-07-31T21:39:03Z",
+   "last_scan": "2026-07-31T22:43:10Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -667,21 +842,21 @@
    "cid": "0x7daed30e3fe81287becef990a694ded2c9b4796e9040a4966ee7bf78ec6002aa",
    "first_seen": "2026-07-31T05:46:04Z",
    "last_pre": {
-    "at": "2026-07-31T21:39:03Z",
+    "at": "2026-07-31T22:43:10Z",
     "fish": [
      0.0,
-     1014.67
+     1006.86
     ],
-    "price": 0.35,
+    "price": 0.355,
     "sharp": [
-     1352.44,
+     1371.76,
      0.0
     ],
     "side": 0,
     "state": "aligned",
     "wallets": 2
    },
-   "last_scan": "2026-07-31T21:39:03Z",
+   "last_scan": "2026-07-31T22:43:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -690,7 +865,7 @@
    ],
    "result": null,
    "slug": "wta-vidmano-volynet-2026-07-31",
-   "start": "2026-07-31T23:00:00Z",
+   "start": "2026-08-01T00:45:00Z",
    "title": "The Memphis Classic: Darja Vidmanova vs Katie Volynets",
    "tour": "WTA"
   },
@@ -790,6 +965,23 @@
    "slug": "atp-minaur-nakashi-2026-07-31",
    "start": "2026-07-31T18:00:00Z",
    "title": "Mubadala Citi DC Open: Alex de Minaur vs Brandon Nakashima",
+   "tour": "ATP"
+  },
+  "0x929bf6f0715219b1ed98efee7f656a3d2e233994bb670165175b9b7e21713698": {
+   "cid": "0x929bf6f0715219b1ed98efee7f656a3d2e233994bb670165175b9b7e21713698",
+   "first_seen": "2026-07-31T22:43:10Z",
+   "last_pre": null,
+   "last_scan": "2026-07-31T22:43:10Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Jamie Mackenzie",
+    "Max Dahlin"
+   ],
+   "result": null,
+   "slug": "atp-mackenz-dahlin-2026-08-01",
+   "start": "2026-08-01T14:00:00Z",
+   "title": "Bonn: Jamie Mackenzie vs Max Dahlin",
    "tour": "ATP"
   },
   "0x93c696ede2d15485ba247c9c809229a12051d01a21cf0533ecce13a1f27b758a": {
@@ -934,16 +1126,31 @@
     "state": "aligned",
     "wallets": 17
    },
-   "last_scan": "2026-07-31T21:39:03Z",
+   "last_scan": "2026-07-31T22:43:10Z",
    "lock_closed": false,
-   "locked": null,
+   "locked": {
+    "at": "2026-07-31T21:39:03Z",
+    "fish": [
+     39687.08,
+     3934.24
+    ],
+    "phase": "pre-match",
+    "price": 0.395,
+    "sharp": [
+     14641.81,
+     39053.01
+    ],
+    "side": 1,
+    "side_name": "Lorenzo Musetti",
+    "wallets": 17
+   },
    "outcomes": [
     "Rafael Jodar",
     "Lorenzo Musetti"
    ],
    "result": null,
    "slug": "atp-jodar-musetti-2026-07-31",
-   "start": "2026-07-31T22:00:00Z",
+   "start": "2026-07-31T22:20:00Z",
    "title": "Mubadala Citi DC Open: Rafael Jodar vs Lorenzo Musetti",
    "tour": "ATP"
   },
@@ -1069,6 +1276,37 @@
    "slug": "atp-matsuda-debru-2026-07-31",
    "start": "2026-07-31T12:35:00Z",
    "title": "Samsun: Koki Matsuda vs Gabriel Debru",
+   "tour": "ATP"
+  },
+  "0xb822fe574cf30b92c4bd977aacb67f7394d11f4327afec300cb625daab1c1b09": {
+   "cid": "0xb822fe574cf30b92c4bd977aacb67f7394d11f4327afec300cb625daab1c1b09",
+   "first_seen": "2026-07-31T22:43:10Z",
+   "last_pre": {
+    "at": "2026-07-31T22:43:10Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-07-31T22:43:10Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Mili Poljicak",
+    "Juan Pablo Varillas"
+   ],
+   "result": null,
+   "slug": "atp-poljica-varilla-2026-08-01",
+   "start": "2026-08-01T16:00:00Z",
+   "title": "San Marino: Mili Poljicak vs Juan Pablo Varillas",
    "tour": "ATP"
   },
   "0xb8f4e09fe32d05d3d875eaea4fcdafd795ac060754e525a923ca0f8b8f1eee96": {
@@ -1199,7 +1437,7 @@
    "cid": "0xcd6fde5dbe1305e949c1db4414d87cb184aa33e92c61085849a89d9d939f3a0d",
    "first_seen": "2026-07-31T11:31:09Z",
    "last_pre": {
-    "at": "2026-07-31T21:39:03Z",
+    "at": "2026-07-31T22:43:10Z",
     "fish": [
      1169.99,
      0.0
@@ -1213,7 +1451,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-07-31T21:39:03Z",
+   "last_scan": "2026-07-31T22:43:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -1244,8 +1482,8 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-07-31T21:39:03Z",
-   "lock_closed": false,
+   "last_scan": "2026-07-31T22:43:10Z",
+   "lock_closed": true,
    "locked": null,
    "outcomes": [
     "Keegan Rice",
@@ -1253,7 +1491,7 @@
    ],
    "result": null,
    "slug": "atp-rice-lajal-2026-07-31",
-   "start": "2026-07-31T22:00:00Z",
+   "start": "2026-07-31T22:05:00Z",
    "title": "Vancouver: Keegan Rice vs Mark Lajal",
    "tour": "ATP"
   },
@@ -1261,21 +1499,21 @@
    "cid": "0xd22957f0cc836227e85e99db33efd0d227b6317897e3a14184bda432533bf174",
    "first_seen": "2026-07-31T05:46:04Z",
    "last_pre": {
-    "at": "2026-07-31T21:39:03Z",
+    "at": "2026-07-31T22:43:10Z",
     "fish": [
-     6767.25,
-     3802.5
+     23100.99,
+     18085.19
     ],
-    "price": 0.585,
+    "price": 0.575,
     "sharp": [
-     15027.76,
-     28878.43
+     15169.11,
+     31089.52
     ],
     "side": 1,
     "state": "aligned",
-    "wallets": 9
+    "wallets": 13
    },
-   "last_scan": "2026-07-31T21:39:03Z",
+   "last_scan": "2026-07-31T22:43:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -1284,7 +1522,7 @@
    ],
    "result": null,
    "slug": "wta-eala-svitoli-2026-07-31",
-   "start": "2026-07-31T22:30:00Z",
+   "start": "2026-07-31T22:45:00Z",
    "title": "Mubadala Citi DC Open: Alexandra Eala vs Elina Svitolina",
    "tour": "WTA"
   },
@@ -1292,21 +1530,21 @@
    "cid": "0xd87a64567763c8a8baffee802fa1041407d9a7bd70959b742f171430a175a8ac",
    "first_seen": "2026-07-31T11:31:09Z",
    "last_pre": {
-    "at": "2026-07-31T21:39:03Z",
+    "at": "2026-07-31T22:43:10Z",
     "fish": [
      0.0,
      0.0
     ],
     "price": null,
     "sharp": [
-     0.0,
+     1224.83,
      0.0
     ],
     "side": null,
     "state": "none",
-    "wallets": 0
+    "wallets": 1
    },
-   "last_scan": "2026-07-31T21:39:03Z",
+   "last_scan": "2026-07-31T22:43:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -1318,6 +1556,40 @@
    "start": "2026-07-31T23:30:00Z",
    "title": "Vancouver: Jay Dylan Friend vs J.J. Wolf",
    "tour": "ATP"
+  },
+  "0xdabee87ec977b41051ba370e73984dd752be0032e25460d02d0ccddcfedc8c40": {
+   "cid": "0xdabee87ec977b41051ba370e73984dd752be0032e25460d02d0ccddcfedc8c40",
+   "first_seen": "2026-07-31T22:43:10Z",
+   "last_pre": null,
+   "last_scan": "2026-07-31T22:43:10Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Facundo Acosta",
+    "Vilius Gaubas"
+   ],
+   "result": null,
+   "slug": "atp-acosta-gaubas-2026-08-01",
+   "start": "2026-08-01T18:30:00Z",
+   "title": "San Marino: Facundo Acosta vs Vilius Gaubas",
+   "tour": "ATP"
+  },
+  "0xe96e094f3d8d787f785e4d2b0a190b5e7d1b48c712608ee0aa61a4c3aabcab12": {
+   "cid": "0xe96e094f3d8d787f785e4d2b0a190b5e7d1b48c712608ee0aa61a4c3aabcab12",
+   "first_seen": "2026-07-31T22:43:10Z",
+   "last_pre": null,
+   "last_scan": "2026-07-31T22:43:10Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Lucia Bronzetti",
+    "Laura Samson"
+   ],
+   "result": null,
+   "slug": "wta-bronzet-samson-2026-08-01",
+   "start": "2026-08-01T15:00:00Z",
+   "title": "Targu Mures: Lucia Bronzetti vs Laura Samson",
+   "tour": "WTA"
   },
   "0xf2244dfa1f6e82bdc83f04d968e807a21ee55b41e5eb3ab874dbd06c3e128f1a": {
    "cid": "0xf2244dfa1f6e82bdc83f04d968e807a21ee55b41e5eb3ab874dbd06c3e128f1a",
@@ -1337,7 +1609,7 @@
     "state": "aligned",
     "wallets": 2
    },
-   "last_scan": "2026-07-31T21:39:03Z",
+   "last_scan": "2026-07-31T22:43:10Z",
    "lock_closed": false,
    "locked": {
     "at": "2026-07-31T18:47:11Z",
@@ -1445,6 +1717,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-07-31T21:39:03Z",
+ "updated": "2026-07-31T22:43:10Z",
  "version": 1
 }
