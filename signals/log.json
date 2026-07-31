@@ -18,7 +18,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-07-31T17:36:22Z",
+   "last_scan": "2026-07-31T18:47:11Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -66,7 +66,7 @@
    "cid": "0x0ea94f77bc791e279b989cff193f7dbdda61bbddf3526c0c44bb58f1c4a620b5",
    "first_seen": "2026-07-31T05:46:04Z",
    "last_pre": {
-    "at": "2026-07-31T17:36:22Z",
+    "at": "2026-07-31T18:47:11Z",
     "fish": [
      0.0,
      0.0
@@ -80,7 +80,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-07-31T17:36:22Z",
+   "last_scan": "2026-07-31T18:47:11Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -159,21 +159,21 @@
    "cid": "0x2029e0396192d70b8a264810144a03a350b75a6a8f6e45379c7ee8503a12e476",
    "first_seen": "2026-07-31T01:55:24Z",
    "last_pre": {
-    "at": "2026-07-31T17:36:22Z",
+    "at": "2026-07-31T18:47:11Z",
     "fish": [
-     3865.18,
-     4355.0
+     5001.76,
+     4087.0
     ],
     "price": null,
     "sharp": [
-     4476.36,
-     1200.28
+     9198.56,
+     1126.42
     ],
     "side": null,
     "state": "none",
-    "wallets": 7
+    "wallets": 9
    },
-   "last_scan": "2026-07-31T17:36:22Z",
+   "last_scan": "2026-07-31T18:47:11Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -347,8 +347,8 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-07-31T17:36:22Z",
-   "lock_closed": false,
+   "last_scan": "2026-07-31T18:47:11Z",
+   "lock_closed": true,
    "locked": null,
    "outcomes": [
     "Elvina Kalieva",
@@ -356,7 +356,7 @@
    ],
    "result": null,
    "slug": "wta-kalieva-stearns-2026-07-31",
-   "start": "2026-07-31T17:30:00Z",
+   "start": "2026-07-31T18:00:00Z",
    "title": "The Memphis Classic: Elvina Kalieva vs Peyton Stearns",
    "tour": "WTA"
   },
@@ -555,7 +555,7 @@
    "cid": "0x685f6c3d333c11e65a9cca09fbd673d4de3532f9f47a04036bffe09299456a04",
    "first_seen": "2026-07-31T05:46:04Z",
    "last_pre": {
-    "at": "2026-07-31T17:36:22Z",
+    "at": "2026-07-31T18:47:11Z",
     "fish": [
      1274.99,
      6621.56
@@ -569,7 +569,7 @@
     "state": "crowded",
     "wallets": 3
    },
-   "last_scan": "2026-07-31T17:36:22Z",
+   "last_scan": "2026-07-31T18:47:11Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -622,7 +622,11 @@
     "Kristina Liutova",
     "Caty McNally"
    ],
-   "result": null,
+   "result": {
+    "hit": false,
+    "scored_at": "2026-07-31T18:47:27Z",
+    "winner": "Kristina Liutova"
+   },
    "slug": "wta-liutova-mcnally-2026-07-31",
    "start": "2026-07-31T16:00:00Z",
    "title": "The Memphis Classic: Kristina Liutova vs Caty McNally",
@@ -632,21 +636,21 @@
    "cid": "0x766bd9969946db798f6866fb793ed8c7f6550f6c764dbb0d6bec3335c059dfc4",
    "first_seen": "2026-07-31T05:46:04Z",
    "last_pre": {
-    "at": "2026-07-31T17:36:22Z",
+    "at": "2026-07-31T18:47:11Z",
     "fish": [
-     2502.44,
+     2551.03,
      0.0
     ],
-    "price": 0.485,
+    "price": 0.475,
     "sharp": [
      0.0,
-     4933.87
+     4832.14
     ],
     "side": 1,
     "state": "aligned",
     "wallets": 2
    },
-   "last_scan": "2026-07-31T17:36:22Z",
+   "last_scan": "2026-07-31T18:47:11Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -663,7 +667,7 @@
    "cid": "0x7daed30e3fe81287becef990a694ded2c9b4796e9040a4966ee7bf78ec6002aa",
    "first_seen": "2026-07-31T05:46:04Z",
    "last_pre": {
-    "at": "2026-07-31T17:36:22Z",
+    "at": "2026-07-31T18:47:11Z",
     "fish": [
      0.0,
      0.0
@@ -677,7 +681,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-07-31T17:36:22Z",
+   "last_scan": "2026-07-31T18:47:11Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -711,7 +715,7 @@
    "cid": "0x849fc316259db893ed099df2110690f703e95ce998d020bff96d705be465ee83",
    "first_seen": "2026-07-31T01:55:24Z",
    "last_pre": {
-    "at": "2026-07-31T17:36:22Z",
+    "at": "2026-07-31T18:47:11Z",
     "fish": [
      0.0,
      0.0
@@ -725,7 +729,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-07-31T17:36:22Z",
+   "last_scan": "2026-07-31T18:47:11Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -734,7 +738,7 @@
    ],
    "result": null,
    "slug": "atp-gaubas-monteir-2026-07-31",
-   "start": "2026-07-31T18:30:00Z",
+   "start": "2026-07-31T19:15:00Z",
    "title": "San Marino: Vilius Gaubas vs Thiago Monteiro",
    "tour": "ATP"
   },
@@ -756,9 +760,24 @@
     "state": "aligned",
     "wallets": 9
    },
-   "last_scan": "2026-07-31T17:36:22Z",
+   "last_scan": "2026-07-31T18:47:11Z",
    "lock_closed": false,
-   "locked": null,
+   "locked": {
+    "at": "2026-07-31T17:36:22Z",
+    "fish": [
+     44680.89,
+     28860.09
+    ],
+    "phase": "pre-match",
+    "price": 0.385,
+    "sharp": [
+     0.0,
+     6627.2
+    ],
+    "side": 1,
+    "side_name": "Brandon Nakashima",
+    "wallets": 9
+   },
    "outcomes": [
     "Alex de Minaur",
     "Brandon Nakashima"
@@ -897,21 +916,21 @@
    "cid": "0xaeb3725dc916cfc0c0b2017e01628b69bbe826779790e4ac96efd9ac6b050794",
    "first_seen": "2026-07-31T01:55:24Z",
    "last_pre": {
-    "at": "2026-07-31T17:36:22Z",
+    "at": "2026-07-31T18:47:11Z",
     "fish": [
-     9357.02,
-     4991.37
+     25014.87,
+     3735.04
     ],
-    "price": null,
+    "price": 0.375,
     "sharp": [
-     3278.12,
-     1650.81
+     3226.49,
+     14155.91
     ],
-    "side": null,
-    "state": "crowded",
-    "wallets": 7
+    "side": 1,
+    "state": "aligned",
+    "wallets": 13
    },
-   "last_scan": "2026-07-31T17:36:22Z",
+   "last_scan": "2026-07-31T18:47:11Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -942,8 +961,8 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-07-31T17:36:22Z",
-   "lock_closed": false,
+   "last_scan": "2026-07-31T18:47:11Z",
+   "lock_closed": true,
    "locked": null,
    "outcomes": [
     "Maddison Inglis",
@@ -1004,8 +1023,8 @@
     "state": "crowded",
     "wallets": 5
    },
-   "last_scan": "2026-07-31T17:36:22Z",
-   "lock_closed": false,
+   "last_scan": "2026-07-31T18:47:11Z",
+   "lock_closed": true,
    "locked": null,
    "outcomes": [
     "Elisabetta Cocciaretto",
@@ -1176,7 +1195,7 @@
    "cid": "0xcd6fde5dbe1305e949c1db4414d87cb184aa33e92c61085849a89d9d939f3a0d",
    "first_seen": "2026-07-31T11:31:09Z",
    "last_pre": {
-    "at": "2026-07-31T17:36:22Z",
+    "at": "2026-07-31T18:47:11Z",
     "fish": [
      1109.99,
      0.0
@@ -1190,7 +1209,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-07-31T17:36:22Z",
+   "last_scan": "2026-07-31T18:47:11Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -1207,7 +1226,7 @@
    "cid": "0xd1304f3e39c4eecad0a372e5539eed569f299ae1993d8142d00045c73158f197",
    "first_seen": "2026-07-31T05:46:04Z",
    "last_pre": {
-    "at": "2026-07-31T17:36:22Z",
+    "at": "2026-07-31T18:47:11Z",
     "fish": [
      0.0,
      0.0
@@ -1221,7 +1240,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-07-31T17:36:22Z",
+   "last_scan": "2026-07-31T18:47:11Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -1238,21 +1257,21 @@
    "cid": "0xd22957f0cc836227e85e99db33efd0d227b6317897e3a14184bda432533bf174",
    "first_seen": "2026-07-31T05:46:04Z",
    "last_pre": {
-    "at": "2026-07-31T17:36:22Z",
+    "at": "2026-07-31T18:47:11Z",
     "fish": [
      4150.0,
-     7942.58
+     9217.38
     ],
     "price": 0.415,
     "sharp": [
-     5798.7,
+     6526.44,
      3877.48
     ],
     "side": 0,
     "state": "aligned",
-    "wallets": 8
+    "wallets": 7
    },
-   "last_scan": "2026-07-31T17:36:22Z",
+   "last_scan": "2026-07-31T18:47:11Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -1269,7 +1288,7 @@
    "cid": "0xd87a64567763c8a8baffee802fa1041407d9a7bd70959b742f171430a175a8ac",
    "first_seen": "2026-07-31T11:31:09Z",
    "last_pre": {
-    "at": "2026-07-31T17:36:22Z",
+    "at": "2026-07-31T18:47:11Z",
     "fish": [
      0.0,
      0.0
@@ -1283,7 +1302,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-07-31T17:36:22Z",
+   "last_scan": "2026-07-31T18:47:11Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -1300,7 +1319,7 @@
    "cid": "0xf2244dfa1f6e82bdc83f04d968e807a21ee55b41e5eb3ab874dbd06c3e128f1a",
    "first_seen": "2026-07-31T01:55:24Z",
    "last_pre": {
-    "at": "2026-07-31T17:36:22Z",
+    "at": "2026-07-31T18:47:11Z",
     "fish": [
      0.0,
      1369.23
@@ -1314,7 +1333,7 @@
     "state": "aligned",
     "wallets": 2
    },
-   "last_scan": "2026-07-31T17:36:22Z",
+   "last_scan": "2026-07-31T18:47:11Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -1323,7 +1342,7 @@
    ],
    "result": null,
    "slug": "wta-zakharo-zarazua-2026-07-31",
-   "start": "2026-07-31T19:00:00Z",
+   "start": "2026-07-31T19:30:00Z",
    "title": "The Memphis Classic: Anastasia Zakharova vs Renata Zarazua",
    "tour": "WTA"
   },
@@ -1348,7 +1367,7 @@
    "cid": "0xfc119a60ba76e6c4443bed1cfead88f346948b7b91c3b1535cf939693eb3310c",
    "first_seen": "2026-07-31T05:46:04Z",
    "last_pre": {
-    "at": "2026-07-31T17:36:22Z",
+    "at": "2026-07-31T18:47:11Z",
     "fish": [
      0.0,
      0.0
@@ -1362,7 +1381,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-07-31T17:36:22Z",
+   "last_scan": "2026-07-31T18:47:11Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -1407,6 +1426,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-07-31T17:36:22Z",
+ "updated": "2026-07-31T18:47:11Z",
  "version": 1
 }

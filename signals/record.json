@@ -1,27 +1,27 @@
 {
  "by_phase": {
   "pre-match": {
-   "brier": 0.090625,
-   "edge_pp": 6.0,
-   "implied": 0.44,
-   "n": 2,
-   "roi": -0.2248062015503876,
-   "win_rate": 0.5,
+   "brier": 0.22142499999999998,
+   "edge_pp": -19.16666666666667,
+   "implied": 0.525,
+   "n": 3,
+   "roi": -0.4832041343669251,
+   "win_rate": 0.3333333333333333,
    "wins": 1,
-   "z": 0.18769485288138602
+   "z": -0.729824143225916
   }
  },
- "generated": "2026-07-31T17:36:26Z",
+ "generated": "2026-07-31T18:47:27Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called.",
  "overall": {
-  "brier": 0.090625,
-  "edge_pp": 6.0,
-  "implied": 0.44,
-  "n": 2,
-  "roi": -0.2248062015503876,
-  "win_rate": 0.5,
+  "brier": 0.22142499999999998,
+  "edge_pp": -19.16666666666667,
+  "implied": 0.525,
+  "n": 3,
+  "roi": -0.4832041343669251,
+  "win_rate": 0.3333333333333333,
   "wins": 1,
-  "z": 0.18769485288138602
+  "z": -0.729824143225916
  },
  "pending": 1,
  "signals": [
@@ -44,6 +44,16 @@
    "title": "Targu Mures: Kaitlin Quevedo vs Carole Monnet",
    "tour": "WTA",
    "winner": "Kaitlin Quevedo"
+  },
+  {
+   "hit": false,
+   "locked_at": "2026-07-31T15:37:57Z",
+   "phase": "pre-match",
+   "price": 0.695,
+   "side": "Caty McNally",
+   "title": "The Memphis Classic: Kristina Liutova vs Caty McNally",
+   "tour": "WTA",
+   "winner": "Kristina Liutova"
   }
  ]
 }
