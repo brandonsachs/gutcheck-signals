@@ -1,0 +1,8 @@
+{
+ "by_phase": {},
+ "generated": "2026-07-31T02:24:59Z",
+ "methodology": "Only the locked signal is scored. A signal locks at first ball from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called.",
+ "overall": {},
+ "pending": 0,
+ "signals": []
+}
