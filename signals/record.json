@@ -1,8 +1,39 @@
 {
- "by_phase": {},
- "generated": "2026-07-31T03:50:58Z",
+ "by_phase": {
+  "pre-match": {
+   "brier": 0.126025,
+   "edge_pp": 35.5,
+   "implied": 0.645,
+   "n": 1,
+   "roi": 0.5503875968992248,
+   "win_rate": 1.0,
+   "wins": 1,
+   "z": 0.7418811204628575
+  }
+ },
+ "generated": "2026-07-31T05:46:12Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called.",
- "overall": {},
+ "overall": {
+  "brier": 0.126025,
+  "edge_pp": 35.5,
+  "implied": 0.645,
+  "n": 1,
+  "roi": 0.5503875968992248,
+  "win_rate": 1.0,
+  "wins": 1,
+  "z": 0.7418811204628575
+ },
  "pending": 0,
- "signals": []
+ "signals": [
+  {
+   "hit": true,
+   "locked_at": "2026-07-31T03:50:52Z",
+   "phase": "pre-match",
+   "price": 0.645,
+   "side": "Denis Shapovalov",
+   "title": "Los Cabos Open: Denis Shapovalov vs Dalibor Svrcina",
+   "tour": "ATP",
+   "winner": "Denis Shapovalov"
+  }
+ ]
 }
