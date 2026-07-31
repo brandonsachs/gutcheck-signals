@@ -66,7 +66,7 @@
    "cid": "0x0ea94f77bc791e279b989cff193f7dbdda61bbddf3526c0c44bb58f1c4a620b5",
    "first_seen": "2026-07-31T05:46:04Z",
    "last_pre": {
-    "at": "2026-07-31T18:47:11Z",
+    "at": "2026-07-31T20:21:49Z",
     "fish": [
      0.0,
      0.0
@@ -80,7 +80,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-07-31T18:47:11Z",
+   "last_scan": "2026-07-31T20:21:49Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -159,21 +159,21 @@
    "cid": "0x2029e0396192d70b8a264810144a03a350b75a6a8f6e45379c7ee8503a12e476",
    "first_seen": "2026-07-31T01:55:24Z",
    "last_pre": {
-    "at": "2026-07-31T18:47:11Z",
+    "at": "2026-07-31T20:21:49Z",
     "fish": [
-     5001.76,
-     4087.0
+     19821.42,
+     8660.52
     ],
     "price": null,
     "sharp": [
-     9198.56,
-     1126.42
+     10389.99,
+     3611.28
     ],
     "side": null,
-    "state": "none",
-    "wallets": 9
+    "state": "crowded",
+    "wallets": 16
    },
-   "last_scan": "2026-07-31T18:47:11Z",
+   "last_scan": "2026-07-31T20:21:49Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -182,7 +182,7 @@
    ],
    "result": null,
    "slug": "atp-fritz-michels-2026-07-31",
-   "start": "2026-07-31T19:30:00Z",
+   "start": "2026-07-31T20:30:00Z",
    "title": "Mubadala Citi DC Open: Taylor Fritz vs Alex Michelsen",
    "tour": "ATP"
   },
@@ -347,7 +347,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-07-31T18:47:11Z",
+   "last_scan": "2026-07-31T20:21:49Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -555,7 +555,7 @@
    "cid": "0x685f6c3d333c11e65a9cca09fbd673d4de3532f9f47a04036bffe09299456a04",
    "first_seen": "2026-07-31T05:46:04Z",
    "last_pre": {
-    "at": "2026-07-31T18:47:11Z",
+    "at": "2026-07-31T20:21:49Z",
     "fish": [
      1274.99,
      6621.56
@@ -569,7 +569,7 @@
     "state": "crowded",
     "wallets": 3
    },
-   "last_scan": "2026-07-31T18:47:11Z",
+   "last_scan": "2026-07-31T20:21:49Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -636,21 +636,21 @@
    "cid": "0x766bd9969946db798f6866fb793ed8c7f6550f6c764dbb0d6bec3335c059dfc4",
    "first_seen": "2026-07-31T05:46:04Z",
    "last_pre": {
-    "at": "2026-07-31T18:47:11Z",
+    "at": "2026-07-31T20:21:49Z",
     "fish": [
-     2551.03,
-     0.0
+     1060.94,
+     1030.72
     ],
-    "price": 0.475,
+    "price": null,
     "sharp": [
-     0.0,
-     4832.14
+     13319.78,
+     8293.75
     ],
-    "side": 1,
-    "state": "aligned",
-    "wallets": 2
+    "side": null,
+    "state": "none",
+    "wallets": 5
    },
-   "last_scan": "2026-07-31T18:47:11Z",
+   "last_scan": "2026-07-31T20:21:49Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -659,7 +659,7 @@
    ],
    "result": null,
    "slug": "wta-shnaide-samsono-2026-07-31",
-   "start": "2026-07-31T19:30:45Z",
+   "start": "2026-07-31T20:30:00Z",
    "title": "Mubadala Citi DC Open: Diana Shnaider vs Liudmila Samsonova",
    "tour": "WTA"
   },
@@ -667,7 +667,7 @@
    "cid": "0x7daed30e3fe81287becef990a694ded2c9b4796e9040a4966ee7bf78ec6002aa",
    "first_seen": "2026-07-31T05:46:04Z",
    "last_pre": {
-    "at": "2026-07-31T18:47:11Z",
+    "at": "2026-07-31T20:21:49Z",
     "fish": [
      0.0,
      0.0
@@ -681,7 +681,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-07-31T18:47:11Z",
+   "last_scan": "2026-07-31T20:21:49Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -729,8 +729,8 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-07-31T18:47:11Z",
-   "lock_closed": false,
+   "last_scan": "2026-07-31T20:21:49Z",
+   "lock_closed": true,
    "locked": null,
    "outcomes": [
     "Vilius Gaubas",
@@ -738,7 +738,7 @@
    ],
    "result": null,
    "slug": "atp-gaubas-monteir-2026-07-31",
-   "start": "2026-07-31T19:15:00Z",
+   "start": "2026-07-31T19:20:00Z",
    "title": "San Marino: Vilius Gaubas vs Thiago Monteiro",
    "tour": "ATP"
   },
@@ -760,7 +760,7 @@
     "state": "aligned",
     "wallets": 9
    },
-   "last_scan": "2026-07-31T18:47:11Z",
+   "last_scan": "2026-07-31T20:21:49Z",
    "lock_closed": false,
    "locked": {
     "at": "2026-07-31T17:36:22Z",
@@ -782,7 +782,11 @@
     "Alex de Minaur",
     "Brandon Nakashima"
    ],
-   "result": null,
+   "result": {
+    "hit": true,
+    "scored_at": "2026-07-31T20:21:54Z",
+    "winner": "Brandon Nakashima"
+   },
    "slug": "atp-minaur-nakashi-2026-07-31",
    "start": "2026-07-31T18:00:00Z",
    "title": "Mubadala Citi DC Open: Alex de Minaur vs Brandon Nakashima",
@@ -916,21 +920,21 @@
    "cid": "0xaeb3725dc916cfc0c0b2017e01628b69bbe826779790e4ac96efd9ac6b050794",
    "first_seen": "2026-07-31T01:55:24Z",
    "last_pre": {
-    "at": "2026-07-31T18:47:11Z",
+    "at": "2026-07-31T20:21:49Z",
     "fish": [
-     25014.87,
-     3735.04
+     24951.46,
+     3834.64
     ],
-    "price": 0.375,
+    "price": 0.385,
     "sharp": [
-     3226.49,
-     14155.91
+     5142.25,
+     16488.89
     ],
     "side": 1,
     "state": "aligned",
-    "wallets": 13
+    "wallets": 14
    },
-   "last_scan": "2026-07-31T18:47:11Z",
+   "last_scan": "2026-07-31T20:21:49Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -1023,7 +1027,7 @@
     "state": "crowded",
     "wallets": 5
    },
-   "last_scan": "2026-07-31T18:47:11Z",
+   "last_scan": "2026-07-31T20:21:49Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -1195,9 +1199,9 @@
    "cid": "0xcd6fde5dbe1305e949c1db4414d87cb184aa33e92c61085849a89d9d939f3a0d",
    "first_seen": "2026-07-31T11:31:09Z",
    "last_pre": {
-    "at": "2026-07-31T18:47:11Z",
+    "at": "2026-07-31T20:21:49Z",
     "fish": [
-     1109.99,
+     1129.99,
      0.0
     ],
     "price": null,
@@ -1209,7 +1213,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-07-31T18:47:11Z",
+   "last_scan": "2026-07-31T20:21:49Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -1226,7 +1230,7 @@
    "cid": "0xd1304f3e39c4eecad0a372e5539eed569f299ae1993d8142d00045c73158f197",
    "first_seen": "2026-07-31T05:46:04Z",
    "last_pre": {
-    "at": "2026-07-31T18:47:11Z",
+    "at": "2026-07-31T20:21:49Z",
     "fish": [
      0.0,
      0.0
@@ -1240,7 +1244,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-07-31T18:47:11Z",
+   "last_scan": "2026-07-31T20:21:49Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -1257,21 +1261,21 @@
    "cid": "0xd22957f0cc836227e85e99db33efd0d227b6317897e3a14184bda432533bf174",
    "first_seen": "2026-07-31T05:46:04Z",
    "last_pre": {
-    "at": "2026-07-31T18:47:11Z",
+    "at": "2026-07-31T20:21:49Z",
     "fish": [
-     4150.0,
-     9217.38
+     6767.25,
+     3802.5
     ],
-    "price": 0.415,
+    "price": 0.585,
     "sharp": [
-     6526.44,
-     3877.48
+     15027.76,
+     28878.43
     ],
-    "side": 0,
+    "side": 1,
     "state": "aligned",
-    "wallets": 7
+    "wallets": 9
    },
-   "last_scan": "2026-07-31T18:47:11Z",
+   "last_scan": "2026-07-31T20:21:49Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -1288,7 +1292,7 @@
    "cid": "0xd87a64567763c8a8baffee802fa1041407d9a7bd70959b742f171430a175a8ac",
    "first_seen": "2026-07-31T11:31:09Z",
    "last_pre": {
-    "at": "2026-07-31T18:47:11Z",
+    "at": "2026-07-31T20:21:49Z",
     "fish": [
      0.0,
      0.0
@@ -1302,7 +1306,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-07-31T18:47:11Z",
+   "last_scan": "2026-07-31T20:21:49Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -1333,16 +1337,31 @@
     "state": "aligned",
     "wallets": 2
    },
-   "last_scan": "2026-07-31T18:47:11Z",
+   "last_scan": "2026-07-31T20:21:49Z",
    "lock_closed": false,
-   "locked": null,
+   "locked": {
+    "at": "2026-07-31T18:47:11Z",
+    "fish": [
+     0.0,
+     1369.23
+    ],
+    "phase": "pre-match",
+    "price": 0.595,
+    "sharp": [
+     4648.77,
+     0.0
+    ],
+    "side": 0,
+    "side_name": "Anastasia Zakharova",
+    "wallets": 2
+   },
    "outcomes": [
     "Anastasia Zakharova",
     "Renata Zarazua"
    ],
    "result": null,
    "slug": "wta-zakharo-zarazua-2026-07-31",
-   "start": "2026-07-31T19:30:00Z",
+   "start": "2026-07-31T20:00:00Z",
    "title": "The Memphis Classic: Anastasia Zakharova vs Renata Zarazua",
    "tour": "WTA"
   },
@@ -1381,8 +1400,8 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-07-31T18:47:11Z",
-   "lock_closed": false,
+   "last_scan": "2026-07-31T20:21:49Z",
+   "lock_closed": true,
    "locked": null,
    "outcomes": [
     "Taylah Preston",
@@ -1390,7 +1409,7 @@
    ],
    "result": null,
    "slug": "wta-preston-sawangk-2026-07-31",
-   "start": "2026-07-31T19:30:00Z",
+   "start": "2026-07-31T19:45:00Z",
    "title": "Vancouver: Taylah Preston vs Mananchaya Sawangkaew",
    "tour": "WTA"
   },
@@ -1426,6 +1445,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-07-31T18:47:11Z",
+ "updated": "2026-07-31T20:21:49Z",
  "version": 1
 }
