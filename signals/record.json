@@ -11,7 +11,7 @@
    "z": -1.2125247890290427
   }
  },
- "generated": "2026-08-01T00:56:16Z",
+ "generated": "2026-08-01T03:17:43Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called.",
  "overall": {
   "brier": 0.269025,
@@ -23,7 +23,7 @@
   "wins": 2,
   "z": -1.2125247890290427
  },
- "pending": 0,
+ "pending": 3,
  "signals": [
   {
    "hit": true,
