@@ -1,29 +1,29 @@
 {
  "by_phase": {
   "pre-match": {
-   "brier": 0.269025,
-   "edge_pp": -21.785714285714274,
-   "implied": 0.5035714285714284,
-   "n": 7,
-   "roi": -0.4074585436711683,
-   "win_rate": 0.2857142857142857,
-   "wins": 2,
-   "z": -1.2125247890290427
+   "brier": 0.308545,
+   "edge_pp": -24.599999999999994,
+   "implied": 0.5459999999999999,
+   "n": 10,
+   "roi": -0.3983050927193505,
+   "win_rate": 0.3,
+   "wins": 3,
+   "z": -1.6419898378248237
   }
  },
- "generated": "2026-08-01T03:17:43Z",
+ "generated": "2026-08-01T06:15:06Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called.",
  "overall": {
-  "brier": 0.269025,
-  "edge_pp": -21.785714285714274,
-  "implied": 0.5035714285714284,
-  "n": 7,
-  "roi": -0.4074585436711683,
-  "win_rate": 0.2857142857142857,
-  "wins": 2,
-  "z": -1.2125247890290427
+  "brier": 0.308545,
+  "edge_pp": -24.599999999999994,
+  "implied": 0.5459999999999999,
+  "n": 10,
+  "roi": -0.3983050927193505,
+  "win_rate": 0.3,
+  "wins": 3,
+  "z": -1.6419898378248237
  },
- "pending": 3,
+ "pending": 0,
  "signals": [
   {
    "hit": true,
@@ -94,6 +94,36 @@
    "title": "Mubadala Citi DC Open: Alexandra Eala vs Elina Svitolina",
    "tour": "WTA",
    "winner": "Alexandra Eala"
+  },
+  {
+   "hit": true,
+   "locked_at": "2026-08-01T00:56:12Z",
+   "phase": "pre-match",
+   "price": 0.535,
+   "side": "Arthur Gea",
+   "title": "Los Cabos Open: Coleman Wong vs Arthur Gea",
+   "tour": "ATP",
+   "winner": "Arthur Gea"
+  },
+  {
+   "hit": false,
+   "locked_at": "2026-08-01T00:56:12Z",
+   "phase": "pre-match",
+   "price": 0.755,
+   "side": "Ben Shelton",
+   "title": "Mubadala Citi DC Open: Alejandro Tabilo vs Ben Shelton",
+   "tour": "ATP",
+   "winner": "Alejandro Tabilo"
+  },
+  {
+   "hit": false,
+   "locked_at": "2026-08-01T00:56:12Z",
+   "phase": "pre-match",
+   "price": 0.645,
+   "side": "Katie Volynets",
+   "title": "The Memphis Classic: Darja Vidmanova vs Katie Volynets",
+   "tour": "WTA",
+   "winner": "Darja Vidmanova"
   }
  ]
 }
