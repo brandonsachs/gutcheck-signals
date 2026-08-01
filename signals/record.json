@@ -1,29 +1,29 @@
 {
  "by_phase": {
   "pre-match": {
-   "brier": 0.260625,
-   "edge_pp": 1.0000000000000009,
-   "implied": 0.49,
-   "n": 4,
-   "roi": 0.03694754857545554,
-   "win_rate": 0.5,
+   "brier": 0.269025,
+   "edge_pp": -21.785714285714274,
+   "implied": 0.5035714285714284,
+   "n": 7,
+   "roi": -0.4074585436711683,
+   "win_rate": 0.2857142857142857,
    "wins": 2,
-   "z": 0.04319593977248315
+   "z": -1.2125247890290427
   }
  },
- "generated": "2026-07-31T23:46:01Z",
+ "generated": "2026-08-01T00:56:16Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called.",
  "overall": {
-  "brier": 0.260625,
-  "edge_pp": 1.0000000000000009,
-  "implied": 0.49,
-  "n": 4,
-  "roi": 0.03694754857545554,
-  "win_rate": 0.5,
+  "brier": 0.269025,
+  "edge_pp": -21.785714285714274,
+  "implied": 0.5035714285714284,
+  "n": 7,
+  "roi": -0.4074585436711683,
+  "win_rate": 0.2857142857142857,
   "wins": 2,
-  "z": 0.04319593977248315
+  "z": -1.2125247890290427
  },
- "pending": 3,
+ "pending": 0,
  "signals": [
   {
    "hit": true,
@@ -64,6 +64,36 @@
    "title": "Mubadala Citi DC Open: Alex de Minaur vs Brandon Nakashima",
    "tour": "ATP",
    "winner": "Brandon Nakashima"
+  },
+  {
+   "hit": false,
+   "locked_at": "2026-07-31T18:47:11Z",
+   "phase": "pre-match",
+   "price": 0.595,
+   "side": "Anastasia Zakharova",
+   "title": "The Memphis Classic: Anastasia Zakharova vs Renata Zarazua",
+   "tour": "WTA",
+   "winner": "Renata Zarazua"
+  },
+  {
+   "hit": false,
+   "locked_at": "2026-07-31T21:39:03Z",
+   "phase": "pre-match",
+   "price": 0.395,
+   "side": "Lorenzo Musetti",
+   "title": "Mubadala Citi DC Open: Rafael Jodar vs Lorenzo Musetti",
+   "tour": "ATP",
+   "winner": "Rafael Jodar"
+  },
+  {
+   "hit": false,
+   "locked_at": "2026-07-31T22:43:10Z",
+   "phase": "pre-match",
+   "price": 0.575,
+   "side": "Elina Svitolina",
+   "title": "Mubadala Citi DC Open: Alexandra Eala vs Elina Svitolina",
+   "tour": "WTA",
+   "winner": "Alexandra Eala"
   }
  ]
 }
