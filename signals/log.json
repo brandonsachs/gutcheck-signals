@@ -66,7 +66,7 @@
    "cid": "0x072d48c31ab64de2fcae4c3700b609373ebc88ae2665a71b43ab76763015db99",
    "first_seen": "2026-07-31T22:43:10Z",
    "last_pre": {
-    "at": "2026-08-01T12:41:51Z",
+    "at": "2026-08-01T14:15:48Z",
     "fish": [
      0.0,
      0.0
@@ -80,7 +80,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-01T12:41:51Z",
+   "last_scan": "2026-08-01T14:15:48Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -111,8 +111,8 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-08-01T12:41:51Z",
-   "lock_closed": false,
+   "last_scan": "2026-08-01T14:15:48Z",
+   "lock_closed": true,
    "locked": null,
    "outcomes": [
     "Norbert Gombos",
@@ -290,7 +290,7 @@
    "cid": "0x1b13c2c32a3f2ad2c010d1462749fc6b0057d6d87d1cd6617145cae92bcd2dea",
    "first_seen": "2026-08-01T06:15:01Z",
    "last_pre": {
-    "at": "2026-08-01T12:41:51Z",
+    "at": "2026-08-01T14:15:48Z",
     "fish": [
      9185.87,
      9771.68
@@ -304,7 +304,7 @@
     "state": "none",
     "wallets": 5
    },
-   "last_scan": "2026-08-01T12:41:51Z",
+   "last_scan": "2026-08-01T14:15:48Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -490,8 +490,8 @@
     "state": "crowded",
     "wallets": 3
    },
-   "last_scan": "2026-08-01T12:41:51Z",
-   "lock_closed": false,
+   "last_scan": "2026-08-01T14:15:48Z",
+   "lock_closed": true,
    "locked": null,
    "outcomes": [
     "Jan Choinski",
@@ -499,7 +499,7 @@
    ],
    "result": null,
    "slug": "atp-choinsk-gomez-2026-08-01",
-   "start": "2026-08-01T12:30:00Z",
+   "start": "2026-08-01T13:15:00Z",
    "title": "Bonn: Jan Choinski vs Federico Agustin Gomez",
    "tour": "ATP"
   },
@@ -664,8 +664,8 @@
     "state": "none",
     "wallets": 5
    },
-   "last_scan": "2026-08-01T12:41:51Z",
-   "lock_closed": false,
+   "last_scan": "2026-08-01T14:15:48Z",
+   "lock_closed": true,
    "locked": null,
    "outcomes": [
     "Kaitlin Quevedo",
@@ -673,7 +673,7 @@
    ],
    "result": null,
    "slug": "wta-quevedo-jones-2026-08-01",
-   "start": "2026-08-01T13:00:00Z",
+   "start": "2026-08-01T13:20:00Z",
    "title": "Targu Mures: Kaitlin Quevedo vs Francesca Jones",
    "tour": "WTA"
   },
@@ -729,7 +729,7 @@
    "cid": "0x49a225364450afad9f233659ac92f1ec8b04303d52b9914dc5f39298665b0789",
    "first_seen": "2026-08-01T10:22:16Z",
    "last_pre": {
-    "at": "2026-08-01T12:41:51Z",
+    "at": "2026-08-01T14:15:48Z",
     "fish": [
      0.0,
      0.0
@@ -743,7 +743,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-01T12:41:51Z",
+   "last_scan": "2026-08-01T14:15:48Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -810,21 +810,21 @@
    "cid": "0x51eb5c0499991ea63c6b905ebee25d9fc0f529dd9ae292df353f67598348a5fb",
    "first_seen": "2026-08-01T06:15:01Z",
    "last_pre": {
-    "at": "2026-08-01T12:41:51Z",
+    "at": "2026-08-01T14:15:48Z",
     "fish": [
-     12262.92,
-     0.0
+     23821.91,
+     2339.98
     ],
-    "price": null,
+    "price": 0.395,
     "sharp": [
-     5116.16,
-     0.0
+     4952.45,
+     10736.1
     ],
-    "side": null,
-    "state": "crowded",
-    "wallets": 3
+    "side": 1,
+    "state": "aligned",
+    "wallets": 5
    },
-   "last_scan": "2026-08-01T12:41:51Z",
+   "last_scan": "2026-08-01T14:15:48Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -841,21 +841,21 @@
    "cid": "0x5437ac004fac1080ef265fc5bd316f9fbca86cb7549d9086b75198a27547ed62",
    "first_seen": "2026-08-01T06:15:01Z",
    "last_pre": {
-    "at": "2026-08-01T12:41:51Z",
+    "at": "2026-08-01T14:15:48Z",
     "fish": [
      0.0,
      0.0
     ],
     "price": null,
     "sharp": [
-     0.0,
-     0.0
+     1967.2,
+     1105.0
     ],
     "side": null,
     "state": "none",
-    "wallets": 0
+    "wallets": 2
    },
-   "last_scan": "2026-08-01T12:41:51Z",
+   "last_scan": "2026-08-01T14:15:48Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -872,7 +872,7 @@
    "cid": "0x54426fe65833f000490c51170438d5b7d931b036cdf1ca0811b70b78fca6d12a",
    "first_seen": "2026-08-01T11:43:21Z",
    "last_pre": {
-    "at": "2026-08-01T12:41:51Z",
+    "at": "2026-08-01T14:15:48Z",
     "fish": [
      0.0,
      0.0
@@ -886,7 +886,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-01T12:41:51Z",
+   "last_scan": "2026-08-01T14:15:48Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -934,7 +934,7 @@
    "cid": "0x64ad680d84286cf5e0fa2567bd17d7c09b616df215e0016d9a7bcc4922f060e6",
    "first_seen": "2026-08-01T06:15:01Z",
    "last_pre": {
-    "at": "2026-08-01T12:41:51Z",
+    "at": "2026-08-01T14:15:48Z",
     "fish": [
      2012.01,
      1038.86
@@ -948,7 +948,7 @@
     "state": "none",
     "wallets": 5
    },
-   "last_scan": "2026-08-01T12:41:51Z",
+   "last_scan": "2026-08-01T14:15:48Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -1275,21 +1275,21 @@
    "cid": "0x929bf6f0715219b1ed98efee7f656a3d2e233994bb670165175b9b7e21713698",
    "first_seen": "2026-07-31T22:43:10Z",
    "last_pre": {
-    "at": "2026-08-01T12:41:51Z",
+    "at": "2026-08-01T14:15:48Z",
     "fish": [
-     1425.43,
-     0.0
+     0.0,
+     4790.29
     ],
-    "price": 0.495,
+    "price": null,
     "sharp": [
      0.0,
-     1089.0
+     10027.86
     ],
-    "side": 1,
-    "state": "aligned",
-    "wallets": 2
+    "side": null,
+    "state": "crowded",
+    "wallets": 7
    },
-   "last_scan": "2026-08-01T12:41:51Z",
+   "last_scan": "2026-08-01T14:15:48Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -1298,7 +1298,7 @@
    ],
    "result": null,
    "slug": "atp-mackenz-dahlin-2026-08-01",
-   "start": "2026-08-01T14:00:00Z",
+   "start": "2026-08-01T14:45:00Z",
    "title": "Bonn: Jamie Mackenzie vs Max Dahlin",
    "tour": "ATP"
   },
@@ -1604,7 +1604,7 @@
    "cid": "0xb822fe574cf30b92c4bd977aacb67f7394d11f4327afec300cb625daab1c1b09",
    "first_seen": "2026-07-31T22:43:10Z",
    "last_pre": {
-    "at": "2026-08-01T12:41:51Z",
+    "at": "2026-08-01T14:15:48Z",
     "fish": [
      0.0,
      0.0
@@ -1618,7 +1618,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-01T12:41:51Z",
+   "last_scan": "2026-08-01T14:15:48Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -1666,7 +1666,7 @@
    "cid": "0xbc8a8998a7cca061ed2e7c870ce603d65fa2d841771f252e1ff55e773336e153",
    "first_seen": "2026-08-01T06:15:01Z",
    "last_pre": {
-    "at": "2026-08-01T12:41:51Z",
+    "at": "2026-08-01T14:15:48Z",
     "fish": [
      0.0,
      0.0
@@ -1680,7 +1680,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-01T12:41:51Z",
+   "last_scan": "2026-08-01T14:15:48Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -1933,7 +1933,7 @@
    "cid": "0xdabee87ec977b41051ba370e73984dd752be0032e25460d02d0ccddcfedc8c40",
    "first_seen": "2026-07-31T22:43:10Z",
    "last_pre": {
-    "at": "2026-08-01T12:41:51Z",
+    "at": "2026-08-01T14:15:48Z",
     "fish": [
      0.0,
      0.0
@@ -1947,7 +1947,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-01T12:41:51Z",
+   "last_scan": "2026-08-01T14:15:48Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -1964,10 +1964,10 @@
    "cid": "0xe96e094f3d8d787f785e4d2b0a190b5e7d1b48c712608ee0aa61a4c3aabcab12",
    "first_seen": "2026-07-31T22:43:10Z",
    "last_pre": {
-    "at": "2026-08-01T12:41:51Z",
+    "at": "2026-08-01T14:15:48Z",
     "fish": [
-     0.0,
-     0.0
+     2977.18,
+     1112.49
     ],
     "price": null,
     "sharp": [
@@ -1976,9 +1976,9 @@
     ],
     "side": null,
     "state": "none",
-    "wallets": 0
+    "wallets": 2
    },
-   "last_scan": "2026-08-01T12:41:51Z",
+   "last_scan": "2026-08-01T14:15:48Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -2045,7 +2045,7 @@
    "cid": "0xf75dd479c0763306ab95b9d6852ea1faa43f90751bb1bf5afdc5da9981faf473",
    "first_seen": "2026-08-01T06:15:01Z",
    "last_pre": {
-    "at": "2026-08-01T12:41:51Z",
+    "at": "2026-08-01T14:15:48Z",
     "fish": [
      1755.0,
      0.0
@@ -2059,7 +2059,7 @@
     "state": "none",
     "wallets": 3
    },
-   "last_scan": "2026-08-01T12:41:51Z",
+   "last_scan": "2026-08-01T14:15:48Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -2152,6 +2152,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-08-01T12:41:51Z",
+ "updated": "2026-08-01T14:15:48Z",
  "version": 1
 }
