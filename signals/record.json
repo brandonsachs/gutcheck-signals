@@ -1,29 +1,29 @@
 {
  "by_phase": {
   "pre-match": {
-   "brier": 0.308545,
-   "edge_pp": -24.599999999999994,
-   "implied": 0.5459999999999999,
-   "n": 10,
-   "roi": -0.3983050927193505,
-   "win_rate": 0.3,
+   "brier": 0.3010068181818182,
+   "edge_pp": -26.681818181818173,
+   "implied": 0.5395454545454544,
+   "n": 11,
+   "roi": -0.4530046297448641,
+   "win_rate": 0.2727272727272727,
    "wins": 3,
-   "z": -1.6419898378248237
+   "z": -1.858516457478168
   }
  },
- "generated": "2026-08-01T10:22:21Z",
+ "generated": "2026-08-01T11:43:28Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called.",
  "overall": {
-  "brier": 0.308545,
-  "edge_pp": -24.599999999999994,
-  "implied": 0.5459999999999999,
-  "n": 10,
-  "roi": -0.3983050927193505,
-  "win_rate": 0.3,
+  "brier": 0.3010068181818182,
+  "edge_pp": -26.681818181818173,
+  "implied": 0.5395454545454544,
+  "n": 11,
+  "roi": -0.4530046297448641,
+  "win_rate": 0.2727272727272727,
   "wins": 3,
-  "z": -1.6419898378248237
+  "z": -1.858516457478168
  },
- "pending": 1,
+ "pending": 0,
  "signals": [
   {
    "hit": true,
@@ -124,6 +124,16 @@
    "title": "The Memphis Classic: Darja Vidmanova vs Katie Volynets",
    "tour": "WTA",
    "winner": "Darja Vidmanova"
+  },
+  {
+   "hit": false,
+   "locked_at": "2026-08-01T08:36:26Z",
+   "phase": "pre-match",
+   "price": 0.475,
+   "side": "Sumit Nagal",
+   "title": "Liberec: Jan Kumstat vs Sumit Nagal",
+   "tour": "ATP",
+   "winner": "Jan Kumstat"
   }
  ]
 }
