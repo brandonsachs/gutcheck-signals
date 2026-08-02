@@ -1,27 +1,27 @@
 {
  "by_phase": {
   "pre-match": {
-   "brier": 0.265575,
-   "edge_pp": -18.562499999999986,
-   "implied": 0.4981249999999999,
-   "n": 16,
-   "roi": -0.36220296033761357,
-   "win_rate": 0.3125,
+   "brier": 0.26186470588235294,
+   "edge_pp": -20.11764705882352,
+   "implied": 0.4952941176470587,
+   "n": 17,
+   "roi": -0.3997204332589304,
+   "win_rate": 0.29411764705882354,
    "wins": 5,
-   "z": -1.5543987143612996
+   "z": -1.7321618813236204
   }
  },
- "generated": "2026-08-02T19:55:56Z",
+ "generated": "2026-08-02T21:00:30Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called.",
  "overall": {
-  "brier": 0.265575,
-  "edge_pp": -18.562499999999986,
-  "implied": 0.4981249999999999,
-  "n": 16,
-  "roi": -0.36220296033761357,
-  "win_rate": 0.3125,
+  "brier": 0.26186470588235294,
+  "edge_pp": -20.11764705882352,
+  "implied": 0.4952941176470587,
+  "n": 17,
+  "roi": -0.3997204332589304,
+  "win_rate": 0.29411764705882354,
   "wins": 5,
-  "z": -1.5543987143612996
+  "z": -1.7321618813236204
  },
  "pending": 5,
  "signals": [
@@ -184,6 +184,16 @@
    "title": "Canadian Open: Adolfo Vallejo vs Juncheng Shang",
    "tour": "ATP",
    "winner": "Juncheng Shang"
+  },
+  {
+   "hit": false,
+   "locked_at": "2026-08-02T15:08:14Z",
+   "phase": "pre-match",
+   "price": 0.45,
+   "side": "Rinky Hijikata",
+   "title": "Canadian Open: Jaume Munar vs Rinky Hijikata",
+   "tour": "ATP",
+   "winner": "Jaume Munar"
   }
  ]
 }
