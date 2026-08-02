@@ -1,27 +1,27 @@
 {
  "by_phase": {
   "pre-match": {
-   "brier": 0.28262499999999996,
-   "edge_pp": -22.115384615384603,
-   "implied": 0.5288461538461537,
-   "n": 13,
-   "roi": -0.3960145032209542,
-   "win_rate": 0.3076923076923077,
+   "brier": 0.26638214285714285,
+   "edge_pp": -22.214285714285708,
+   "implied": 0.5078571428571428,
+   "n": 14,
+   "roi": -0.4391563244194575,
+   "win_rate": 0.2857142857142857,
    "wins": 4,
-   "z": -1.6651983300067352
+   "z": -1.749331779738966
   }
  },
- "generated": "2026-08-02T13:56:46Z",
+ "generated": "2026-08-02T15:08:41Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called.",
  "overall": {
-  "brier": 0.28262499999999996,
-  "edge_pp": -22.115384615384603,
-  "implied": 0.5288461538461537,
-  "n": 13,
-  "roi": -0.3960145032209542,
-  "win_rate": 0.3076923076923077,
+  "brier": 0.26638214285714285,
+  "edge_pp": -22.214285714285708,
+  "implied": 0.5078571428571428,
+  "n": 14,
+  "roi": -0.4391563244194575,
+  "win_rate": 0.2857142857142857,
   "wins": 4,
-  "z": -1.6651983300067352
+  "z": -1.749331779738966
  },
  "pending": 1,
  "signals": [
@@ -154,6 +154,16 @@
    "title": "Vancouver: J.J. Wolf vs Mark Lajal",
    "tour": "ATP",
    "winner": "J.J. Wolf"
+  },
+  {
+   "hit": false,
+   "locked_at": "2026-08-02T10:50:54Z",
+   "phase": "pre-match",
+   "price": 0.235,
+   "side": "Constantin Bittoun Kouzmine",
+   "title": "Samsun: Constantin Bittoun Kouzmine vs Gabriel Debru",
+   "tour": "ATP",
+   "winner": "Gabriel Debru"
   }
  ]
 }
