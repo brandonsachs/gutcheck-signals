@@ -1,27 +1,27 @@
 {
  "by_phase": {
   "pre-match": {
-   "brier": 0.270665,
-   "edge_pp": -16.899999999999988,
-   "implied": 0.5023333333333332,
-   "n": 15,
-   "roi": -0.31968315769345446,
-   "win_rate": 0.3333333333333333,
+   "brier": 0.265575,
+   "edge_pp": -18.562499999999986,
+   "implied": 0.4981249999999999,
+   "n": 16,
+   "roi": -0.36220296033761357,
+   "win_rate": 0.3125,
    "wins": 5,
-   "z": -1.3737819667764397
+   "z": -1.5543987143612996
   }
  },
- "generated": "2026-08-02T16:14:27Z",
+ "generated": "2026-08-02T17:27:19Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called.",
  "overall": {
-  "brier": 0.270665,
-  "edge_pp": -16.899999999999988,
-  "implied": 0.5023333333333332,
-  "n": 15,
-  "roi": -0.31968315769345446,
-  "win_rate": 0.3333333333333333,
+  "brier": 0.265575,
+  "edge_pp": -18.562499999999986,
+  "implied": 0.4981249999999999,
+  "n": 16,
+  "roi": -0.36220296033761357,
+  "win_rate": 0.3125,
   "wins": 5,
-  "z": -1.3737819667764397
+  "z": -1.5543987143612996
  },
  "pending": 2,
  "signals": [
@@ -174,6 +174,16 @@
    "title": "Targu Mures: Kaitlin Quevedo vs Laura Samson",
    "tour": "WTA",
    "winner": "Laura Samson"
+  },
+  {
+   "hit": false,
+   "locked_at": "2026-08-02T15:08:14Z",
+   "phase": "pre-match",
+   "price": 0.435,
+   "side": "Adolfo Vallejo",
+   "title": "Canadian Open: Adolfo Vallejo vs Juncheng Shang",
+   "tour": "ATP",
+   "winner": "Juncheng Shang"
   }
  ]
 }
