@@ -1,27 +1,27 @@
 {
  "by_phase": {
   "pre-match": {
-   "brier": 0.3010068181818182,
-   "edge_pp": -26.681818181818173,
-   "implied": 0.5395454545454544,
-   "n": 11,
-   "roi": -0.4530046297448641,
-   "win_rate": 0.2727272727272727,
-   "wins": 3,
-   "z": -1.858516457478168
+   "brier": 0.28262499999999996,
+   "edge_pp": -22.115384615384603,
+   "implied": 0.5288461538461537,
+   "n": 13,
+   "roi": -0.3960145032209542,
+   "win_rate": 0.3076923076923077,
+   "wins": 4,
+   "z": -1.6651983300067352
   }
  },
- "generated": "2026-08-02T02:23:35Z",
+ "generated": "2026-08-02T03:59:55Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called.",
  "overall": {
-  "brier": 0.3010068181818182,
-  "edge_pp": -26.681818181818173,
-  "implied": 0.5395454545454544,
-  "n": 11,
-  "roi": -0.4530046297448641,
-  "win_rate": 0.2727272727272727,
-  "wins": 3,
-  "z": -1.858516457478168
+  "brier": 0.28262499999999996,
+  "edge_pp": -22.115384615384603,
+  "implied": 0.5288461538461537,
+  "n": 13,
+  "roi": -0.3960145032209542,
+  "win_rate": 0.3076923076923077,
+  "wins": 4,
+  "z": -1.6651983300067352
  },
  "pending": 0,
  "signals": [
@@ -44,6 +44,16 @@
    "title": "Targu Mures: Kaitlin Quevedo vs Carole Monnet",
    "tour": "WTA",
    "winner": "Kaitlin Quevedo"
+  },
+  {
+   "hit": false,
+   "locked_at": "2026-07-31T08:54:13Z",
+   "phase": "pre-match",
+   "price": 0.395,
+   "side": "Frederico Ferreira Silva",
+   "title": "Liberec: Jan Kumstat vs Frederico Ferreira Silva",
+   "tour": "ATP",
+   "winner": "Jan Kumstat"
   },
   {
    "hit": false,
@@ -134,6 +144,16 @@
    "title": "Liberec: Jan Kumstat vs Sumit Nagal",
    "tour": "ATP",
    "winner": "Jan Kumstat"
+  },
+  {
+   "hit": true,
+   "locked_at": "2026-08-02T02:23:16Z",
+   "phase": "pre-match",
+   "price": 0.545,
+   "side": "J.J. Wolf",
+   "title": "Vancouver: J.J. Wolf vs Mark Lajal",
+   "tour": "ATP",
+   "winner": "J.J. Wolf"
   }
  ]
 }
