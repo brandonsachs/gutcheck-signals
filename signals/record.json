@@ -11,29 +11,29 @@
    "z": 0.9511897312113418
   },
   "pre-match": {
-   "brier": 0.24334285714285714,
-   "edge_pp": -20.476190476190464,
-   "implied": 0.49047619047619034,
-   "n": 21,
-   "roi": -0.439068772180739,
-   "win_rate": 0.2857142857142857,
-   "wins": 6,
-   "z": -1.9525696790856406
+   "brier": 0.2485413043478261,
+   "edge_pp": -18.91304347826085,
+   "implied": 0.49347826086956503,
+   "n": 23,
+   "roi": -0.3963122199087296,
+   "win_rate": 0.30434782608695654,
+   "wins": 7,
+   "z": -1.8818037004863568
   }
  },
- "generated": "2026-08-03T21:34:01Z",
+ "generated": "2026-08-03T22:42:45Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called.",
  "overall": {
-  "brier": 0.2425375,
-  "edge_pp": -17.386363636363626,
-  "implied": 0.49204545454545445,
-  "n": 22,
-  "roi": -0.37798555959243696,
-  "win_rate": 0.3181818181818182,
-  "wins": 7,
-  "z": -1.6938754787708203
+  "brier": 0.24758645833333334,
+  "edge_pp": -16.14583333333332,
+  "implied": 0.4947916666666665,
+  "n": 24,
+  "roi": -0.3421007980474532,
+  "win_rate": 0.3333333333333333,
+  "wins": 8,
+  "z": -1.638521743995162
  },
- "pending": 5,
+ "pending": 4,
  "signals": [
   {
    "hit": true,
@@ -207,6 +207,16 @@
   },
   {
    "hit": false,
+   "locked_at": "2026-08-02T16:14:01Z",
+   "phase": "pre-match",
+   "price": 0.575,
+   "side": "Christopher O'Connell",
+   "title": "National Bank Open: James Duckworth vs Christopher O'Connell",
+   "tour": "ATP",
+   "winner": "James Duckworth"
+  },
+  {
+   "hit": false,
    "locked_at": "2026-08-02T19:55:25Z",
    "phase": "pre-match",
    "price": 0.405,
@@ -244,6 +254,16 @@
    "title": "National Bank Open: Alina Korneeva vs Polina Kudermetova",
    "tour": "WTA",
    "winner": "Alina Korneeva"
+  },
+  {
+   "hit": true,
+   "locked_at": "2026-08-03T16:33:32Z",
+   "phase": "pre-match",
+   "price": 0.475,
+   "side": "Vit Kopriva",
+   "title": "Canadian Open: Alexis Galarneau vs Vit Kopriva",
+   "tour": "ATP",
+   "winner": "Vit Kopriva"
   },
   {
    "hit": true,
