@@ -1,29 +1,29 @@
 {
  "by_phase": {
   "pre-match": {
-   "brier": 0.26186470588235294,
-   "edge_pp": -20.11764705882352,
-   "implied": 0.4952941176470587,
-   "n": 17,
-   "roi": -0.3997204332589304,
-   "win_rate": 0.29411764705882354,
+   "brier": 0.25431805555555553,
+   "edge_pp": -20.972222222222214,
+   "implied": 0.48749999999999993,
+   "n": 18,
+   "roi": -0.43306929807787875,
+   "win_rate": 0.2777777777777778,
    "wins": 5,
-   "z": -1.7321618813236204
+   "z": -1.8581691801896454
   }
  },
- "generated": "2026-08-03T13:59:42Z",
+ "generated": "2026-08-03T16:33:59Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called.",
  "overall": {
-  "brier": 0.26186470588235294,
-  "edge_pp": -20.11764705882352,
-  "implied": 0.4952941176470587,
-  "n": 17,
-  "roi": -0.3997204332589304,
-  "win_rate": 0.29411764705882354,
+  "brier": 0.25431805555555553,
+  "edge_pp": -20.972222222222214,
+  "implied": 0.48749999999999993,
+  "n": 18,
+  "roi": -0.43306929807787875,
+  "win_rate": 0.2777777777777778,
   "wins": 5,
-  "z": -1.7321618813236204
+  "z": -1.8581691801896454
  },
- "pending": 6,
+ "pending": 7,
  "signals": [
   {
    "hit": true,
@@ -194,6 +194,16 @@
    "title": "Canadian Open: Jaume Munar vs Rinky Hijikata",
    "tour": "ATP",
    "winner": "Jaume Munar"
+  },
+  {
+   "hit": false,
+   "locked_at": "2026-08-03T13:58:51Z",
+   "phase": "pre-match",
+   "price": 0.355,
+   "side": "Polina Kudermetova",
+   "title": "National Bank Open: Alina Korneeva vs Polina Kudermetova",
+   "tour": "WTA",
+   "winner": "Alina Korneeva"
   }
  ]
 }
