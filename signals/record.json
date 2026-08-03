@@ -1,29 +1,29 @@
 {
  "by_phase": {
   "pre-match": {
-   "brier": 0.25431805555555553,
-   "edge_pp": -20.972222222222214,
-   "implied": 0.48749999999999993,
-   "n": 18,
-   "roi": -0.43306929807787875,
-   "win_rate": 0.2777777777777778,
+   "brier": 0.25331315789473685,
+   "edge_pp": -22.421052631578934,
+   "implied": 0.48736842105263145,
+   "n": 19,
+   "roi": -0.4629077560737799,
+   "win_rate": 0.2631578947368421,
    "wins": 5,
-   "z": -1.8581691801896454
+   "z": -2.0361925553485607
   }
  },
- "generated": "2026-08-03T16:33:59Z",
+ "generated": "2026-08-03T18:27:55Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called.",
  "overall": {
-  "brier": 0.25431805555555553,
-  "edge_pp": -20.972222222222214,
-  "implied": 0.48749999999999993,
-  "n": 18,
-  "roi": -0.43306929807787875,
-  "win_rate": 0.2777777777777778,
+  "brier": 0.25331315789473685,
+  "edge_pp": -22.421052631578934,
+  "implied": 0.48736842105263145,
+  "n": 19,
+  "roi": -0.4629077560737799,
+  "win_rate": 0.2631578947368421,
   "wins": 5,
-  "z": -1.8581691801896454
+  "z": -2.0361925553485607
  },
- "pending": 7,
+ "pending": 8,
  "signals": [
   {
    "hit": true,
@@ -194,6 +194,16 @@
    "title": "Canadian Open: Jaume Munar vs Rinky Hijikata",
    "tour": "ATP",
    "winner": "Jaume Munar"
+  },
+  {
+   "hit": false,
+   "locked_at": "2026-08-03T13:58:51Z",
+   "phase": "pre-match",
+   "price": 0.485,
+   "side": "Alexandre Muller",
+   "title": "Hagen: Guy Den Ouden vs Alexandre Muller",
+   "tour": "ATP",
+   "winner": "Guy Den Ouden"
   },
   {
    "hit": false,
