@@ -11,29 +11,29 @@
    "z": 0.9511897312113418
   },
   "pre-match": {
-   "brier": 0.2485413043478261,
-   "edge_pp": -18.91304347826085,
-   "implied": 0.49347826086956503,
-   "n": 23,
-   "roi": -0.3963122199087296,
-   "win_rate": 0.30434782608695654,
+   "brier": 0.25446145833333333,
+   "edge_pp": -20.72916666666665,
+   "implied": 0.49895833333333317,
+   "n": 24,
+   "roi": -0.4214658774125326,
+   "win_rate": 0.2916666666666667,
    "wins": 7,
-   "z": -1.8818037004863568
+   "z": -2.106477137133419
   }
  },
- "generated": "2026-08-03T22:42:45Z",
+ "generated": "2026-08-03T23:50:40Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called.",
  "overall": {
-  "brier": 0.24758645833333334,
-  "edge_pp": -16.14583333333332,
-  "implied": 0.4947916666666665,
-  "n": 24,
-  "roi": -0.3421007980474532,
-  "win_rate": 0.3333333333333333,
+  "brier": 0.253308,
+  "edge_pp": -17.999999999999982,
+  "implied": 0.49999999999999983,
+  "n": 25,
+  "roi": -0.36841676612555513,
+  "win_rate": 0.32,
   "wins": 8,
-  "z": -1.638521743995162
+  "z": -1.86414128697454
  },
- "pending": 4,
+ "pending": 3,
  "signals": [
   {
    "hit": true,
@@ -214,6 +214,16 @@
    "title": "National Bank Open: James Duckworth vs Christopher O'Connell",
    "tour": "ATP",
    "winner": "James Duckworth"
+  },
+  {
+   "hit": false,
+   "locked_at": "2026-08-02T17:26:50Z",
+   "phase": "pre-match",
+   "price": 0.625,
+   "side": "Matteo Berrettini",
+   "title": "Canadian Open: Matteo Berrettini vs Mariano Navone",
+   "tour": "ATP",
+   "winner": "Mariano Navone"
   },
   {
    "hit": false,
