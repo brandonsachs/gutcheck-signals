@@ -1,29 +1,39 @@
 {
  "by_phase": {
+  "in-window": {
+   "brier": 0.225625,
+   "edge_pp": 47.5,
+   "implied": 0.525,
+   "n": 1,
+   "roi": 0.9047619047619047,
+   "win_rate": 1.0,
+   "wins": 1,
+   "z": 0.9511897312113418
+  },
   "pre-match": {
-   "brier": 0.25331315789473685,
-   "edge_pp": -22.421052631578934,
-   "implied": 0.48736842105263145,
-   "n": 19,
-   "roi": -0.4629077560737799,
-   "win_rate": 0.2631578947368421,
-   "wins": 5,
-   "z": -2.0361925553485607
+   "brier": 0.24334285714285714,
+   "edge_pp": -20.476190476190464,
+   "implied": 0.49047619047619034,
+   "n": 21,
+   "roi": -0.439068772180739,
+   "win_rate": 0.2857142857142857,
+   "wins": 6,
+   "z": -1.9525696790856406
   }
  },
- "generated": "2026-08-03T18:27:55Z",
+ "generated": "2026-08-03T20:15:00Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called.",
  "overall": {
-  "brier": 0.25331315789473685,
-  "edge_pp": -22.421052631578934,
-  "implied": 0.48736842105263145,
-  "n": 19,
-  "roi": -0.4629077560737799,
-  "win_rate": 0.2631578947368421,
-  "wins": 5,
-  "z": -2.0361925553485607
+  "brier": 0.2425375,
+  "edge_pp": -17.386363636363626,
+  "implied": 0.49204545454545445,
+  "n": 22,
+  "roi": -0.37798555959243696,
+  "win_rate": 0.3181818181818182,
+  "wins": 7,
+  "z": -1.6938754787708203
  },
- "pending": 8,
+ "pending": 5,
  "signals": [
   {
    "hit": true,
@@ -197,6 +207,26 @@
   },
   {
    "hit": false,
+   "locked_at": "2026-08-02T19:55:25Z",
+   "phase": "pre-match",
+   "price": 0.405,
+   "side": "Rafael Jodar",
+   "title": "Mubadala Citi DC Open: Taylor Fritz vs Rafael Jodar",
+   "tour": "ATP",
+   "winner": "Taylor Fritz"
+  },
+  {
+   "hit": true,
+   "locked_at": "2026-08-02T22:04:29Z",
+   "phase": "pre-match",
+   "price": 0.635,
+   "side": "Magdalena Frech",
+   "title": "National Bank Open: Magdalena Frech vs Leolia Jeanjean",
+   "tour": "WTA",
+   "winner": "Magdalena Frech"
+  },
+  {
+   "hit": false,
    "locked_at": "2026-08-03T13:58:51Z",
    "phase": "pre-match",
    "price": 0.485,
@@ -214,6 +244,16 @@
    "title": "National Bank Open: Alina Korneeva vs Polina Kudermetova",
    "tour": "WTA",
    "winner": "Alina Korneeva"
+  },
+  {
+   "hit": true,
+   "locked_at": "2026-08-03T18:27:25Z",
+   "phase": "in-window",
+   "price": 0.525,
+   "side": "Shuai Zhang",
+   "title": "National Bank Open: Yulia Putintseva vs Shuai Zhang",
+   "tour": "WTA",
+   "winner": "Shuai Zhang"
   }
  ]
 }
