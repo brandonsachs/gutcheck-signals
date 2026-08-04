@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.22637954545454544,
-   "edge_pp": -6.181818181818194,
-   "implied": 0.47090909090909105,
-   "n": 22,
-   "roi": -0.15674161275655366,
-   "win_rate": 0.4090909090909091,
-   "wins": 9,
-   "z": -0.5935724475199246
+   "brier": 0.2357641304347826,
+   "edge_pp": -3.0217391304348027,
+   "implied": 0.4650000000000002,
+   "n": 23,
+   "roi": -0.06361916755558734,
+   "win_rate": 0.43478260869565216,
+   "wins": 10,
+   "z": -0.29709469395421767
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-08-04T21:16:15Z",
+ "generated": "2026-08-04T21:32:01Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json.",
  "overall": {
-  "brier": 0.22685769230769234,
-  "edge_pp": -9.769230769230786,
-  "implied": 0.4823076923076925,
-  "n": 26,
-  "roi": -0.23073231224328228,
-  "win_rate": 0.38461538461538464,
-  "wins": 10,
-  "z": -1.0257541139052393
+  "brier": 0.23483425925925927,
+  "edge_pp": -6.944444444444464,
+  "implied": 0.476851851851852,
+  "n": 27,
+  "roi": -0.1486653885725803,
+  "win_rate": 0.4074074074074074,
+  "wins": 11,
+  "z": -0.7438090092259523
  },
- "pending": 2,
+ "pending": 1,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -297,6 +297,16 @@
    "title": "Lexington: Moez Echargui vs Spencer Johnson",
    "tour": "ATP",
    "winner": "Spencer Johnson"
+  },
+  {
+   "hit": true,
+   "locked_at": "2026-08-04T20:31:04Z",
+   "phase": "pre-match",
+   "price": 0.335,
+   "side": "Shuai Zhang",
+   "title": "National Bank Open: Shuai Zhang vs Jelena Ostapenko",
+   "tour": "WTA",
+   "winner": "Shuai Zhang"
   }
  ]
 }
