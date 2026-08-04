@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.164655,
-   "edge_pp": 13.100000000000001,
-   "implied": 0.469,
-   "n": 5,
-   "roi": 0.08365041234883949,
-   "win_rate": 0.6,
+   "brier": 0.20655,
+   "edge_pp": 0.16666666666667052,
+   "implied": 0.4983333333333333,
+   "n": 6,
+   "roi": -0.09695798970930042,
+   "win_rate": 0.5,
    "wins": 3,
-   "z": 0.6025361225062585
+   "z": 0.0084194295406708
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-08-04T13:46:36Z",
+ "generated": "2026-08-04T14:01:51Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json.",
  "overall": {
-  "brier": 0.19346944444444444,
-  "edge_pp": -5.833333333333335,
-  "implied": 0.5027777777777778,
-  "n": 9,
-  "roi": -0.2369413973263291,
-  "win_rate": 0.4444444444444444,
+  "brier": 0.215725,
+  "edge_pp": -11.7,
+  "implied": 0.517,
+  "n": 10,
+  "roi": -0.3132472575936962,
+  "win_rate": 0.4,
   "wins": 4,
-  "z": -0.36545013764334006
+  "z": -0.7726939479466153
  },
- "pending": 1,
+ "pending": 0,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -127,6 +127,16 @@
    "title": "Grodzisk Mazowiecki: Alexander Donski vs Takuya Kumasaka",
    "tour": "ATP",
    "winner": "Alexander Donski"
+  },
+  {
+   "hit": false,
+   "locked_at": "2026-08-04T12:31:15Z",
+   "phase": "pre-match",
+   "price": 0.645,
+   "side": "Sofia Costoulas",
+   "title": "Warsaw: Gabriela Knutson vs Sofia Costoulas",
+   "tour": "WTA",
+   "winner": "Gabriela Knutson"
   }
  ]
 }
