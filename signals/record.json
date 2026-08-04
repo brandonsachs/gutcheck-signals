@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.21481499999999998,
-   "edge_pp": -7.550000000000007,
-   "implied": 0.4755000000000001,
-   "n": 20,
-   "roi": -0.21734331026409306,
-   "win_rate": 0.4,
-   "wins": 8,
-   "z": -0.6911135152376434
+   "brier": 0.22637954545454544,
+   "edge_pp": -6.181818181818194,
+   "implied": 0.47090909090909105,
+   "n": 22,
+   "roi": -0.15674161275655366,
+   "win_rate": 0.4090909090909091,
+   "wins": 9,
+   "z": -0.5935724475199246
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-08-04T21:01:17Z",
+ "generated": "2026-08-04T21:16:15Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json.",
  "overall": {
-  "brier": 0.2172604166666667,
-  "edge_pp": -11.208333333333348,
-  "implied": 0.4870833333333335,
-  "n": 24,
-  "roi": -0.2873996184567925,
-  "win_rate": 0.375,
-  "wins": 9,
-  "z": -1.131116083987826
+  "brier": 0.22685769230769234,
+  "edge_pp": -9.769230769230786,
+  "implied": 0.4823076923076925,
+  "n": 26,
+  "roi": -0.23073231224328228,
+  "win_rate": 0.38461538461538464,
+  "wins": 10,
+  "z": -1.0257541139052393
  },
- "pending": 4,
+ "pending": 2,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -262,11 +262,31 @@
    "hit": true,
    "locked_at": "2026-08-04T19:09:07Z",
    "phase": "pre-match",
+   "price": 0.345,
+   "side": "Terence Atmane",
+   "title": "Canadian Open: Terence Atmane vs Jack Draper",
+   "tour": "ATP",
+   "winner": "Terence Atmane"
+  },
+  {
+   "hit": true,
+   "locked_at": "2026-08-04T19:09:07Z",
+   "phase": "pre-match",
    "price": 0.355,
    "side": "Juan Manuel Cerundolo",
    "title": "Canadian Open: Juan Manuel Cerundolo vs Hamad Medjedovic",
    "tour": "ATP",
    "winner": "Juan Manuel Cerundolo"
+  },
+  {
+   "hit": false,
+   "locked_at": "2026-08-04T19:16:03Z",
+   "phase": "pre-match",
+   "price": 0.505,
+   "side": "Gabriela Ruse",
+   "title": "National Bank Open: Gabriela Ruse vs Anastasia Potapova",
+   "tour": "WTA",
+   "winner": "Anastasia Potapova"
   },
   {
    "hit": true,
