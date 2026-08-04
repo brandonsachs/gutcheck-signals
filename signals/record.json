@@ -11,29 +11,29 @@
    "z": 0.9511897312113418
   },
   "pre-match": {
-   "brier": 0.25446145833333333,
-   "edge_pp": -20.72916666666665,
-   "implied": 0.49895833333333317,
-   "n": 24,
-   "roi": -0.4214658774125326,
-   "win_rate": 0.2916666666666667,
-   "wins": 7,
-   "z": -2.106477137133419
+   "brier": 0.2606971153846154,
+   "edge_pp": -14.711538461538447,
+   "implied": 0.4932692307692306,
+   "n": 26,
+   "roi": -0.27992606266338677,
+   "win_rate": 0.34615384615384615,
+   "wins": 9,
+   "z": -1.5542008209786315
   }
  },
- "generated": "2026-08-03T23:50:40Z",
+ "generated": "2026-08-04T01:02:59Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called.",
  "overall": {
-  "brier": 0.253308,
-  "edge_pp": -17.999999999999982,
-  "implied": 0.49999999999999983,
-  "n": 25,
-  "roi": -0.36841676612555513,
-  "win_rate": 0.32,
-  "wins": 8,
-  "z": -1.86414128697454
+  "brier": 0.25939814814814816,
+  "edge_pp": -12.407407407407394,
+  "implied": 0.4944444444444443,
+  "n": 27,
+  "roi": -0.23604873053652412,
+  "win_rate": 0.37037037037037035,
+  "wins": 10,
+  "z": -1.3340103996159272
  },
- "pending": 3,
+ "pending": 1,
  "signals": [
   {
    "hit": true,
@@ -226,6 +226,16 @@
    "winner": "Mariano Navone"
   },
   {
+   "hit": true,
+   "locked_at": "2026-08-02T18:32:33Z",
+   "phase": "pre-match",
+   "price": 0.495,
+   "side": "Titouan Droguet",
+   "title": "National Bank Open: Luca Van Assche vs Titouan Droguet",
+   "tour": "ATP",
+   "winner": "Titouan Droguet"
+  },
+  {
    "hit": false,
    "locked_at": "2026-08-02T19:55:25Z",
    "phase": "pre-match",
@@ -284,6 +294,16 @@
    "title": "National Bank Open: Yulia Putintseva vs Shuai Zhang",
    "tour": "WTA",
    "winner": "Shuai Zhang"
+  },
+  {
+   "hit": true,
+   "locked_at": "2026-08-03T21:33:27Z",
+   "phase": "pre-match",
+   "price": 0.355,
+   "side": "Taylor Townsend",
+   "title": "National Bank Open: Tereza Valentova vs Taylor Townsend",
+   "tour": "WTA",
+   "winner": "Taylor Townsend"
   }
  ]
 }
