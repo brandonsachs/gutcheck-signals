@@ -1,5 +1,15 @@
 {
  "by_phase": {
+  "in-window": {
+   "brier": 0.525625,
+   "edge_pp": -72.5,
+   "implied": 0.725,
+   "n": 1,
+   "roi": -1.0,
+   "win_rate": 0.0,
+   "wins": 0,
+   "z": -1.6236882817719773
+  },
   "pre-match": {
    "brier": 0.126025,
    "edge_pp": -35.5,
@@ -13,19 +23,19 @@
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-08-04T03:46:33Z",
+ "generated": "2026-08-04T04:01:21Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json.",
  "overall": {
-  "brier": 0.126025,
-  "edge_pp": -35.5,
-  "implied": 0.355,
-  "n": 1,
+  "brier": 0.32582500000000003,
+  "edge_pp": -54.0,
+  "implied": 0.54,
+  "n": 2,
   "roi": -1.0,
   "win_rate": 0.0,
   "wins": 0,
-  "z": -0.7418811204628575
+  "z": -1.650153594939441
  },
- "pending": 1,
+ "pending": 0,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -37,6 +47,16 @@
    "title": "National Bank Open: Solana Sierra vs Sloane Stephens",
    "tour": "WTA",
    "winner": "Sloane Stephens"
+  },
+  {
+   "hit": false,
+   "locked_at": "2026-08-04T02:48:57Z",
+   "phase": "in-window",
+   "price": 0.725,
+   "side": "Kamil Majchrzak",
+   "title": "Canadian Open: Kamil Majchrzak vs Gael Monfils",
+   "tour": "ATP",
+   "winner": "Gael Monfils"
   }
  ]
 }
