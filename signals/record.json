@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.20370714285714286,
-   "edge_pp": -18.499999999999993,
-   "implied": 0.47071428571428564,
-   "n": 14,
-   "roi": -0.4794706471250807,
-   "win_rate": 0.2857142857142857,
-   "wins": 4,
-   "z": -1.4197163390405987
+   "brier": 0.21066166666666666,
+   "edge_pp": -13.566666666666666,
+   "implied": 0.469,
+   "n": 15,
+   "roi": -0.36435986990101166,
+   "win_rate": 0.3333333333333333,
+   "wins": 5,
+   "z": -1.0762714871812238
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-08-04T18:46:25Z",
+ "generated": "2026-08-04T19:01:30Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json.",
  "overall": {
-  "brier": 0.2094361111111111,
-  "edge_pp": -20.94444444444445,
-  "implied": 0.4872222222222223,
-  "n": 18,
-  "roi": -0.5146285387462383,
-  "win_rate": 0.2777777777777778,
-  "wins": 5,
-  "z": -1.8373528425362948
+  "brier": 0.21462499999999998,
+  "edge_pp": -16.92105263157896,
+  "implied": 0.4850000000000001,
+  "n": 19,
+  "roi": -0.4219011940103333,
+  "win_rate": 0.3157894736842105,
+  "wins": 6,
+  "z": -1.5228375260498799
  },
- "pending": 2,
+ "pending": 3,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -207,6 +207,16 @@
    "title": "National Bank Open: Camila Osorio vs Ekaterina Alexandrova",
    "tour": "WTA",
    "winner": "Ekaterina Alexandrova"
+  },
+  {
+   "hit": true,
+   "locked_at": "2026-08-04T16:46:05Z",
+   "phase": "pre-match",
+   "price": 0.445,
+   "side": "Viktorija Golubic",
+   "title": "National Bank Open: Donna Vekic vs Viktorija Golubic",
+   "tour": "WTA",
+   "winner": "Viktorija Golubic"
   },
   {
    "hit": false,
