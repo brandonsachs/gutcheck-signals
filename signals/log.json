@@ -4,7 +4,7 @@
    "cid": "0x00107ab3db0169c8b85284f923549ec32cb6dfd2f706a5a6e7cfa45455cd7ebf",
    "first_seen": "2026-08-01T22:11:46Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -18,7 +18,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -85,7 +85,7 @@
    "cid": "0x03048e8922372a4a1d283cde5cc0042fffc62b03779e1197f1beedeb1fc275e7",
    "first_seen": "2026-08-03T16:33:32Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -99,7 +99,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -108,7 +108,7 @@
    ],
    "result": null,
    "slug": "atp-kouzmin-ostapen-2026-08-04",
-   "start": "2026-08-04T11:30:00Z",
+   "start": "2026-08-04T12:00:00Z",
    "title": "Istanbul 2: Constantin Bittoun Kouzmine vs Daniil Ostapenkov",
    "tour": "ATP"
   },
@@ -116,7 +116,7 @@
    "cid": "0x041eb404c839cdb46387c06c4c74cbc72eb35a0d68adf2ce6171523b64d16788",
    "first_seen": "2026-08-04T04:16:03Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -130,7 +130,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -147,7 +147,7 @@
    "cid": "0x04afbfddbcb1137fecba91dd38c80f984a804545592033a063b24fe51afaa7f3",
    "first_seen": "2026-08-03T16:33:32Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      5594.96
@@ -161,7 +161,7 @@
     "state": "aligned",
     "wallets": 2
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -209,21 +209,21 @@
    "cid": "0x05be465f7d9b424e2c6edc226e0fde081c2ffd2958dccb8ccde967e10724a444",
    "first_seen": "2026-08-02T06:41:29Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
-     2954.21,
+     3020.59,
      0.0
     ],
-    "price": 0.555,
+    "price": 0.545,
     "sharp": [
      0.0,
-     7912.57
+     7770.01
     ],
     "side": 1,
     "state": "aligned",
     "wallets": 3
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -316,7 +316,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -457,7 +457,7 @@
    "cid": "0x0a616aa8490f3e9b14eb11addcc1dbdb6eca2ba762d350aabad6a439a3d47b9e",
    "first_seen": "2026-08-03T22:42:12Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      8806.39,
      13122.82
@@ -471,7 +471,7 @@
     "state": "aligned",
     "wallets": 9
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -600,7 +600,7 @@
    "cid": "0x0e8a9a9ee419f48069ba82351cdf5ecbb09ae230d35d0de44b44e8182a730068",
    "first_seen": "2026-08-03T16:33:32Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -614,7 +614,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -743,7 +743,7 @@
    "cid": "0x0f7a43969727904abdf9fe37fbe8e9b20e871ca8d41ee7c35d210761109ceea6",
    "first_seen": "2026-08-03T22:42:12Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      2179.01
@@ -757,7 +757,7 @@
     "state": "aligned",
     "wallets": 3
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -850,7 +850,7 @@
     "state": "aligned",
     "wallets": 5
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": {
     "at": "2026-08-04T09:16:05Z",
@@ -1094,7 +1094,7 @@
    "cid": "0x15af79b452b4f19d920b7d00f53ee7d74864e48e39df3c4ae9da1eb9225d6ddb",
    "first_seen": "2026-08-02T06:41:29Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -1108,7 +1108,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -1125,7 +1125,7 @@
    "cid": "0x1819479adc4109eb33ee57e3385dff433bc30d9a0ea03f10b22997e1c2505025",
    "first_seen": "2026-08-03T22:42:12Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      2146.13,
      6942.4
@@ -1139,7 +1139,7 @@
     "state": "none",
     "wallets": 2
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -1156,7 +1156,7 @@
    "cid": "0x189c3332cb908e7ba1452cf093377590400b0b80e9f473320c0aa9d3ef831100",
    "first_seen": "2026-08-03T22:42:12Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      3104.81,
      0.0
@@ -1170,7 +1170,7 @@
     "state": "aligned",
     "wallets": 3
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -1344,7 +1344,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -1392,7 +1392,7 @@
    "cid": "0x20f02425ebb3dff922542e3306b515d0059724beacd15bc7f048d7449c4e9417",
    "first_seen": "2026-08-03T22:42:12Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -1406,7 +1406,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -1547,7 +1547,7 @@
    "cid": "0x2698297d2e5a40b0358ff8fd886ad9cb26f8908a7d37dd216aa8e135df19599f",
    "first_seen": "2026-08-02T06:41:29Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -1561,7 +1561,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -1609,7 +1609,7 @@
    "cid": "0x290f1249c1fc1f1f437e2bd2c50a4e7a1dfc04bf350320eaa5f0690d2eb9206c",
    "first_seen": "2026-08-01T22:11:46Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -1623,7 +1623,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -1640,7 +1640,7 @@
    "cid": "0x2a82cbfaf81c7420a4f2b10ada29fa96cebe833b61480e4db77397cd640c5f2a",
    "first_seen": "2026-08-02T06:41:29Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      2114.83
@@ -1654,7 +1654,7 @@
     "state": "aligned",
     "wallets": 2
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -1735,7 +1735,7 @@
     "state": "crowded",
     "wallets": 4
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -1802,7 +1802,7 @@
    "cid": "0x2e14ffa8a9e7fd92ad131e93556ea3d48f74e6edc3203b6688fb5c54ccf645a2",
    "first_seen": "2026-08-01T22:11:46Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -1816,7 +1816,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -1833,21 +1833,21 @@
    "cid": "0x2e472e15ca2e1b57251ced33a5ed28aa5660608e02b6a7d3a14ce396d150e7cc",
    "first_seen": "2026-08-03T22:42:12Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
-     3939.63,
+     4006.97,
      0.0
     ],
-    "price": 0.415,
+    "price": 0.405,
     "sharp": [
      0.0,
-     4156.28
+     4056.13
     ],
     "side": 1,
     "state": "aligned",
     "wallets": 2
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -1895,7 +1895,7 @@
    "cid": "0x3005dbe66e4927a0ae6e80f28f3ce8d58937cb35adb4fc92cc451f8984978198",
    "first_seen": "2026-08-01T22:11:46Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -1909,7 +1909,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -2131,7 +2131,7 @@
    "cid": "0x363a222ddc95d876be7e4869eba37ecf2f1e937de3e788460bd9732a779ace4c",
    "first_seen": "2026-08-04T04:16:03Z",
    "last_pre": null,
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -2224,7 +2224,7 @@
     "state": "aligned",
     "wallets": 5
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": {
     "at": "2026-08-04T09:16:05Z",
@@ -2305,7 +2305,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -2451,7 +2451,7 @@
    "cid": "0x42df616cce5d781363049270ed7585699bfded5605b14c991b4b85606dd96a2d",
    "first_seen": "2026-08-03T22:42:12Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -2465,7 +2465,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -2513,7 +2513,7 @@
    "cid": "0x468c0bddc583cf3a0c22a23591fcdb3f114d6d450671cb02337b908d2d3e5de4",
    "first_seen": "2026-08-01T22:11:46Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -2527,7 +2527,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -2536,7 +2536,7 @@
    ],
    "result": null,
    "slug": "atp-wallin-guerrie-2026-08-03",
-   "start": "2026-08-04T11:30:00Z",
+   "start": "2026-08-04T12:00:00Z",
    "title": "Grodzisk Mazowiecki: Olle Wallin vs Andrea Guerrieri",
    "tour": "ATP"
   },
@@ -2544,7 +2544,7 @@
    "cid": "0x46a53d6e5f7e4401400d984b276679dd5b3546732c4fe89aa353d5cd30bfee64",
    "first_seen": "2026-08-03T22:42:12Z",
    "last_pre": {
-    "at": "2026-08-04T11:10:53Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -2558,7 +2558,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:10:53Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -2606,7 +2606,7 @@
    "cid": "0x47c7e0cd160f8ef45b4766140d3db4e4eae324cb75cfadc2f34235120a5170da",
    "first_seen": "2026-08-01T22:11:46Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      3818.46
@@ -2620,7 +2620,7 @@
     "state": "aligned",
     "wallets": 2
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -2687,7 +2687,7 @@
    "cid": "0x4aab0ec2619fc5d2f38ad52ecb9cc8dc1968ec9fbb1548d00dc0f9a5c3b7b792",
    "first_seen": "2026-08-01T22:11:46Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -2701,7 +2701,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -2710,7 +2710,7 @@
    ],
    "result": null,
    "slug": "atp-peliwo-marrero-2026-08-03",
-   "start": "2026-08-04T14:30:00Z",
+   "start": "2026-08-04T15:00:00Z",
    "title": "Grodzisk Mazowiecki: Filip Peliwo vs Ivan Marrero",
    "tour": "ATP"
   },
@@ -2799,7 +2799,7 @@
    "cid": "0x4e3a9c44983fbf63449e33ae4e556341232ff86c333a3f2afb7255eb5017e39b",
    "first_seen": "2026-08-03T22:42:12Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -2813,7 +2813,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -2830,7 +2830,7 @@
    "cid": "0x4e9172f2e4c1761700ddb136809e125a78e610aa40d43236bbc3b838034173d1",
    "first_seen": "2026-08-03T22:42:12Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      2340.0,
      0.0
@@ -2844,7 +2844,7 @@
     "state": "aligned",
     "wallets": 3
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -2861,7 +2861,7 @@
    "cid": "0x4ffee2ac3a487fa40e5ff73c1b651d3aa45615943377c9b250c41aa295121e96",
    "first_seen": "2026-08-01T22:11:46Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -2875,7 +2875,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -2985,7 +2985,7 @@
    "cid": "0x522ddaddbc5bfcddbd7404ead062910978da4b7f325c772227168f7a7ec6610f",
    "first_seen": "2026-08-01T22:11:46Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -2999,7 +2999,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -3109,7 +3109,7 @@
    "cid": "0x561bc78a790b5fa5effb851da3386f99f6f5f06f13c85de69f4172716a827111",
    "first_seen": "2026-08-03T16:33:32Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -3123,7 +3123,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -3140,7 +3140,7 @@
    "cid": "0x562dcb45666eec8a834ee95d590700175603865ffe0fe014a7fe3ccb28b88b47",
    "first_seen": "2026-08-03T16:33:32Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -3154,7 +3154,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -3233,7 +3233,7 @@
    "cid": "0x5aae6a5d37c3a958c3f6ee3a2035024433e45b7921edc460e308c759730550a7",
    "first_seen": "2026-08-03T22:42:12Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -3247,7 +3247,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -3345,7 +3345,7 @@
    "cid": "0x5e4f189db3119763ef47be825c5300cea203047a07bfad8462af2d1273559793",
    "first_seen": "2026-08-03T22:42:12Z",
    "last_pre": null,
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -3424,7 +3424,7 @@
    "cid": "0x5ff1235bf1c83dd56e45d4b5a9798eb76c61fe4a0d0f25802a0795a182bb8d2c",
    "first_seen": "2026-08-02T06:41:29Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -3438,7 +3438,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -3455,7 +3455,7 @@
    "cid": "0x60ba01bd7b151e2f18e64c1ea90b83181daab19789142b50bcc031105347f0f6",
    "first_seen": "2026-08-02T02:23:16Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -3469,7 +3469,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -3486,7 +3486,7 @@
    "cid": "0x60ee01e6ae36900b16f609d480bca63682a97d11983d756d3aa4d9adc2f520c7",
    "first_seen": "2026-08-01T22:11:46Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -3500,7 +3500,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -3509,7 +3509,7 @@
    ],
    "result": null,
    "slug": "atp-brouwer-manas-2026-08-03",
-   "start": "2026-08-04T13:00:00Z",
+   "start": "2026-08-04T13:30:00Z",
    "title": "Istanbul 2: Gijs Brouwer vs Manoj Dhamne Manas",
    "tour": "ATP"
   },
@@ -3562,7 +3562,7 @@
     "state": "crowded",
     "wallets": 4
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -3579,9 +3579,9 @@
    "cid": "0x63d81a2ed40f3d1647b0b81146fd2dc76797ccf68958afcf4236dce4557a5470",
    "first_seen": "2026-08-03T22:42:12Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
-     9362.43,
+     9187.44,
      0.0
     ],
     "price": null,
@@ -3593,7 +3593,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -3722,7 +3722,7 @@
    "cid": "0x6ab67ea49bd45796b3716bb1253f4d244f828e566942fdc52026bf825fb2f206",
    "first_seen": "2026-08-03T16:33:32Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      1220.1,
      0.0
@@ -3736,7 +3736,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -3753,9 +3753,9 @@
    "cid": "0x6c1256b65a8ca6433e02fcfdd52f7a6ac41a4cb471ae94604a35d2d954c0efba",
    "first_seen": "2026-08-03T16:33:32Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
-     1190.48,
+     1200.0,
      0.0
     ],
     "price": null,
@@ -3767,7 +3767,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -3815,7 +3815,7 @@
    "cid": "0x6c660aab52a465d487c77a8ce2685f0523936d6a9070ca0954cae6e29a813919",
    "first_seen": "2026-08-01T22:11:46Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -3829,7 +3829,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -4008,7 +4008,7 @@
    "cid": "0x72758fa4f715fadd7498f2db3a83b802c99582502325aa503cf1a4b2b7c57db6",
    "first_seen": "2026-08-04T10:16:03Z",
    "last_pre": null,
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -4025,7 +4025,7 @@
    "cid": "0x72bf3f448ac6325832ae705fac780d42878a11adea79d799b7632fe5f3c7006a",
    "first_seen": "2026-08-03T22:42:12Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      11968.17,
      0.0
@@ -4039,7 +4039,7 @@
     "state": "none",
     "wallets": 3
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -4056,7 +4056,7 @@
    "cid": "0x74e1376f103d8c55243de2b68f7c67146094b0ee4df8b246d96ff9c2ce303cc2",
    "first_seen": "2026-08-04T10:16:03Z",
    "last_pre": null,
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -4104,7 +4104,7 @@
    "cid": "0x767d3614d66a3e6667087f47641529eaa0ea128a2067173b0be66811f1c45734",
    "first_seen": "2026-08-01T22:11:46Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -4118,7 +4118,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -4135,9 +4135,9 @@
    "cid": "0x79a1dfdd3f9fdc9e201043e0b27bd481a4cb8aa14d9f874421fb600865b55900",
    "first_seen": "2026-08-02T02:23:16Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
-     7112.47,
+     7164.44,
      3431.29
     ],
     "price": null,
@@ -4149,7 +4149,7 @@
     "state": "crowded",
     "wallets": 6
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -4197,7 +4197,7 @@
    "cid": "0x7a9e75c006cea40b50a74e60237ef2e28bf80d2572ab6723048a4f8cfcb17d8f",
    "first_seen": "2026-08-03T20:14:34Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -4211,7 +4211,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -4228,7 +4228,7 @@
    "cid": "0x7b02186cfb0200f6db3c8cf645334a94e13e4efe0015f3616e632647f088b93c",
    "first_seen": "2026-08-03T22:42:12Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -4242,7 +4242,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -4259,21 +4259,21 @@
    "cid": "0x7b2a0363743c2211a9de6eda4a169bc7b4de1f307691209fef11ad65a311a7e0",
    "first_seen": "2026-08-03T16:33:32Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
-     0.0,
+     23317.17,
      0.0
     ],
-    "price": null,
+    "price": 0.32,
     "sharp": [
      0.0,
-     0.0
+     10459.14
     ],
-    "side": null,
-    "state": "none",
-    "wallets": 0
+    "side": 1,
+    "state": "aligned",
+    "wallets": 3
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -4282,7 +4282,7 @@
    ],
    "result": null,
    "slug": "atp-donski-kumasak-2026-08-04",
-   "start": "2026-08-04T11:15:00Z",
+   "start": "2026-08-04T11:20:00Z",
    "title": "Grodzisk Mazowiecki: Alexander Donski vs Takuya Kumasaka",
    "tour": "ATP"
   },
@@ -4390,21 +4390,21 @@
    "cid": "0x7ee3b3fe2227a5d9a31a2f819523dc33d5a9f0447897bdf5baa833bebbb52f16",
    "first_seen": "2026-08-03T16:33:32Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
-     11163.72
+     17140.13
     ],
     "price": null,
     "sharp": [
-     3414.22,
-     27865.25
+     2472.37,
+     33400.76
     ],
     "side": null,
     "state": "crowded",
-    "wallets": 7
+    "wallets": 9
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -4413,7 +4413,7 @@
    ],
    "result": null,
    "slug": "wta-podlins-valdman-2026-08-04",
-   "start": "2026-08-04T11:15:00Z",
+   "start": "2026-08-04T11:20:00Z",
    "title": "Warsaw: Marcelina Podlinska vs Vendula Valdmannova",
    "tour": "WTA"
   },
@@ -4550,7 +4550,7 @@
    "cid": "0x885429aaed80cb5cc0633319bed22ddee05860aa3408f3be54cf5b339ed3bf6c",
    "first_seen": "2026-08-02T06:41:29Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -4564,7 +4564,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -4643,7 +4643,7 @@
    "cid": "0x8ae90869550bf93f4f11dc301f19389b2158c96b5e509275163f05ccf82a0c9e",
    "first_seen": "2026-08-02T02:23:16Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -4657,7 +4657,7 @@
     "state": "none",
     "wallets": 2
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -4674,7 +4674,7 @@
    "cid": "0x8d3d77656099b2a564e8f6fe749a1132cc3c5642506e586364f7b685cecff476",
    "first_seen": "2026-08-01T22:11:46Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -4688,7 +4688,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -4705,7 +4705,7 @@
    "cid": "0x8d7d71ffac176dae36edc0ecb7027cb3a954e783ca07195a501114ab30151902",
    "first_seen": "2026-08-03T16:33:32Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -4719,7 +4719,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -4728,7 +4728,7 @@
    ],
    "result": null,
    "slug": "atp-schwaer-cizek-2026-08-04",
-   "start": "2026-08-04T16:00:00Z",
+   "start": "2026-08-04T16:30:00Z",
    "title": "Grodzisk Mazowiecki: Joel Schwaerzler vs Jiri Cizek",
    "tour": "ATP"
   },
@@ -4736,7 +4736,7 @@
    "cid": "0x8e1ea06d693251236787d3b4bb4f1ae842dee4fe3b04f0e0c5b29843378aa0b2",
    "first_seen": "2026-08-02T06:41:29Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      1029.18
@@ -4750,7 +4750,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -4848,9 +4848,9 @@
    "cid": "0x90baafe27d62079d15488df7b0edce89efa1b1f3190a37bbf33235ef18ab954b",
    "first_seen": "2026-08-02T06:41:29Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
-     4058.08,
+     4279.25,
      0.0
     ],
     "price": 0.405,
@@ -4862,7 +4862,7 @@
     "state": "aligned",
     "wallets": 4
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -4910,7 +4910,7 @@
    "cid": "0x932cbd6d251b0f4e2f9c1d28b15a3c700ee12bff5adac0e1a5b472cf4119609e",
    "first_seen": "2026-08-01T22:11:46Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -4924,7 +4924,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -5084,7 +5084,7 @@
    "cid": "0x96415c944b8ff9333812b0b8f8a7f23b766cbc72eb6106f815d167d977426041",
    "first_seen": "2026-08-03T22:42:12Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -5098,7 +5098,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -5146,7 +5146,7 @@
    "cid": "0x9912b30fcd5e31c2656fda426a7338bd576a7b4e16d59a93f7454905d861527f",
    "first_seen": "2026-08-02T06:41:29Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      2389.27
@@ -5160,7 +5160,7 @@
     "state": "aligned",
     "wallets": 3
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -5177,7 +5177,7 @@
    "cid": "0x998c3ae4eb83983d477a8def12134f195b0627503c975eaa547a58167345e843",
    "first_seen": "2026-08-03T22:42:12Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -5191,7 +5191,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -5208,7 +5208,7 @@
    "cid": "0x99f3c8fd0aef511c6334397d83c8a24ee8bbbbe567cacab6b150db4327f6eaca",
    "first_seen": "2026-08-01T22:11:46Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -5222,7 +5222,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -5270,7 +5270,7 @@
    "cid": "0x9a88d98f17ebc166bbf9f4841e10a23de04dd4a1b4aa43add466be9fb75511e9",
    "first_seen": "2026-08-03T22:42:12Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      3086.1,
      0.0
@@ -5284,7 +5284,7 @@
     "state": "aligned",
     "wallets": 2
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -5301,7 +5301,7 @@
    "cid": "0x9ad21ff3d9df608df1151ad539bb9e97fd69d88721333102db8cf646dd396a9a",
    "first_seen": "2026-08-01T22:11:46Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -5315,7 +5315,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -5394,7 +5394,7 @@
    "cid": "0xa0cec14307032502665891ad66aeea0dc0ab2c53254de07d946b66a8c9681e3b",
    "first_seen": "2026-08-04T04:16:03Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -5408,7 +5408,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -5442,7 +5442,7 @@
    "cid": "0xa3ec0e09c172493d0f34b91cd47e77e2efe000b5f1ecbb14e2c3638deda3cbbf",
    "first_seen": "2026-08-02T06:41:29Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      1336.62,
      0.0
@@ -5456,7 +5456,7 @@
     "state": "crowded",
     "wallets": 2
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -5504,7 +5504,7 @@
    "cid": "0xa5eb7855501ea3fcf464e68f9b4e99506b9c64e727cef1500cfa142b30bcf85e",
    "first_seen": "2026-08-03T04:06:53Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -5518,7 +5518,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -5566,7 +5566,7 @@
    "cid": "0xa9760492888e664ee9237f25997c0ded3c2c9fef6301795b66713737a8d4b138",
    "first_seen": "2026-08-04T04:16:03Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -5580,7 +5580,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -5642,7 +5642,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -5740,7 +5740,7 @@
    "cid": "0xaedb6667cf88cade0903baee5d5f14180e0cb4c35cfb1c8c05d5f91af051ba5b",
    "first_seen": "2026-08-04T04:16:03Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      4975.58
@@ -5754,7 +5754,7 @@
     "state": "aligned",
     "wallets": 4
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -5864,7 +5864,7 @@
    "cid": "0xb1ff3e5c5f5c870dd04bb4f4b48f3c776c271f70a52f0cf1968a31bb260267c3",
    "first_seen": "2026-08-03T22:42:12Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      3296.79,
      0.0
@@ -5878,7 +5878,7 @@
     "state": "aligned",
     "wallets": 4
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -5895,7 +5895,7 @@
    "cid": "0xb2fb0a3ce19a3a25302fa8d9e351826d4f4909ec8af1d0620c706b5fb3671746",
    "first_seen": "2026-08-02T02:23:16Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      2775.0
@@ -5909,7 +5909,7 @@
     "state": "crowded",
     "wallets": 3
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -5926,7 +5926,7 @@
    "cid": "0xb3b54f1049afbcaa4f7f3c77d889c1499d562dac0bb6e1e5d499a024854a2372",
    "first_seen": "2026-08-04T04:16:03Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -5940,7 +5940,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -5957,7 +5957,7 @@
    "cid": "0xb3fd158d486ca133ac1434fa2f81ea0b0bfe138b852e315a33a6ec34fd58064e",
    "first_seen": "2026-08-03T22:42:12Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -5971,7 +5971,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -5988,7 +5988,7 @@
    "cid": "0xb40602f685464f8d5b452ef1ef0107541c35be01d249250477e22fe0d182cac5",
    "first_seen": "2026-08-02T06:41:29Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      1379.41,
      60974.75
@@ -6002,7 +6002,7 @@
     "state": "aligned",
     "wallets": 7
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -6019,7 +6019,7 @@
    "cid": "0xb48f757e792ccd13395d3c5702257293d19f3dc768a8726861940d3433193cda",
    "first_seen": "2026-08-03T22:42:12Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -6033,7 +6033,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -6050,7 +6050,7 @@
    "cid": "0xb4a27837369ff022992526f22b8be611d010b8bf7c8dd513ff261159ed5134c8",
    "first_seen": "2026-08-03T16:33:32Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -6064,7 +6064,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -6073,7 +6073,7 @@
    ],
    "result": null,
    "slug": "atp-binda-turker-2026-08-04",
-   "start": "2026-08-04T11:30:00Z",
+   "start": "2026-08-04T12:00:00Z",
    "title": "Istanbul 2: Alexandr Binda vs Mert Naci Turker",
    "tour": "ATP"
   },
@@ -6205,7 +6205,7 @@
    "cid": "0xbaefb45dfb13dee04ab24e02b02a2d3ea3e8441582dc16c977e7e97377661010",
    "first_seen": "2026-08-04T04:16:03Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -6219,7 +6219,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -6281,7 +6281,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -6484,7 +6484,7 @@
    "cid": "0xc32ad53bdef761f435286f47290277c20da148457beced50aaf13302963d4706",
    "first_seen": "2026-08-03T22:42:12Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -6498,7 +6498,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -6546,21 +6546,21 @@
    "cid": "0xc4004105b39f05cca34260716e0afcb0f3799cab0c3de1e1a98fbf6522811ef5",
    "first_seen": "2026-08-03T22:42:12Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
-     1970.94
+     1952.86
     ],
-    "price": 0.455,
+    "price": 0.46,
     "sharp": [
-     1481.25,
+     1497.53,
      0.0
     ],
     "side": 0,
     "state": "aligned",
     "wallets": 2
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -6577,7 +6577,7 @@
    "cid": "0xc5f80192f6e6ed0c2dc9ce4004c471a4c9b59b39f969c436bf69331938e150b9",
    "first_seen": "2026-08-03T16:33:32Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -6591,7 +6591,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -6600,7 +6600,7 @@
    ],
    "result": null,
    "slug": "atp-kirkin-ivashka-2026-08-04",
-   "start": "2026-08-04T13:00:00Z",
+   "start": "2026-08-04T13:30:00Z",
    "title": "Grodzisk Mazowiecki: Ergi Kirkin vs Ilya Ivashka",
    "tour": "ATP"
   },
@@ -6720,7 +6720,7 @@
    "cid": "0xccb7085c1d62848b14eb99534f8480bd1693668ea7c4bd3fa522b58d050881b5",
    "first_seen": "2026-08-03T22:42:12Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -6734,7 +6734,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -6813,7 +6813,7 @@
    "cid": "0xcd740bcbfbc8855cf4f7706686d5cb981d62e72d9dfcd1306a4fe91b62313860",
    "first_seen": "2026-08-03T22:42:12Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      2851.07
@@ -6827,7 +6827,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -6875,7 +6875,7 @@
    "cid": "0xcebad2b69f42a4110e88fb62b67925bb37df6560c9da0d41bf47003538a92f89",
    "first_seen": "2026-08-03T22:42:12Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -6889,7 +6889,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -6920,7 +6920,7 @@
     "state": "none",
     "wallets": 2
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": {
     "at": "2026-08-04T11:10:53Z",
@@ -7002,7 +7002,7 @@
    "cid": "0xd0c31315dd4f0d7d9475c1e23ea158c7f8032a6d622d5e274bdc53f721c0eab6",
    "first_seen": "2026-08-03T16:33:32Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      6261.4
@@ -7016,7 +7016,7 @@
     "state": "aligned",
     "wallets": 2
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -7207,7 +7207,7 @@
    "cid": "0xd6be8dfdd46e3b8464eab3c1e300f7ad8fbb50a36f6dfcec732011d12c807569",
    "first_seen": "2026-08-01T22:11:46Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -7221,7 +7221,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -7283,7 +7283,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -7300,7 +7300,7 @@
    "cid": "0xd7b43163df1dc66519a5a194436d13bd51d23854cd21b7daaaafb9f12329fe79",
    "first_seen": "2026-08-02T02:23:16Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      40640.74
@@ -7314,7 +7314,7 @@
     "state": "aligned",
     "wallets": 11
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -7362,7 +7362,7 @@
    "cid": "0xd8f66aa02b9b7a5049ab74ee152963b849d75751e3289597d94f129d85fe9e8a",
    "first_seen": "2026-08-02T02:23:16Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      1155.0,
      7160.48
@@ -7376,7 +7376,7 @@
     "state": "aligned",
     "wallets": 4
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -7424,7 +7424,7 @@
    "cid": "0xdb54a75b22704b976370c1a96e47136ff53f8e32e649c6c322bf71ba14a81679",
    "first_seen": "2026-08-02T06:41:29Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -7438,7 +7438,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -7536,7 +7536,7 @@
    "cid": "0xdf4aaa4d15ba71baed89b18edc53f8b05d2611320f674ea0ed5a1e34753592b3",
    "first_seen": "2026-08-04T04:16:03Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      21951.0
@@ -7550,7 +7550,7 @@
     "state": "aligned",
     "wallets": 2
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -7567,7 +7567,7 @@
    "cid": "0xe0b227df7e68bd56fcf26627f2ab503589142a462204b5bb19dc6027dbddb205",
    "first_seen": "2026-08-01T22:11:46Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -7581,7 +7581,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -7590,7 +7590,7 @@
    ],
    "result": null,
    "slug": "atp-yevseye-erel-2026-08-03",
-   "start": "2026-08-04T14:30:00Z",
+   "start": "2026-08-04T15:00:00Z",
    "title": "Istanbul 2: Denis Yevseyev vs Yanki Erel",
    "tour": "ATP"
   },
@@ -7598,7 +7598,7 @@
    "cid": "0xe18425a745a5a2c314f6fab8ced17371fb62ed5b4900a08011eaad2b5224053c",
    "first_seen": "2026-08-03T22:42:12Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -7612,7 +7612,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -7722,7 +7722,7 @@
    "cid": "0xe23d1a6d9703b0045fb42cc0dcca08d224ae64f4316aa72f8b1ae10633ecc17e",
    "first_seen": "2026-08-04T04:16:03Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -7736,7 +7736,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -7994,7 +7994,7 @@
    "cid": "0xee4ccc70c03673d4e3834e6709e865c347821d3aec7d3a56e654848e57306b07",
    "first_seen": "2026-08-03T16:33:32Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      1043.66
@@ -8008,7 +8008,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -8039,7 +8039,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": {
     "at": "2026-08-04T10:31:04Z",
@@ -8061,7 +8061,11 @@
     "Petr Bar Biryukov",
     "Paul Inchauspe"
    ],
-   "result": null,
+   "result": {
+    "hit": false,
+    "scored_at": "2026-08-04T11:31:29Z",
+    "winner": "Paul Inchauspe"
+   },
    "slug": "atp-biryuko-inchaus-2026-08-03",
    "start": "2026-08-04T10:05:00Z",
    "title": "Istanbul 2: Petr Bar Biryukov vs Paul Inchauspe",
@@ -8133,9 +8137,9 @@
    "cid": "0xf0a702c98c247180bc034194b862c8df230ec252a4e8918742924f662568dbc3",
    "first_seen": "2026-08-02T02:23:16Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
-     6282.84,
+     6303.29,
      3320.6
     ],
     "price": null,
@@ -8147,7 +8151,7 @@
     "state": "crowded",
     "wallets": 4
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -8338,7 +8342,7 @@
    "cid": "0xf7274b15bc55d6176f3a2db1a2edf4efda0cb9cb94dd162e4f219b31bd229c40",
    "first_seen": "2026-08-01T22:11:46Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      3286.61,
      0.0
@@ -8352,7 +8356,7 @@
     "state": "none",
     "wallets": 2
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -8361,7 +8365,7 @@
    ],
    "result": null,
    "slug": "wta-samson-barthel-2026-08-03",
-   "start": "2026-08-04T12:45:00Z",
+   "start": "2026-08-04T12:50:00Z",
    "title": "Warsaw: Laura Samson vs Mona Barthel",
    "tour": "WTA"
   },
@@ -8414,9 +8418,24 @@
     "state": "aligned",
     "wallets": 2
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
-   "locked": null,
+   "locked": {
+    "at": "2026-08-04T11:16:04Z",
+    "fish": [
+     1094.92,
+     0.0
+    ],
+    "phase": "pre-match",
+    "price": 0.52,
+    "sharp": [
+     0.0,
+     3076.22
+    ],
+    "side": 1,
+    "side_name": "Elizara Yaneva",
+    "wallets": 2
+   },
    "outcomes": [
     "Linda Klimovicova",
     "Elizara Yaneva"
@@ -8529,7 +8548,7 @@
    "cid": "0xfa573c27cb73d351acab68cca23bbe8625d011c1e608d44c1e3dd19a2453a214",
    "first_seen": "2026-08-03T16:33:32Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -8543,7 +8562,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -8552,7 +8571,7 @@
    ],
    "result": null,
    "slug": "atp-miyoshi-azkara-2026-08-04",
-   "start": "2026-08-04T13:00:00Z",
+   "start": "2026-08-04T13:30:00Z",
    "title": "Istanbul 2: Kenta Miyoshi vs Arda Azkara",
    "tour": "ATP"
   },
@@ -8560,7 +8579,7 @@
    "cid": "0xfaa86e67b1cb844db3f4b2fe417d418dfa615f58d4866af0e63c8b728f9b8c1a",
    "first_seen": "2026-08-02T02:23:16Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      5690.44,
      7092.49
@@ -8574,7 +8593,7 @@
     "state": "crowded",
     "wallets": 8
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -8684,7 +8703,7 @@
    "cid": "0xfcf38d4553b33355efe4e6353a310db53303ee18c9ad9e78213b1820d9556383",
    "first_seen": "2026-08-01T22:11:46Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -8698,7 +8717,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -8746,7 +8765,7 @@
    "cid": "0xfe2be1b428d1a4d7bbf86b42defea837959a487b161375637f44311f5c75f94a",
    "first_seen": "2026-08-01T22:11:46Z",
    "last_pre": {
-    "at": "2026-08-04T11:16:04Z",
+    "at": "2026-08-04T11:31:10Z",
     "fish": [
      0.0,
      0.0
@@ -8760,7 +8779,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-04T11:16:04Z",
+   "last_scan": "2026-08-04T11:31:10Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -8805,6 +8824,6 @@
    "tour": "WTA"
   }
  },
- "updated": "2026-08-04T11:16:04Z",
+ "updated": "2026-08-04T11:31:10Z",
  "version": 1
 }
