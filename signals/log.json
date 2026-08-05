@@ -1113,7 +1113,7 @@
    "cid": "0x1488501a2adf9d63eef389882ed2248b2dcce9d2a8d4bfe469923f24abeb45a5",
    "first_seen": "2026-08-04T16:16:03Z",
    "last_pre": {
-    "at": "2026-08-05T22:01:11Z",
+    "at": "2026-08-05T22:16:04Z",
     "fish": [
      0.0,
      0.0
@@ -1131,7 +1131,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -1414,7 +1414,7 @@
    "cid": "0x19424f2fb937d4e3b1d5c6fb3c540f7ff7961d79ceae2fb064b9c04e62e7e1ad",
    "first_seen": "2026-08-04T16:16:03Z",
    "last_pre": {
-    "at": "2026-08-05T22:01:11Z",
+    "at": "2026-08-05T22:16:04Z",
     "fish": [
      0.0,
      0.0
@@ -1432,7 +1432,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -1650,6 +1650,23 @@
    "title": "Mubadala Citi DC Open: Taylor Fritz vs Alex Michelsen",
    "tour": "ATP"
   },
+  "0x20485ea4b1dad3138f66af29ef4bb8914bc86137f82d4942f4ca271e4762a9f7": {
+   "cid": "0x20485ea4b1dad3138f66af29ef4bb8914bc86137f82d4942f4ca271e4762a9f7",
+   "first_seen": "2026-08-05T22:16:04Z",
+   "last_pre": null,
+   "last_scan": "2026-08-05T22:16:04Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Maria Sakkari",
+    "Coco Gauff"
+   ],
+   "result": null,
+   "slug": "wta-sakkari-gauff-2026-08-06",
+   "start": "2026-08-06T15:00:00Z",
+   "title": "National Bank Open: Maria Sakkari vs Coco Gauff",
+   "tour": "WTA"
+  },
   "0x20f02425ebb3dff922542e3306b515d0059724beacd15bc7f048d7449c4e9417": {
    "cid": "0x20f02425ebb3dff922542e3306b515d0059724beacd15bc7f048d7449c4e9417",
    "first_seen": "2026-08-03T22:42:12Z",
@@ -1716,7 +1733,7 @@
    "cid": "0x23ae7209e89fb5d3b5b00131c01eada4e01d56cc18272865bae1f5470b0ad7a8",
    "first_seen": "2026-08-04T22:16:04Z",
    "last_pre": {
-    "at": "2026-08-05T22:01:11Z",
+    "at": "2026-08-05T22:16:04Z",
     "fish": [
      0.0,
      0.0
@@ -1734,7 +1751,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -2119,7 +2136,7 @@
    "cid": "0x2bf377bf8dd11cb7089d2f513aafef2bba0600522bf5b8c5b6cb3ebc2e5d37d7",
    "first_seen": "2026-08-04T22:46:10Z",
    "last_pre": {
-    "at": "2026-08-05T22:01:11Z",
+    "at": "2026-08-05T22:16:04Z",
     "fish": [
      7949.39,
      1198.23
@@ -2137,7 +2154,7 @@
     "state": "none",
     "wallets": 4
    },
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -2355,9 +2372,9 @@
    "cid": "0x2e76a5f69e584fd1e2b8bf90b8f224486f5f22e0a06a7ddae442fa69cc08c58e",
    "first_seen": "2026-08-04T22:16:04Z",
    "last_pre": {
-    "at": "2026-08-05T22:01:11Z",
+    "at": "2026-08-05T22:16:04Z",
     "fish": [
-     7083.82,
+     6996.9,
      0.0
     ],
     "price": null,
@@ -2373,7 +2390,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -2638,7 +2655,7 @@
    "cid": "0x33920fd8d3f49dfb3c9d3a94043523397dc4a179806d4463298f6539cb1c262c",
    "first_seen": "2026-08-05T00:01:03Z",
    "last_pre": {
-    "at": "2026-08-05T22:01:11Z",
+    "at": "2026-08-05T22:16:04Z",
     "fish": [
      0.0,
      0.0
@@ -2656,7 +2673,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -2691,7 +2708,7 @@
     "state": "thin",
     "wallets": 5
    },
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -2832,7 +2849,7 @@
    "cid": "0x363a222ddc95d876be7e4869eba37ecf2f1e937de3e788460bd9732a779ace4c",
    "first_seen": "2026-08-04T04:16:03Z",
    "last_pre": {
-    "at": "2026-08-05T22:01:11Z",
+    "at": "2026-08-05T22:16:04Z",
     "fish": [
      0.0,
      5688.85
@@ -2850,7 +2867,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -2920,7 +2937,7 @@
     "state": "crowded",
     "wallets": 2
    },
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -2932,6 +2949,23 @@
    "start": "2026-08-05T21:45:00Z",
    "title": "National Bank Open: Liudmila Samsonova vs Barbora Krejcikova",
    "tour": "WTA"
+  },
+  "0x373044b4469d15d3cf53ee2ffa980d25275b2ecd9a692ca225970381b51830bf": {
+   "cid": "0x373044b4469d15d3cf53ee2ffa980d25275b2ecd9a692ca225970381b51830bf",
+   "first_seen": "2026-08-05T22:16:04Z",
+   "last_pre": null,
+   "last_scan": "2026-08-05T22:16:04Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Rafael Jodar",
+    "Lorenzo Musetti"
+   ],
+   "result": null,
+   "slug": "atp-jodar-musetti-2026-08-06",
+   "start": "2026-08-06T15:00:00Z",
+   "title": "National Bank Open: Rafael Jodar vs Lorenzo Musetti",
+   "tour": "ATP"
   },
   "0x380bfc9fda1c7c63344cfee0c8965f30f6d0e6bdba3f8d15dc0928842624b9f1": {
    "cid": "0x380bfc9fda1c7c63344cfee0c8965f30f6d0e6bdba3f8d15dc0928842624b9f1",
@@ -3337,6 +3371,23 @@
    "title": "Plovdiv 2: Franco Ribero vs Radu Mihai Papoe",
    "tour": "ATP"
   },
+  "0x4409d54e1d1cca2b327ebf663e10ffdb4be77f591c55f62c028e69ddd37ede5a": {
+   "cid": "0x4409d54e1d1cca2b327ebf663e10ffdb4be77f591c55f62c028e69ddd37ede5a",
+   "first_seen": "2026-08-05T22:16:04Z",
+   "last_pre": null,
+   "last_scan": "2026-08-05T22:16:04Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Carol Young Suh Lee",
+    "Weronika Falkowska"
+   ],
+   "result": null,
+   "slug": "wta-lee-falkows-2026-08-06",
+   "start": "2026-08-06T10:30:00Z",
+   "title": "Warsaw: Carol Young Suh Lee vs Weronika Falkowska",
+   "tour": "WTA"
+  },
   "0x4487812fc399493d36751eeed7492a42d0812d58b611849b28edf3225cbb6290": {
    "cid": "0x4487812fc399493d36751eeed7492a42d0812d58b611849b28edf3225cbb6290",
    "first_seen": "2026-07-31T01:55:24Z",
@@ -3372,7 +3423,7 @@
    "cid": "0x4665b1a1985b3563a06dcfff80cf3dcec3c88dc6e827296b96070f505a18712b",
    "first_seen": "2026-08-05T21:01:06Z",
    "last_pre": null,
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -3617,7 +3668,7 @@
    "cid": "0x49b8c27e7671dd234205e7a25e0bf5282c556ab7c47ba30aea79ef3b61a8733c",
    "first_seen": "2026-08-05T22:01:11Z",
    "last_pre": {
-    "at": "2026-08-05T22:01:11Z",
+    "at": "2026-08-05T22:16:04Z",
     "fish": [
      0.0,
      0.0
@@ -3635,7 +3686,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -3733,7 +3784,7 @@
    "cid": "0x4c5665a5aecf8436f03e06e31e784b9858b0e099ef254de8538cd387d91b2d1e",
    "first_seen": "2026-08-05T22:01:11Z",
    "last_pre": {
-    "at": "2026-08-05T22:01:11Z",
+    "at": "2026-08-05T22:16:04Z",
     "fish": [
      0.0,
      0.0
@@ -3751,7 +3802,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -3817,7 +3868,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -3834,7 +3885,7 @@
    "cid": "0x4dbd15eda5751219cba25d8b691a96c068643217e99e9b208a39bc8b0761391c",
    "first_seen": "2026-08-05T04:16:05Z",
    "last_pre": {
-    "at": "2026-08-05T22:01:11Z",
+    "at": "2026-08-05T22:16:04Z",
     "fish": [
      0.0,
      0.0
@@ -3852,7 +3903,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -4617,7 +4668,7 @@
    "cid": "0x60438f48d873c6fd2f15a71d524b237bf36bfac1618cf53f47e383d2a80438b4",
    "first_seen": "2026-08-04T22:16:04Z",
    "last_pre": {
-    "at": "2026-08-05T22:01:11Z",
+    "at": "2026-08-05T22:16:04Z",
     "fish": [
      0.0,
      0.0
@@ -4635,7 +4686,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -4871,6 +4922,23 @@
    "start": "2026-08-02T00:45:00Z",
    "title": "Mubadala Citi DC Open: Rafael Jodar vs Alejandro Tabilo",
    "tour": "ATP"
+  },
+  "0x64f6fafd9aeb085e22110bbad5cbee98271ed962158d95e468dce9f0f7ffb49f": {
+   "cid": "0x64f6fafd9aeb085e22110bbad5cbee98271ed962158d95e468dce9f0f7ffb49f",
+   "first_seen": "2026-08-05T22:16:04Z",
+   "last_pre": null,
+   "last_scan": "2026-08-05T22:16:04Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Anna Kalinskaya",
+    "Diana Shnaider"
+   ],
+   "result": null,
+   "slug": "wta-kalinsk-shnaide-2026-08-06",
+   "start": "2026-08-06T16:30:00Z",
+   "title": "National Bank Open: Anna Kalinskaya vs Diana Shnaider",
+   "tour": "WTA"
   },
   "0x66a7751d62f43e20c760f97888a00447cb21e308e910a2be30dd7a73a21d7d2e": {
    "cid": "0x66a7751d62f43e20c760f97888a00447cb21e308e910a2be30dd7a73a21d7d2e",
@@ -5217,7 +5285,7 @@
    "cid": "0x6ce279f3ee7b7f23579f7095451d62bb1974d0e994d654b5fc401c3a5fc2af85",
    "first_seen": "2026-08-04T22:46:10Z",
    "last_pre": {
-    "at": "2026-08-05T22:01:11Z",
+    "at": "2026-08-05T22:16:04Z",
     "fish": [
      0.0,
      4470.0
@@ -5235,7 +5303,7 @@
     "state": "crowded",
     "wallets": 3
    },
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -5270,7 +5338,7 @@
     "state": "crowded",
     "wallets": 14
    },
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -5312,6 +5380,41 @@
    "slug": "wta-kessler-brace-2026-08-03",
    "start": "2026-08-02T23:45:00Z",
    "title": "National Bank Open: McCartney Kessler vs Cadence Brace",
+   "tour": "WTA"
+  },
+  "0x6f64642abf65589082bbcadc4907845c2f003fb25a7891d358e57cc7ea6e7bf8": {
+   "cid": "0x6f64642abf65589082bbcadc4907845c2f003fb25a7891d358e57cc7ea6e7bf8",
+   "first_seen": "2026-08-05T22:16:04Z",
+   "last_pre": {
+    "at": "2026-08-05T22:16:04Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-08-05T22:16:04Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Nikola Bartunkova",
+    "Amanda Anisimova"
+   ],
+   "result": null,
+   "slug": "wta-bartunk-anisimo-2026-08-06",
+   "start": "2026-08-06T21:00:00Z",
+   "title": "National Bank Open: Nikola Bartunkova vs Amanda Anisimova",
    "tour": "WTA"
   },
   "0x6f8988fb58bca18317a3354cfe8a49f0e155cd928515ace85b12bb663f9e595e": {
@@ -5403,7 +5506,7 @@
    "cid": "0x7113b913552dd76b8dae09be8d38c16211b930317cf58cc9962ffa7e11899b4a",
    "first_seen": "2026-08-04T22:31:05Z",
    "last_pre": {
-    "at": "2026-08-05T22:01:11Z",
+    "at": "2026-08-05T22:16:04Z",
     "fish": [
      0.0,
      49348.97
@@ -5421,7 +5524,7 @@
     "state": "thin",
     "wallets": 2
    },
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -5589,7 +5692,7 @@
    "cid": "0x75b63e738a0d05c2043d53736fb4ce7be15f371da23e769bf18521a9731b3b37",
    "first_seen": "2026-08-05T04:16:05Z",
    "last_pre": {
-    "at": "2026-08-05T22:01:11Z",
+    "at": "2026-08-05T22:16:04Z",
     "fish": [
      0.0,
      0.0
@@ -5607,7 +5710,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -5739,7 +5842,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -5806,7 +5909,7 @@
    "cid": "0x79d0ea5ea6d05403e4cfc54b728876696ea78dcdaf5c947c76dd21b826946e42",
    "first_seen": "2026-08-05T21:01:06Z",
    "last_pre": {
-    "at": "2026-08-05T22:01:11Z",
+    "at": "2026-08-05T22:16:04Z",
     "fish": [
      0.0,
      0.0
@@ -5824,7 +5927,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -6023,7 +6126,7 @@
    "cid": "0x7b5db5a409bf130edcea23c1e84219dd49e1b6c753851ce72904fa268c31b184",
    "first_seen": "2026-08-04T22:16:04Z",
    "last_pre": null,
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -6140,7 +6243,7 @@
    "cid": "0x7e426e758a2cf1d6ddbd26eab2fca073e5550cf40e732339c0ee04326495902a",
    "first_seen": "2026-08-04T16:16:03Z",
    "last_pre": {
-    "at": "2026-08-05T22:01:11Z",
+    "at": "2026-08-05T22:16:04Z",
     "fish": [
      0.0,
      0.0
@@ -6158,7 +6261,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -6357,7 +6460,7 @@
    "cid": "0x82a1d083fc4bb81f0806e62057b66f499cdfaa428cc5cfe4a34534ab6fbd0b04",
    "first_seen": "2026-08-05T02:01:04Z",
    "last_pre": {
-    "at": "2026-08-05T22:01:11Z",
+    "at": "2026-08-05T22:16:04Z",
     "fish": [
      0.0,
      0.0
@@ -6375,7 +6478,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -6404,6 +6507,23 @@
    "start": "2026-07-31T01:20:00Z",
    "title": "Mubadala Citi DC Open: Polina Kudermetova vs Elina Svitolina",
    "tour": "WTA"
+  },
+  "0x8352c7785b072b5f8c068e985c646e6ed8795a6b848609b28f41ebf4d3d0b2a8": {
+   "cid": "0x8352c7785b072b5f8c068e985c646e6ed8795a6b848609b28f41ebf4d3d0b2a8",
+   "first_seen": "2026-08-05T22:16:04Z",
+   "last_pre": null,
+   "last_scan": "2026-08-05T22:16:04Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Tom Gentzsch",
+    "Henri Squire"
+   ],
+   "result": null,
+   "slug": "atp-gentzsc-squire-2026-08-07",
+   "start": "2026-08-07T09:00:00Z",
+   "title": "Hagen: Tom Gentzsch vs Henri Squire",
+   "tour": "ATP"
   },
   "0x849fc316259db893ed099df2110690f703e95ce998d020bff96d705be465ee83": {
    "cid": "0x849fc316259db893ed099df2110690f703e95ce998d020bff96d705be465ee83",
@@ -6458,7 +6578,7 @@
     "state": "thin",
     "wallets": 5
    },
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -6692,7 +6812,7 @@
    "cid": "0x8aa3693b7d545886b054936afc6f30208464be90e7c9880aaf4fe8d4f185fa65",
    "first_seen": "2026-08-05T16:16:05Z",
    "last_pre": {
-    "at": "2026-08-05T22:01:11Z",
+    "at": "2026-08-05T22:16:04Z",
     "fish": [
      0.0,
      0.0
@@ -6710,7 +6830,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -6950,7 +7070,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -7029,7 +7149,7 @@
    "cid": "0x9303b56e41b599fa833bddbe5ca08b9478d1f21f9a797005b5ad812d72d7039d",
    "first_seen": "2026-08-04T22:16:04Z",
    "last_pre": {
-    "at": "2026-08-05T22:01:11Z",
+    "at": "2026-08-05T22:16:04Z",
     "fish": [
      0.0,
      0.0
@@ -7047,7 +7167,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -7368,7 +7488,7 @@
     "state": "crowded",
     "wallets": 13
    },
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -7690,10 +7810,10 @@
    "cid": "0xa1b31bac0ea53770e042bd436afa607b8c5234246c8923feb26f242725ba811a",
    "first_seen": "2026-08-04T04:16:03Z",
    "last_pre": {
-    "at": "2026-08-05T22:01:11Z",
+    "at": "2026-08-05T22:16:04Z",
     "fish": [
-     59534.93,
-     5022.7
+     60726.82,
+     5463.89
     ],
     "price": null,
     "sharp": [
@@ -7706,9 +7826,9 @@
     ],
     "side": null,
     "state": "thin",
-    "wallets": 8
+    "wallets": 9
    },
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -7717,7 +7837,7 @@
    ],
    "result": null,
    "slug": "atp-tien-monfils-2026-08-05",
-   "start": "2026-08-06T00:30:00Z",
+   "start": "2026-08-06T00:25:00Z",
    "title": "National Bank Open: Learner Tien vs Gael Monfils",
    "tour": "ATP"
   },
@@ -7902,7 +8022,7 @@
     "state": "crowded",
     "wallets": 14
    },
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -7981,7 +8101,7 @@
    "cid": "0xa9e5bc66667cd67d83bb11da3affee83cc3311d70a8443d02ae0f39fd4e284e7",
    "first_seen": "2026-08-04T22:16:04Z",
    "last_pre": {
-    "at": "2026-08-05T22:01:11Z",
+    "at": "2026-08-05T22:16:04Z",
     "fish": [
      1848.2,
      8125.16
@@ -7999,7 +8119,7 @@
     "state": "none",
     "wallets": 2
    },
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -8078,7 +8198,7 @@
    "cid": "0xae53edca69e23809363885966898dcb5108debf18a9215c2d3b79ed2ab8813e9",
    "first_seen": "2026-08-04T22:16:04Z",
    "last_pre": {
-    "at": "2026-08-05T22:01:11Z",
+    "at": "2026-08-05T22:16:04Z",
     "fish": [
      0.0,
      0.0
@@ -8096,7 +8216,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -8113,7 +8233,7 @@
    "cid": "0xaea555a8c32bc5dd6adbba737cb019aeab7818399a9087ef8eba119564e7b66d",
    "first_seen": "2026-08-04T16:16:03Z",
    "last_pre": {
-    "at": "2026-08-05T22:01:11Z",
+    "at": "2026-08-05T22:16:04Z",
     "fish": [
      0.0,
      0.0
@@ -8131,7 +8251,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -8571,7 +8691,7 @@
     "state": "crowded",
     "wallets": 16
    },
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -8743,7 +8863,7 @@
    "cid": "0xb871d18b5682b0445c7a4588888e79c2f07860621a3254ccecc21e18f31c61f0",
    "first_seen": "2026-08-05T04:16:05Z",
    "last_pre": null,
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -8871,7 +8991,7 @@
     "state": "crowded",
     "wallets": 5
    },
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -9113,7 +9233,7 @@
    "cid": "0xbfcc706d9df7300bd35978d097946616d6656eabd14c2280220f2f6d664d0dfb",
    "first_seen": "2026-08-04T22:46:10Z",
    "last_pre": {
-    "at": "2026-08-05T22:01:11Z",
+    "at": "2026-08-05T22:16:04Z",
     "fish": [
      3478.59,
      0.0
@@ -9131,7 +9251,7 @@
     "state": "crowded",
     "wallets": 3
    },
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -9140,7 +9260,7 @@
    ],
    "result": null,
    "slug": "wta-cirstea-joint-2026-08-06",
-   "start": "2026-08-05T22:05:00Z",
+   "start": "2026-08-05T22:35:00Z",
    "title": "National Bank Open: Sorana Cirstea vs Maya Joint",
    "tour": "WTA"
   },
@@ -9307,6 +9427,23 @@
    "title": "Plovdiv 2: Eduardo Ribeiro vs George Lazarov",
    "tour": "ATP"
   },
+  "0xc3d8d1f391212ec295be1dcafe5ffbe6f8329bdcbf1026f6fe21b8917ca20389": {
+   "cid": "0xc3d8d1f391212ec295be1dcafe5ffbe6f8329bdcbf1026f6fe21b8917ca20389",
+   "first_seen": "2026-08-05T22:16:04Z",
+   "last_pre": null,
+   "last_scan": "2026-08-05T22:16:04Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Jessica Pegula",
+    "Kamilla Rakhimova"
+   ],
+   "result": null,
+   "slug": "wta-pegula-rakhimo-2026-08-06",
+   "start": "2026-08-06T18:00:00Z",
+   "title": "National Bank Open: Jessica Pegula vs Kamilla Rakhimova",
+   "tour": "WTA"
+  },
   "0xc3f3d97b58b93ab2ad676dedde5668ecdeb50e4ca510d89181a7cd3f4443ad2d": {
    "cid": "0xc3f3d97b58b93ab2ad676dedde5668ecdeb50e4ca510d89181a7cd3f4443ad2d",
    "first_seen": "2026-07-31T01:55:24Z",
@@ -9410,7 +9547,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -9445,7 +9582,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -9640,25 +9777,25 @@
    "cid": "0xc90f7c73fe8d576e32eaf242248b4943e31eea49d9af15267398903c04db4e21",
    "first_seen": "2026-08-04T22:46:10Z",
    "last_pre": {
-    "at": "2026-08-05T22:01:11Z",
+    "at": "2026-08-05T22:16:04Z",
     "fish": [
      3589.19,
      9609.81
     ],
     "price": null,
     "sharp": [
-     1167.15,
+     0.0,
      10083.74
     ],
     "sharp_wallets": [
-     1,
+     0,
      2
     ],
     "side": null,
     "state": "crowded",
-    "wallets": 6
+    "wallets": 5
    },
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -9848,7 +9985,7 @@
     "state": "crowded",
     "wallets": 4
    },
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -9865,7 +10002,7 @@
    "cid": "0xce92397966f3c117109181841898bba4dfc1749073e5c0ebff02dd7614c1094d",
    "first_seen": "2026-08-05T21:01:06Z",
    "last_pre": {
-    "at": "2026-08-05T22:01:11Z",
+    "at": "2026-08-05T22:16:04Z",
     "fish": [
      0.0,
      0.0
@@ -9883,7 +10020,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -10224,7 +10361,7 @@
    "cid": "0xd426a183f88ccecff7c82ea25e77e52093a2baf15cba81ef42eae9972533a1ee",
    "first_seen": "2026-08-04T16:16:03Z",
    "last_pre": {
-    "at": "2026-08-05T22:01:11Z",
+    "at": "2026-08-05T22:16:04Z",
     "fish": [
      0.0,
      0.0
@@ -10242,7 +10379,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -10325,7 +10462,7 @@
    "cid": "0xd62da19be9400420588aeba915c8c31e27500de60c5b6d5e356a0626c11ee9d5",
    "first_seen": "2026-08-04T22:31:05Z",
    "last_pre": {
-    "at": "2026-08-05T22:01:11Z",
+    "at": "2026-08-05T22:16:04Z",
     "fish": [
      10425.0,
      0.0
@@ -10343,7 +10480,7 @@
     "state": "crowded",
     "wallets": 3
    },
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -10352,7 +10489,7 @@
    ],
    "result": null,
    "slug": "atp-humbert-aguilar-2026-08-06",
-   "start": "2026-08-05T22:10:00Z",
+   "start": "2026-08-05T23:10:00Z",
    "title": "National Bank Open: Ugo Humbert vs Daniel Merida Aguilar",
    "tour": "ATP"
   },
@@ -10391,25 +10528,25 @@
    "cid": "0xd6fab46b14f7befc694a48fd07066e41bc348f60365a80c1c30773ccca4721d7",
    "first_seen": "2026-08-04T22:31:05Z",
    "last_pre": {
-    "at": "2026-08-05T22:01:11Z",
+    "at": "2026-08-05T22:16:04Z",
     "fish": [
-     3049.99,
-     6226.95
+     3960.01,
+     15323.08
     ],
     "price": null,
     "sharp": [
-     3975.62,
-     7716.79
+     3714.92,
+     3003.07
     ],
     "sharp_wallets": [
      1,
      1
     ],
     "side": null,
-    "state": "crowded",
-    "wallets": 4
+    "state": "none",
+    "wallets": 7
    },
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -10768,7 +10905,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -11052,7 +11189,7 @@
    "cid": "0xe263d315febe438b05b6d8fe484ace66cd35cd88387dbaa02c3029268b2bac6a",
    "first_seen": "2026-08-04T22:16:04Z",
    "last_pre": {
-    "at": "2026-08-05T22:01:11Z",
+    "at": "2026-08-05T22:16:04Z",
     "fish": [
      0.0,
      0.0
@@ -11070,7 +11207,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -11164,6 +11301,40 @@
    "title": "Istanbul 2: Fajing Sun vs Semen Pankin",
    "tour": "ATP"
   },
+  "0xe3cce1752fe04e9578133116a42ceccd847eb7b65c108e0a68a919ca1d1a1daf": {
+   "cid": "0xe3cce1752fe04e9578133116a42ceccd847eb7b65c108e0a68a919ca1d1a1daf",
+   "first_seen": "2026-08-05T22:16:04Z",
+   "last_pre": null,
+   "last_scan": "2026-08-05T22:16:04Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Vendula Valdmannova",
+    "Susan Bandecchi"
+   ],
+   "result": null,
+   "slug": "wta-valdman-bandecc-2026-08-06",
+   "start": "2026-08-06T12:00:00Z",
+   "title": "Warsaw: Vendula Valdmannova vs Susan Bandecchi",
+   "tour": "WTA"
+  },
+  "0xe8364f07a56f87f316dde01b088fc3ce0c26bbf4a2d8cbf12c0c86a9f35fb919": {
+   "cid": "0xe8364f07a56f87f316dde01b088fc3ce0c26bbf4a2d8cbf12c0c86a9f35fb919",
+   "first_seen": "2026-08-05T22:16:04Z",
+   "last_pre": null,
+   "last_scan": "2026-08-05T22:16:04Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Aryna Sabalenka",
+    "Shuai Zhang"
+   ],
+   "result": null,
+   "slug": "wta-sabalen-zhang-2026-08-06",
+   "start": "2026-08-06T23:00:00Z",
+   "title": "National Bank Open: Aryna Sabalenka vs Shuai Zhang",
+   "tour": "WTA"
+  },
   "0xe96e094f3d8d787f785e4d2b0a190b5e7d1b48c712608ee0aa61a4c3aabcab12": {
    "cid": "0xe96e094f3d8d787f785e4d2b0a190b5e7d1b48c712608ee0aa61a4c3aabcab12",
    "first_seen": "2026-07-31T22:43:10Z",
@@ -11230,7 +11401,7 @@
    "cid": "0xead46ea74090d21701b26d0c87aba25b34b4ccc920765ebbfb677de81ac50497",
    "first_seen": "2026-08-04T21:01:04Z",
    "last_pre": null,
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -12193,7 +12364,7 @@
    "cid": "0xfba9b55ef1b14e19223340fe03355b4a1e508b4fa4a51ed65832b89aac25cbd3",
    "first_seen": "2026-08-05T02:01:04Z",
    "last_pre": {
-    "at": "2026-08-05T22:01:11Z",
+    "at": "2026-08-05T22:16:04Z",
     "fish": [
      0.0,
      0.0
@@ -12211,7 +12382,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -12228,7 +12399,7 @@
    "cid": "0xfbf031cab4619e527a1d70f37c65dbc15b7b45d4edba34858593d1365ec12e32",
    "first_seen": "2026-08-04T22:16:04Z",
    "last_pre": {
-    "at": "2026-08-05T22:01:11Z",
+    "at": "2026-08-05T22:16:04Z",
     "fish": [
      0.0,
      0.0
@@ -12246,7 +12417,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -12449,6 +12620,23 @@
    "title": "Samsun: Paul Inchauspe vs Yanki Erel",
    "tour": "ATP"
   },
+  "0xfdc87415f6d29a6d6519f03b784fdfc740db3caeb11b2c61f3e6bba140658851": {
+   "cid": "0xfdc87415f6d29a6d6519f03b784fdfc740db3caeb11b2c61f3e6bba140658851",
+   "first_seen": "2026-08-05T22:16:04Z",
+   "last_pre": null,
+   "last_scan": "2026-08-05T22:16:04Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Alexei Popyrin",
+    "Thiago Agustin Tirante"
+   ],
+   "result": null,
+   "slug": "atp-popyrin-tirante-2026-08-06",
+   "start": "2026-08-06T15:00:00Z",
+   "title": "National Bank Open: Alexei Popyrin vs Thiago Agustin Tirante",
+   "tour": "ATP"
+  },
   "0xfe2be1b428d1a4d7bbf86b42defea837959a487b161375637f44311f5c75f94a": {
    "cid": "0xfe2be1b428d1a4d7bbf86b42defea837959a487b161375637f44311f5c75f94a",
    "first_seen": "2026-08-01T22:11:46Z",
@@ -12514,8 +12702,26 @@
   "0xff0fae51f7c8a3fcd4d35bee9415ce5cbf6e1fd3da21c0533d7b396d85a420c6": {
    "cid": "0xff0fae51f7c8a3fcd4d35bee9415ce5cbf6e1fd3da21c0533d7b396d85a420c6",
    "first_seen": "2026-08-05T16:16:05Z",
-   "last_pre": null,
-   "last_scan": "2026-08-05T22:01:11Z",
+   "last_pre": {
+    "at": "2026-08-05T22:16:04Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-08-05T22:16:04Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -12564,6 +12770,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-08-05T22:01:11Z",
+ "updated": "2026-08-05T22:16:04Z",
  "version": 1
 }
