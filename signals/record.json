@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.23210357142857144,
-   "edge_pp": -0.7857142857143007,
-   "implied": 0.4721428571428573,
-   "n": 28,
-   "roi": -0.01772121151074734,
-   "win_rate": 0.4642857142857143,
+   "brier": 0.23550086206896553,
+   "edge_pp": -2.741379310344838,
+   "implied": 0.4756896551724139,
+   "n": 29,
+   "roi": -0.05159289387244571,
+   "win_rate": 0.4482758620689655,
    "wins": 13,
-   "z": -0.08661752972937159
+   "z": -0.3072390632193391
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-08-05T03:46:30Z",
+ "generated": "2026-08-05T04:01:19Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json.",
  "overall": {
-  "brier": 0.23177656250000003,
-  "edge_pp": -4.375000000000018,
-  "implied": 0.4812500000000002,
-  "n": 32,
-  "roi": -0.09521620499944014,
-  "win_rate": 0.4375,
+  "brier": 0.23477196969696973,
+  "edge_pp": -5.984848484848499,
+  "implied": 0.48409090909090924,
+  "n": 33,
+  "roi": -0.12263389575703286,
+  "win_rate": 0.42424242424242425,
   "wins": 14,
-  "z": -0.5169907245376467
+  "z": -0.7174694459910463
  },
- "pending": 2,
+ "pending": 1,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -357,6 +357,16 @@
    "title": "National Bank Open: Luciano Darderi vs Gabriel Diallo",
    "tour": "ATP",
    "winner": "Luciano Darderi"
+  },
+  {
+   "hit": false,
+   "locked_at": "2026-08-05T01:01:03Z",
+   "phase": "pre-match",
+   "price": 0.575,
+   "side": "Flavio Cobolli",
+   "title": "National Bank Open: Flavio Cobolli vs Yannick Hanfmann",
+   "tour": "ATP",
+   "winner": "Yannick Hanfmann"
   }
  ]
 }
