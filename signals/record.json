@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.22758796296296296,
-   "edge_pp": 1.3888888888888729,
-   "implied": 0.4675925925925927,
-   "n": 27,
-   "roi": 0.01865948435922498,
-   "win_rate": 0.48148148148148145,
+   "brier": 0.23210357142857144,
+   "edge_pp": -0.7857142857143007,
+   "implied": 0.4721428571428573,
+   "n": 28,
+   "roi": -0.01772121151074734,
+   "win_rate": 0.4642857142857143,
    "wins": 13,
-   "z": 0.15048080186400736
+   "z": -0.08661752972937159
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-08-05T02:46:48Z",
+ "generated": "2026-08-05T03:01:21Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json.",
  "overall": {
-  "brier": 0.22783306451612906,
-  "edge_pp": -2.5967741935484066,
-  "implied": 0.4775806451612905,
-  "n": 31,
-  "roi": -0.06602963096716401,
-  "win_rate": 0.45161290322580644,
+  "brier": 0.23177656250000003,
+  "edge_pp": -4.375000000000018,
+  "implied": 0.4812500000000002,
+  "n": 32,
+  "roi": -0.09521620499944014,
+  "win_rate": 0.4375,
   "wins": 14,
-  "z": -0.3022777345610026
+  "z": -0.5169907245376467
  },
- "pending": 3,
+ "pending": 2,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -347,6 +347,16 @@
    "title": "National Bank Open: Clara Tauson vs Nikola Bartunkova",
    "tour": "WTA",
    "winner": "Nikola Bartunkova"
+  },
+  {
+   "hit": false,
+   "locked_at": "2026-08-05T01:01:03Z",
+   "phase": "pre-match",
+   "price": 0.595,
+   "side": "Gabriel Diallo",
+   "title": "National Bank Open: Luciano Darderi vs Gabriel Diallo",
+   "tour": "ATP",
+   "winner": "Luciano Darderi"
   }
  ]
 }
