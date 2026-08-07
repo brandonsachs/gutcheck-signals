@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.24228750000000002,
-   "edge_pp": -3.468750000000015,
-   "implied": 0.47218750000000015,
-   "n": 32,
-   "roi": -0.049926349926976386,
-   "win_rate": 0.4375,
-   "wins": 14,
-   "z": -0.4081323696407897
+   "brier": 0.24094621212121214,
+   "edge_pp": -2.0151515151515307,
+   "implied": 0.47469696969696984,
+   "n": 33,
+   "roi": -0.024116405935195234,
+   "win_rate": 0.45454545454545453,
+   "wins": 15,
+   "z": -0.2405291396780998
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-08-07T15:45:36Z",
+ "generated": "2026-08-07T16:00:12Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json.",
  "overall": {
-  "brier": 0.2408652777777778,
-  "edge_pp": -6.361111111111118,
-  "implied": 0.48027777777777786,
-  "n": 36,
-  "roi": -0.11523243987067787,
-  "win_rate": 0.4166666666666667,
-  "wins": 15,
-  "z": -0.7958852853818784
+  "brier": 0.23970743243243245,
+  "edge_pp": -4.986486486486491,
+  "implied": 0.48229729729729737,
+  "n": 37,
+  "roi": -0.09044773063628653,
+  "win_rate": 0.43243243243243246,
+  "wins": 16,
+  "z": -0.6318706213485732
  },
- "pending": 2,
+ "pending": 1,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -397,6 +397,16 @@
    "title": "Grodzisk Mazowiecki: Alexander Donski vs Daniil Glinka",
    "tour": "ATP",
    "winner": "Daniil Glinka"
+  },
+  {
+   "hit": true,
+   "locked_at": "2026-08-07T13:30:30Z",
+   "phase": "pre-match",
+   "price": 0.555,
+   "side": "Petr Nesterov",
+   "title": "Plovdiv 2: Adrian Andreev vs Petr Nesterov",
+   "tour": "ATP",
+   "winner": "Petr Nesterov"
   }
  ]
 }
