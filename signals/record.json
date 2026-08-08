@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.24893055555555563,
-   "edge_pp": -1.9166666666666832,
-   "implied": 0.46361111111111125,
-   "n": 36,
-   "roi": 0.030061316239621175,
-   "win_rate": 0.4444444444444444,
+   "brier": 0.25276013513513523,
+   "edge_pp": -3.5540540540540624,
+   "implied": 0.4679729729729731,
+   "n": 37,
+   "roi": 0.002221821206117901,
+   "win_rate": 0.43243243243243246,
    "wins": 16,
-   "z": -0.2402490070305404
+   "z": -0.45149632438634973
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-08-08T19:01:22Z",
+ "generated": "2026-08-08T19:15:57Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json.",
  "overall": {
-  "brier": 0.24698625000000005,
-  "edge_pp": -4.675000000000002,
-  "implied": 0.47175,
-  "n": 40,
-  "roi": -0.036712931326369914,
-  "win_rate": 0.425,
+  "brier": 0.2504896341463415,
+  "edge_pp": -6.085365853658542,
+  "implied": 0.4754878048780488,
+  "n": 41,
+  "roi": -0.06020773787938528,
+  "win_rate": 0.4146341463414634,
   "wins": 17,
-  "z": -0.6188610317087972
+  "z": -0.8153017943598594
  },
- "pending": 2,
+ "pending": 1,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -437,6 +437,16 @@
    "title": "National Bank Open: Alexei Popyrin vs Thiago Agustin Tirante",
    "tour": "ATP",
    "winner": "Thiago Agustin Tirante"
+  },
+  {
+   "hit": false,
+   "locked_at": "2026-08-08T16:16:11Z",
+   "phase": "pre-match",
+   "price": 0.625,
+   "side": "Nuno Borges",
+   "title": "National Bank Open: Nuno Borges vs Luciano Darderi",
+   "tour": "ATP",
+   "winner": "Luciano Darderi"
   }
  ]
 }
