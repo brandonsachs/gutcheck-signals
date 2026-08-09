@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.25276013513513523,
-   "edge_pp": -3.5540540540540624,
-   "implied": 0.4679729729729731,
-   "n": 37,
-   "roi": 0.002221821206117901,
-   "win_rate": 0.43243243243243246,
-   "wins": 16,
-   "z": -0.45149632438634973
+   "brier": 0.2515565789473685,
+   "edge_pp": -2.263157894736861,
+   "implied": 0.4700000000000002,
+   "n": 38,
+   "roi": 0.02413341499861745,
+   "win_rate": 0.4473684210526316,
+   "wins": 17,
+   "z": -0.29105173183140787
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-08-09T01:31:00Z",
+ "generated": "2026-08-09T01:46:02Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json.",
  "overall": {
-  "brier": 0.2504896341463415,
-  "edge_pp": -6.085365853658542,
-  "implied": 0.4754878048780488,
-  "n": 41,
-  "roi": -0.06020773787938528,
-  "win_rate": 0.4146341463414634,
-  "wins": 17,
-  "z": -0.8153017943598594
+  "brier": 0.24945476190476196,
+  "edge_pp": -4.857142857142866,
+  "implied": 0.4771428571428572,
+  "n": 42,
+  "roi": -0.0388965444698499,
+  "win_rate": 0.42857142857142855,
+  "wins": 18,
+  "z": -0.6579652468633553
  },
- "pending": 2,
+ "pending": 1,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -447,6 +447,16 @@
    "title": "National Bank Open: Nuno Borges vs Luciano Darderi",
    "tour": "ATP",
    "winner": "Luciano Darderi"
+  },
+  {
+   "hit": true,
+   "locked_at": "2026-08-09T00:15:51Z",
+   "phase": "pre-match",
+   "price": 0.545,
+   "side": "Rafael Jodar",
+   "title": "National Bank Open: Jiri Lehecka vs Rafael Jodar",
+   "tour": "ATP",
+   "winner": "Rafael Jodar"
   }
  ]
 }
