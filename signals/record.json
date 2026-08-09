@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.24781474358974365,
-   "edge_pp": -1.3717948717948902,
-   "implied": 0.47525641025641047,
-   "n": 39,
-   "roi": 0.035860288498178065,
-   "win_rate": 0.46153846153846156,
-   "wins": 18,
-   "z": -0.17882852951883918
+   "brier": 0.24904500000000004,
+   "edge_pp": 0.024999999999986144,
+   "implied": 0.4747500000000001,
+   "n": 40,
+   "roi": 0.06490883623077855,
+   "win_rate": 0.475,
+   "wins": 19,
+   "z": 0.0032972249373692175
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-08-09T17:31:10Z",
+ "generated": "2026-08-09T17:46:14Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json.",
  "overall": {
-  "brier": 0.24610988372093026,
-  "edge_pp": -3.9883720930232625,
-  "implied": 0.4817441860465117,
-  "n": 43,
-  "roi": -0.0267947299128422,
-  "win_rate": 0.4418604651162791,
-  "wins": 19,
-  "z": -0.5469367629587826
+  "brier": 0.24726704545454548,
+  "edge_pp": -2.6590909090909163,
+  "implied": 0.4811363636363637,
+  "n": 44,
+  "roi": 0.0010370184443177974,
+  "win_rate": 0.45454545454545453,
+  "wins": 20,
+  "z": -0.36851079138604936
  },
- "pending": 2,
+ "pending": 1,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -467,6 +467,16 @@
    "title": "National Bank Open: Arthur Fils vs Cameron Norrie",
    "tour": "ATP",
    "winner": "Arthur Fils"
+  },
+  {
+   "hit": true,
+   "locked_at": "2026-08-09T16:31:08Z",
+   "phase": "pre-match",
+   "price": 0.455,
+   "side": "Daniel Merida Aguilar",
+   "title": "National Bank Open: Tallon Griekspoor vs Daniel Merida Aguilar",
+   "tour": "ATP",
+   "winner": "Daniel Merida Aguilar"
   }
  ]
 }
