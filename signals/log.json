@@ -977,7 +977,7 @@
     "state": "crowded",
     "wallets": 24
    },
-   "last_scan": "2026-08-11T23:30:55Z",
+   "last_scan": "2026-08-11T23:43:29Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -3383,7 +3383,7 @@
     "state": "aligned",
     "wallets": 33
    },
-   "last_scan": "2026-08-11T23:30:55Z",
+   "last_scan": "2026-08-11T23:43:29Z",
    "lock_closed": false,
    "locked": {
     "at": "2026-08-11T22:01:02Z",
@@ -8763,8 +8763,8 @@
     "state": "crowded",
     "wallets": 11
    },
-   "last_scan": "2026-08-11T23:30:55Z",
-   "lock_closed": false,
+   "last_scan": "2026-08-11T23:43:29Z",
+   "lock_closed": true,
    "locked": null,
    "outcomes": [
     "Daniel Merida Aguilar",
@@ -10383,7 +10383,7 @@
    "cid": "0x987f24d77f17d9086dabc50d1d6680121be6279f55522f3c58298fc9e1c14fa5",
    "first_seen": "2026-08-11T22:15:54Z",
    "last_pre": {
-    "at": "2026-08-11T23:30:55Z",
+    "at": "2026-08-11T23:43:29Z",
     "fish": [
      0.0,
      0.0
@@ -10401,7 +10401,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-11T23:30:55Z",
+   "last_scan": "2026-08-11T23:43:29Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -16620,9 +16620,24 @@
     "state": "aligned",
     "wallets": 19
    },
-   "last_scan": "2026-08-11T23:30:55Z",
+   "last_scan": "2026-08-11T23:43:29Z",
    "lock_closed": false,
-   "locked": null,
+   "locked": {
+    "at": "2026-08-11T23:30:55Z",
+    "fish": [
+     22062.0,
+     6500.0
+    ],
+    "phase": "pre-match",
+    "price": 0.505,
+    "sharp": [
+     14751.0,
+     38564.0
+    ],
+    "side": 1,
+    "side_name": "Elena Rybakina",
+    "wallets": 19
+   },
    "outcomes": [
     "Naomi Osaka",
     "Elena Rybakina"
@@ -16797,7 +16812,7 @@
    "cid": "0xfab32d5c5ead65612e5990f151b70110ea6ffc33e17bf58d5112fbbca53a5331",
    "first_seen": "2026-08-11T04:16:06Z",
    "last_pre": {
-    "at": "2026-08-11T23:30:55Z",
+    "at": "2026-08-11T23:43:29Z",
     "fish": [
      0.0,
      0.0
@@ -16815,7 +16830,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-11T23:30:55Z",
+   "last_scan": "2026-08-11T23:43:29Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -17415,6 +17430,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-08-11T23:30:55Z",
+ "updated": "2026-08-11T23:43:29Z",
  "version": 1
 }
