@@ -441,7 +441,7 @@
    "cid": "0x0741009c75d32c1eb5b746f891538ebb8a8b9398c406a11bd009b8b485043e09",
    "first_seen": "2026-08-12T04:15:56Z",
    "last_pre": {
-    "at": "2026-08-13T22:16:04Z",
+    "at": "2026-08-13T22:31:05Z",
     "fish": [
      0.0,
      0.0
@@ -459,7 +459,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -476,7 +476,7 @@
    "cid": "0x07f644c66cffd67fc3b69acf3a52e60b989303eb2802292e63184a169e93a54f",
    "first_seen": "2026-08-12T04:15:56Z",
    "last_pre": {
-    "at": "2026-08-13T22:16:04Z",
+    "at": "2026-08-13T22:31:05Z",
     "fish": [
      0.0,
      0.0
@@ -494,7 +494,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -638,8 +638,26 @@
   "0x0a42e6c1fb35590689bd8c019c42f10c47a8f28d69dfdf14e42c256bf877d761": {
    "cid": "0x0a42e6c1fb35590689bd8c019c42f10c47a8f28d69dfdf14e42c256bf877d761",
    "first_seen": "2026-08-13T22:16:04Z",
-   "last_pre": null,
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_pre": {
+    "at": "2026-08-13T22:31:05Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -1888,8 +1906,26 @@
   "0x1a567d6db0f1e7ba3f60058e7c299ad33f318f27358decf3a43b6b0c56603623": {
    "cid": "0x1a567d6db0f1e7ba3f60058e7c299ad33f318f27358decf3a43b6b0c56603623",
    "first_seen": "2026-08-13T22:16:04Z",
-   "last_pre": null,
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_pre": {
+    "at": "2026-08-13T22:31:05Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -1905,8 +1941,26 @@
   "0x1a79137973e4069ea9a6cf5635a6c49c7863bc7e79a83d5502a2f7aecf79affa": {
    "cid": "0x1a79137973e4069ea9a6cf5635a6c49c7863bc7e79a83d5502a2f7aecf79affa",
    "first_seen": "2026-08-13T22:16:04Z",
-   "last_pre": null,
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_pre": {
+    "at": "2026-08-13T22:31:05Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -2567,8 +2621,26 @@
   "0x2558927f9ff7e596cbf18c7f6dc39ae5c690ed5f7aacb97c1df97ad44110cd43": {
    "cid": "0x2558927f9ff7e596cbf18c7f6dc39ae5c690ed5f7aacb97c1df97ad44110cd43",
    "first_seen": "2026-08-13T22:16:04Z",
-   "last_pre": null,
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_pre": {
+    "at": "2026-08-13T22:31:05Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -2646,8 +2718,26 @@
   "0x26d72d365f2006197140ee82f5c0358bfe0ed93167523d6c7174c92095925e39": {
    "cid": "0x26d72d365f2006197140ee82f5c0358bfe0ed93167523d6c7174c92095925e39",
    "first_seen": "2026-08-13T22:16:04Z",
-   "last_pre": null,
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_pre": {
+    "at": "2026-08-13T22:31:05Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -3027,8 +3117,26 @@
   "0x2d16e1d12ca7083361cf56b219f44508fc715bd9eeb340b8e0c9b948e4fa87b6": {
    "cid": "0x2d16e1d12ca7083361cf56b219f44508fc715bd9eeb340b8e0c9b948e4fa87b6",
    "first_seen": "2026-08-13T22:16:04Z",
-   "last_pre": null,
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_pre": {
+    "at": "2026-08-13T22:31:05Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -3404,7 +3512,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -4374,8 +4482,26 @@
   "0x39a4b304b681d530183fb6cac9c80e713c40b927f3da8314ec39f24ece0f2ff7": {
    "cid": "0x39a4b304b681d530183fb6cac9c80e713c40b927f3da8314ec39f24ece0f2ff7",
    "first_seen": "2026-08-13T22:16:04Z",
-   "last_pre": null,
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_pre": {
+    "at": "2026-08-13T22:31:05Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -4392,25 +4518,25 @@
    "cid": "0x3a2ef65b2988a853b16ca1b00cabaef5d425e6962b657bba49140f9bc94c7c88",
    "first_seen": "2026-08-13T05:15:13Z",
    "last_pre": {
-    "at": "2026-08-13T22:16:04Z",
+    "at": "2026-08-13T22:31:05Z",
     "fish": [
-     71768.0,
-     20352.0
+     72803.0,
+     50421.0
     ],
-    "price": 0.315,
+    "price": null,
     "sharp": [
-     60353.0,
-     74184.0
+     146182.0,
+     81886.0
     ],
     "sharp_wallets": [
-     3,
+     6,
      17
     ],
-    "side": 1,
-    "state": "aligned",
-    "wallets": 31
+    "side": null,
+    "state": "crowded",
+    "wallets": 35
    },
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -4775,8 +4901,26 @@
   "0x3e2682ad2f7b0f2638af406cda197f74cf5d95574d662cd5434c8734286c96f0": {
    "cid": "0x3e2682ad2f7b0f2638af406cda197f74cf5d95574d662cd5434c8734286c96f0",
    "first_seen": "2026-08-13T22:16:04Z",
-   "last_pre": null,
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_pre": {
+    "at": "2026-08-13T22:31:05Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -5049,7 +5193,7 @@
     "state": "crowded",
     "wallets": 6
    },
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -5233,7 +5377,7 @@
    "cid": "0x4583ae29998115189eebd272995745bfde282fcabacbad9c46a017ee6fd5dd30",
    "first_seen": "2026-08-12T04:15:56Z",
    "last_pre": {
-    "at": "2026-08-13T22:16:04Z",
+    "at": "2026-08-13T22:31:05Z",
     "fish": [
      2550.0,
      17930.0
@@ -5251,7 +5395,7 @@
     "state": "crowded",
     "wallets": 19
    },
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -5260,15 +5404,33 @@
    ],
    "result": null,
    "slug": "atp-fucsovi-atmane-2026-08-13",
-   "start": "2026-08-13T22:30:00Z",
+   "start": "2026-08-13T22:45:00Z",
    "title": "Cincinnati Open: Marton Fucsovics vs Terence Atmane",
    "tour": "ATP"
   },
   "0x45c500471bfeb99df709ebfef5fea1dc022294bb7098b3db5313f72fe8ca4c34": {
    "cid": "0x45c500471bfeb99df709ebfef5fea1dc022294bb7098b3db5313f72fe8ca4c34",
    "first_seen": "2026-08-13T22:16:04Z",
-   "last_pre": null,
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_pre": {
+    "at": "2026-08-13T22:31:05Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -5698,8 +5860,26 @@
   "0x4aec9103eff013285291b1908070fb4aacd8d03649f97dfa2c199cfd14b26ecf": {
    "cid": "0x4aec9103eff013285291b1908070fb4aacd8d03649f97dfa2c199cfd14b26ecf",
    "first_seen": "2026-08-13T22:16:04Z",
-   "last_pre": null,
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_pre": {
+    "at": "2026-08-13T22:31:05Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -5769,7 +5949,7 @@
     "state": "crowded",
     "wallets": 4
    },
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -6151,7 +6331,7 @@
    "cid": "0x51bad6e2c06e4310881073c135a533a443b2f97a550be1a895a2a7ea222b42d4",
    "first_seen": "2026-08-12T04:15:56Z",
    "last_pre": {
-    "at": "2026-08-13T22:16:04Z",
+    "at": "2026-08-13T22:31:05Z",
     "fish": [
      0.0,
      0.0
@@ -6169,7 +6349,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -6380,7 +6560,7 @@
    "cid": "0x53239d7d3cbdeaf378d1df4b3c688ec441544e33fdf88a8f6fe8e77d6684507d",
    "first_seen": "2026-08-12T04:15:56Z",
    "last_pre": {
-    "at": "2026-08-13T22:16:04Z",
+    "at": "2026-08-13T22:31:05Z",
     "fish": [
      0.0,
      0.0
@@ -6398,7 +6578,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -6414,8 +6594,26 @@
   "0x5420884d67823c689ec4e334dd4a5f06740d06f40368aaa2f6798c87acee217e": {
    "cid": "0x5420884d67823c689ec4e334dd4a5f06740d06f40368aaa2f6798c87acee217e",
    "first_seen": "2026-08-13T22:16:04Z",
-   "last_pre": null,
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_pre": {
+    "at": "2026-08-13T22:31:05Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -6715,7 +6913,7 @@
    "cid": "0x5685c534ce5dca14ab141388f65bb70414af7f4c65c29950886e691ff4042e5b",
    "first_seen": "2026-08-12T04:15:56Z",
    "last_pre": {
-    "at": "2026-08-13T22:16:04Z",
+    "at": "2026-08-13T22:31:05Z",
     "fish": [
      0.0,
      0.0
@@ -6733,7 +6931,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -6749,8 +6947,26 @@
   "0x570bcfe3fea62410a99e4dcd9696e344eb0aefa3480ead1e9c956621562a8589": {
    "cid": "0x570bcfe3fea62410a99e4dcd9696e344eb0aefa3480ead1e9c956621562a8589",
    "first_seen": "2026-08-13T22:16:04Z",
-   "last_pre": null,
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_pre": {
+    "at": "2026-08-13T22:31:05Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -6936,7 +7152,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -7093,7 +7309,7 @@
    "cid": "0x5d0791acd1d1c0289dc7256f065e81f9c2bb264793290d0b1453b2e5f5d5add5",
    "first_seen": "2026-08-12T04:15:56Z",
    "last_pre": {
-    "at": "2026-08-13T22:16:04Z",
+    "at": "2026-08-13T22:31:05Z",
     "fish": [
      0.0,
      0.0
@@ -7111,7 +7327,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -7297,7 +7513,7 @@
     "state": "crowded",
     "wallets": 25
    },
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -7841,25 +8057,25 @@
    "cid": "0x66056f7aae0be68b3e2628ad587f38d3a2b58fe95e135afdf7cb852369c6effb",
    "first_seen": "2026-08-12T04:15:56Z",
    "last_pre": {
-    "at": "2026-08-13T22:16:04Z",
+    "at": "2026-08-13T22:31:05Z",
     "fish": [
-     8280.0,
-     7054.0
+     17250.0,
+     19226.0
     ],
     "price": null,
     "sharp": [
-     0.0,
-     1800.0
+     9857.0,
+     14905.0
     ],
     "sharp_wallets": [
-     0,
-     1
+     4,
+     2
     ],
     "side": null,
-    "state": "thin",
-    "wallets": 4
+    "state": "crowded",
+    "wallets": 11
    },
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -8445,7 +8661,7 @@
     "state": "aligned",
     "wallets": 8
    },
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": false,
    "locked": {
     "at": "2026-08-13T20:46:04Z",
@@ -8988,8 +9204,26 @@
   "0x7520dcd2384e0c7a6c919afe6a8f78ff5520479b0f1736f0be7ec3ac5feb67b5": {
    "cid": "0x7520dcd2384e0c7a6c919afe6a8f78ff5520479b0f1736f0be7ec3ac5feb67b5",
    "first_seen": "2026-08-13T22:16:04Z",
-   "last_pre": null,
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_pre": {
+    "at": "2026-08-13T22:31:05Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -10038,7 +10272,7 @@
     "state": "crowded",
     "wallets": 7
    },
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -10174,7 +10408,7 @@
     "state": "crowded",
     "wallets": 9
    },
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -10597,8 +10831,26 @@
   "0x8c5d9486c196b9898dfd8e272ae4fd61bc8ebbd6d9ae218482e6366b721f4563": {
    "cid": "0x8c5d9486c196b9898dfd8e272ae4fd61bc8ebbd6d9ae218482e6366b721f4563",
    "first_seen": "2026-08-13T22:16:04Z",
-   "last_pre": null,
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_pre": {
+    "at": "2026-08-13T22:31:05Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -10978,7 +11230,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -11123,7 +11375,7 @@
    "cid": "0x9363d8829c28b135f4952bf56c945d43bfa150417a65d086089e76f6fe68c939",
    "first_seen": "2026-08-12T04:15:56Z",
    "last_pre": {
-    "at": "2026-08-13T22:16:04Z",
+    "at": "2026-08-13T22:31:05Z",
     "fish": [
      0.0,
      0.0
@@ -11141,7 +11393,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -11158,7 +11410,7 @@
    "cid": "0x93b5810c358c063a94f963f63cd74bb410494d72fd4c20ced3ea2feb6c32215f",
    "first_seen": "2026-08-12T04:15:56Z",
    "last_pre": {
-    "at": "2026-08-13T22:16:04Z",
+    "at": "2026-08-13T22:31:05Z",
     "fish": [
      0.0,
      0.0
@@ -11176,7 +11428,7 @@
     "state": "none",
     "wallets": 2
    },
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -11747,7 +11999,7 @@
    "cid": "0x99ae145a7ea8ebbf403f5df9c6038e12b465f70fbc08f86a9ca1db07246f3f06",
    "first_seen": "2026-08-12T04:30:54Z",
    "last_pre": {
-    "at": "2026-08-13T22:16:04Z",
+    "at": "2026-08-13T22:31:05Z",
     "fish": [
      0.0,
      0.0
@@ -11765,7 +12017,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -11995,7 +12247,7 @@
    "cid": "0x9bcdcbf4ed1a86121629b3362a580bbecbca7e3a71f9a868c9c82a0faf99eaa1",
    "first_seen": "2026-08-12T04:15:56Z",
    "last_pre": {
-    "at": "2026-08-13T22:16:04Z",
+    "at": "2026-08-13T22:31:05Z",
     "fish": [
      0.0,
      0.0
@@ -12013,7 +12265,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -12048,7 +12300,7 @@
     "state": "aligned",
     "wallets": 22
    },
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": false,
    "locked": {
     "at": "2026-08-13T22:01:02Z",
@@ -12142,7 +12394,7 @@
    "cid": "0xa02bbd8cecdd70852a777e96d62420fdd3370c014c59899a7f98f89e0e1d4f51",
    "first_seen": "2026-08-12T04:15:56Z",
    "last_pre": {
-    "at": "2026-08-13T22:16:04Z",
+    "at": "2026-08-13T22:31:05Z",
     "fish": [
      0.0,
      0.0
@@ -12160,7 +12412,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -12296,8 +12548,26 @@
   "0xa3c41bfbd1de0644d64f10c45c4d89fd53b807f3d28eee0850e030bcfad7a489": {
    "cid": "0xa3c41bfbd1de0644d64f10c45c4d89fd53b807f3d28eee0850e030bcfad7a489",
    "first_seen": "2026-08-13T22:16:04Z",
-   "last_pre": null,
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_pre": {
+    "at": "2026-08-13T22:31:05Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -12376,7 +12646,7 @@
    "cid": "0xa5ca29e8a6668f42d4085eee8d2779a70aac8469807bc0ef8d3fc98487ad50b9",
    "first_seen": "2026-08-12T04:15:56Z",
    "last_pre": {
-    "at": "2026-08-13T22:16:04Z",
+    "at": "2026-08-13T22:31:05Z",
     "fish": [
      0.0,
      0.0
@@ -12394,7 +12664,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -13103,7 +13373,7 @@
     "state": "none",
     "wallets": 8
    },
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -13120,7 +13390,7 @@
    "cid": "0xb1c5c5189cedd67488d748fd1cf457d17eb991e1b9b645b204a6eb05a81ba1a1",
    "first_seen": "2026-08-12T04:15:56Z",
    "last_pre": {
-    "at": "2026-08-13T22:16:04Z",
+    "at": "2026-08-13T22:31:05Z",
     "fish": [
      0.0,
      0.0
@@ -13138,7 +13408,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -13630,8 +13900,26 @@
   "0xb84ad439a1dcad962f88a2722a6af4770d0ee2be4eba829de913399e7e2007cf": {
    "cid": "0xb84ad439a1dcad962f88a2722a6af4770d0ee2be4eba829de913399e7e2007cf",
    "first_seen": "2026-08-13T22:16:04Z",
-   "last_pre": null,
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_pre": {
+    "at": "2026-08-13T22:31:05Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -13784,7 +14072,7 @@
    "cid": "0xba098ff5a890a37f9fc33e1a46f51a7d0dcdbbb71f86708ee39a53ae8742955b",
    "first_seen": "2026-08-12T04:15:56Z",
    "last_pre": {
-    "at": "2026-08-13T22:16:04Z",
+    "at": "2026-08-13T22:31:05Z",
     "fish": [
      0.0,
      0.0
@@ -13802,7 +14090,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -14501,8 +14789,26 @@
   "0xc2c02923a8211b4727de76c95921949d2a9b90a8e9d72e402eaf144469b57597": {
    "cid": "0xc2c02923a8211b4727de76c95921949d2a9b90a8e9d72e402eaf144469b57597",
    "first_seen": "2026-08-13T22:16:04Z",
-   "last_pre": null,
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_pre": {
+    "at": "2026-08-13T22:31:05Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -14937,8 +15243,26 @@
   "0xc72625347edf951f9450a32b6e815bc688a4e6317328791a262ba4c2a3b488c9": {
    "cid": "0xc72625347edf951f9450a32b6e815bc688a4e6317328791a262ba4c2a3b488c9",
    "first_seen": "2026-08-13T22:16:04Z",
-   "last_pre": null,
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_pre": {
+    "at": "2026-08-13T22:31:05Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -14986,7 +15310,7 @@
    "cid": "0xc7c4762853b594bb5b2939f492ea7a6eff0545886ebcb974707156925e290a0e",
    "first_seen": "2026-08-12T04:15:56Z",
    "last_pre": {
-    "at": "2026-08-13T22:16:04Z",
+    "at": "2026-08-13T22:31:05Z",
     "fish": [
      0.0,
      0.0
@@ -15004,7 +15328,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -15637,7 +15961,7 @@
    "cid": "0xcfd447f2377329f74696ba99865d42913ca7dd4aa744f6c80e9b5e38a3f49bdf",
    "first_seen": "2026-08-12T04:15:56Z",
    "last_pre": {
-    "at": "2026-08-13T22:16:04Z",
+    "at": "2026-08-13T22:31:05Z",
     "fish": [
      0.0,
      1140.0
@@ -15655,7 +15979,7 @@
     "state": "thin",
     "wallets": 2
    },
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -15903,8 +16227,26 @@
   "0xd309880e35bbf145912a339a318781c0e3fec4b0ddf12b47a226e65f8e3b30d9": {
    "cid": "0xd309880e35bbf145912a339a318781c0e3fec4b0ddf12b47a226e65f8e3b30d9",
    "first_seen": "2026-08-13T22:16:04Z",
-   "last_pre": null,
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_pre": {
+    "at": "2026-08-13T22:31:05Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -16754,7 +17096,7 @@
    "cid": "0xdeb3eaaac871653be1a481b9d18c2c8658e953564c64214a7374c8be8ada9af7",
    "first_seen": "2026-08-12T04:15:56Z",
    "last_pre": {
-    "at": "2026-08-13T22:16:04Z",
+    "at": "2026-08-13T22:31:05Z",
     "fish": [
      0.0,
      0.0
@@ -16772,7 +17114,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -17110,7 +17452,7 @@
    "cid": "0xe36934b5a0432c027f5bc2c1be1ecb655e718ccc95059fd717d74687f1637116",
    "first_seen": "2026-08-12T04:15:56Z",
    "last_pre": {
-    "at": "2026-08-13T22:16:04Z",
+    "at": "2026-08-13T22:31:05Z",
     "fish": [
      0.0,
      0.0
@@ -17128,7 +17470,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -17210,8 +17552,26 @@
   "0xe62bc7ed9b629b08145ed0ca2705429cc3e4d560bf0339d29dbd10742e853020": {
    "cid": "0xe62bc7ed9b629b08145ed0ca2705429cc3e4d560bf0339d29dbd10742e853020",
    "first_seen": "2026-08-13T22:16:04Z",
-   "last_pre": null,
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_pre": {
+    "at": "2026-08-13T22:31:05Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -17298,7 +17658,7 @@
    "cid": "0xe7c5eea63c1d02c9777c8e4b03d889d2bc7fba201000886a05b89517c193d1fb",
    "first_seen": "2026-08-12T04:15:56Z",
    "last_pre": {
-    "at": "2026-08-13T22:16:04Z",
+    "at": "2026-08-13T22:31:05Z",
     "fish": [
      0.0,
      0.0
@@ -17316,7 +17676,7 @@
     "state": "none",
     "wallets": 3
    },
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -17386,7 +17746,7 @@
     "state": "none",
     "wallets": 3
    },
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -17871,8 +18231,26 @@
   "0xef1c49c539d898a87cff3d5258ef82fd77fc7bf46cd1621c4614bc037eb148d0": {
    "cid": "0xef1c49c539d898a87cff3d5258ef82fd77fc7bf46cd1621c4614bc037eb148d0",
    "first_seen": "2026-08-13T22:16:04Z",
-   "last_pre": null,
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_pre": {
+    "at": "2026-08-13T22:31:05Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -18365,8 +18743,26 @@
   "0xf6e3cd9a991072115121e28251dfa1651d6f329ba8a6f78e0c18bf801150c0a8": {
    "cid": "0xf6e3cd9a991072115121e28251dfa1651d6f329ba8a6f78e0c18bf801150c0a8",
    "first_seen": "2026-08-13T22:16:04Z",
-   "last_pre": null,
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_pre": {
+    "at": "2026-08-13T22:31:05Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -18565,7 +18961,7 @@
    "cid": "0xf8ec54defc15705ce9ab2e48748a3fdf5df1d162fe461305ef3a40ff394fd81d",
    "first_seen": "2026-08-12T04:15:56Z",
    "last_pre": {
-    "at": "2026-08-13T22:16:04Z",
+    "at": "2026-08-13T22:31:05Z",
     "fish": [
      0.0,
      1140.0
@@ -18583,7 +18979,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-08-13T22:16:04Z",
+   "last_scan": "2026-08-13T22:31:05Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -19432,6 +19828,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-08-13T22:16:04Z",
+ "updated": "2026-08-13T22:31:05Z",
  "version": 1
 }
