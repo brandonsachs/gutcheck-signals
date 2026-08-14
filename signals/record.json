@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.24235265957446808,
-   "edge_pp": -1.9468085106383148,
-   "implied": 0.466276595744681,
-   "n": 47,
-   "roi": -0.0026510203458347714,
-   "win_rate": 0.44680851063829785,
-   "wins": 21,
-   "z": -0.27823988011271544
+   "brier": 0.24142916666666667,
+   "edge_pp": -0.979166666666681,
+   "implied": 0.4681250000000001,
+   "n": 48,
+   "roi": 0.014108413448907653,
+   "win_rate": 0.4583333333333333,
+   "wins": 22,
+   "z": -0.14131647934325528
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-08-14T05:01:20Z",
+ "generated": "2026-08-14T05:16:20Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json.",
  "overall": {
-  "brier": 0.24134362745098037,
-  "edge_pp": -4.107843137254902,
-  "implied": 0.4724509803921569,
-  "n": 51,
-  "roi": -0.052457305763439085,
-  "win_rate": 0.43137254901960786,
-  "wins": 22,
-  "z": -0.6125711354450303
+  "brier": 0.2405105769230769,
+  "edge_pp": -3.1730769230769287,
+  "implied": 0.4740384615384616,
+  "n": 52,
+  "roi": -0.03602924600256907,
+  "win_rate": 0.4423076923076923,
+  "wins": 23,
+  "z": -0.477440269201513
  },
- "pending": 2,
+ "pending": 1,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -547,6 +547,16 @@
    "title": "National Bank Open: Iga Swiatek vs Elena Rybakina",
    "tour": "WTA",
    "winner": "Iga Swiatek"
+  },
+  {
+   "hit": true,
+   "locked_at": "2026-08-14T02:46:01Z",
+   "phase": "pre-match",
+   "price": 0.555,
+   "side": "Caty McNally",
+   "title": "Cincinnati Open: Caty McNally vs McCartney Kessler",
+   "tour": "WTA",
+   "winner": "Caty McNally"
   }
  ]
 }
