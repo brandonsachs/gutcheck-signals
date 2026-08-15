@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.24312499999999998,
-   "edge_pp": -3.0740740740740904,
-   "implied": 0.4751851851851853,
-   "n": 54,
-   "roi": -0.030589545817517744,
-   "win_rate": 0.4444444444444444,
+   "brier": 0.24558136363636363,
+   "edge_pp": -4.136363636363649,
+   "implied": 0.47772727272727283,
+   "n": 55,
+   "roi": -0.04821519043901742,
+   "win_rate": 0.43636363636363634,
    "wins": 24,
-   "z": -0.4689331022268439
+   "z": -0.6366775535367193
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-08-15T21:45:31Z",
+ "generated": "2026-08-15T22:00:35Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json.",
  "overall": {
-  "brier": 0.24218448275862065,
-  "edge_pp": -4.896551724137938,
-  "implied": 0.48000000000000004,
-  "n": 58,
-  "roi": -0.0724579329625365,
-  "win_rate": 0.43103448275862066,
+  "brier": 0.2444902542372881,
+  "edge_pp": -5.855932203389836,
+  "implied": 0.48228813559322037,
+  "n": 59,
+  "roi": -0.08817898494622232,
+  "win_rate": 0.423728813559322,
   "wins": 25,
-  "z": -0.7754441447033609
+  "z": -0.9351483952017562
  },
- "pending": 4,
+ "pending": 3,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -617,6 +617,16 @@
    "title": "Cincinnati Open: Miomir Kecmanovic vs Flavio Cobolli",
    "tour": "ATP",
    "winner": "Flavio Cobolli"
+  },
+  {
+   "hit": false,
+   "locked_at": "2026-08-15T20:15:17Z",
+   "phase": "pre-match",
+   "price": 0.615,
+   "side": "Luciano Darderi",
+   "title": "Cincinnati Open: Luciano Darderi vs Rinky Hijikata",
+   "tour": "ATP",
+   "winner": "Rinky Hijikata"
   }
  ]
 }
