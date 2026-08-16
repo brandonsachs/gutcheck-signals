@@ -11,29 +11,29 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.24121798245614032,
-   "edge_pp": -4.254385964912288,
-   "implied": 0.48114035087719303,
-   "n": 57,
-   "roi": -0.05774195186769971,
-   "win_rate": 0.43859649122807015,
-   "wins": 25,
-   "z": -0.6673183770313754
+   "brier": 0.23876982758620688,
+   "edge_pp": -3.6379310344827607,
+   "implied": 0.48465517241379313,
+   "n": 58,
+   "roi": -0.048817883480350745,
+   "win_rate": 0.4482758620689655,
+   "wins": 26,
+   "z": -0.5759494319943368
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-08-16T20:45:36Z",
+ "generated": "2026-08-16T21:00:26Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json.",
  "overall": {
-  "brier": 0.24044877049180324,
-  "edge_pp": -5.909836065573776,
-  "implied": 0.48532786885245904,
-  "n": 61,
-  "roi": -0.09577075236295152,
-  "win_rate": 0.4262295081967213,
-  "wins": 26,
-  "z": -0.9604756912916017
+  "brier": 0.23817096774193547,
+  "edge_pp": -5.306451612903223,
+  "implied": 0.4885483870967742,
+  "n": 62,
+  "roi": -0.08680906257325005,
+  "win_rate": 0.43548387096774194,
+  "wins": 27,
+  "z": -0.8699138712094239
  },
  "pending": 4,
  "pre_epoch_summary": "10 hits in 28",
@@ -647,6 +647,16 @@
    "title": "Cincinnati Open: Brandon Nakashima vs Aleksandar Kovacevic",
    "tour": "ATP",
    "winner": "Brandon Nakashima"
+  },
+  {
+   "hit": true,
+   "locked_at": "2026-08-16T19:15:18Z",
+   "phase": "pre-match",
+   "price": 0.685,
+   "side": "Andrey Rublev",
+   "title": "Cincinnati Open: Andrey Rublev vs Pablo Carreno Busta",
+   "tour": "ATP",
+   "winner": "Andrey Rublev"
   }
  ]
 }
