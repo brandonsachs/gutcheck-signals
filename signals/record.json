@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.23876982758620688,
-   "edge_pp": -3.6379310344827607,
-   "implied": 0.48465517241379313,
-   "n": 58,
-   "roi": -0.048817883480350745,
-   "win_rate": 0.4482758620689655,
+   "brier": 0.23807923728813557,
+   "edge_pp": -4.330508474576278,
+   "implied": 0.4839830508474577,
+   "n": 59,
+   "roi": -0.06493961426881938,
+   "win_rate": 0.4406779661016949,
    "wins": 26,
-   "z": -0.5759494319943368
+   "z": -0.6910878474390579
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-08-16T22:00:28Z",
+ "generated": "2026-08-16T22:15:27Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json.",
  "overall": {
-  "brier": 0.23817096774193547,
-  "edge_pp": -5.306451612903223,
-  "implied": 0.4885483870967742,
-  "n": 62,
-  "roi": -0.08680906257325005,
-  "win_rate": 0.43548387096774194,
+  "brier": 0.23753373015873014,
+  "edge_pp": -5.928571428571427,
+  "implied": 0.4878571428571428,
+  "n": 63,
+  "roi": -0.10130415681811909,
+  "win_rate": 0.42857142857142855,
   "wins": 27,
-  "z": -0.8699138712094239
+  "z": -0.9791596603057608
  },
- "pending": 4,
+ "pending": 3,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -657,6 +657,16 @@
    "title": "Cincinnati Open: Andrey Rublev vs Pablo Carreno Busta",
    "tour": "ATP",
    "winner": "Andrey Rublev"
+  },
+  {
+   "hit": false,
+   "locked_at": "2026-08-16T20:45:17Z",
+   "phase": "pre-match",
+   "price": 0.445,
+   "side": "Zizou Bergs",
+   "title": "Cincinnati Open: Daniel Merida Aguilar vs Zizou Bergs",
+   "tour": "ATP",
+   "winner": "Daniel Merida Aguilar"
   }
  ]
 }
