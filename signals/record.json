@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.23807923728813557,
-   "edge_pp": -4.330508474576278,
-   "implied": 0.4839830508474577,
-   "n": 59,
-   "roi": -0.06493961426881938,
-   "win_rate": 0.4406779661016949,
+   "brier": 0.236845,
+   "edge_pp": -4.93333333333334,
+   "implied": 0.48266666666666674,
+   "n": 60,
+   "roi": -0.08052395403100572,
+   "win_rate": 0.43333333333333335,
    "wins": 26,
-   "z": -0.6910878474390579
+   "z": -0.793668372193837
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-08-17T03:15:30Z",
+ "generated": "2026-08-17T03:30:26Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json.",
  "overall": {
-  "brier": 0.23753373015873014,
-  "edge_pp": -5.928571428571427,
-  "implied": 0.4878571428571428,
-  "n": 63,
-  "roi": -0.10130415681811909,
-  "win_rate": 0.42857142857142855,
+  "brier": 0.23638515624999998,
+  "edge_pp": -6.468750000000001,
+  "implied": 0.4865625,
+  "n": 64,
+  "roi": -0.11534627936783598,
+  "win_rate": 0.421875,
   "wins": 27,
-  "z": -0.9791596603057608
+  "z": -1.0764563754966157
  },
- "pending": 4,
+ "pending": 3,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -667,6 +667,16 @@
    "title": "Cincinnati Open: Daniel Merida Aguilar vs Zizou Bergs",
    "tour": "ATP",
    "winner": "Daniel Merida Aguilar"
+  },
+  {
+   "hit": false,
+   "locked_at": "2026-08-17T01:48:26Z",
+   "phase": "pre-match",
+   "price": 0.405,
+   "side": "Lorenzo Sonego",
+   "title": "Cincinnati Open: Lorenzo Sonego vs Frances Tiafoe",
+   "tour": "ATP",
+   "winner": "Frances Tiafoe"
   }
  ]
 }
