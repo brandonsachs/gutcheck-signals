@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.236845,
-   "edge_pp": -4.93333333333334,
-   "implied": 0.48266666666666674,
-   "n": 60,
-   "roi": -0.08052395403100572,
-   "win_rate": 0.43333333333333335,
-   "wins": 26,
-   "z": -0.793668372193837
+   "brier": 0.23714303278688523,
+   "edge_pp": -4.024590163934438,
+   "implied": 0.4828688524590165,
+   "n": 61,
+   "roi": -0.06247926592882497,
+   "win_rate": 0.4426229508196721,
+   "wins": 27,
+   "z": -0.6524255917314785
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-08-17T17:45:26Z",
+ "generated": "2026-08-17T18:00:31Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json.",
  "overall": {
-  "brier": 0.23638515624999998,
-  "edge_pp": -6.468750000000001,
-  "implied": 0.4865625,
-  "n": 64,
-  "roi": -0.11534627936783598,
-  "win_rate": 0.421875,
-  "wins": 27,
-  "z": -1.0764563754966157
+  "brier": 0.23667192307692306,
+  "edge_pp": -5.592307692307691,
+  "implied": 0.4866923076923077,
+  "n": 65,
+  "roi": -0.09787630552829975,
+  "win_rate": 0.4307692307692308,
+  "wins": 28,
+  "z": -0.9372627727696148
  },
- "pending": 4,
+ "pending": 3,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -677,6 +677,16 @@
    "title": "Cincinnati Open: Lorenzo Sonego vs Frances Tiafoe",
    "tour": "ATP",
    "winner": "Frances Tiafoe"
+  },
+  {
+   "hit": true,
+   "locked_at": "2026-08-17T15:00:19Z",
+   "phase": "pre-match",
+   "price": 0.495,
+   "side": "Diane Parry",
+   "title": "Cincinnati Open: Diane Parry vs Lois Boisson",
+   "tour": "WTA",
+   "winner": "Diane Parry"
   }
  ]
 }
