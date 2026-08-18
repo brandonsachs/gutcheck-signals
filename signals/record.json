@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.23714303278688523,
-   "edge_pp": -4.024590163934438,
-   "implied": 0.4828688524590165,
-   "n": 61,
-   "roi": -0.06247926592882497,
-   "win_rate": 0.4426229508196721,
-   "wins": 27,
-   "z": -0.6524255917314785
+   "brier": 0.2342862903225806,
+   "edge_pp": -3.564516129032269,
+   "implied": 0.48725806451612913,
+   "n": 62,
+   "roi": -0.05623761145806524,
+   "win_rate": 0.45161290322580644,
+   "wins": 28,
+   "z": -0.5835167818557476
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-08-18T00:45:28Z",
+ "generated": "2026-08-18T01:00:26Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json.",
  "overall": {
-  "brier": 0.23667192307692306,
-  "edge_pp": -5.592307692307691,
-  "implied": 0.4866923076923077,
-  "n": 65,
-  "roi": -0.09787630552829975,
-  "win_rate": 0.4307692307692308,
-  "wins": 28,
-  "z": -0.9372627727696148
+  "brier": 0.2339954545454545,
+  "edge_pp": -5.1363636363636385,
+  "implied": 0.4907575757575758,
+  "n": 66,
+  "roi": -0.09147661436486675,
+  "win_rate": 0.4393939393939394,
+  "wins": 29,
+  "z": -0.8687653818595376
  },
- "pending": 4,
+ "pending": 3,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -687,6 +687,16 @@
    "title": "Cincinnati Open: Diane Parry vs Lois Boisson",
    "tour": "WTA",
    "winner": "Diane Parry"
+  },
+  {
+   "hit": true,
+   "locked_at": "2026-08-17T20:15:16Z",
+   "phase": "pre-match",
+   "price": 0.755,
+   "side": "Jakub Mensik",
+   "title": "Cincinnati Open: Rinky Hijikata vs Jakub Mensik",
+   "tour": "ATP",
+   "winner": "Jakub Mensik"
   }
  ]
 }
