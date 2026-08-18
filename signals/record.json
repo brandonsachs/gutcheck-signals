@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.2341488095238095,
-   "edge_pp": -2.7539682539682584,
-   "implied": 0.4878571428571429,
-   "n": 63,
-   "roi": -0.04098365088314508,
-   "win_rate": 0.4603174603174603,
-   "wins": 29,
-   "z": -0.45416941881176964
+   "brier": 0.234165625,
+   "edge_pp": -1.9531250000000056,
+   "implied": 0.48828125000000006,
+   "n": 64,
+   "roi": -0.02562847551285322,
+   "win_rate": 0.46875,
+   "wins": 30,
+   "z": -0.32444666733952043
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-08-18T23:00:27Z",
+ "generated": "2026-08-18T23:15:23Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json.",
  "overall": {
-  "brier": 0.2338705223880597,
-  "edge_pp": -4.350746268656714,
-  "implied": 0.4912686567164179,
-  "n": 67,
-  "roi": -0.07660738273610897,
-  "win_rate": 0.44776119402985076,
-  "wins": 30,
-  "z": -0.7409924087227495
+  "brier": 0.23389044117647056,
+  "edge_pp": -3.5735294117647087,
+  "implied": 0.49161764705882355,
+  "n": 68,
+  "roi": -0.06163157456623186,
+  "win_rate": 0.45588235294117646,
+  "wins": 31,
+  "z": -0.6127802120231013
  },
- "pending": 4,
+ "pending": 3,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -707,6 +707,16 @@
    "title": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
    "tour": "WTA",
    "winner": "Amanda Anisimova"
+  },
+  {
+   "hit": true,
+   "locked_at": "2026-08-18T21:00:18Z",
+   "phase": "pre-match",
+   "price": 0.515,
+   "side": "Sara Bejlek",
+   "title": "Cincinnati Open: Sara Bejlek vs Ekaterina Alexandrova",
+   "tour": "WTA",
+   "winner": "Sara Bejlek"
   }
  ]
 }

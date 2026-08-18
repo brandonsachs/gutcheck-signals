@@ -647,6 +647,41 @@
    "title": "Cincinnati Open: Marie Bouzkova vs Lucrezia Stefanini",
    "tour": "WTA"
   },
+  "0x07ddeab6e7b1709fa00a2d6b7fa1f7f1de0246f512ddb8f83f004ce41227f7e8": {
+   "cid": "0x07ddeab6e7b1709fa00a2d6b7fa1f7f1de0246f512ddb8f83f004ce41227f7e8",
+   "first_seen": "2026-08-18T23:15:16Z",
+   "last_pre": {
+    "at": "2026-08-18T23:15:16Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-08-18T23:15:16Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Taylor Fritz",
+    "Christopher O'Connell"
+   ],
+   "result": null,
+   "slug": "atp-fritz-oconnel-2026-08-19",
+   "start": "2026-08-19T23:00:00Z",
+   "title": "Cincinnati Open: Taylor Fritz vs Christopher O'Connell",
+   "tour": "ATP"
+  },
   "0x07f644c66cffd67fc3b69acf3a52e60b989303eb2802292e63184a169e93a54f": {
    "cid": "0x07f644c66cffd67fc3b69acf3a52e60b989303eb2802292e63184a169e93a54f",
    "first_seen": "2026-08-12T04:15:56Z",
@@ -3159,7 +3194,7 @@
    "cid": "0x21c5344608988eb6c3e5d6f9082d3bfb353fa963171363754e6d2ff3c0d0533f",
    "first_seen": "2026-08-18T22:30:18Z",
    "last_pre": {
-    "at": "2026-08-18T23:00:18Z",
+    "at": "2026-08-18T23:15:16Z",
     "fish": [
      0.0,
      0.0
@@ -3177,7 +3212,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-18T23:00:18Z",
+   "last_scan": "2026-08-18T23:15:16Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -3844,7 +3879,7 @@
     "state": "aligned",
     "wallets": 15
    },
-   "last_scan": "2026-08-18T23:00:18Z",
+   "last_scan": "2026-08-18T23:15:16Z",
    "lock_closed": false,
    "locked": {
     "at": "2026-08-18T21:00:18Z",
@@ -3866,7 +3901,11 @@
     "Sara Bejlek",
     "Ekaterina Alexandrova"
    ],
-   "result": null,
+   "result": {
+    "hit": true,
+    "scored_at": "2026-08-18T23:15:23Z",
+    "winner": "Sara Bejlek"
+   },
    "slug": "wta-bejlek-alexand-2026-08-18",
    "start": "2026-08-18T21:05:00Z",
    "title": "Cincinnati Open: Sara Bejlek vs Ekaterina Alexandrova",
@@ -6655,7 +6694,7 @@
    "cid": "0x448943d3ef2d695a407f4f90ed87d10314b868e75f0d4b31ca6ae8b9a85c657d",
    "first_seen": "2026-08-18T04:15:18Z",
    "last_pre": {
-    "at": "2026-08-18T23:00:18Z",
+    "at": "2026-08-18T23:15:16Z",
     "fish": [
      0.0,
      0.0
@@ -6673,7 +6712,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-08-18T23:00:18Z",
+   "last_scan": "2026-08-18T23:15:16Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -7609,7 +7648,7 @@
    "cid": "0x4e3000c90abf7cee5df0bbbee2f20ebd64c2f901989fbda806d9ec80e41f28ca",
    "first_seen": "2026-08-18T05:15:17Z",
    "last_pre": {
-    "at": "2026-08-18T23:00:18Z",
+    "at": "2026-08-18T23:15:16Z",
     "fish": [
      0.0,
      0.0
@@ -7627,7 +7666,7 @@
     "state": "none",
     "wallets": 4
    },
-   "last_scan": "2026-08-18T23:00:18Z",
+   "last_scan": "2026-08-18T23:15:16Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -8994,7 +9033,7 @@
    "cid": "0x5c60d4f6b67b14848880a58a935517d9f71b573b93f16fa2a9fdf65d067e24bd",
    "first_seen": "2026-08-18T10:15:16Z",
    "last_pre": {
-    "at": "2026-08-18T23:00:18Z",
+    "at": "2026-08-18T23:15:16Z",
     "fish": [
      0.0,
      0.0
@@ -9012,7 +9051,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-18T23:00:18Z",
+   "last_scan": "2026-08-18T23:15:16Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -9622,7 +9661,7 @@
    "cid": "0x60ec7dc1f9223fc56c8465583a5da658e029ab854fa0b587a8c5fec0ac4d5c70",
    "first_seen": "2026-08-18T05:15:17Z",
    "last_pre": {
-    "at": "2026-08-18T23:00:18Z",
+    "at": "2026-08-18T23:15:16Z",
     "fish": [
      4409.0,
      0.0
@@ -9640,7 +9679,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-08-18T23:00:18Z",
+   "last_scan": "2026-08-18T23:15:16Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -9901,7 +9940,7 @@
    "cid": "0x64cce50d62a844361269581af6f3a3be0880698f721dbb2262fc0825c63a7145",
    "first_seen": "2026-08-17T22:15:17Z",
    "last_pre": {
-    "at": "2026-08-18T23:00:18Z",
+    "at": "2026-08-18T23:15:16Z",
     "fish": [
      0.0,
      0.0
@@ -9919,7 +9958,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-18T23:00:18Z",
+   "last_scan": "2026-08-18T23:15:16Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -10245,7 +10284,7 @@
     "state": "thin",
     "wallets": 15
    },
-   "last_scan": "2026-08-18T23:00:18Z",
+   "last_scan": "2026-08-18T23:15:16Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -10836,7 +10875,7 @@
    "cid": "0x6f910af2570c2db15e39484a1a976ed38ca28f073f71ff9fd5b2604f969b58ab",
    "first_seen": "2026-08-17T04:15:18Z",
    "last_pre": {
-    "at": "2026-08-18T23:00:18Z",
+    "at": "2026-08-18T23:15:16Z",
     "fish": [
      2220.0,
      0.0
@@ -10854,7 +10893,7 @@
     "state": "aligned",
     "wallets": 5
    },
-   "last_scan": "2026-08-18T23:00:18Z",
+   "last_scan": "2026-08-18T23:15:16Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -12236,6 +12275,41 @@
    "title": "The Memphis Classic: Darja Vidmanova vs Katie Volynets",
    "tour": "WTA"
   },
+  "0x7e054991016aee3bb2045ca5a36b519489859934e558445d1349c5c7f5146007": {
+   "cid": "0x7e054991016aee3bb2045ca5a36b519489859934e558445d1349c5c7f5146007",
+   "first_seen": "2026-08-18T23:15:16Z",
+   "last_pre": {
+    "at": "2026-08-18T23:15:16Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-08-18T23:15:16Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Nuno Borges",
+    "Brandon Nakashima"
+   ],
+   "result": null,
+   "slug": "atp-borges-nakashi-2026-08-19",
+   "start": "2026-08-19T19:30:00Z",
+   "title": "Cincinnati Open: Nuno Borges vs Brandon Nakashima",
+   "tour": "ATP"
+  },
   "0x7e426e758a2cf1d6ddbd26eab2fca073e5550cf40e732339c0ee04326495902a": {
    "cid": "0x7e426e758a2cf1d6ddbd26eab2fca073e5550cf40e732339c0ee04326495902a",
    "first_seen": "2026-08-04T16:16:03Z",
@@ -13280,8 +13354,8 @@
     "state": "crowded",
     "wallets": 9
    },
-   "last_scan": "2026-08-18T23:00:18Z",
-   "lock_closed": false,
+   "last_scan": "2026-08-18T23:15:16Z",
+   "lock_closed": true,
    "locked": null,
    "outcomes": [
     "Juan Manuel Cerundolo",
@@ -13289,7 +13363,7 @@
    ],
    "result": null,
    "slug": "atp-cerund-augeral-2026-08-18",
-   "start": "2026-08-18T23:05:00Z",
+   "start": "2026-08-18T23:10:00Z",
    "title": "Cincinnati Open: Juan Manuel Cerundolo vs Felix Auger-Aliassime",
    "tour": "ATP"
   },
@@ -16023,7 +16097,7 @@
    "cid": "0xae12963cf344013decffa9bb13ce1741018de836bab2b685152a271bc54cc817",
    "first_seen": "2026-08-18T04:30:18Z",
    "last_pre": {
-    "at": "2026-08-18T23:00:18Z",
+    "at": "2026-08-18T23:15:16Z",
     "fish": [
      0.0,
      0.0
@@ -16041,7 +16115,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-08-18T23:00:18Z",
+   "last_scan": "2026-08-18T23:15:16Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -18252,7 +18326,7 @@
    "cid": "0xc5b9793afda2f61179031e45513b21521bf3fae3fae461542d2c6cec0476b65d",
    "first_seen": "2026-08-17T05:15:17Z",
    "last_pre": {
-    "at": "2026-08-18T23:00:18Z",
+    "at": "2026-08-18T23:15:16Z",
     "fish": [
      11856.0,
      0.0
@@ -18260,7 +18334,7 @@
     "price": 0.465,
     "sharp": [
      14570.0,
-     22158.0
+     22423.0
     ],
     "sharp_wallets": [
      4,
@@ -18270,7 +18344,7 @@
     "state": "aligned",
     "wallets": 14
    },
-   "last_scan": "2026-08-18T23:00:18Z",
+   "last_scan": "2026-08-18T23:15:16Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -19365,7 +19439,7 @@
    "cid": "0xd052266fdfbbb685a19da9b4b6ed99834d4cbf605440ca6fd7763cacb0e71d39",
    "first_seen": "2026-08-18T05:15:17Z",
    "last_pre": {
-    "at": "2026-08-18T23:00:18Z",
+    "at": "2026-08-18T23:15:16Z",
     "fish": [
      8692.0,
      0.0
@@ -19383,7 +19457,7 @@
     "state": "none",
     "wallets": 2
    },
-   "last_scan": "2026-08-18T23:00:18Z",
+   "last_scan": "2026-08-18T23:15:16Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -20460,7 +20534,7 @@
     "state": "crowded",
     "wallets": 18
    },
-   "last_scan": "2026-08-18T23:00:18Z",
+   "last_scan": "2026-08-18T23:15:16Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -20643,7 +20717,7 @@
    "cid": "0xdbb98d866363c79ffcdf8f5a97331d99a3ea77ba1fd0ee0efdb223cc4d2588be",
    "first_seen": "2026-08-18T22:30:18Z",
    "last_pre": {
-    "at": "2026-08-18T23:00:18Z",
+    "at": "2026-08-18T23:15:16Z",
     "fish": [
      0.0,
      0.0
@@ -20661,7 +20735,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-18T23:00:18Z",
+   "last_scan": "2026-08-18T23:15:16Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -21838,7 +21912,7 @@
    "cid": "0xeb095a556268b5d8ef5dbf28782790d36e5cb351289fcc5e615461abfc42131a",
    "first_seen": "2026-08-18T05:15:17Z",
    "last_pre": {
-    "at": "2026-08-18T23:00:18Z",
+    "at": "2026-08-18T23:15:16Z",
     "fish": [
      3600.0,
      0.0
@@ -21856,7 +21930,7 @@
     "state": "crowded",
     "wallets": 2
    },
-   "last_scan": "2026-08-18T23:00:18Z",
+   "last_scan": "2026-08-18T23:15:16Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -24000,6 +24074,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-08-18T23:00:18Z",
+ "updated": "2026-08-18T23:15:16Z",
  "version": 1
 }
