@@ -651,25 +651,25 @@
    "cid": "0x07ddeab6e7b1709fa00a2d6b7fa1f7f1de0246f512ddb8f83f004ce41227f7e8",
    "first_seen": "2026-08-18T23:15:16Z",
    "last_pre": {
-    "at": "2026-08-19T19:30:19Z",
+    "at": "2026-08-19T19:45:18Z",
     "fish": [
      4760.0,
      1100.0
     ],
     "price": null,
     "sharp": [
-     19968.0,
+     21303.0,
      0.0
     ],
     "sharp_wallets": [
-     4,
+     5,
      0
     ],
     "side": null,
     "state": "crowded",
-    "wallets": 7
+    "wallets": 8
    },
-   "last_scan": "2026-08-19T19:30:19Z",
+   "last_scan": "2026-08-19T19:45:18Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -2331,9 +2331,9 @@
    "cid": "0x1821330c11e4d8d638e485391dbf6af3edb96f84bb4c78f86237ed9eac447895",
    "first_seen": "2026-08-19T05:15:18Z",
    "last_pre": {
-    "at": "2026-08-19T19:30:19Z",
+    "at": "2026-08-19T19:45:18Z",
     "fish": [
-     9520.0,
+     10150.0,
      24459.0
     ],
     "price": null,
@@ -2349,7 +2349,7 @@
     "state": "crowded",
     "wallets": 10
    },
-   "last_scan": "2026-08-19T19:30:19Z",
+   "last_scan": "2026-08-19T19:45:18Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -3229,7 +3229,7 @@
    "cid": "0x21c5344608988eb6c3e5d6f9082d3bfb353fa963171363754e6d2ff3c0d0533f",
    "first_seen": "2026-08-18T22:30:18Z",
    "last_pre": {
-    "at": "2026-08-19T19:30:19Z",
+    "at": "2026-08-19T19:45:18Z",
     "fish": [
      4270.0,
      0.0
@@ -3247,7 +3247,7 @@
     "state": "crowded",
     "wallets": 5
    },
-   "last_scan": "2026-08-19T19:30:19Z",
+   "last_scan": "2026-08-19T19:45:18Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -6747,8 +6747,8 @@
     "state": "none",
     "wallets": 9
    },
-   "last_scan": "2026-08-19T19:30:19Z",
-   "lock_closed": false,
+   "last_scan": "2026-08-19T19:45:18Z",
+   "lock_closed": true,
    "locked": null,
    "outcomes": [
     "Diana Shnaider",
@@ -6756,7 +6756,7 @@
    ],
    "result": null,
    "slug": "wta-shnaide-rybakin-2026-08-19",
-   "start": "2026-08-19T19:35:00Z",
+   "start": "2026-08-19T19:45:00Z",
    "title": "Cincinnati Open: Diana Shnaider vs Elena Rybakina",
    "tour": "WTA"
   },
@@ -7701,7 +7701,7 @@
     "state": "crowded",
     "wallets": 10
    },
-   "last_scan": "2026-08-19T19:30:19Z",
+   "last_scan": "2026-08-19T19:45:18Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -9086,7 +9086,7 @@
     "state": "none",
     "wallets": 5
    },
-   "last_scan": "2026-08-19T19:30:19Z",
+   "last_scan": "2026-08-19T19:45:18Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -12333,25 +12333,25 @@
    "cid": "0x7e054991016aee3bb2045ca5a36b519489859934e558445d1349c5c7f5146007",
    "first_seen": "2026-08-18T23:15:16Z",
    "last_pre": {
-    "at": "2026-08-19T19:30:19Z",
+    "at": "2026-08-19T19:45:18Z",
     "fish": [
      2602.0,
-     7515.0
+     8518.0
     ],
     "price": null,
     "sharp": [
-     6529.0,
-     13685.0
+     8717.0,
+     16800.0
     ],
     "sharp_wallets": [
-     3,
-     2
+     5,
+     3
     ],
     "side": null,
     "state": "crowded",
-    "wallets": 9
+    "wallets": 13
    },
-   "last_scan": "2026-08-19T19:30:19Z",
+   "last_scan": "2026-08-19T19:45:18Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -12896,8 +12896,8 @@
     "state": "crowded",
     "wallets": 8
    },
-   "last_scan": "2026-08-19T19:30:19Z",
-   "lock_closed": false,
+   "last_scan": "2026-08-19T19:45:18Z",
+   "lock_closed": true,
    "locked": null,
    "outcomes": [
     "Coco Gauff",
@@ -18163,14 +18163,14 @@
    "cid": "0xc2edef5cdadd09971b336b9b7f8fa3a1a57725bafadccf1785c6c1a6d09550c6",
    "first_seen": "2026-08-19T04:30:17Z",
    "last_pre": {
-    "at": "2026-08-19T19:30:19Z",
+    "at": "2026-08-19T19:45:18Z",
     "fish": [
      2634.0,
      1050.0
     ],
     "price": null,
     "sharp": [
-     19125.0,
+     19151.0,
      0.0
     ],
     "sharp_wallets": [
@@ -18181,7 +18181,7 @@
     "state": "crowded",
     "wallets": 10
    },
-   "last_scan": "2026-08-19T19:30:19Z",
+   "last_scan": "2026-08-19T19:45:18Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -19600,7 +19600,7 @@
     "state": "crowded",
     "wallets": 13
    },
-   "last_scan": "2026-08-19T19:30:19Z",
+   "last_scan": "2026-08-19T19:45:18Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -19799,7 +19799,7 @@
    "cid": "0xd13611826e213e4799922c893edb1057e19f30f96162b1faa992de96a77fe421",
    "first_seen": "2026-08-19T05:15:18Z",
    "last_pre": {
-    "at": "2026-08-19T19:30:19Z",
+    "at": "2026-08-19T19:45:18Z",
     "fish": [
      5838.0,
      9100.0
@@ -19817,7 +19817,7 @@
     "state": "crowded",
     "wallets": 11
    },
-   "last_scan": "2026-08-19T19:30:19Z",
+   "last_scan": "2026-08-19T19:45:18Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -22108,7 +22108,7 @@
     "state": "crowded",
     "wallets": 17
    },
-   "last_scan": "2026-08-19T19:30:19Z",
+   "last_scan": "2026-08-19T19:45:18Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -24252,6 +24252,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-08-19T19:30:19Z",
+ "updated": "2026-08-19T19:45:18Z",
  "version": 1
 }
