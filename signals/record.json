@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.23751590909090908,
-   "edge_pp": -2.0454545454545556,
-   "implied": 0.4901515151515153,
-   "n": 66,
-   "roi": -0.022570981794151578,
-   "win_rate": 0.4696969696969697,
-   "wins": 31,
-   "z": -0.34486443212498313
+   "brier": 0.23692649253731343,
+   "edge_pp": -1.3507462686567273,
+   "implied": 0.4911194029850747,
+   "n": 67,
+   "roi": -0.010266910397197052,
+   "win_rate": 0.47761194029850745,
+   "wins": 32,
+   "z": -0.2293461070590002
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-08-20T19:15:23Z",
+ "generated": "2026-08-20T19:30:23Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json.",
  "overall": {
-  "brier": 0.23705714285714283,
-  "edge_pp": -3.61428571428572,
-  "implied": 0.4932857142857143,
-  "n": 70,
-  "roi": -0.0577201348013595,
-  "win_rate": 0.45714285714285713,
-  "wins": 32,
-  "z": -0.6284671816377179
+  "brier": 0.23650739436619717,
+  "edge_pp": -2.936619718309863,
+  "implied": 0.4941549295774648,
+  "n": 71,
+  "roi": -0.04561419203230089,
+  "win_rate": 0.4647887323943662,
+  "wins": 33,
+  "z": -0.5140245249724574
  },
- "pending": 4,
+ "pending": 3,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -737,6 +737,16 @@
    "title": "Cincinnati Open: Learner Tien vs Frances Tiafoe",
    "tour": "ATP",
    "winner": "Frances Tiafoe"
+  },
+  {
+   "hit": true,
+   "locked_at": "2026-08-20T16:45:19Z",
+   "phase": "pre-match",
+   "price": 0.555,
+   "side": "Jessica Pegula",
+   "title": "Cincinnati Open: Amanda Anisimova vs Jessica Pegula",
+   "tour": "WTA",
+   "winner": "Jessica Pegula"
   }
  ]
 }
