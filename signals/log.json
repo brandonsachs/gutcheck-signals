@@ -151,7 +151,7 @@
    "cid": "0x03c4691788e32ba38982c2f1fcba4272ab8f4a59b3ffaa80e57da2e73733a955",
    "first_seen": "2026-08-21T05:15:19Z",
    "last_pre": {
-    "at": "2026-08-22T04:15:17Z",
+    "at": "2026-08-22T04:30:17Z",
     "fish": [
      0.0,
      2000.0
@@ -169,7 +169,7 @@
     "state": "crowded",
     "wallets": 4
    },
-   "last_scan": "2026-08-22T04:15:17Z",
+   "last_scan": "2026-08-22T04:30:17Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -4646,6 +4646,41 @@
    "slug": "wta-bucsa-udvardy-2026-08-13",
    "start": "2026-08-13T20:45:00Z",
    "title": "Cincinnati Open: Cristina Bucsa vs Panna Udvardy",
+   "tour": "WTA"
+  },
+  "0x2fc28c92e366576ebcca8ec3da8791d297f914441f593e14951cd6dba28cff46": {
+   "cid": "0x2fc28c92e366576ebcca8ec3da8791d297f914441f593e14951cd6dba28cff46",
+   "first_seen": "2026-08-22T04:30:17Z",
+   "last_pre": {
+    "at": "2026-08-22T04:30:17Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-08-22T04:30:17Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Sara Bejlek",
+    "Coco Gauff"
+   ],
+   "result": null,
+   "slug": "wta-bejlek-gauff-2026-08-22",
+   "start": "2026-08-22T23:30:00Z",
+   "title": "Cincinnati Open: Sara Bejlek vs Coco Gauff",
    "tour": "WTA"
   },
   "0x3005dbe66e4927a0ae6e80f28f3ce8d58937cb35adb4fc92cc451f8984978198": {
@@ -14561,14 +14596,14 @@
    "cid": "0x95959560144520f539cadad1509aaa3fc47e95aaeb1ade1849987ad5f1f6b58f",
    "first_seen": "2026-08-21T04:30:16Z",
    "last_pre": {
-    "at": "2026-08-22T04:15:17Z",
+    "at": "2026-08-22T04:30:17Z",
     "fish": [
-     0.0,
-     9284.0
+     1106.0,
+     19634.0
     ],
     "price": null,
     "sharp": [
-     14155.0,
+     17764.0,
      20730.0
     ],
     "sharp_wallets": [
@@ -14577,9 +14612,9 @@
     ],
     "side": null,
     "state": "crowded",
-    "wallets": 5
+    "wallets": 7
    },
-   "last_scan": "2026-08-22T04:15:17Z",
+   "last_scan": "2026-08-22T04:30:17Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -24678,6 +24713,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-08-22T04:15:17Z",
+ "updated": "2026-08-22T04:30:17Z",
  "version": 1
 }
