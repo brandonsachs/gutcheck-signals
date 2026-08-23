@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.2371123239436619,
-   "edge_pp": -3.978873239436631,
-   "implied": 0.490492957746479,
-   "n": 71,
-   "roi": -0.06602652107904511,
-   "win_rate": 0.4507042253521127,
+   "brier": 0.23779444444444442,
+   "edge_pp": -4.66666666666668,
+   "implied": 0.4911111111111112,
+   "n": 72,
+   "roi": -0.07899837495294725,
+   "win_rate": 0.4444444444444444,
    "wins": 32,
-   "z": -0.6948350167852585
+   "z": -0.82027377834922
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-08-23T23:15:28Z",
+ "generated": "2026-08-23T23:30:28Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json.",
  "overall": {
-  "brier": 0.23670566666666665,
-  "edge_pp": -5.340000000000006,
-  "implied": 0.49340000000000006,
-  "n": 75,
-  "roi": -0.09651476845724484,
-  "win_rate": 0.44,
+  "brier": 0.23735723684210525,
+  "edge_pp": -5.973684210526314,
+  "implied": 0.49394736842105263,
+  "n": 76,
+  "roi": -0.10840273203017584,
+  "win_rate": 0.4342105263157895,
   "wins": 33,
-  "z": -0.9597922876068591
+  "z": -1.0803141185529668
  },
- "pending": 4,
+ "pending": 3,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -787,6 +787,16 @@
    "title": "Cincinnati Open: Arthur Fils vs Frances Tiafoe",
    "tour": "ATP",
    "winner": "Arthur Fils"
+  },
+  {
+   "hit": false,
+   "locked_at": "2026-08-23T20:45:18Z",
+   "phase": "pre-match",
+   "price": 0.535,
+   "side": "Martin Landaluce",
+   "title": "Winston-Salem Open: Martin Landaluce vs Mattia Bellucci",
+   "tour": "ATP",
+   "winner": "Mattia Bellucci"
   }
  ]
 }
