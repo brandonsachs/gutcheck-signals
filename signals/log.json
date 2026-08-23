@@ -3753,7 +3753,7 @@
    "cid": "0x26abf356097934dad27b3a3cf344a053e52da8c03877a066e8fc1f90b105a8d0",
    "first_seen": "2026-08-22T17:15:16Z",
    "last_pre": {
-    "at": "2026-08-23T22:00:17Z",
+    "at": "2026-08-23T22:15:17Z",
     "fish": [
      0.0,
      0.0
@@ -3771,7 +3771,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-08-23T22:00:17Z",
+   "last_scan": "2026-08-23T22:15:17Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -14232,7 +14232,7 @@
    "cid": "0x8fabe952e2f47dd6bc1b08926e8555e125bb4a583798c6663a2713d6b3f50b75",
    "first_seen": "2026-08-22T17:15:16Z",
    "last_pre": {
-    "at": "2026-08-23T22:00:17Z",
+    "at": "2026-08-23T22:15:17Z",
     "fish": [
      0.0,
      0.0
@@ -14250,7 +14250,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-23T22:00:17Z",
+   "last_scan": "2026-08-23T22:15:17Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -14771,7 +14771,7 @@
    "cid": "0x951d73b789021e25b9150e4aa26daa28846b9c554f382fe6739e29bc208bc69d",
    "first_seen": "2026-08-22T17:15:16Z",
    "last_pre": {
-    "at": "2026-08-23T22:00:17Z",
+    "at": "2026-08-23T22:15:17Z",
     "fish": [
      0.0,
      0.0
@@ -14789,7 +14789,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-23T22:00:17Z",
+   "last_scan": "2026-08-23T22:15:17Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -16716,7 +16716,7 @@
     "state": "aligned",
     "wallets": 9
    },
-   "last_scan": "2026-08-23T22:00:17Z",
+   "last_scan": "2026-08-23T22:15:17Z",
    "lock_closed": false,
    "locked": {
     "at": "2026-08-23T20:45:18Z",
@@ -18095,7 +18095,7 @@
     "state": "aligned",
     "wallets": 27
    },
-   "last_scan": "2026-08-23T22:00:17Z",
+   "last_scan": "2026-08-23T22:15:17Z",
    "lock_closed": false,
    "locked": {
     "at": "2026-08-23T20:15:16Z",
@@ -18117,7 +18117,11 @@
     "Arthur Fils",
     "Frances Tiafoe"
    ],
-   "result": null,
+   "result": {
+    "hit": false,
+    "scored_at": "2026-08-23T22:15:23Z",
+    "winner": "Arthur Fils"
+   },
    "slug": "atp-fils-tiafoe-2026-08-23",
    "start": "2026-08-23T20:30:00Z",
    "title": "Cincinnati Open: Arthur Fils vs Frances Tiafoe",
@@ -21771,7 +21775,7 @@
    "cid": "0xdce2672692519af70f3ebe035bfd408c5b040d3542d5542902d80b161fd3b225",
    "first_seen": "2026-08-22T17:15:16Z",
    "last_pre": {
-    "at": "2026-08-23T22:00:17Z",
+    "at": "2026-08-23T22:15:17Z",
     "fish": [
      0.0,
      0.0
@@ -21789,7 +21793,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-23T22:00:17Z",
+   "last_scan": "2026-08-23T22:15:17Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -22163,7 +22167,7 @@
    "cid": "0xe22a6358d8a4d75c4428be001da17d55d291284a8b4a7b5b75554a398a7b6954",
    "first_seen": "2026-08-22T17:15:16Z",
    "last_pre": {
-    "at": "2026-08-23T22:00:17Z",
+    "at": "2026-08-23T22:15:17Z",
     "fish": [
      0.0,
      0.0
@@ -22181,7 +22185,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-23T22:00:17Z",
+   "last_scan": "2026-08-23T22:15:17Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -22799,7 +22803,7 @@
    "cid": "0xe8f3af473c792c68c6275ba4217ef70067b8072f56b82b058e9c2aea003b05fc",
    "first_seen": "2026-08-22T17:15:16Z",
    "last_pre": {
-    "at": "2026-08-23T22:00:17Z",
+    "at": "2026-08-23T22:15:17Z",
     "fish": [
      17975.0,
      0.0
@@ -22817,7 +22821,7 @@
     "state": "crowded",
     "wallets": 16
    },
-   "last_scan": "2026-08-23T22:00:17Z",
+   "last_scan": "2026-08-23T22:15:17Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -22865,7 +22869,7 @@
    "cid": "0xe97b3db97ebb15dac000603f3c0870f7557e107f30bf0dc3f6e6da631556be39",
    "first_seen": "2026-08-22T17:15:16Z",
    "last_pre": {
-    "at": "2026-08-23T22:00:17Z",
+    "at": "2026-08-23T22:15:17Z",
     "fish": [
      0.0,
      0.0
@@ -22883,7 +22887,7 @@
     "state": "none",
     "wallets": 3
    },
-   "last_scan": "2026-08-23T22:00:17Z",
+   "last_scan": "2026-08-23T22:15:17Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -24141,15 +24145,15 @@
    "cid": "0xf7752ecb570d9a33643333eef626c03e409e5c4de4817e4d0e7c9873726f3394",
    "first_seen": "2026-08-23T04:30:18Z",
    "last_pre": {
-    "at": "2026-08-23T22:00:17Z",
+    "at": "2026-08-23T22:15:17Z",
     "fish": [
      23435.0,
-     8427.0
+     11324.0
     ],
     "price": null,
     "sharp": [
-     72489.0,
-     57614.0
+     79608.0,
+     59103.0
     ],
     "sharp_wallets": [
      11,
@@ -24157,9 +24161,9 @@
     ],
     "side": null,
     "state": "crowded",
-    "wallets": 23
+    "wallets": 24
    },
-   "last_scan": "2026-08-23T22:00:17Z",
+   "last_scan": "2026-08-23T22:15:17Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -25268,6 +25272,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-08-23T22:00:17Z",
+ "updated": "2026-08-23T22:15:17Z",
  "version": 1
 }
