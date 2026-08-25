@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.23630292207792208,
-   "edge_pp": -3.500000000000009,
-   "implied": 0.4895454545454546,
-   "n": 77,
-   "roi": -0.062071660375735985,
-   "win_rate": 0.45454545454545453,
+   "brier": 0.23548141025641028,
+   "edge_pp": -3.987179487179493,
+   "implied": 0.48858974358974366,
+   "n": 78,
+   "roi": -0.07409638267861117,
+   "win_rate": 0.44871794871794873,
    "wins": 35,
-   "z": -0.6353998541147526
+   "z": -0.7283462246220697
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-08-25T19:02:05Z",
+ "generated": "2026-08-25T19:17:50Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json.",
  "overall": {
-  "brier": 0.23596635802469137,
-  "edge_pp": -4.783950617283955,
-  "implied": 0.49228395061728397,
-  "n": 81,
-  "roi": -0.09049682082238063,
-  "win_rate": 0.4444444444444444,
+  "brier": 0.23518902439024394,
+  "edge_pp": -5.23170731707317,
+  "implied": 0.49134146341463414,
+  "n": 82,
+  "roi": -0.10158832300747354,
+  "win_rate": 0.43902439024390244,
   "wins": 36,
-  "z": -0.892002162330217
+  "z": -0.9812413043543906
  },
- "pending": 6,
+ "pending": 5,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -847,6 +847,16 @@
    "title": "US Open, Qualification ATP: Sebastian Ofner vs Kei Nishikori",
    "tour": "ATP",
    "winner": "Kei Nishikori"
+  },
+  {
+   "hit": false,
+   "locked_at": "2026-08-25T18:00:53Z",
+   "phase": "pre-match",
+   "price": 0.415,
+   "side": "Adolfo Vallejo",
+   "title": "Winston-Salem Open: Botic van de Zandschulp vs Adolfo Vallejo",
+   "tour": "ATP",
+   "winner": "Botic van de Zandschulp"
   }
  ]
 }
