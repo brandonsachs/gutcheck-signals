@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.2363171052631579,
-   "edge_pp": -4.184210526315796,
-   "implied": 0.48921052631578954,
-   "n": 76,
-   "roi": -0.07527980818088427,
-   "win_rate": 0.4473684210526316,
-   "wins": 34,
-   "z": -0.7550079702612655
+   "brier": 0.23630292207792208,
+   "edge_pp": -3.500000000000009,
+   "implied": 0.4895454545454546,
+   "n": 77,
+   "roi": -0.062071660375735985,
+   "win_rate": 0.45454545454545453,
+   "wins": 35,
+   "z": -0.6353998541147526
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-08-25T16:46:16Z",
+ "generated": "2026-08-25T17:03:54Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json.",
  "overall": {
-  "brier": 0.23597562500000002,
-  "edge_pp": -5.449999999999999,
-  "implied": 0.492,
-  "n": 80,
-  "roi": -0.10339987574285456,
-  "win_rate": 0.4375,
-  "wins": 35,
-  "z": -1.0103548048827347
+  "brier": 0.23596635802469137,
+  "edge_pp": -4.783950617283955,
+  "implied": 0.49228395061728397,
+  "n": 81,
+  "roi": -0.09049682082238063,
+  "win_rate": 0.4444444444444444,
+  "wins": 36,
+  "z": -0.892002162330217
  },
- "pending": 4,
+ "pending": 3,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -837,6 +837,16 @@
    "title": "Winston-Salem Open: Daniel Altmaier vs Francisco Comesana",
    "tour": "ATP",
    "winner": "Daniel Altmaier"
+  },
+  {
+   "hit": true,
+   "locked_at": "2026-08-25T15:00:53Z",
+   "phase": "pre-match",
+   "price": 0.515,
+   "side": "Kei Nishikori",
+   "title": "US Open, Qualification ATP: Sebastian Ofner vs Kei Nishikori",
+   "tour": "ATP",
+   "winner": "Kei Nishikori"
   }
  ]
 }
