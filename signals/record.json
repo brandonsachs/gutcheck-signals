@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.24252861445783136,
-   "edge_pp": -2.945783132530133,
-   "implied": 0.4872891566265061,
-   "n": 83,
-   "roi": -0.03693880584694265,
-   "win_rate": 0.4578313253012048,
-   "wins": 38,
-   "z": -0.5548923889523635
+   "brier": 0.24330833333333338,
+   "edge_pp": -2.2500000000000075,
+   "implied": 0.4867857142857144,
+   "n": 84,
+   "roi": -0.0216515461197653,
+   "win_rate": 0.4642857142857143,
+   "wins": 39,
+   "z": -0.42623278709967455
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-08-26T01:50:42Z",
+ "generated": "2026-08-26T02:01:10Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json.",
  "overall": {
-  "brier": 0.24192902298850577,
-  "edge_pp": -4.166666666666669,
-  "implied": 0.4899425287356322,
-  "n": 87,
-  "roi": -0.06455914394226897,
-  "win_rate": 0.4482758620689655,
-  "wins": 39,
-  "z": -0.8046188687928622
+  "brier": 0.2426801136363637,
+  "edge_pp": -3.488636363636366,
+  "implied": 0.4894318181818182,
+  "n": 88,
+  "roi": -0.049652892178880075,
+  "win_rate": 0.45454545454545453,
+  "wins": 40,
+  "z": -0.6773206037245209
  },
- "pending": 4,
+ "pending": 3,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -907,6 +907,16 @@
    "title": "Monterrey Open: Panna Udvardy vs Maya Joint",
    "tour": "WTA",
    "winner": "Panna Udvardy"
+  },
+  {
+   "hit": true,
+   "locked_at": "2026-08-26T00:00:51Z",
+   "phase": "pre-match",
+   "price": 0.445,
+   "side": "Fabian Marozsan",
+   "title": "Winston-Salem Open: Miomir Kecmanovic vs Fabian Marozsan",
+   "tour": "ATP",
+   "winner": "Fabian Marozsan"
   }
  ]
 }
