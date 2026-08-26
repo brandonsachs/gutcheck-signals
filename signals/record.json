@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.24330833333333338,
-   "edge_pp": -2.2500000000000075,
-   "implied": 0.4867857142857144,
-   "n": 84,
-   "roi": -0.0216515461197653,
-   "win_rate": 0.4642857142857143,
-   "wins": 39,
-   "z": -0.42623278709967455
+   "brier": 0.24295523255813958,
+   "edge_pp": -2.313953488372106,
+   "implied": 0.4882558139534885,
+   "n": 86,
+   "roi": -0.024181388828810192,
+   "win_rate": 0.46511627906976744,
+   "wins": 40,
+   "z": -0.4432538511257751
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-08-26T19:02:27Z",
+ "generated": "2026-08-26T19:16:27Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json.",
  "overall": {
-  "brier": 0.2426801136363637,
-  "edge_pp": -3.488636363636366,
-  "implied": 0.4894318181818182,
-  "n": 88,
-  "roi": -0.049652892178880075,
-  "win_rate": 0.45454545454545453,
-  "wins": 40,
-  "z": -0.6773206037245209
+  "brier": 0.24235666666666672,
+  "edge_pp": -3.5222222222222266,
+  "implied": 0.4907777777777778,
+  "n": 90,
+  "roi": -0.05144804529954264,
+  "win_rate": 0.45555555555555555,
+  "wins": 41,
+  "z": -0.69112733304297
  },
- "pending": 6,
+ "pending": 4,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -917,6 +917,26 @@
    "title": "Winston-Salem Open: Miomir Kecmanovic vs Fabian Marozsan",
    "tour": "ATP",
    "winner": "Fabian Marozsan"
+  },
+  {
+   "hit": false,
+   "locked_at": "2026-08-26T18:00:56Z",
+   "phase": "pre-match",
+   "price": 0.525,
+   "side": "Rinky Hijikata",
+   "title": "Winston-Salem Open: Rinky Hijikata vs Benjamin Bonzi",
+   "tour": "ATP",
+   "winner": "Benjamin Bonzi"
+  },
+  {
+   "hit": true,
+   "locked_at": "2026-08-26T18:00:56Z",
+   "phase": "pre-match",
+   "price": 0.575,
+   "side": "Botic van de Zandschulp",
+   "title": "Winston-Salem Open: Botic van de Zandschulp vs Luciano Darderi",
+   "tour": "ATP",
+   "winner": "Botic van de Zandschulp"
   }
  ]
 }
