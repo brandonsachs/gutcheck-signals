@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.24295523255813958,
-   "edge_pp": -2.313953488372106,
-   "implied": 0.4882558139534885,
-   "n": 86,
-   "roi": -0.024181388828810192,
-   "win_rate": 0.46511627906976744,
+   "brier": 0.24297902298850577,
+   "edge_pp": -2.8563218390804668,
+   "implied": 0.4883333333333334,
+   "n": 87,
+   "roi": -0.03539769470434111,
+   "win_rate": 0.45977011494252873,
    "wins": 40,
-   "z": -0.4432538511257751
+   "z": -0.5501097142992916
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-08-27T06:16:04Z",
+ "generated": "2026-08-27T06:31:00Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json.",
  "overall": {
-  "brier": 0.24235666666666672,
-  "edge_pp": -3.5222222222222266,
-  "implied": 0.4907777777777778,
-  "n": 90,
-  "roi": -0.05144804529954264,
-  "win_rate": 0.45555555555555555,
+  "brier": 0.24238598901098904,
+  "edge_pp": -4.027472527472526,
+  "implied": 0.4908241758241758,
+  "n": 91,
+  "roi": -0.06187169315339382,
+  "win_rate": 0.45054945054945056,
   "wins": 41,
-  "z": -0.69112733304297
+  "z": -0.7943425436717124
  },
- "pending": 5,
+ "pending": 4,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -937,6 +937,16 @@
    "title": "Winston-Salem Open: Botic van de Zandschulp vs Luciano Darderi",
    "tour": "ATP",
    "winner": "Botic van de Zandschulp"
+  },
+  {
+   "hit": false,
+   "locked_at": "2026-08-27T03:45:51Z",
+   "phase": "pre-match",
+   "price": 0.495,
+   "side": "Ekaterina Alexandrova",
+   "title": "Monterrey Open: Ekaterina Alexandrova vs Clara Tauson",
+   "tour": "WTA",
+   "winner": "Clara Tauson"
   }
  ]
 }
