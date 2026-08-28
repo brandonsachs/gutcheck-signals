@@ -2718,25 +2718,25 @@
    "cid": "0x15e2bdde10659a513ef6a68774ccf1cdc8a4ac1124a1a128120f99c3083ec3ad",
    "first_seen": "2026-08-27T05:15:51Z",
    "last_pre": {
-    "at": "2026-08-28T15:30:52Z",
+    "at": "2026-08-28T15:45:51Z",
     "fish": [
-     0.0,
-     0.0
+     3235.0,
+     10000.0
     ],
     "price": null,
     "sharp": [
-     0.0,
+     4009.0,
      0.0
     ],
     "sharp_wallets": [
-     0,
+     2,
      0
     ],
     "side": null,
-    "state": "none",
-    "wallets": 0
+    "state": "thin",
+    "wallets": 5
    },
-   "last_scan": "2026-08-28T15:30:52Z",
+   "last_scan": "2026-08-28T15:45:51Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -8544,25 +8544,25 @@
    "cid": "0x3eb5d4dc398949e4164e555e8d0f3efcb71d3ce2f0d965c5e8ca972effd62c67",
    "first_seen": "2026-08-27T05:15:51Z",
    "last_pre": {
-    "at": "2026-08-28T15:30:52Z",
+    "at": "2026-08-28T15:45:51Z",
     "fish": [
-     1654.0,
-     0.0
+     7535.0,
+     5000.0
     ],
     "price": null,
     "sharp": [
      1500.0,
-     0.0
+     1115.0
     ],
     "sharp_wallets": [
      1,
-     0
+     1
     ],
     "side": null,
-    "state": "crowded",
-    "wallets": 2
+    "state": "none",
+    "wallets": 4
    },
-   "last_scan": "2026-08-28T15:30:52Z",
+   "last_scan": "2026-08-28T15:45:51Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -10482,7 +10482,7 @@
     "state": "none",
     "wallets": 2
    },
-   "last_scan": "2026-08-28T15:30:52Z",
+   "last_scan": "2026-08-28T15:45:51Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -13421,7 +13421,7 @@
    "cid": "0x617173074f457db14a09e9b50bbe393ea2b810bebaad4a11ef11270209cd5433",
    "first_seen": "2026-08-28T04:15:49Z",
    "last_pre": {
-    "at": "2026-08-28T15:30:52Z",
+    "at": "2026-08-28T15:45:51Z",
     "fish": [
      0.0,
      0.0
@@ -13439,7 +13439,7 @@
     "state": "none",
     "wallets": 2
    },
-   "last_scan": "2026-08-28T15:30:52Z",
+   "last_scan": "2026-08-28T15:45:51Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -14060,7 +14060,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-28T15:30:52Z",
+   "last_scan": "2026-08-28T15:45:51Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -15152,7 +15152,7 @@
     "state": "crowded",
     "wallets": 8
    },
-   "last_scan": "2026-08-28T15:30:52Z",
+   "last_scan": "2026-08-28T15:45:51Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -17277,7 +17277,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-08-28T15:30:52Z",
+   "last_scan": "2026-08-28T15:45:51Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -17967,7 +17967,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-08-28T15:30:52Z",
+   "last_scan": "2026-08-28T15:45:51Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -18418,7 +18418,7 @@
     "state": "crowded",
     "wallets": 2
    },
-   "last_scan": "2026-08-28T15:30:52Z",
+   "last_scan": "2026-08-28T15:45:51Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -19003,25 +19003,25 @@
    "cid": "0x8c43cf1b806c6b9809817ba92acb247ec038b81afb049fb67a6db3add26ec6a3",
    "first_seen": "2026-08-27T04:30:51Z",
    "last_pre": {
-    "at": "2026-08-28T15:30:52Z",
+    "at": "2026-08-28T15:45:51Z",
     "fish": [
-     2500.0,
-     1064.0
+     7500.0,
+     4694.0
     ],
     "price": null,
     "sharp": [
      0.0,
-     0.0
+     2494.0
     ],
     "sharp_wallets": [
      0,
-     0
+     2
     ],
     "side": null,
-    "state": "none",
-    "wallets": 2
+    "state": "thin",
+    "wallets": 6
    },
-   "last_scan": "2026-08-28T15:30:52Z",
+   "last_scan": "2026-08-28T15:45:51Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -19056,7 +19056,7 @@
     "state": "crowded",
     "wallets": 14
    },
-   "last_scan": "2026-08-28T15:30:52Z",
+   "last_scan": "2026-08-28T15:45:51Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -19126,7 +19126,7 @@
     "state": "crowded",
     "wallets": 2
    },
-   "last_scan": "2026-08-28T15:30:52Z",
+   "last_scan": "2026-08-28T15:45:51Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -19495,7 +19495,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-28T15:30:52Z",
+   "last_scan": "2026-08-28T15:45:51Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -22392,10 +22392,10 @@
    "cid": "0xa353bbc0497603d7ce2c73927335d7d874d466c5963c36519b288a83ec664aec",
    "first_seen": "2026-08-27T04:30:51Z",
    "last_pre": {
-    "at": "2026-08-28T15:30:52Z",
+    "at": "2026-08-28T15:45:51Z",
     "fish": [
-     0.0,
-     0.0
+     8500.0,
+     3428.0
     ],
     "price": null,
     "sharp": [
@@ -22408,9 +22408,9 @@
     ],
     "side": null,
     "state": "none",
-    "wallets": 0
+    "wallets": 2
    },
-   "last_scan": "2026-08-28T15:30:52Z",
+   "last_scan": "2026-08-28T15:45:51Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -23017,9 +23017,9 @@
    "cid": "0xaa9800331562ec17c78273e9b1d7a37ed9742a7261adb2dff2afc3ef4317c93f",
    "first_seen": "2026-08-28T05:15:55Z",
    "last_pre": {
-    "at": "2026-08-28T15:30:52Z",
+    "at": "2026-08-28T15:45:51Z",
     "fish": [
-     5429.0,
+     5768.0,
      0.0
     ],
     "price": 0.555,
@@ -23035,7 +23035,7 @@
     "state": "aligned",
     "wallets": 8
    },
-   "last_scan": "2026-08-28T15:30:52Z",
+   "last_scan": "2026-08-28T15:45:51Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -23171,8 +23171,8 @@
     "state": "thin",
     "wallets": 4
    },
-   "last_scan": "2026-08-28T15:30:52Z",
-   "lock_closed": false,
+   "last_scan": "2026-08-28T15:45:51Z",
+   "lock_closed": true,
    "locked": null,
    "outcomes": [
     "Mia Ristic",
@@ -23180,7 +23180,7 @@
    ],
    "result": null,
    "slug": "wta-ristic-sakatsu-2026-08-27",
-   "start": "2026-08-28T16:30:00Z",
+   "start": "2026-08-28T15:45:00Z",
    "title": "US Open, Qualification WTA: Mia Ristic vs Himeno Sakatsume",
    "tour": "WTA"
   },
@@ -23276,7 +23276,7 @@
     "state": "thin",
     "wallets": 4
    },
-   "last_scan": "2026-08-28T15:30:52Z",
+   "last_scan": "2026-08-28T15:45:51Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -24248,25 +24248,25 @@
    "cid": "0xb2bdde178c6713e85a62c7a30335e5c4345d9f08df3189bae694a5ea91c9a985",
    "first_seen": "2026-08-27T04:30:51Z",
    "last_pre": {
-    "at": "2026-08-28T15:30:52Z",
+    "at": "2026-08-28T15:45:51Z",
     "fish": [
-     9716.0,
-     3103.0
+     11289.0,
+     8103.0
     ],
     "price": null,
     "sharp": [
-     1257.0,
+     3854.0,
      5043.0
     ],
     "sharp_wallets": [
-     1,
+     2,
      1
     ],
     "side": null,
     "state": "thin",
-    "wallets": 6
+    "wallets": 9
    },
-   "last_scan": "2026-08-28T15:30:52Z",
+   "last_scan": "2026-08-28T15:45:51Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -26527,7 +26527,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-28T15:30:52Z",
+   "last_scan": "2026-08-28T15:45:51Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -27021,7 +27021,7 @@
    "cid": "0xc6a331a4bf26ab9ace5c5ef65cfcf31ed5cf22768c3ae4371ffabf38c5d2fc75",
    "first_seen": "2026-08-28T05:15:55Z",
    "last_pre": {
-    "at": "2026-08-28T15:30:52Z",
+    "at": "2026-08-28T15:45:51Z",
     "fish": [
      6300.0,
      0.0
@@ -27039,7 +27039,7 @@
     "state": "aligned",
     "wallets": 3
    },
-   "last_scan": "2026-08-28T15:30:52Z",
+   "last_scan": "2026-08-28T15:45:51Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -28781,7 +28781,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-28T15:30:52Z",
+   "last_scan": "2026-08-28T15:45:51Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -29006,7 +29006,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-08-28T15:30:52Z",
+   "last_scan": "2026-08-28T15:45:51Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -29120,25 +29120,25 @@
    "cid": "0xd498c073a2409ce5bc2805044f3098a046577b0d8009011912d8b85a980802f6",
    "first_seen": "2026-08-27T05:15:51Z",
    "last_pre": {
-    "at": "2026-08-28T15:30:52Z",
+    "at": "2026-08-28T15:45:51Z",
     "fish": [
-     0.0,
-     0.0
+     3879.0,
+     5000.0
     ],
     "price": null,
     "sharp": [
-     1200.0,
+     2741.0,
      0.0
     ],
     "sharp_wallets": [
-     1,
+     2,
      0
     ],
     "side": null,
-    "state": "none",
-    "wallets": 1
+    "state": "thin",
+    "wallets": 4
    },
-   "last_scan": "2026-08-28T15:30:52Z",
+   "last_scan": "2026-08-28T15:45:51Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -30192,7 +30192,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-28T15:30:52Z",
+   "last_scan": "2026-08-28T15:45:51Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -30794,7 +30794,7 @@
     "state": "none",
     "wallets": 3
    },
-   "last_scan": "2026-08-28T15:30:52Z",
+   "last_scan": "2026-08-28T15:45:51Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -31228,7 +31228,7 @@
     "state": "none",
     "wallets": 2
    },
-   "last_scan": "2026-08-28T15:30:52Z",
+   "last_scan": "2026-08-28T15:45:51Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -31381,7 +31381,7 @@
    "cid": "0xe49bdb69a3f0282fb9d56dd951b502a77a679dded68ee8332355013fffb725a9",
    "first_seen": "2026-08-28T10:30:51Z",
    "last_pre": {
-    "at": "2026-08-28T15:30:52Z",
+    "at": "2026-08-28T15:45:51Z",
     "fish": [
      0.0,
      0.0
@@ -31399,7 +31399,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-08-28T15:30:52Z",
+   "last_scan": "2026-08-28T15:45:51Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -35087,6 +35087,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-08-28T15:30:52Z",
+ "updated": "2026-08-28T15:45:51Z",
  "version": 1
 }
