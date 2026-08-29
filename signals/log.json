@@ -13980,7 +13980,7 @@
     "state": "aligned",
     "wallets": 13
    },
-   "last_scan": "2026-08-29T01:01:01Z",
+   "last_scan": "2026-08-29T01:16:01Z",
    "lock_closed": false,
    "locked": {
     "at": "2026-08-28T23:15:51Z",
@@ -14003,7 +14003,11 @@
     "Diane Parry",
     "Ann Li"
    ],
-   "result": null,
+   "result": {
+    "hit": false,
+    "scored_at": "2026-08-29T01:16:05Z",
+    "winner": "Diane Parry"
+   },
    "slug": "wta-parry-annli-2026-08-28",
    "start": "2026-08-28T23:05:00Z",
    "title": "Monterrey Open: Diane Parry vs Ann Li",
@@ -27922,7 +27926,7 @@
     "state": "crowded",
     "wallets": 23
    },
-   "last_scan": "2026-08-29T01:01:01Z",
+   "last_scan": "2026-08-29T01:16:01Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -32355,9 +32359,24 @@
     "state": "aligned",
     "wallets": 10
    },
-   "last_scan": "2026-08-29T01:01:01Z",
+   "last_scan": "2026-08-29T01:16:01Z",
    "lock_closed": false,
-   "locked": null,
+   "locked": {
+    "at": "2026-08-29T01:01:01Z",
+    "fish": [
+     16155.0,
+     12011.0
+    ],
+    "phase": "pre-match",
+    "price": 0.595,
+    "sharp": [
+     1065.0,
+     16741.0
+    ],
+    "side": 1,
+    "side_name": "Elise Mertens",
+    "wallets": 10
+   },
    "outcomes": [
     "Nikola Bartunkova",
     "Elise Mertens"
@@ -36115,6 +36134,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-08-29T01:01:01Z",
+ "updated": "2026-08-29T01:16:01Z",
  "version": 1
 }
