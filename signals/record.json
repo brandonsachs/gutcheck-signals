@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.24752392473118284,
-   "edge_pp": -1.7150537634408547,
-   "implied": 0.49026881720430104,
-   "n": 93,
-   "roi": -0.004364733089926029,
-   "win_rate": 0.4731182795698925,
-   "wins": 44,
-   "z": -0.34117920245243333
+   "brier": 0.2464675531914894,
+   "edge_pp": -1.2872340425531925,
+   "implied": 0.4915957446808511,
+   "n": 94,
+   "roi": 0.0023414476893561798,
+   "win_rate": 0.4787234042553192,
+   "wins": 45,
+   "z": -0.2574348635304004
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-08-30T20:46:39Z",
+ "generated": "2026-08-30T20:56:51Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json.",
  "overall": {
-  "brier": 0.24678015463917533,
-  "edge_pp": -2.860824742268031,
-  "implied": 0.4925257731958762,
-  "n": 97,
-  "roi": -0.030480874381899812,
-  "win_rate": 0.4639175257731959,
-  "wins": 45,
-  "z": -0.5819602244587052
+  "brier": 0.24577448979591843,
+  "edge_pp": -2.438775510204072,
+  "implied": 0.49377551020408156,
+  "n": 98,
+  "roi": -0.0237819240294049,
+  "win_rate": 0.46938775510204084,
+  "wins": 46,
+  "z": -0.4986302792050866
  },
- "pending": 7,
+ "pending": 6,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -1007,6 +1007,16 @@
    "title": "US Open ATP: Yibing Wu vs Adam Walton",
    "tour": "ATP",
    "winner": "Yibing Wu"
+  },
+  {
+   "hit": true,
+   "locked_at": "2026-08-30T19:15:55Z",
+   "phase": "pre-match",
+   "price": 0.615,
+   "side": "Toby Samuel",
+   "title": "US Open ATP: Toby Samuel vs Tomas Machac",
+   "tour": "ATP",
+   "winner": "Toby Samuel"
   }
  ]
 }
