@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.24617500000000006,
-   "edge_pp": -1.3541666666666619,
-   "implied": 0.4927083333333333,
-   "n": 96,
-   "roi": -0.00010408763308062656,
-   "win_rate": 0.4791666666666667,
-   "wins": 46,
-   "z": -0.27353452731871825
+   "brier": 0.2460123711340207,
+   "edge_pp": -0.8453608247422695,
+   "implied": 0.4929896907216495,
+   "n": 97,
+   "roi": 0.009413242374239,
+   "win_rate": 0.4845360824742268,
+   "wins": 47,
+   "z": -0.1715916807346984
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-08-31T16:45:47Z",
+ "generated": "2026-08-31T17:04:13Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json.",
  "overall": {
-  "brier": 0.24550750000000007,
-  "edge_pp": -2.4799999999999933,
-  "implied": 0.4947999999999999,
-  "n": 100,
-  "roi": -0.025607170504569014,
-  "win_rate": 0.47,
-  "wins": 47,
-  "z": -0.5119199741458426
+  "brier": 0.24535792079207927,
+  "edge_pp": -1.9801980198019764,
+  "implied": 0.495049504950495,
+  "n": 101,
+  "roi": -0.016214258686930477,
+  "win_rate": 0.4752475247524752,
+  "wins": 48,
+  "z": -0.4106607361844059
  },
- "pending": 8,
+ "pending": 7,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -1037,6 +1037,16 @@
    "title": "US Open ATP: Miomir Kecmanovic vs Denis Shapovalov",
    "tour": "ATP",
    "winner": "Denis Shapovalov"
+  },
+  {
+   "hit": true,
+   "locked_at": "2026-08-31T15:00:23Z",
+   "phase": "pre-match",
+   "price": 0.52,
+   "side": "Valentin Vacherot",
+   "title": "US Open ATP: Valentin Vacherot vs Aleksandar Kovacevic",
+   "tour": "ATP",
+   "winner": "Valentin Vacherot"
   }
  ]
 }
