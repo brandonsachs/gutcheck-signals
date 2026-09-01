@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.24221322115384622,
-   "edge_pp": -1.8124999999999947,
-   "implied": 0.49889423076923073,
-   "n": 104,
-   "roi": -0.01690454935244721,
-   "win_rate": 0.4807692307692308,
-   "wins": 50,
-   "z": -0.38172581670757333
+   "brier": 0.24154666666666674,
+   "edge_pp": -1.4000000000000012,
+   "implied": 0.4997142857142857,
+   "n": 105,
+   "roi": -0.00998734688812191,
+   "win_rate": 0.4857142857142857,
+   "wins": 51,
+   "z": -0.2962144831474514
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-09-01T20:03:56Z",
+ "generated": "2026-09-01T20:16:50Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json.",
  "overall": {
-  "brier": 0.24174189814814823,
-  "edge_pp": -2.837962962962959,
-  "implied": 0.5006018518518518,
-  "n": 108,
-  "roi": -0.03989627565125621,
-  "win_rate": 0.4722222222222222,
-  "wins": 51,
-  "z": -0.6097540771740023
+  "brier": 0.24110412844036705,
+  "edge_pp": -2.431192660550452,
+  "implied": 0.5013761467889908,
+  "n": 109,
+  "roi": -0.03302198221040331,
+  "win_rate": 0.47706422018348627,
+  "wins": 52,
+  "z": -0.5246789296845336
  },
- "pending": 8,
+ "pending": 7,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -1117,6 +1117,16 @@
    "title": "US Open ATP: Nuno Borges vs Learner Tien",
    "tour": "ATP",
    "winner": "Learner Tien"
+  },
+  {
+   "hit": true,
+   "locked_at": "2026-09-01T18:31:18Z",
+   "phase": "pre-match",
+   "price": 0.585,
+   "side": "Eva Lys",
+   "title": "US Open WTA: Gabriela Knutson vs Eva Lys",
+   "tour": "WTA",
+   "winner": "Eva Lys"
   }
  ]
 }
