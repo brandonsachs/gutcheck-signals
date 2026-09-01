@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.2389062500000001,
-   "edge_pp": -1.708333333333334,
-   "implied": 0.4985648148148148,
-   "n": 108,
-   "roi": -0.022431992250835177,
-   "win_rate": 0.48148148148148145,
+   "brier": 0.23905412844036705,
+   "edge_pp": -2.1559633027522898,
+   "implied": 0.49862385321100916,
+   "n": 109,
+   "roi": -0.03140050608339632,
+   "win_rate": 0.47706422018348627,
    "wins": 52,
-   "z": -0.3665658370816927
+   "z": -0.46461291521564685
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-09-01T22:17:17Z",
+ "generated": "2026-09-01T22:31:34Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json.",
  "overall": {
-  "brier": 0.23856986607142866,
-  "edge_pp": -2.700892857142856,
-  "implied": 0.5002232142857143,
-  "n": 112,
-  "roi": -0.04440517679260142,
-  "win_rate": 0.4732142857142857,
+  "brier": 0.2387154867256638,
+  "edge_pp": -3.1238938053097245,
+  "implied": 0.5002654867256636,
+  "n": 113,
+  "roi": -0.0528617681484191,
+  "win_rate": 0.4690265486725664,
   "wins": 53,
-  "z": -0.590811579216197
+  "z": -0.68617916242914
  },
- "pending": 8,
+ "pending": 7,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -1157,6 +1157,16 @@
    "title": "US Open WTA: Maria Sakkari vs Robin Montgomery",
    "tour": "WTA",
    "winner": "Maria Sakkari"
+  },
+  {
+   "hit": false,
+   "locked_at": "2026-09-01T20:31:11Z",
+   "phase": "pre-match",
+   "price": 0.505,
+   "side": "Reese Brantmeier",
+   "title": "US Open WTA: Oleksandra Oliynykova vs Reese Brantmeier",
+   "tour": "WTA",
+   "winner": "Oleksandra Oliynykova"
   }
  ]
 }
