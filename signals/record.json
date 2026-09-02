@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.2430654867256638,
-   "edge_pp": -1.0619469026548645,
-   "implied": 0.4973451327433628,
-   "n": 113,
-   "roi": 0.000628323950687074,
-   "win_rate": 0.48672566371681414,
+   "brier": 0.2423019736842106,
+   "edge_pp": -1.3991228070175443,
+   "implied": 0.49644736842105264,
+   "n": 114,
+   "roi": -0.008149117487476848,
+   "win_rate": 0.4824561403508772,
    "wins": 55,
-   "z": -0.2329609652895293
+   "z": -0.30825889370767057
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-09-02T18:01:47Z",
+ "generated": "2026-09-02T18:16:57Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json.",
  "overall": {
-  "brier": 0.24260128205128215,
-  "edge_pp": -2.0341880341880225,
-  "implied": 0.4989743589743589,
-  "n": 117,
-  "roi": -0.021194222489346326,
-  "win_rate": 0.47863247863247865,
+  "brier": 0.2418675847457628,
+  "edge_pp": -2.3516949152542264,
+  "implied": 0.49809322033898296,
+  "n": 118,
+  "roi": -0.029489186705538305,
+  "win_rate": 0.4745762711864407,
   "wins": 56,
-  "z": -0.45454583588024
+  "z": -0.5276902872743278
  },
- "pending": 9,
+ "pending": 8,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -1187,6 +1187,16 @@
    "title": "US Open ATP: Adolfo Vallejo vs Gael Monfils",
    "tour": "ATP",
    "winner": "Gael Monfils"
+  },
+  {
+   "hit": false,
+   "locked_at": "2026-09-02T14:46:06Z",
+   "phase": "pre-match",
+   "price": 0.395,
+   "side": "Jaume Munar",
+   "title": "US Open ATP: Jaume Munar vs Arthur Rinderknech",
+   "tour": "ATP",
+   "winner": "Arthur Rinderknech"
   },
   {
    "hit": false,
