@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.2326424074074075,
-   "edge_pp": -3.966666666666657,
-   "implied": 0.49892592592592583,
-   "n": 135,
-   "roi": -0.0798572150329841,
-   "win_rate": 0.45925925925925926,
-   "wins": 62,
-   "z": -0.9529393788815976
+   "brier": 0.23371286764705893,
+   "edge_pp": -3.485294117647053,
+   "implied": 0.4980882352941176,
+   "n": 136,
+   "roi": -0.06752442229448719,
+   "win_rate": 0.4632352941176471,
+   "wins": 63,
+   "z": -0.8403535453028828
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-09-06T22:30:31Z",
+ "generated": "2026-09-06T22:45:19Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json.",
  "overall": {
-  "brier": 0.23255161870503607,
-  "edge_pp": -4.701438848920864,
-  "implied": 0.5002517985611511,
-  "n": 139,
-  "roi": -0.09590970264125188,
-  "win_rate": 0.45323741007194246,
-  "wins": 63,
-  "z": -1.1470151654467733
+  "brier": 0.23359214285714294,
+  "edge_pp": -4.228571428571431,
+  "implied": 0.49942857142857144,
+  "n": 140,
+  "roi": -0.08381461478379582,
+  "win_rate": 0.45714285714285713,
+  "wins": 64,
+  "z": -1.0353020857468833
  },
- "pending": 5,
+ "pending": 4,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -1427,6 +1427,16 @@
    "title": "US Open WTA: Marta Kostyuk vs Linda Noskova",
    "tour": "WTA",
    "winner": "Linda Noskova"
+  },
+  {
+   "hit": true,
+   "locked_at": "2026-09-06T19:15:30Z",
+   "phase": "pre-match",
+   "price": 0.385,
+   "side": "Frances Tiafoe",
+   "title": "US Open ATP: Daniil Medvedev vs Frances Tiafoe",
+   "tour": "ATP",
+   "winner": "Frances Tiafoe"
   }
  ]
 }
