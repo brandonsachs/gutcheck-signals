@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.23303674242424252,
-   "edge_pp": -3.0227272727272547,
-   "implied": 0.49992424242424227,
-   "n": 132,
-   "roi": -0.058944879011006465,
-   "win_rate": 0.4696969696969697,
+   "brier": 0.23223214285714294,
+   "edge_pp": -3.2669172932330737,
+   "implied": 0.4988345864661653,
+   "n": 133,
+   "roi": -0.06602048142445754,
+   "win_rate": 0.46616541353383456,
    "wins": 62,
-   "z": -0.7182587344181647
+   "z": -0.7792781799946675
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-09-06T02:01:03Z",
+ "generated": "2026-09-06T02:16:04Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json.",
  "overall": {
-  "brier": 0.23293235294117656,
-  "edge_pp": -3.8014705882352784,
-  "implied": 0.5012499999999999,
-  "n": 136,
-  "roi": -0.07596653431716185,
-  "win_rate": 0.4632352941176471,
+  "brier": 0.23215200729927016,
+  "edge_pp": -4.032846715328464,
+  "implied": 0.5001824817518248,
+  "n": 137,
+  "roi": -0.08271130413966432,
+  "win_rate": 0.45985401459854014,
   "wins": 63,
-  "z": -0.9176538104710903
+  "z": -0.9771467133034597
  },
- "pending": 6,
+ "pending": 5,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -1377,6 +1377,16 @@
    "title": "US Open ATP: Valentin Vacherot vs Frances Tiafoe",
    "tour": "ATP",
    "winner": "Frances Tiafoe"
+  },
+  {
+   "hit": false,
+   "locked_at": "2026-09-05T20:15:57Z",
+   "phase": "pre-match",
+   "price": 0.355,
+   "side": "Zizou Bergs",
+   "title": "US Open ATP: Zizou Bergs vs Botic van de Zandschulp",
+   "tour": "ATP",
+   "winner": "Botic van de Zandschulp"
   },
   {
    "hit": false,
