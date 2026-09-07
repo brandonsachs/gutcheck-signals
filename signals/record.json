@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.23248156934306577,
-   "edge_pp": -3.27372262773723,
-   "implied": 0.49989051094890513,
-   "n": 137,
-   "roi": -0.06453313542230384,
-   "win_rate": 0.46715328467153283,
-   "wins": 64,
-   "z": -0.7927812351346901
+   "brier": 0.23138550724637688,
+   "edge_pp": -3.04347826086957,
+   "implied": 0.5014492753623189,
+   "n": 138,
+   "roi": -0.061177088074305996,
+   "win_rate": 0.47101449275362317,
+   "wins": 65,
+   "z": -0.7400516275338596
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-09-07T01:00:29Z",
+ "generated": "2026-09-07T01:15:37Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json.",
  "overall": {
-  "brier": 0.23239663120567386,
-  "edge_pp": -4.0177304964539085,
-  "implied": 0.5011702127659575,
-  "n": 141,
-  "roi": -0.0807926538335942,
-  "win_rate": 0.46099290780141844,
-  "wins": 65,
-  "z": -0.98784155133318
+  "brier": 0.23133204225352125,
+  "edge_pp": -3.788732394366207,
+  "implied": 0.5026760563380283,
+  "n": 142,
+  "roi": -0.07741663937982664,
+  "win_rate": 0.4647887323943662,
+  "wins": 66,
+  "z": -0.9352512863122461
  },
- "pending": 5,
+ "pending": 4,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -1447,6 +1447,16 @@
    "title": "US Open WTA: Jessica Pegula vs Sorana Cirstea",
    "tour": "WTA",
    "winner": "Jessica Pegula"
+  },
+  {
+   "hit": true,
+   "locked_at": "2026-09-06T23:00:32Z",
+   "phase": "pre-match",
+   "price": 0.715,
+   "side": "Ben Shelton",
+   "title": "US Open ATP: Ben Shelton vs Stefanos Tsitsipas",
+   "tour": "ATP",
+   "winner": "Ben Shelton"
   }
  ]
 }
