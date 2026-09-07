@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.23371286764705893,
-   "edge_pp": -3.485294117647053,
-   "implied": 0.4980882352941176,
-   "n": 136,
-   "roi": -0.06752442229448719,
-   "win_rate": 0.4632352941176471,
-   "wins": 63,
-   "z": -0.8403535453028828
+   "brier": 0.23248156934306577,
+   "edge_pp": -3.27372262773723,
+   "implied": 0.49989051094890513,
+   "n": 137,
+   "roi": -0.06453313542230384,
+   "win_rate": 0.46715328467153283,
+   "wins": 64,
+   "z": -0.7927812351346901
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-09-07T00:15:25Z",
+ "generated": "2026-09-07T00:30:35Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json.",
  "overall": {
-  "brier": 0.23359214285714294,
-  "edge_pp": -4.228571428571431,
-  "implied": 0.49942857142857144,
-  "n": 140,
-  "roi": -0.08381461478379582,
-  "win_rate": 0.45714285714285713,
-  "wins": 64,
-  "z": -1.0353020857468833
+  "brier": 0.23239663120567386,
+  "edge_pp": -4.0177304964539085,
+  "implied": 0.5011702127659575,
+  "n": 141,
+  "roi": -0.0807926538335942,
+  "win_rate": 0.46099290780141844,
+  "wins": 65,
+  "z": -0.98784155133318
  },
- "pending": 6,
+ "pending": 5,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -1437,6 +1437,16 @@
    "title": "US Open ATP: Daniil Medvedev vs Frances Tiafoe",
    "tour": "ATP",
    "winner": "Frances Tiafoe"
+  },
+  {
+   "hit": true,
+   "locked_at": "2026-09-06T22:45:14Z",
+   "phase": "pre-match",
+   "price": 0.745,
+   "side": "Jessica Pegula",
+   "title": "US Open WTA: Jessica Pegula vs Sorana Cirstea",
+   "tour": "WTA",
+   "winner": "Jessica Pegula"
   }
  ]
 }
