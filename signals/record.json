@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.23138550724637688,
-   "edge_pp": -3.04347826086957,
-   "implied": 0.5014492753623189,
-   "n": 138,
-   "roi": -0.061177088074305996,
-   "win_rate": 0.47101449275362317,
-   "wins": 65,
-   "z": -0.7400516275338596
+   "brier": 0.23162895683453247,
+   "edge_pp": -2.6510791366906536,
+   "implied": 0.5013309352517986,
+   "n": 139,
+   "roi": -0.05309771571331751,
+   "win_rate": 0.4748201438848921,
+   "wins": 66,
+   "z": -0.6468041048978593
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-09-07T02:45:34Z",
+ "generated": "2026-09-07T03:00:28Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json.",
  "overall": {
-  "brier": 0.23133204225352125,
-  "edge_pp": -3.788732394366207,
-  "implied": 0.5026760563380283,
-  "n": 142,
-  "roi": -0.07741663937982664,
-  "win_rate": 0.4647887323943662,
-  "wins": 66,
-  "z": -0.9352512863122461
+  "brier": 0.23156905594405605,
+  "edge_pp": -3.4020979020979114,
+  "implied": 0.5025524475524477,
+  "n": 143,
+  "roi": -0.06944970015267335,
+  "win_rate": 0.46853146853146854,
+  "wins": 67,
+  "z": -0.8425505689529003
  },
- "pending": 5,
+ "pending": 4,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -1457,6 +1457,16 @@
    "title": "US Open ATP: Ben Shelton vs Stefanos Tsitsipas",
    "tour": "ATP",
    "winner": "Ben Shelton"
+  },
+  {
+   "hit": true,
+   "locked_at": "2026-09-07T01:15:19Z",
+   "phase": "pre-match",
+   "price": 0.485,
+   "side": "Emma Navarro",
+   "title": "US Open WTA: Anna Kalinskaya vs Emma Navarro",
+   "tour": "WTA",
+   "winner": "Emma Navarro"
   }
  ]
 }
