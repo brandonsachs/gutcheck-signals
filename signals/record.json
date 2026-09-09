@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.23280937500000012,
-   "edge_pp": -3.055555555555556,
-   "implied": 0.5027777777777778,
-   "n": 144,
-   "roi": -0.058828234815826524,
-   "win_rate": 0.4722222222222222,
-   "wins": 68,
-   "z": -0.7612792863991277
+   "brier": 0.23165224137931048,
+   "edge_pp": -2.858620689655184,
+   "implied": 0.5044482758620691,
+   "n": 145,
+   "roi": -0.05606195816747855,
+   "win_rate": 0.47586206896551725,
+   "wins": 69,
+   "z": -0.7151291237720673
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-09-09T17:46:11Z",
+ "generated": "2026-09-09T18:01:06Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json.",
  "overall": {
-  "brier": 0.23271959459459476,
-  "edge_pp": -3.7702702702702817,
-  "implied": 0.503918918918919,
-  "n": 148,
-  "roi": -0.07447290845378499,
-  "win_rate": 0.46621621621621623,
-  "wins": 69,
-  "z": -0.9529416053697239
+  "brier": 0.2315941275167787,
+  "edge_pp": -3.573825503355721,
+  "implied": 0.505536912751678,
+  "n": 149,
+  "roi": -0.0716758964561446,
+  "win_rate": 0.4697986577181208,
+  "wins": 70,
+  "z": -0.9068843053210965
  },
- "pending": 6,
+ "pending": 5,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -1517,6 +1517,16 @@
    "title": "US Open WTA: Iva Jovic vs Coco Gauff",
    "tour": "WTA",
    "winner": "Coco Gauff"
+  },
+  {
+   "hit": true,
+   "locked_at": "2026-09-09T15:16:02Z",
+   "phase": "pre-match",
+   "price": 0.745,
+   "side": "Elena Rybakina",
+   "title": "US Open WTA: Qinwen Zheng vs Elena Rybakina",
+   "tour": "WTA",
+   "winner": "Elena Rybakina"
   }
  ]
 }
