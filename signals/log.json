@@ -11158,6 +11158,42 @@
    "title": "Cincinnati Open: Peyton Stearns vs Harriet Dart",
    "tour": "WTA"
   },
+  "0x3e7b0b572b56b0b4d607fed4289f89e4c6fe99b5cb9affe978de57dae1091474": {
+   "cid": "0x3e7b0b572b56b0b4d607fed4289f89e4c6fe99b5cb9affe978de57dae1091474",
+   "first_seen": "2026-09-09T16:01:03Z",
+   "last_pre": {
+    "at": "2026-09-09T16:01:03Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-09-09T16:01:03Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Frances Tiafoe",
+    "Ben Shelton"
+   ],
+   "result": null,
+   "slug": "atp-tiafoe-shelton-2026-09-11",
+   "start": "2026-09-11T04:00:00Z",
+   "title": "US Open ATP: Frances Tiafoe vs Ben Shelton",
+   "tour": "ATP"
+  },
   "0x3eb5d4dc398949e4164e555e8d0f3efcb71d3ce2f0d965c5e8ca972effd62c67": {
    "cid": "0x3eb5d4dc398949e4164e555e8d0f3efcb71d3ce2f0d965c5e8ca972effd62c67",
    "first_seen": "2026-08-27T05:15:51Z",
@@ -15199,7 +15235,7 @@
     "state": "aligned",
     "wallets": 27
    },
-   "last_scan": "2026-09-09T15:46:01Z",
+   "last_scan": "2026-09-09T16:01:03Z",
    "lock_closed": false,
    "locked": {
     "at": "2026-09-09T15:16:02Z",
@@ -26064,7 +26100,7 @@
    "cid": "0x93953a8ae1b4a59023067c35725491ef70ad6de52bba3ff1eecb1f3f6e0a484a",
    "first_seen": "2026-09-08T06:30:22Z",
    "last_pre": {
-    "at": "2026-09-09T15:46:01Z",
+    "at": "2026-09-09T16:01:03Z",
     "fish": [
      3248.0,
      1320.0
@@ -26083,7 +26119,7 @@
     "state": "aligned",
     "wallets": 9
    },
-   "last_scan": "2026-09-09T15:46:01Z",
+   "last_scan": "2026-09-09T16:01:03Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -31420,10 +31456,10 @@
    "cid": "0xb2e4f1f05b4f3057baa0f3c69a3c7d7972cc3255e6040b76406bd1e462a3da7f",
    "first_seen": "2026-09-08T06:45:25Z",
    "last_pre": {
-    "at": "2026-09-09T15:46:01Z",
+    "at": "2026-09-09T16:01:03Z",
     "fish": [
      21503.0,
-     7043.0
+     7334.0
     ],
     "frozen_pre": false,
     "price": null,
@@ -31439,7 +31475,7 @@
     "state": "crowded",
     "wallets": 15
    },
-   "last_scan": "2026-09-09T15:46:01Z",
+   "last_scan": "2026-09-09T16:01:03Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -37598,7 +37634,7 @@
    "cid": "0xd318d7b6332b24e6c8a85a2b8ec780beebc0eee0a2b70ce8fe073bab2fad8d35",
    "first_seen": "2026-09-08T06:45:25Z",
    "last_pre": {
-    "at": "2026-09-09T15:46:01Z",
+    "at": "2026-09-09T16:01:03Z",
     "fish": [
      17007.0,
      3025.0
@@ -37617,7 +37653,7 @@
     "state": "crowded",
     "wallets": 9
    },
-   "last_scan": "2026-09-09T15:46:01Z",
+   "last_scan": "2026-09-09T16:01:03Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -44301,7 +44337,7 @@
    "cid": "0xf82a452fbba33edb6557d7091e0bd2a36d1e3af89b69b1f0f3ea705f498b4698",
    "first_seen": "2026-09-09T04:26:19Z",
    "last_pre": {
-    "at": "2026-09-09T15:46:01Z",
+    "at": "2026-09-09T16:01:03Z",
     "fish": [
      0.0,
      0.0
@@ -44320,7 +44356,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-09T15:46:01Z",
+   "last_scan": "2026-09-09T16:01:03Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -45734,6 +45770,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-09-09T15:46:01Z",
+ "updated": "2026-09-09T16:01:03Z",
  "version": 1
 }
