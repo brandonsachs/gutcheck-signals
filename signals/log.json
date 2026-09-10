@@ -28220,6 +28220,42 @@
    "title": "US Open, Qualification ATP: Michael Antonius vs Henry Searle",
    "tour": "ATP"
   },
+  "0x9de7b05be5b5ee9ac186a60f558de8d3bcabe74a383c01dd0dd3a426e64240d7": {
+   "cid": "0x9de7b05be5b5ee9ac186a60f558de8d3bcabe74a383c01dd0dd3a426e64240d7",
+   "first_seen": "2026-09-10T07:00:38Z",
+   "last_pre": {
+    "at": "2026-09-10T07:00:38Z",
+    "fish": [
+     1991.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 1
+   },
+   "last_scan": "2026-09-10T07:00:38Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Alexander Zverev",
+    "Karen Khachanov"
+   ],
+   "result": null,
+   "slug": "atp-zverev-khachan-2026-09-11",
+   "start": "2026-09-11T19:00:00Z",
+   "title": "US Open ATP: Alexander Zverev vs Karen Khachanov",
+   "tour": "ATP"
+  },
   "0x9e6177bb37665f55a3e1cb9bc64f5acb1b5cee6acf5626dc704450e94c12fc58": {
    "cid": "0x9e6177bb37665f55a3e1cb9bc64f5acb1b5cee6acf5626dc704450e94c12fc58",
    "first_seen": "2026-08-13T10:16:02Z",
@@ -29700,7 +29736,7 @@
    "cid": "0xa85e45264f68b269b379d480fb3cf8b7e52ec9124ce9afff4aea19adabfa8402",
    "first_seen": "2026-09-09T22:15:32Z",
    "last_pre": {
-    "at": "2026-09-10T06:45:34Z",
+    "at": "2026-09-10T07:00:38Z",
     "fish": [
      0.0,
      3013.0
@@ -29719,7 +29755,7 @@
     "state": "none",
     "wallets": 4
    },
-   "last_scan": "2026-09-10T06:45:34Z",
+   "last_scan": "2026-09-10T07:00:38Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -44417,26 +44453,26 @@
    "cid": "0xf82a452fbba33edb6557d7091e0bd2a36d1e3af89b69b1f0f3ea705f498b4698",
    "first_seen": "2026-09-09T04:26:19Z",
    "last_pre": {
-    "at": "2026-09-10T06:45:34Z",
+    "at": "2026-09-10T07:00:38Z",
     "fish": [
      0.0,
-     3129.0
+     3145.0
     ],
     "frozen_pre": false,
     "price": null,
     "sharp": [
-     4417.0,
-     0.0
+     4455.0,
+     1014.0
     ],
     "sharp_wallets": [
      1,
-     0
+     1
     ],
     "side": null,
     "state": "thin",
-    "wallets": 3
+    "wallets": 4
    },
-   "last_scan": "2026-09-10T06:45:34Z",
+   "last_scan": "2026-09-10T07:00:38Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -45850,6 +45886,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-09-10T06:45:34Z",
+ "updated": "2026-09-10T07:00:38Z",
  "version": 1
 }
