@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.2296111486486488,
-   "edge_pp": -2.5608108108108207,
-   "implied": 0.5053378378378379,
-   "n": 148,
-   "roi": -0.05406936741238163,
-   "win_rate": 0.4797297297297297,
-   "wins": 71,
-   "z": -0.6472483962361028
+   "brier": 0.2295843959731545,
+   "edge_pp": -2.22483221476511,
+   "implied": 0.5054697986577182,
+   "n": 149,
+   "roi": -0.04763425820315823,
+   "win_rate": 0.48322147651006714,
+   "wins": 72,
+   "z": -0.5640812953767452
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-09-11T03:00:35Z",
+ "generated": "2026-09-11T03:15:36Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json.",
  "overall": {
-  "brier": 0.2296078947368423,
-  "edge_pp": -3.26973684210527,
-  "implied": 0.5063815789473685,
-  "n": 152,
-  "roi": -0.06942757246522131,
-  "win_rate": 0.47368421052631576,
-  "wins": 72,
-  "z": -0.8380552947928035
+  "brier": 0.2295818627450982,
+  "edge_pp": -2.937908496732039,
+  "implied": 0.5065032679738564,
+  "n": 153,
+  "roi": -0.06306032098007669,
+  "win_rate": 0.477124183006536,
+  "wins": 73,
+  "z": -0.7552864642727409
  },
- "pending": 5,
+ "pending": 4,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -1557,6 +1557,16 @@
    "title": "US Open WTA: Aryna Sabalenka vs Jessica Pegula",
    "tour": "WTA",
    "winner": "Aryna Sabalenka"
+  },
+  {
+   "hit": true,
+   "locked_at": "2026-09-11T00:45:31Z",
+   "phase": "pre-match",
+   "price": 0.525,
+   "side": "Elena Rybakina",
+   "title": "US Open WTA: Coco Gauff vs Elena Rybakina",
+   "tour": "WTA",
+   "winner": "Elena Rybakina"
   }
  ]
 }
