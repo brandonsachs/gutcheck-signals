@@ -28224,7 +28224,7 @@
    "cid": "0x9de7b05be5b5ee9ac186a60f558de8d3bcabe74a383c01dd0dd3a426e64240d7",
    "first_seen": "2026-09-10T07:00:38Z",
    "last_pre": {
-    "at": "2026-09-11T00:45:31Z",
+    "at": "2026-09-11T01:00:37Z",
     "fish": [
      25917.0,
      0.0
@@ -28243,7 +28243,7 @@
     "state": "crowded",
     "wallets": 6
    },
-   "last_scan": "2026-09-11T00:45:31Z",
+   "last_scan": "2026-09-11T01:00:37Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -29755,16 +29755,32 @@
     "state": "aligned",
     "wallets": 29
    },
-   "last_scan": "2026-09-11T00:45:31Z",
+   "last_scan": "2026-09-11T01:00:37Z",
    "lock_closed": false,
-   "locked": null,
+   "locked": {
+    "at": "2026-09-11T00:45:31Z",
+    "fish": [
+     47709.0,
+     20067.0
+    ],
+    "notified": true,
+    "phase": "pre-match",
+    "price": 0.525,
+    "sharp": [
+     44507.0,
+     72944.0
+    ],
+    "side": 1,
+    "side_name": "Elena Rybakina",
+    "wallets": 29
+   },
    "outcomes": [
     "Coco Gauff",
     "Elena Rybakina"
    ],
    "result": null,
    "slug": "wta-gauff-rybakin-2026-09-10",
-   "start": "2026-09-11T00:50:00Z",
+   "start": "2026-09-11T00:55:00Z",
    "title": "US Open WTA: Coco Gauff vs Elena Rybakina",
    "tour": "WTA"
   },
@@ -36148,10 +36164,10 @@
    "cid": "0xcc86be14d3e37335b893c4a4c84507c1c8c0162db7568a995896722c7a42daf4",
    "first_seen": "2026-09-10T17:45:38Z",
    "last_pre": {
-    "at": "2026-09-11T00:45:31Z",
+    "at": "2026-09-11T01:00:37Z",
     "fish": [
-     17567.0,
-     24779.0
+     18542.0,
+     26505.0
     ],
     "frozen_pre": false,
     "price": null,
@@ -36165,9 +36181,9 @@
     ],
     "side": null,
     "state": "thin",
-    "wallets": 4
+    "wallets": 5
    },
-   "last_scan": "2026-09-11T00:45:31Z",
+   "last_scan": "2026-09-11T01:00:37Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -44508,7 +44524,7 @@
     "state": "aligned",
     "wallets": 29
    },
-   "last_scan": "2026-09-11T00:45:31Z",
+   "last_scan": "2026-09-11T01:00:37Z",
    "lock_closed": false,
    "locked": {
     "at": "2026-09-10T23:00:41Z",
@@ -45942,6 +45958,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-09-11T00:45:31Z",
+ "updated": "2026-09-11T01:00:37Z",
  "version": 1
 }
