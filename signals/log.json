@@ -28224,7 +28224,7 @@
    "cid": "0x9de7b05be5b5ee9ac186a60f558de8d3bcabe74a383c01dd0dd3a426e64240d7",
    "first_seen": "2026-09-10T07:00:38Z",
    "last_pre": {
-    "at": "2026-09-11T00:15:33Z",
+    "at": "2026-09-11T00:30:34Z",
     "fish": [
      25917.0,
      0.0
@@ -28243,7 +28243,7 @@
     "state": "crowded",
     "wallets": 6
    },
-   "last_scan": "2026-09-11T00:15:33Z",
+   "last_scan": "2026-09-11T00:30:34Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -29736,16 +29736,16 @@
    "cid": "0xa85e45264f68b269b379d480fb3cf8b7e52ec9124ce9afff4aea19adabfa8402",
    "first_seen": "2026-09-09T22:15:32Z",
    "last_pre": {
-    "at": "2026-09-11T00:15:33Z",
+    "at": "2026-09-11T00:30:34Z",
     "fish": [
-     36569.0,
-     14167.0
+     40286.0,
+     17867.0
     ],
     "frozen_pre": false,
     "price": 0.525,
     "sharp": [
      41529.0,
-     65874.0
+     66263.0
     ],
     "sharp_wallets": [
      4,
@@ -29753,9 +29753,9 @@
     ],
     "side": 1,
     "state": "aligned",
-    "wallets": 24
+    "wallets": 25
    },
-   "last_scan": "2026-09-11T00:15:33Z",
+   "last_scan": "2026-09-11T00:30:34Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -29764,7 +29764,7 @@
    ],
    "result": null,
    "slug": "wta-gauff-rybakin-2026-09-10",
-   "start": "2026-09-11T00:30:00Z",
+   "start": "2026-09-11T00:45:00Z",
    "title": "US Open WTA: Coco Gauff vs Elena Rybakina",
    "tour": "WTA"
   },
@@ -36148,7 +36148,7 @@
    "cid": "0xcc86be14d3e37335b893c4a4c84507c1c8c0162db7568a995896722c7a42daf4",
    "first_seen": "2026-09-10T17:45:38Z",
    "last_pre": {
-    "at": "2026-09-11T00:15:33Z",
+    "at": "2026-09-11T00:30:34Z",
     "fish": [
      17567.0,
      24779.0
@@ -36167,7 +36167,7 @@
     "state": "thin",
     "wallets": 4
    },
-   "last_scan": "2026-09-11T00:15:33Z",
+   "last_scan": "2026-09-11T00:30:34Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -44508,7 +44508,7 @@
     "state": "aligned",
     "wallets": 29
    },
-   "last_scan": "2026-09-11T00:15:33Z",
+   "last_scan": "2026-09-11T00:30:34Z",
    "lock_closed": false,
    "locked": {
     "at": "2026-09-10T23:00:41Z",
@@ -45938,6 +45938,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-09-11T00:15:33Z",
+ "updated": "2026-09-11T00:30:34Z",
  "version": 1
 }
