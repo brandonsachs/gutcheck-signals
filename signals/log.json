@@ -1871,6 +1871,42 @@
    "title": "US Open WTA: Mirra Andreeva vs Janice Tjen",
    "tour": "WTA"
   },
+  "0x0bd25ac45bb59731aa3cd124513061fba39168bac6cdf8b46a9f3ac76a3323e8": {
+   "cid": "0x0bd25ac45bb59731aa3cd124513061fba39168bac6cdf8b46a9f3ac76a3323e8",
+   "first_seen": "2026-09-14T17:31:09Z",
+   "last_pre": {
+    "at": "2026-09-14T17:31:09Z",
+    "fish": [
+     0.0,
+     6944.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     2250.0,
+     9119.0
+    ],
+    "sharp_wallets": [
+     1,
+     2
+    ],
+    "side": null,
+    "state": "crowded",
+    "wallets": 5
+   },
+   "last_scan": "2026-09-14T17:31:09Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Tatjana Maria",
+    "Taylor Townsend"
+   ],
+   "result": null,
+   "slug": "wta-maria-townsen-2026-09-13",
+   "start": "2026-09-14T19:30:00Z",
+   "title": "Guadalajara Open Akron: Tatjana Maria vs Taylor Townsend",
+   "tour": "WTA"
+  },
   "0x0bd2835048de178b0fb24bc2956253b74fe67e55d9b6dd96c3fe395c083e0c79": {
    "cid": "0x0bd2835048de178b0fb24bc2956253b74fe67e55d9b6dd96c3fe395c083e0c79",
    "first_seen": "2026-08-14T10:31:01Z",
@@ -6185,6 +6221,42 @@
    "start": "2026-08-10T08:00:00Z",
    "title": "Todi: Marco Cecchinato vs Nick Hardt",
    "tour": "ATP"
+  },
+  "0x233f9ba16a74cbab1a82db526192f9df0c2f78fdd3fbf3cb70565944adbb85cc": {
+   "cid": "0x233f9ba16a74cbab1a82db526192f9df0c2f78fdd3fbf3cb70565944adbb85cc",
+   "first_seen": "2026-09-14T17:31:09Z",
+   "last_pre": {
+    "at": "2026-09-14T17:31:09Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-09-14T17:31:09Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Nauhany Leme Da Silva",
+    "Astra Sharma"
+   ],
+   "result": null,
+   "slug": "wta-silva-sharma-2026-09-14",
+   "start": "2026-09-15T04:00:00Z",
+   "title": "Sao Paulo Open: Nauhany Leme Da Silva vs Astra Sharma",
+   "tour": "WTA"
   },
   "0x2377f1a6ee1a7f0648ecf05f6271bc1c8abad7b4595960ef7ea5efe6bfe2809f": {
    "cid": "0x2377f1a6ee1a7f0648ecf05f6271bc1c8abad7b4595960ef7ea5efe6bfe2809f",
@@ -10527,6 +10599,42 @@
    "title": "National Bank Open: Mirra Andreeva vs Karolina Pliskova",
    "tour": "WTA"
   },
+  "0x399569f658a35a063f7eff7e6fa018eb6192b4a3266e9f0b36d613a0ce46eeb4": {
+   "cid": "0x399569f658a35a063f7eff7e6fa018eb6192b4a3266e9f0b36d613a0ce46eeb4",
+   "first_seen": "2026-09-14T17:31:09Z",
+   "last_pre": {
+    "at": "2026-09-14T17:31:09Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-09-14T17:31:09Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Vendula Valdmannova",
+    "Laura Pigossi"
+   ],
+   "result": null,
+   "slug": "wta-valdman-pigossi-2026-09-14",
+   "start": "2026-09-15T04:00:00Z",
+   "title": "Sao Paulo Open: Vendula Valdmannova vs Laura Pigossi",
+   "tour": "WTA"
+  },
   "0x39a4b304b681d530183fb6cac9c80e713c40b927f3da8314ec39f24ece0f2ff7": {
    "cid": "0x39a4b304b681d530183fb6cac9c80e713c40b927f3da8314ec39f24ece0f2ff7",
    "first_seen": "2026-08-13T22:16:04Z",
@@ -10596,6 +10704,42 @@
    "start": "2026-08-14T00:10:00Z",
    "title": "National Bank Open: Ben Shelton vs Brandon Nakashima",
    "tour": "ATP"
+  },
+  "0x3a6805c40816d9b0cf43baa932c4330c1788a4eef0e25c3ec4610d219be1d603": {
+   "cid": "0x3a6805c40816d9b0cf43baa932c4330c1788a4eef0e25c3ec4610d219be1d603",
+   "first_seen": "2026-09-14T17:31:09Z",
+   "last_pre": {
+    "at": "2026-09-14T17:31:09Z",
+    "fish": [
+     0.0,
+     4072.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     1300.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     1,
+     0
+    ],
+    "side": null,
+    "state": "thin",
+    "wallets": 3
+   },
+   "last_scan": "2026-09-14T17:31:09Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Elvina Kalieva",
+    "Kayla Day"
+   ],
+   "result": null,
+   "slug": "wta-kalieva-day-2026-09-13",
+   "start": "2026-09-14T18:00:00Z",
+   "title": "Guadalajara Open Akron: Elvina Kalieva vs Kayla Day",
+   "tour": "WTA"
   },
   "0x3a6f0e5fd8797f5df02636a28e5e6b3e099052d75be07eb0b2ece0cbdc0950c0": {
    "cid": "0x3a6f0e5fd8797f5df02636a28e5e6b3e099052d75be07eb0b2ece0cbdc0950c0",
@@ -12067,6 +12211,42 @@
    "start": "2026-08-10T05:00:00Z",
    "title": "Astana: Fajing Sun vs Zangar Nurlanuly",
    "tour": "ATP"
+  },
+  "0x431b618fc505ca2c9b0f15a0f8c2266f5375dd0a89ce9b9d2925b6f088e5ba83": {
+   "cid": "0x431b618fc505ca2c9b0f15a0f8c2266f5375dd0a89ce9b9d2925b6f088e5ba83",
+   "first_seen": "2026-09-14T17:31:09Z",
+   "last_pre": {
+    "at": "2026-09-14T17:31:09Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-09-14T17:31:09Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Eva Lys",
+    "Gabriela Ce"
+   ],
+   "result": null,
+   "slug": "wta-lys-ce-2026-09-14",
+   "start": "2026-09-15T04:00:00Z",
+   "title": "Sao Paulo Open: Eva Lys vs Gabriela Ce",
+   "tour": "WTA"
   },
   "0x43a9573b890f18691dc3f6279d53138dadf4176357f11bb77b9d166417cd9fa1": {
    "cid": "0x43a9573b890f18691dc3f6279d53138dadf4176357f11bb77b9d166417cd9fa1",
@@ -14047,6 +14227,42 @@
    "title": "US Open, Qualification WTA: Kristina Liutova vs Tatiana Prozorova",
    "tour": "WTA"
   },
+  "0x4f73c3d64a19afee44ceb92981ba0048d0a5f533a5f6fd6d9317d7b792e1082f": {
+   "cid": "0x4f73c3d64a19afee44ceb92981ba0048d0a5f533a5f6fd6d9317d7b792e1082f",
+   "first_seen": "2026-09-14T17:31:09Z",
+   "last_pre": {
+    "at": "2026-09-14T17:31:09Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-09-14T17:31:09Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Whitney Osuigwe",
+    "Kaitlin Quevedo"
+   ],
+   "result": null,
+   "slug": "wta-osuigwe-quevedo-2026-09-15",
+   "start": "2026-09-15T04:00:00Z",
+   "title": "Sao Paulo Open: Whitney Osuigwe vs Kaitlin Quevedo",
+   "tour": "WTA"
+  },
   "0x4fb57dfa5c63599495d290d7791bf6fe4d957346f44a012915f69df23a6c8ba7": {
    "cid": "0x4fb57dfa5c63599495d290d7791bf6fe4d957346f44a012915f69df23a6c8ba7",
    "first_seen": "2026-08-24T20:01:05Z",
@@ -14341,6 +14557,42 @@
    "title": "US Open WTA: Marta Kostyuk vs Sloane Stephens",
    "tour": "WTA"
   },
+  "0x518139031d79ed41c430723f61155dcc762df27a0a188913d3f7765a79ac0825": {
+   "cid": "0x518139031d79ed41c430723f61155dcc762df27a0a188913d3f7765a79ac0825",
+   "first_seen": "2026-09-14T17:31:09Z",
+   "last_pre": {
+    "at": "2026-09-14T17:31:09Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-09-14T17:31:09Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Renata Zarazua",
+    "Caroline Dolehide"
+   ],
+   "result": null,
+   "slug": "wta-zarazua-dolehid-2026-09-14",
+   "start": "2026-09-14T20:30:00Z",
+   "title": "Guadalajara Open Akron: Renata Zarazua vs Caroline Dolehide",
+   "tour": "WTA"
+  },
   "0x51bad6e2c06e4310881073c135a533a443b2f97a550be1a895a2a7ea222b42d4": {
    "cid": "0x51bad6e2c06e4310881073c135a533a443b2f97a550be1a895a2a7ea222b42d4",
    "first_seen": "2026-08-12T04:15:56Z",
@@ -14437,6 +14689,42 @@
    "start": "2026-08-03T18:20:00Z",
    "title": "Plovdiv 2: Sebastian Sorger vs Sandro Kopp",
    "tour": "ATP"
+  },
+  "0x521dcb4b434b4bd4b03e656a0d707ae74b4b89a7bf39ae0e60fa182f87319e29": {
+   "cid": "0x521dcb4b434b4bd4b03e656a0d707ae74b4b89a7bf39ae0e60fa182f87319e29",
+   "first_seen": "2026-09-14T17:31:09Z",
+   "last_pre": {
+    "at": "2026-09-14T17:31:09Z",
+    "fish": [
+     0.0,
+     2287.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 1
+   },
+   "last_scan": "2026-09-14T17:31:09Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Elsa Jacquemot",
+    "Liudmila Samsonova"
+   ],
+   "result": null,
+   "slug": "wta-jacquem-samsono-2026-09-13",
+   "start": "2026-09-15T00:30:00Z",
+   "title": "Guadalajara Open Akron: Elsa Jacquemot vs Liudmila Samsonova",
+   "tour": "WTA"
   },
   "0x522ddaddbc5bfcddbd7404ead062910978da4b7f325c772227168f7a7ec6610f": {
    "cid": "0x522ddaddbc5bfcddbd7404ead062910978da4b7f325c772227168f7a7ec6610f",
@@ -14730,6 +15018,42 @@
    "slug": "wta-sabalen-gibson-2026-08-16",
    "start": "2026-08-16T19:10:00Z",
    "title": "Cincinnati Open: Aryna Sabalenka vs Talia Gibson",
+   "tour": "WTA"
+  },
+  "0x54059aa9810bfa065ac337f6a2cfa8e11ffe174ec21ae8bc560689e0040fed3d": {
+   "cid": "0x54059aa9810bfa065ac337f6a2cfa8e11ffe174ec21ae8bc560689e0040fed3d",
+   "first_seen": "2026-09-14T17:31:09Z",
+   "last_pre": {
+    "at": "2026-09-14T17:31:09Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-09-14T17:31:09Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Julia Riera",
+    "Elina Avanesyan"
+   ],
+   "result": null,
+   "slug": "wta-riera-avanesy-2026-09-14",
+   "start": "2026-09-14T18:30:00Z",
+   "title": "Sao Paulo Open: Julia Riera vs Elina Avanesyan",
    "tour": "WTA"
   },
   "0x5420884d67823c689ec4e334dd4a5f06740d06f40368aaa2f6798c87acee217e": {
@@ -16659,6 +16983,42 @@
    "title": "National Bank Open: Moyuka Uchijima vs Cristina Bucsa",
    "tour": "WTA"
   },
+  "0x5d60709f598cc61c7c7025fe477f01f01a9f979c3a848730fe7f5ed1e783f04c": {
+   "cid": "0x5d60709f598cc61c7c7025fe477f01f01a9f979c3a848730fe7f5ed1e783f04c",
+   "first_seen": "2026-09-14T17:31:09Z",
+   "last_pre": {
+    "at": "2026-09-14T17:31:09Z",
+    "fish": [
+     0.0,
+     1026.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     1534.0
+    ],
+    "sharp_wallets": [
+     0,
+     1
+    ],
+    "side": null,
+    "state": "crowded",
+    "wallets": 2
+   },
+   "last_scan": "2026-09-14T17:31:09Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Cadence Brace",
+    "Solana Sierra"
+   ],
+   "result": null,
+   "slug": "wta-brace-sierra-2026-09-14",
+   "start": "2026-09-14T20:00:00Z",
+   "title": "Sao Paulo Open: Cadence Brace vs Solana Sierra",
+   "tour": "WTA"
+  },
   "0x5d6f52fe94aaf35bbe8b15de5e73f130f2abdc5b59630eb9bcfdaf4e9a8a1a79": {
    "cid": "0x5d6f52fe94aaf35bbe8b15de5e73f130f2abdc5b59630eb9bcfdaf4e9a8a1a79",
    "first_seen": "2026-08-04T22:16:04Z",
@@ -17785,6 +18145,42 @@
    "title": "Grodzisk Mazowiecki: Joel Schwaerzler vs Ilya Ivashka",
    "tour": "ATP"
   },
+  "0x62e0476fe91da05713136609ae0a492c39557cc82795c1c11a4de8d18364238d": {
+   "cid": "0x62e0476fe91da05713136609ae0a492c39557cc82795c1c11a4de8d18364238d",
+   "first_seen": "2026-09-14T17:31:09Z",
+   "last_pre": {
+    "at": "2026-09-14T17:31:09Z",
+    "fish": [
+     10686.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     3851.0
+    ],
+    "sharp_wallets": [
+     0,
+     1
+    ],
+    "side": null,
+    "state": "thin",
+    "wallets": 4
+   },
+   "last_scan": "2026-09-14T17:31:09Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Jessica Bouzas Maneiro",
+    "Dominika Salkova"
+   ],
+   "result": null,
+   "slug": "wta-maneiro-salkova-2026-09-14",
+   "start": "2026-09-14T18:30:00Z",
+   "title": "Sao Paulo Open: Jessica Bouzas Maneiro vs Dominika Salkova",
+   "tour": "WTA"
+  },
   "0x63152f242491ea44fe92a16f72b85e49125ff04ade2b9acf02088ebf267e7c3d": {
    "cid": "0x63152f242491ea44fe92a16f72b85e49125ff04ade2b9acf02088ebf267e7c3d",
    "first_seen": "2026-09-01T22:31:15Z",
@@ -18396,6 +18792,42 @@
    "slug": "wta-parry-vekic-2026-08-24",
    "start": "2026-08-25T03:00:00Z",
    "title": "Monterrey Open: Diane Parry vs Donna Vekic",
+   "tour": "WTA"
+  },
+  "0x6645c07f219f0c883729b8d9f03bf6a2df949043c03da3f61eff359c36fe4c0e": {
+   "cid": "0x6645c07f219f0c883729b8d9f03bf6a2df949043c03da3f61eff359c36fe4c0e",
+   "first_seen": "2026-09-14T17:31:09Z",
+   "last_pre": {
+    "at": "2026-09-14T17:31:09Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-09-14T17:31:09Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Zeynep Sonmez",
+    "Iryna Shymanovich"
+   ],
+   "result": null,
+   "slug": "wta-sonmez-shymano-2026-09-14",
+   "start": "2026-09-14T23:00:00Z",
+   "title": "Guadalajara Open Akron: Zeynep Sonmez vs Iryna Shymanovich",
    "tour": "WTA"
   },
   "0x664dd4723e0593ad7eecae4952a6854cf06e0fd339f9514ecc70a15d831bb000": {
@@ -20122,6 +20554,42 @@
    "title": "US Open ATP: Daniil Medvedev vs Sebastian Gorzny",
    "tour": "ATP"
   },
+  "0x6f5a3cf66863567ab795d4572e2218c625795dce2bcbc8e398715f325d65455f": {
+   "cid": "0x6f5a3cf66863567ab795d4572e2218c625795dce2bcbc8e398715f325d65455f",
+   "first_seen": "2026-09-14T17:31:09Z",
+   "last_pre": {
+    "at": "2026-09-14T17:31:09Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-09-14T17:31:09Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Cristina Bucsa",
+    "Panna Udvardy"
+   ],
+   "result": null,
+   "slug": "wta-bucsa-udvardy-2026-09-15",
+   "start": "2026-09-15T04:00:00Z",
+   "title": "Guadalajara Open Akron: Cristina Bucsa vs Panna Udvardy",
+   "tour": "WTA"
+  },
   "0x6f64642abf65589082bbcadc4907845c2f003fb25a7891d358e57cc7ea6e7bf8": {
    "cid": "0x6f64642abf65589082bbcadc4907845c2f003fb25a7891d358e57cc7ea6e7bf8",
    "first_seen": "2026-08-05T22:16:04Z",
@@ -21421,6 +21889,42 @@
    "title": "Plovdiv 2: Radu Mihai Papoe vs Franco Agamenone",
    "tour": "ATP"
   },
+  "0x75ee4a4d3f8ca9ae96bb7aca1b0a4a55073f237066a544c9d8714c2cca6d875f": {
+   "cid": "0x75ee4a4d3f8ca9ae96bb7aca1b0a4a55073f237066a544c9d8714c2cca6d875f",
+   "first_seen": "2026-09-14T17:31:09Z",
+   "last_pre": {
+    "at": "2026-09-14T17:31:09Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-09-14T17:31:09Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Darja Semenistaja",
+    "Paula Badosa"
+   ],
+   "result": null,
+   "slug": "wta-semenis-badosa-2026-09-14",
+   "start": "2026-09-14T20:30:00Z",
+   "title": "Sao Paulo Open: Darja Semenistaja vs Paula Badosa",
+   "tour": "WTA"
+  },
   "0x760d2aacb850ead4567f44a79706bb7e08dcf04766891986c29127452bd50f37": {
    "cid": "0x760d2aacb850ead4567f44a79706bb7e08dcf04766891986c29127452bd50f37",
    "first_seen": "2026-08-24T20:01:05Z",
@@ -22459,6 +22963,42 @@
    "start": "2026-09-06T19:30:00Z",
    "title": "US Open ATP: Daniil Medvedev vs Frances Tiafoe",
    "tour": "ATP"
+  },
+  "0x7c69c08290fb3825bb2db280685a19f4e11c90af00ba3809f95a26d9054b72f0": {
+   "cid": "0x7c69c08290fb3825bb2db280685a19f4e11c90af00ba3809f95a26d9054b72f0",
+   "first_seen": "2026-09-14T17:31:09Z",
+   "last_pre": {
+    "at": "2026-09-14T17:31:09Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-09-14T17:31:09Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Mary Stoiana",
+    "Claire Liu"
+   ],
+   "result": null,
+   "slug": "wta-stoiana-liu-2026-09-14",
+   "start": "2026-09-15T04:00:00Z",
+   "title": "Sao Paulo Open: Mary Stoiana vs Claire Liu",
+   "tour": "WTA"
   },
   "0x7cc8729c2bea651d00f502c2f9707f44991b1605afbe9cf793fcc77393c547b7": {
    "cid": "0x7cc8729c2bea651d00f502c2f9707f44991b1605afbe9cf793fcc77393c547b7",
@@ -24036,6 +24576,42 @@
    "title": "Cincinnati Open: Coco Gauff vs Marta Kostyuk",
    "tour": "WTA"
   },
+  "0x87dd70725895f68541aeff4f25078926eafd94acbe1cb9e03cec90d4994535fd": {
+   "cid": "0x87dd70725895f68541aeff4f25078926eafd94acbe1cb9e03cec90d4994535fd",
+   "first_seen": "2026-09-14T17:31:09Z",
+   "last_pre": {
+    "at": "2026-09-14T17:31:09Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-09-14T17:31:09Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Lucrezia Stefanini",
+    "Nadia Podoroska"
+   ],
+   "result": null,
+   "slug": "wta-stefani-podoros-2026-09-14",
+   "start": "2026-09-15T04:00:00Z",
+   "title": "Sao Paulo Open: Lucrezia Stefanini vs Nadia Podoroska",
+   "tour": "WTA"
+  },
   "0x87e544fc65b4e32bc53ead71ef9c9d3184a79a52867766224e6a10f017bde3df": {
    "cid": "0x87e544fc65b4e32bc53ead71ef9c9d3184a79a52867766224e6a10f017bde3df",
    "first_seen": "2026-08-24T20:01:05Z",
@@ -25534,6 +26110,42 @@
    "title": "Mubadala Citi DC Open: Alex de Minaur vs Brandon Nakashima",
    "tour": "ATP"
   },
+  "0x8ef91973c5bccff1d590d9ceda07f74ac33bdd8fd699ad24dda8e2d9ca172da3": {
+   "cid": "0x8ef91973c5bccff1d590d9ceda07f74ac33bdd8fd699ad24dda8e2d9ca172da3",
+   "first_seen": "2026-09-14T17:31:09Z",
+   "last_pre": {
+    "at": "2026-09-14T17:31:09Z",
+    "fish": [
+     3666.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     2893.0
+    ],
+    "sharp_wallets": [
+     0,
+     1
+    ],
+    "side": null,
+    "state": "thin",
+    "wallets": 2
+   },
+   "last_scan": "2026-09-14T17:31:09Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Leylah Fernandez",
+    "Hayu Kinoshita"
+   ],
+   "result": null,
+   "slug": "wta-fernand-kinoshi-2026-09-15",
+   "start": "2026-09-15T13:00:00Z",
+   "title": "Sao Paulo Open: Leylah Fernandez vs Hayu Kinoshita",
+   "tour": "WTA"
+  },
   "0x8f154d14b8da4e3225b0c17494d369a0d461cb49c77d3f72d56077fab32914c2": {
    "cid": "0x8f154d14b8da4e3225b0c17494d369a0d461cb49c77d3f72d56077fab32914c2",
    "first_seen": "2026-08-08T22:16:02Z",
@@ -25902,6 +26514,42 @@
    "start": "2026-08-10T05:00:00Z",
    "title": "Astana: Vadym Ursu vs Manoj Dhamne Manas",
    "tour": "ATP"
+  },
+  "0x928432eae59c4bf25b970d8c383a6645accca4c5ca62cbd89f4a7d968c362f48": {
+   "cid": "0x928432eae59c4bf25b970d8c383a6645accca4c5ca62cbd89f4a7d968c362f48",
+   "first_seen": "2026-09-14T17:31:09Z",
+   "last_pre": {
+    "at": "2026-09-14T17:31:09Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-09-14T17:31:09Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Jazmin Ortenzi",
+    "Chloe Paquet"
+   ],
+   "result": null,
+   "slug": "wta-ortenzi-paquet-2026-09-14",
+   "start": "2026-09-14T20:00:00Z",
+   "title": "Sao Paulo Open: Jazmin Ortenzi vs Chloe Paquet",
+   "tour": "WTA"
   },
   "0x92858bae2d5f9589c571f4f7c33b60266502a3fa32cdb73a69cd366147ccfe65": {
    "cid": "0x92858bae2d5f9589c571f4f7c33b60266502a3fa32cdb73a69cd366147ccfe65",
@@ -26367,6 +27015,42 @@
    "start": "2026-08-06T19:15:00Z",
    "title": "National Bank Open: Yannick Hanfmann vs Nuno Borges",
    "tour": "ATP"
+  },
+  "0x940bc8c1b90cf81b1509eca53d59bb21f412b051c9d27902c2750a4de6539ed8": {
+   "cid": "0x940bc8c1b90cf81b1509eca53d59bb21f412b051c9d27902c2750a4de6539ed8",
+   "first_seen": "2026-09-14T17:31:09Z",
+   "last_pre": {
+    "at": "2026-09-14T17:31:09Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-09-14T17:31:09Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Magdalena Frech",
+    "Nao Hibino"
+   ],
+   "result": null,
+   "slug": "wta-frech-hibino-2026-09-14",
+   "start": "2026-09-14T21:00:00Z",
+   "title": "Guadalajara Open Akron: Magdalena Frech vs Nao Hibino",
+   "tour": "WTA"
   },
   "0x943afc34cc8ca67fefe5402b04e390119837e184764e29d030a2f6e02b3eec26": {
    "cid": "0x943afc34cc8ca67fefe5402b04e390119837e184764e29d030a2f6e02b3eec26",
@@ -28007,6 +28691,42 @@
    "title": "Brownsburg: Colton Smith vs Felix Gill",
    "tour": "ATP"
   },
+  "0x9b84601b292fe4af2f732aea797d13234ad27857be38a718dd25dc18d4489e81": {
+   "cid": "0x9b84601b292fe4af2f732aea797d13234ad27857be38a718dd25dc18d4489e81",
+   "first_seen": "2026-09-14T17:31:09Z",
+   "last_pre": {
+    "at": "2026-09-14T17:31:09Z",
+    "fish": [
+     0.0,
+     1713.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 1
+   },
+   "last_scan": "2026-09-14T17:31:09Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Carole Monnet",
+    "Sloane Stephens"
+   ],
+   "result": null,
+   "slug": "wta-monnet-stephen-2026-09-14",
+   "start": "2026-09-14T19:00:00Z",
+   "title": "Guadalajara Open Akron: Carole Monnet vs Sloane Stephens",
+   "tour": "WTA"
+  },
   "0x9bcdcbf4ed1a86121629b3362a580bbecbca7e3a71f9a868c9c82a0faf99eaa1": {
    "cid": "0x9bcdcbf4ed1a86121629b3362a580bbecbca7e3a71f9a868c9c82a0faf99eaa1",
    "first_seen": "2026-08-12T04:15:56Z",
@@ -28676,6 +29396,42 @@
    "start": "2026-08-03T20:30:00Z",
    "title": "National Bank Open: Sho Shimabukuro vs Marin Cilic",
    "tour": "ATP"
+  },
+  "0x9ff36a03a91b3824f14d2feb32e3e4e75db2cd30ee88be05666862ae84ff0848": {
+   "cid": "0x9ff36a03a91b3824f14d2feb32e3e4e75db2cd30ee88be05666862ae84ff0848",
+   "first_seen": "2026-09-14T17:31:09Z",
+   "last_pre": {
+    "at": "2026-09-14T17:31:09Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-09-14T17:31:09Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Anna Blinkova",
+    "Carol Young Suh Lee"
+   ],
+   "result": null,
+   "slug": "wta-blinkov-lee-2026-09-14",
+   "start": "2026-09-15T04:00:00Z",
+   "title": "Sao Paulo Open: Anna Blinkova vs Carol Young Suh Lee",
+   "tour": "WTA"
   },
   "0xa00aa55065242cfdbb3fdbd3d9d92d7a5501944f012ee36721332434eb3a3ccb": {
    "cid": "0xa00aa55065242cfdbb3fdbd3d9d92d7a5501944f012ee36721332434eb3a3ccb",
@@ -34547,6 +35303,42 @@
    "title": "Cincinnati Open: Aryna Sabalenka vs Sara Bejlek",
    "tour": "WTA"
   },
+  "0xc329a222f3f36427f7ccaf72d48901fa4e7e49fd4956f98630a646a6fd9a8c0c": {
+   "cid": "0xc329a222f3f36427f7ccaf72d48901fa4e7e49fd4956f98630a646a6fd9a8c0c",
+   "first_seen": "2026-09-14T17:31:09Z",
+   "last_pre": {
+    "at": "2026-09-14T17:31:09Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-09-14T17:31:09Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Alycia Parks",
+    "Sara Bejlek"
+   ],
+   "result": null,
+   "slug": "wta-parks-bejlek-2026-09-15",
+   "start": "2026-09-15T04:00:00Z",
+   "title": "Guadalajara Open Akron: Alycia Parks vs Sara Bejlek",
+   "tour": "WTA"
+  },
   "0xc32ad53bdef761f435286f47290277c20da148457beced50aaf13302963d4706": {
    "cid": "0xc32ad53bdef761f435286f47290277c20da148457beced50aaf13302963d4706",
    "first_seen": "2026-08-03T22:42:12Z",
@@ -36007,6 +36799,42 @@
    "slug": "wta-jovic-jones-2026-09-03",
    "start": "2026-09-03T22:45:00Z",
    "title": "US Open WTA: Iva Jovic vs Francesca Jones",
+   "tour": "WTA"
+  },
+  "0xc9fa413ac3658cd39efbcf931cce40bd0012072577d2ff45b53d031ea59b2ceb": {
+   "cid": "0xc9fa413ac3658cd39efbcf931cce40bd0012072577d2ff45b53d031ea59b2ceb",
+   "first_seen": "2026-09-14T17:31:09Z",
+   "last_pre": {
+    "at": "2026-09-14T17:31:09Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     5238.0
+    ],
+    "sharp_wallets": [
+     0,
+     2
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 2
+   },
+   "last_scan": "2026-09-14T17:31:09Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Xiaodi You",
+    "Alina Charaeva"
+   ],
+   "result": null,
+   "slug": "wta-you-charaev-2026-09-14",
+   "start": "2026-09-14T18:30:00Z",
+   "title": "Sao Paulo Open: Xiaodi You vs Alina Charaeva",
    "tour": "WTA"
   },
   "0xca3c5644786755136ef3426a0793a45a87a30698e73d6cee0883adf8e648e8ff": {
@@ -41188,6 +42016,42 @@
    "title": "Cincinnati Open: Mananchaya Sawangkaew vs Anna Blinkova",
    "tour": "WTA"
   },
+  "0xe65e4e1e79b478e61a65cf478bf0afee265d1f4e8201a91e1e89af1f1a5a5cff": {
+   "cid": "0xe65e4e1e79b478e61a65cf478bf0afee265d1f4e8201a91e1e89af1f1a5a5cff",
+   "first_seen": "2026-09-14T17:31:09Z",
+   "last_pre": {
+    "at": "2026-09-14T17:31:09Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-09-14T17:31:09Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Suzan Lamens",
+    "Carolina M. Alves"
+   ],
+   "result": null,
+   "slug": "wta-lamens-alves-2026-09-14",
+   "start": "2026-09-14T22:00:00Z",
+   "title": "Sao Paulo Open: Suzan Lamens vs Carolina M. Alves",
+   "tour": "WTA"
+  },
   "0xe6c743cbf20dfe7632a3d98e979097864799b68e87a980e1ab680ec116fe2592": {
    "cid": "0xe6c743cbf20dfe7632a3d98e979097864799b68e87a980e1ab680ec116fe2592",
    "first_seen": "2026-08-31T13:00:22Z",
@@ -42501,6 +43365,42 @@
    "slug": "wta-valento-townsen-2026-08-03",
    "start": "2026-08-03T22:15:00Z",
    "title": "National Bank Open: Tereza Valentova vs Taylor Townsend",
+   "tour": "WTA"
+  },
+  "0xec4eaf1c7b1e93d88dda45e49298686ffe5c30ec84911238988abdaa3e637a99": {
+   "cid": "0xec4eaf1c7b1e93d88dda45e49298686ffe5c30ec84911238988abdaa3e637a99",
+   "first_seen": "2026-09-14T17:31:09Z",
+   "last_pre": {
+    "at": "2026-09-14T17:31:09Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-09-14T17:31:09Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Teodora Kostovic",
+    "Victoria Barros"
+   ],
+   "result": null,
+   "slug": "wta-kostovi-barros-2026-09-14",
+   "start": "2026-09-15T04:00:00Z",
+   "title": "Sao Paulo Open: Teodora Kostovic vs Victoria Barros",
    "tour": "WTA"
   },
   "0xec5adee010a5f519c8a8387c1b00115ddb0ce60e0afc882c8e1d88d234ad5cc6": {
@@ -44670,6 +45570,42 @@
    "title": "US Open, Qualification ATP: Dalibor Svrcina vs Felipe Meligeni Alves",
    "tour": "ATP"
   },
+  "0xf8880d6dfb9c42d54d19be3b29d984c5df76cae0c707ce93e1ba0319c11bb18d": {
+   "cid": "0xf8880d6dfb9c42d54d19be3b29d984c5df76cae0c707ce93e1ba0319c11bb18d",
+   "first_seen": "2026-09-14T17:31:09Z",
+   "last_pre": {
+    "at": "2026-09-14T17:31:09Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-09-14T17:31:09Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Diane Parry",
+    "Peyton Stearns"
+   ],
+   "result": null,
+   "slug": "wta-parry-stearns-2026-09-15",
+   "start": "2026-09-15T04:00:00Z",
+   "title": "Guadalajara Open Akron: Diane Parry vs Peyton Stearns",
+   "tour": "WTA"
+  },
   "0xf8ec54defc15705ce9ab2e48748a3fdf5df1d162fe461305ef3a40ff394fd81d": {
    "cid": "0xf8ec54defc15705ce9ab2e48748a3fdf5df1d162fe461305ef3a40ff394fd81d",
    "first_seen": "2026-08-12T04:15:56Z",
@@ -46054,6 +46990,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-09-13T22:16:07Z",
+ "updated": "2026-09-14T17:31:09Z",
  "version": 1
 }
