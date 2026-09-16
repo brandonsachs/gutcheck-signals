@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.2292405629139074,
-   "edge_pp": -2.413907284768213,
-   "implied": 0.5075827814569537,
-   "n": 151,
-   "roi": -0.0513590900203705,
-   "win_rate": 0.48344370860927155,
+   "brier": 0.23022072368421065,
+   "edge_pp": -2.8026315789473677,
+   "implied": 0.5082894736842105,
+   "n": 152,
+   "roi": -0.05760014863865754,
+   "win_rate": 0.48026315789473684,
    "wins": 73,
-   "z": -0.6163845361485799
+   "z": -0.7179570777984274
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-09-16T03:46:05Z",
+ "generated": "2026-09-16T04:01:12Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json.",
  "overall": {
-  "brier": 0.22924693548387112,
-  "edge_pp": -3.1129032258064626,
-  "implied": 0.5085483870967743,
-  "n": 155,
-  "roi": -0.0664899821339168,
-  "win_rate": 0.4774193548387097,
+  "brier": 0.23020192307692325,
+  "edge_pp": -3.4871794871794926,
+  "implied": 0.5092307692307693,
+  "n": 156,
+  "roi": -0.07247402070998143,
+  "win_rate": 0.47435897435897434,
   "wins": 74,
-  "z": -0.8058278807549301
+  "z": -0.9055542727788054
  },
- "pending": 5,
+ "pending": 4,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -1587,6 +1587,16 @@
    "title": "Guadalajara Open Akron: Tatjana Maria vs Taylor Townsend",
    "tour": "WTA",
    "winner": "Taylor Townsend"
+  },
+  {
+   "hit": false,
+   "locked_at": "2026-09-16T01:01:37Z",
+   "phase": "pre-match",
+   "price": 0.615,
+   "side": "Janice Tjen",
+   "title": "Guadalajara Open Akron: Sloane Stephens vs Janice Tjen",
+   "tour": "WTA",
+   "winner": "Sloane Stephens"
   }
  ]
 }
