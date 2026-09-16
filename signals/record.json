@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.23022072368421065,
-   "edge_pp": -2.8026315789473677,
-   "implied": 0.5082894736842105,
-   "n": 152,
-   "roi": -0.05760014863865754,
-   "win_rate": 0.48026315789473684,
-   "wins": 73,
-   "z": -0.7179570777984274
+   "brier": 0.22949395424836616,
+   "edge_pp": -2.5588235294117636,
+   "implied": 0.5092483660130719,
+   "n": 153,
+   "roi": -0.05378107866551659,
+   "win_rate": 0.48366013071895425,
+   "wins": 74,
+   "z": -0.657705279668244
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-09-16T20:30:58Z",
+ "generated": "2026-09-16T20:45:58Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json.",
  "overall": {
-  "brier": 0.23020192307692325,
-  "edge_pp": -3.4871794871794926,
-  "implied": 0.5092307692307693,
-  "n": 156,
-  "roi": -0.07247402070998143,
-  "win_rate": 0.47435897435897434,
-  "wins": 74,
-  "z": -0.9055542727788054
+  "brier": 0.22949378980891735,
+  "edge_pp": -3.245222929936309,
+  "implied": 0.5101592356687898,
+  "n": 157,
+  "roi": -0.06865751384398214,
+  "win_rate": 0.47770700636942676,
+  "wins": 75,
+  "z": -0.8454818779665236
  },
- "pending": 6,
+ "pending": 5,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -1597,6 +1597,16 @@
    "title": "Guadalajara Open Akron: Sloane Stephens vs Janice Tjen",
    "tour": "WTA",
    "winner": "Sloane Stephens"
+  },
+  {
+   "hit": true,
+   "locked_at": "2026-09-16T19:00:53Z",
+   "phase": "pre-match",
+   "price": 0.655,
+   "side": "Magdalena Frech",
+   "title": "Guadalajara Open Akron: Magdalena Frech vs Caroline Dolehide",
+   "tour": "WTA",
+   "winner": "Magdalena Frech"
   }
  ]
 }
