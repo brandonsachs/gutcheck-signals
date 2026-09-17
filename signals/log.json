@@ -3298,6 +3298,42 @@
    "title": "US Open WTA: Emma Navarro vs Lois Boisson",
    "tour": "WTA"
   },
+  "0x12ee6d13c6857a5f687ab3fdf6e9656366ec7366c614d3034a895a37e16a2878": {
+   "cid": "0x12ee6d13c6857a5f687ab3fdf6e9656366ec7366c614d3034a895a37e16a2878",
+   "first_seen": "2026-09-17T22:30:41Z",
+   "last_pre": {
+    "at": "2026-09-17T22:30:41Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-09-17T22:30:41Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Teodora Kostovic",
+    "Kaitlin Quevedo"
+   ],
+   "result": null,
+   "slug": "wta-kostovi-quevedo-2026-09-18",
+   "start": "2026-09-18T16:00:00Z",
+   "title": "Sao Paulo Open: Teodora Kostovic vs Kaitlin Quevedo",
+   "tour": "WTA"
+  },
   "0x131927e6dd9239abd54a0bca31df2bc8333597f190238ff34bc70f99fd614290": {
    "cid": "0x131927e6dd9239abd54a0bca31df2bc8333597f190238ff34bc70f99fd614290",
    "first_seen": "2026-08-16T04:30:18Z",
@@ -10111,7 +10147,7 @@
     "state": "none",
     "wallets": 4
    },
-   "last_scan": "2026-09-17T22:15:42Z",
+   "last_scan": "2026-09-17T22:30:41Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -23079,6 +23115,42 @@
    "title": "National Bank Open: Anna Kalinskaya vs McCartney Kessler",
    "tour": "WTA"
   },
+  "0x7b204eb2809161357c3c2ccfa5d7948275f58dd86f76fa18d7bff89dadd9d3f3": {
+   "cid": "0x7b204eb2809161357c3c2ccfa5d7948275f58dd86f76fa18d7bff89dadd9d3f3",
+   "first_seen": "2026-09-17T22:30:41Z",
+   "last_pre": {
+    "at": "2026-09-17T22:30:41Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-09-17T22:30:41Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Mary Stoiana",
+    "Paula Badosa"
+   ],
+   "result": null,
+   "slug": "wta-stoiana-badosa-2026-09-18",
+   "start": "2026-09-18T20:30:00Z",
+   "title": "Sao Paulo Open: Mary Stoiana vs Paula Badosa",
+   "tour": "WTA"
+  },
   "0x7b2a0363743c2211a9de6eda4a169bc7b4de1f307691209fef11ad65a311a7e0": {
    "cid": "0x7b2a0363743c2211a9de6eda4a169bc7b4de1f307691209fef11ad65a311a7e0",
    "first_seen": "2026-08-03T16:33:32Z",
@@ -24444,26 +24516,26 @@
    "cid": "0x8362e78d0c096f1c6f6e6983471cc97c195754d8673dd68341f912a9c0cb60a9",
    "first_seen": "2026-09-17T04:15:52Z",
    "last_pre": {
-    "at": "2026-09-17T22:15:42Z",
+    "at": "2026-09-17T22:30:41Z",
     "fish": [
      19493.0,
-     2487.0
+     1342.0
     ],
     "frozen_pre": false,
     "price": null,
     "sharp": [
      1500.0,
-     0.0
+     1706.0
     ],
     "sharp_wallets": [
      1,
-     0
+     1
     ],
     "side": null,
-    "state": "crowded",
-    "wallets": 3
+    "state": "none",
+    "wallets": 4
    },
-   "last_scan": "2026-09-17T22:15:42Z",
+   "last_scan": "2026-09-17T22:30:41Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -24761,7 +24833,7 @@
    "cid": "0x85f97843876f9d5641cf4ffb0b1e156a3dfe0ad7fe0dcc981a6b77c5f7cae250",
    "first_seen": "2026-09-16T04:30:58Z",
    "last_pre": {
-    "at": "2026-09-17T22:15:42Z",
+    "at": "2026-09-17T22:30:41Z",
     "fish": [
      2499.0,
      0.0
@@ -24769,7 +24841,7 @@
     "frozen_pre": false,
     "price": null,
     "sharp": [
-     10339.0,
+     10342.0,
      0.0
     ],
     "sharp_wallets": [
@@ -24780,7 +24852,7 @@
     "state": "crowded",
     "wallets": 3
    },
-   "last_scan": "2026-09-17T22:15:42Z",
+   "last_scan": "2026-09-17T22:30:41Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -26307,6 +26379,42 @@
    "start": "2026-08-04T18:05:00Z",
    "title": "Grodzisk Mazowiecki: Joel Schwaerzler vs Jiri Cizek",
    "tour": "ATP"
+  },
+  "0x8dae410ef46d07fa211d136b31eb1fa9a39979858cbaa2ac7d18b9729a8fdf65": {
+   "cid": "0x8dae410ef46d07fa211d136b31eb1fa9a39979858cbaa2ac7d18b9729a8fdf65",
+   "first_seen": "2026-09-17T22:30:41Z",
+   "last_pre": {
+    "at": "2026-09-17T22:30:41Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-09-17T22:30:41Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Cristina Bucsa",
+    "Iva Jovic"
+   ],
+   "result": null,
+   "slug": "wta-bucsa-jovic-2026-09-18",
+   "start": "2026-09-18T04:00:00Z",
+   "title": "Guadalajara Open Akron: Cristina Bucsa vs Iva Jovic",
+   "tour": "WTA"
   },
   "0x8db706b23a24ae07be441d240e3168e55c2ad8b6dd32a1341198122b58be3df0": {
    "cid": "0x8db706b23a24ae07be441d240e3168e55c2ad8b6dd32a1341198122b58be3df0",
@@ -30463,6 +30571,42 @@
    "title": "US Open, Qualification WTA: Elvina Kalieva vs Vendula Valdmannova",
    "tour": "WTA"
   },
+  "0xa3a3db2b020de051c38a41c95a4a3928e3e9a2aea6e3e568140bd198e0b7a09e": {
+   "cid": "0xa3a3db2b020de051c38a41c95a4a3928e3e9a2aea6e3e568140bd198e0b7a09e",
+   "first_seen": "2026-09-17T22:30:41Z",
+   "last_pre": {
+    "at": "2026-09-17T22:30:41Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-09-17T22:30:41Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Anna Blinkova",
+    "Alina Charaeva"
+   ],
+   "result": null,
+   "slug": "wta-blinkov-charaev-2026-09-18",
+   "start": "2026-09-18T17:30:00Z",
+   "title": "Sao Paulo Open: Anna Blinkova vs Alina Charaeva",
+   "tour": "WTA"
+  },
   "0xa3c41bfbd1de0644d64f10c45c4d89fd53b807f3d28eee0850e030bcfad7a489": {
    "cid": "0xa3c41bfbd1de0644d64f10c45c4d89fd53b807f3d28eee0850e030bcfad7a489",
    "first_seen": "2026-08-13T22:16:04Z",
@@ -32333,7 +32477,7 @@
     "state": "crowded",
     "wallets": 3
    },
-   "last_scan": "2026-09-17T22:15:42Z",
+   "last_scan": "2026-09-17T22:30:41Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -47750,6 +47894,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-09-17T22:15:42Z",
+ "updated": "2026-09-17T22:30:41Z",
  "version": 1
 }
