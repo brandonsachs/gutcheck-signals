@@ -7388,7 +7388,7 @@
    "cid": "0x2a8d9218ed65252f5ad52a6fe50d472eb798785369341ee7aa7c0a3eb8a9a70d",
    "first_seen": "2026-09-17T04:15:52Z",
    "last_pre": {
-    "at": "2026-09-17T17:15:48Z",
+    "at": "2026-09-17T17:30:52Z",
     "fish": [
      0.0,
      0.0
@@ -7407,7 +7407,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-17T17:15:48Z",
+   "last_scan": "2026-09-17T17:30:52Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -10092,7 +10092,7 @@
    "cid": "0x360e7b629c9f9e7d8f4f8512c6cd336e798ad81176ece5801c330a58c13bda36",
    "first_seen": "2026-09-16T22:15:50Z",
    "last_pre": {
-    "at": "2026-09-17T17:15:48Z",
+    "at": "2026-09-17T17:30:52Z",
     "fish": [
      2800.0,
      0.0
@@ -10111,7 +10111,7 @@
     "state": "none",
     "wallets": 4
    },
-   "last_scan": "2026-09-17T17:15:48Z",
+   "last_scan": "2026-09-17T17:30:52Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -24444,7 +24444,7 @@
    "cid": "0x8362e78d0c096f1c6f6e6983471cc97c195754d8673dd68341f912a9c0cb60a9",
    "first_seen": "2026-09-17T04:15:52Z",
    "last_pre": {
-    "at": "2026-09-17T17:15:48Z",
+    "at": "2026-09-17T17:30:52Z",
     "fish": [
      0.0,
      0.0
@@ -24463,7 +24463,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-17T17:15:48Z",
+   "last_scan": "2026-09-17T17:30:52Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -24761,7 +24761,7 @@
    "cid": "0x85f97843876f9d5641cf4ffb0b1e156a3dfe0ad7fe0dcc981a6b77c5f7cae250",
    "first_seen": "2026-09-16T04:30:58Z",
    "last_pre": {
-    "at": "2026-09-17T17:15:48Z",
+    "at": "2026-09-17T17:30:52Z",
     "fish": [
      3645.0,
      0.0
@@ -24780,7 +24780,7 @@
     "state": "crowded",
     "wallets": 2
    },
-   "last_scan": "2026-09-17T17:15:48Z",
+   "last_scan": "2026-09-17T17:30:52Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -31703,7 +31703,7 @@
    "cid": "0xaca5bc88ba1921649af9121d67ad0c1b2706d779ad98f3b32abc50159a9502c1",
    "first_seen": "2026-09-17T04:15:52Z",
    "last_pre": {
-    "at": "2026-09-17T17:15:48Z",
+    "at": "2026-09-17T17:30:52Z",
     "fish": [
      0.0,
      0.0
@@ -31722,7 +31722,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-17T17:15:48Z",
+   "last_scan": "2026-09-17T17:30:52Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -31731,7 +31731,7 @@
    ],
    "result": null,
    "slug": "wta-blinkov-valdman-2026-09-17",
-   "start": "2026-09-17T17:30:00Z",
+   "start": "2026-09-17T17:35:00Z",
    "title": "Sao Paulo Open: Anna Blinkova vs Vendula Valdmannova",
    "tour": "WTA"
   },
@@ -32314,7 +32314,7 @@
    "cid": "0xaed43741b0538ef2e5e510760d961deb9532e917a364f7e159d32313eee4ec43",
    "first_seen": "2026-09-17T04:15:52Z",
    "last_pre": {
-    "at": "2026-09-17T17:15:48Z",
+    "at": "2026-09-17T17:30:52Z",
     "fish": [
      0.0,
      1263.0
@@ -32333,7 +32333,7 @@
     "state": "crowded",
     "wallets": 3
    },
-   "last_scan": "2026-09-17T17:15:48Z",
+   "last_scan": "2026-09-17T17:30:52Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -33658,7 +33658,7 @@
     "state": "none",
     "wallets": 2
    },
-   "last_scan": "2026-09-17T17:15:48Z",
+   "last_scan": "2026-09-17T17:30:52Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -33761,7 +33761,7 @@
     "state": "crowded",
     "wallets": 2
    },
-   "last_scan": "2026-09-17T17:15:48Z",
+   "last_scan": "2026-09-17T17:30:52Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -41584,10 +41584,10 @@
    "cid": "0xdff20e49886391d8e8af7bb7b37ee7f99de7690423499fc89820b7c43aec2a02",
    "first_seen": "2026-09-17T04:15:52Z",
    "last_pre": {
-    "at": "2026-09-17T17:15:48Z",
+    "at": "2026-09-17T17:30:52Z",
     "fish": [
      0.0,
-     0.0
+     5549.0
     ],
     "frozen_pre": false,
     "price": null,
@@ -41601,9 +41601,9 @@
     ],
     "side": null,
     "state": "none",
-    "wallets": 0
+    "wallets": 1
    },
-   "last_scan": "2026-09-17T17:15:48Z",
+   "last_scan": "2026-09-17T17:30:52Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -41612,7 +41612,7 @@
    ],
    "result": null,
    "slug": "wta-ortenzi-badosa-2026-09-17",
-   "start": "2026-09-17T17:30:00Z",
+   "start": "2026-09-17T17:35:00Z",
    "title": "Sao Paulo Open: Jazmin Ortenzi vs Paula Badosa",
    "tour": "WTA"
   },
@@ -46623,26 +46623,26 @@
    "cid": "0xfa9e83657fb6be03e6d48563dab284a6933790261ec9df4eb955ad86ff87c500",
    "first_seen": "2026-09-16T22:15:50Z",
    "last_pre": {
-    "at": "2026-09-17T17:15:48Z",
+    "at": "2026-09-17T17:30:52Z",
     "fish": [
      0.0,
-     0.0
+     1099.0
     ],
     "frozen_pre": false,
     "price": null,
     "sharp": [
      0.0,
-     0.0
+     1287.0
     ],
     "sharp_wallets": [
      0,
-     0
+     1
     ],
     "side": null,
-    "state": "none",
-    "wallets": 0
+    "state": "crowded",
+    "wallets": 2
    },
-   "last_scan": "2026-09-17T17:15:48Z",
+   "last_scan": "2026-09-17T17:30:52Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -46651,7 +46651,7 @@
    ],
    "result": null,
    "slug": "wta-salkova-stoiana-2026-09-17",
-   "start": "2026-09-17T17:30:00Z",
+   "start": "2026-09-17T17:35:00Z",
    "title": "Sao Paulo Open: Dominika Salkova vs Mary Stoiana",
    "tour": "WTA"
   },
@@ -47750,6 +47750,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-09-17T17:15:48Z",
+ "updated": "2026-09-17T17:30:52Z",
  "version": 1
 }
