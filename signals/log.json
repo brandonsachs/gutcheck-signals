@@ -5972,7 +5972,7 @@
    "cid": "0x2114744e53589a5c071ccb16f06b789c1200b3a098bc3274b1c06d0595b8f5dd",
    "first_seen": "2026-09-16T22:15:50Z",
    "last_pre": {
-    "at": "2026-09-17T04:00:52Z",
+    "at": "2026-09-17T04:15:52Z",
     "fish": [
      0.0,
      0.0
@@ -5991,7 +5991,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-17T04:00:52Z",
+   "last_scan": "2026-09-17T04:15:52Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -7347,6 +7347,42 @@
    "start": "2026-08-04T16:45:00Z",
    "title": "National Bank Open: Jacob Fearnley vs Adrian Mannarino",
    "tour": "ATP"
+  },
+  "0x2a8d9218ed65252f5ad52a6fe50d472eb798785369341ee7aa7c0a3eb8a9a70d": {
+   "cid": "0x2a8d9218ed65252f5ad52a6fe50d472eb798785369341ee7aa7c0a3eb8a9a70d",
+   "first_seen": "2026-09-17T04:15:52Z",
+   "last_pre": {
+    "at": "2026-09-17T04:15:52Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-09-17T04:15:52Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Sara Bejlek",
+    "Cristina Bucsa"
+   ],
+   "result": null,
+   "slug": "wta-bucsa-bejlek-2026-09-16",
+   "start": "2026-09-17T19:00:00Z",
+   "title": "Guadalajara Open Akron: Cristina Bucsa vs Sara Bejlek",
+   "tour": "WTA"
   },
   "0x2a9362c7557984a1e09bcff16809fa8850ab0915a61ec88d3b38326d6b81e17e": {
    "cid": "0x2a9362c7557984a1e09bcff16809fa8850ab0915a61ec88d3b38326d6b81e17e",
@@ -10020,7 +10056,7 @@
    "cid": "0x360e7b629c9f9e7d8f4f8512c6cd336e798ad81176ece5801c330a58c13bda36",
    "first_seen": "2026-09-16T22:15:50Z",
    "last_pre": {
-    "at": "2026-09-17T04:00:52Z",
+    "at": "2026-09-17T04:15:52Z",
     "fish": [
      0.0,
      0.0
@@ -10039,7 +10075,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-17T04:00:52Z",
+   "last_scan": "2026-09-17T04:15:52Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -24368,6 +24404,23 @@
    "title": "Hagen: Tom Gentzsch vs Henri Squire",
    "tour": "ATP"
   },
+  "0x8362e78d0c096f1c6f6e6983471cc97c195754d8673dd68341f912a9c0cb60a9": {
+   "cid": "0x8362e78d0c096f1c6f6e6983471cc97c195754d8673dd68341f912a9c0cb60a9",
+   "first_seen": "2026-09-17T04:15:52Z",
+   "last_pre": null,
+   "last_scan": "2026-09-17T04:15:52Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Marta Kostyuk",
+    "Liudmila Samsonova"
+   ],
+   "result": null,
+   "slug": "wta-kostyuk-samsono-2026-09-17",
+   "start": "2026-09-17T23:00:00Z",
+   "title": "Guadalajara Open Akron: Marta Kostyuk vs Liudmila Samsonova",
+   "tour": "WTA"
+  },
   "0x8375934e304a22f4409c4d541daf5c2bac39b86b98630c2ece95425a039fd9fa": {
    "cid": "0x8375934e304a22f4409c4d541daf5c2bac39b86b98630c2ece95425a039fd9fa",
    "first_seen": "2026-08-28T16:00:53Z",
@@ -24653,7 +24706,7 @@
    "cid": "0x85f97843876f9d5641cf4ffb0b1e156a3dfe0ad7fe0dcc981a6b77c5f7cae250",
    "first_seen": "2026-09-16T04:30:58Z",
    "last_pre": {
-    "at": "2026-09-17T04:00:52Z",
+    "at": "2026-09-17T04:15:52Z",
     "fish": [
      0.0,
      0.0
@@ -24672,7 +24725,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-17T04:00:52Z",
+   "last_scan": "2026-09-17T04:15:52Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -31591,6 +31644,23 @@
    "title": "US Open ATP: Jesper de Jong vs Francesco Passaro",
    "tour": "ATP"
   },
+  "0xaca5bc88ba1921649af9121d67ad0c1b2706d779ad98f3b32abc50159a9502c1": {
+   "cid": "0xaca5bc88ba1921649af9121d67ad0c1b2706d779ad98f3b32abc50159a9502c1",
+   "first_seen": "2026-09-17T04:15:52Z",
+   "last_pre": null,
+   "last_scan": "2026-09-17T04:15:52Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Anna Blinkova",
+    "Vendula Valdmannova"
+   ],
+   "result": null,
+   "slug": "wta-blinkov-valdman-2026-09-17",
+   "start": "2026-09-17T17:30:00Z",
+   "title": "Sao Paulo Open: Anna Blinkova vs Vendula Valdmannova",
+   "tour": "WTA"
+  },
   "0xad0144501842072aad3c380d5b700f1272a2f80a827d3e14cd58878ad7712aac": {
    "cid": "0xad0144501842072aad3c380d5b700f1272a2f80a827d3e14cd58878ad7712aac",
    "first_seen": "2026-08-26T22:30:49Z",
@@ -32165,6 +32235,23 @@
    "start": "2026-09-03T19:00:00Z",
    "title": "US Open ATP: Tristan Schoolkate vs Flavio Cobolli",
    "tour": "ATP"
+  },
+  "0xaed43741b0538ef2e5e510760d961deb9532e917a364f7e159d32313eee4ec43": {
+   "cid": "0xaed43741b0538ef2e5e510760d961deb9532e917a364f7e159d32313eee4ec43",
+   "first_seen": "2026-09-17T04:15:52Z",
+   "last_pre": null,
+   "last_scan": "2026-09-17T04:15:52Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Magdalena Frech",
+    "Iva Jovic"
+   ],
+   "result": null,
+   "slug": "wta-frech-jovic-2026-09-17",
+   "start": "2026-09-17T20:30:00Z",
+   "title": "Guadalajara Open Akron: Magdalena Frech vs Iva Jovic",
+   "tour": "WTA"
   },
   "0xaedb6667cf88cade0903baee5d5f14180e0cb4c35cfb1c8c05d5f91af051ba5b": {
    "cid": "0xaedb6667cf88cade0903baee5d5f14180e0cb4c35cfb1c8c05d5f91af051ba5b",
@@ -33459,7 +33546,7 @@
    "cid": "0xb5be9ec37fe6ef59539f1cfb3dd840c17b3a4c94f713b89eda04e7cded30246c",
    "first_seen": "2026-09-16T22:15:50Z",
    "last_pre": {
-    "at": "2026-09-17T04:00:52Z",
+    "at": "2026-09-17T04:15:52Z",
     "fish": [
      0.0,
      0.0
@@ -33478,7 +33565,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-17T04:00:52Z",
+   "last_scan": "2026-09-17T04:15:52Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -33562,7 +33649,7 @@
    "cid": "0xb63632f03e36a378c47cec075c81ba3cfd77ea5fe5484e0b82cdd719ad6d9e96",
    "first_seen": "2026-09-16T22:15:50Z",
    "last_pre": {
-    "at": "2026-09-17T04:00:52Z",
+    "at": "2026-09-17T04:15:52Z",
     "fish": [
      0.0,
      0.0
@@ -33581,7 +33668,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-17T04:00:52Z",
+   "last_scan": "2026-09-17T04:15:52Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -41400,6 +41487,23 @@
    "title": "US Open, Qualification WTA: Robin Montgomery vs Jeline Vandromme",
    "tour": "WTA"
   },
+  "0xdff20e49886391d8e8af7bb7b37ee7f99de7690423499fc89820b7c43aec2a02": {
+   "cid": "0xdff20e49886391d8e8af7bb7b37ee7f99de7690423499fc89820b7c43aec2a02",
+   "first_seen": "2026-09-17T04:15:52Z",
+   "last_pre": null,
+   "last_scan": "2026-09-17T04:15:52Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Jazmin Ortenzi",
+    "Paula Badosa"
+   ],
+   "result": null,
+   "slug": "wta-ortenzi-badosa-2026-09-17",
+   "start": "2026-09-17T17:30:00Z",
+   "title": "Sao Paulo Open: Jazmin Ortenzi vs Paula Badosa",
+   "tour": "WTA"
+  },
   "0xe00e843c6b93b790cbe88bbeff9fa90ec13bb1b7dcf7a369d28b2695889bcdf9": {
    "cid": "0xe00e843c6b93b790cbe88bbeff9fa90ec13bb1b7dcf7a369d28b2695889bcdf9",
    "first_seen": "2026-08-31T11:00:20Z",
@@ -46407,7 +46511,7 @@
    "cid": "0xfa9e83657fb6be03e6d48563dab284a6933790261ec9df4eb955ad86ff87c500",
    "first_seen": "2026-09-16T22:15:50Z",
    "last_pre": {
-    "at": "2026-09-17T04:00:52Z",
+    "at": "2026-09-17T04:15:52Z",
     "fish": [
      0.0,
      0.0
@@ -46426,7 +46530,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-17T04:00:52Z",
+   "last_scan": "2026-09-17T04:15:52Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -47534,6 +47638,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-09-17T04:00:52Z",
+ "updated": "2026-09-17T04:15:52Z",
  "version": 1
 }
