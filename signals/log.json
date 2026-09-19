@@ -4885,7 +4885,7 @@
    "cid": "0x1b3e796e4305da262fa4f98fcbf91e860af8896a79a863e00b6a6445b2f00d39",
    "first_seen": "2026-09-18T16:30:09Z",
    "last_pre": {
-    "at": "2026-09-19T05:00:10Z",
+    "at": "2026-09-19T05:15:13Z",
     "fish": [
      0.0,
      0.0
@@ -4904,7 +4904,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-09-19T05:00:10Z",
+   "last_scan": "2026-09-19T05:15:13Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -5002,7 +5002,7 @@
    "cid": "0x1b9823ac7b7bb8483c69228f6df8179ec8eae273a232ae84283d19c1412b6025",
    "first_seen": "2026-09-18T16:30:09Z",
    "last_pre": {
-    "at": "2026-09-19T05:00:10Z",
+    "at": "2026-09-19T05:15:13Z",
     "fish": [
      0.0,
      0.0
@@ -5021,7 +5021,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-19T05:00:10Z",
+   "last_scan": "2026-09-19T05:15:13Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -5030,7 +5030,7 @@
    ],
    "result": null,
    "slug": "wta-zhao-ma-2026-09-18",
-   "start": "2026-09-19T05:20:00Z",
+   "start": "2026-09-19T05:30:00Z",
    "title": "Korea Open, Qualification: Carol Zhao vs Yexin Ma",
    "tour": "WTA"
   },
@@ -9893,7 +9893,7 @@
    "cid": "0x3522fafadfb6d3fdde74efa5e4e1d6628db35c8fe7d23dcd83509419871ccd94",
    "first_seen": "2026-09-18T16:30:09Z",
    "last_pre": {
-    "at": "2026-09-19T05:00:10Z",
+    "at": "2026-09-19T05:15:13Z",
     "fish": [
      0.0,
      0.0
@@ -9912,7 +9912,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-19T05:00:10Z",
+   "last_scan": "2026-09-19T05:15:13Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -9921,7 +9921,7 @@
    ],
    "result": null,
    "slug": "wta-ibragim-saigo-2026-09-19",
-   "start": "2026-09-19T06:30:00Z",
+   "start": "2026-09-19T07:00:00Z",
    "title": "Korea Open, Qualification: Alevtina Ibragimova vs Rina Saigo",
    "tour": "WTA"
   },
@@ -16773,7 +16773,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-19T05:00:10Z",
+   "last_scan": "2026-09-19T05:15:13Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -18010,7 +18010,7 @@
    "cid": "0x60051d93500ba038f1bd7c1373e40e71d1d7de8cb6e98f70cf6fd3949fd55305",
    "first_seen": "2026-09-18T16:30:09Z",
    "last_pre": {
-    "at": "2026-09-19T05:00:10Z",
+    "at": "2026-09-19T05:15:13Z",
     "fish": [
      3745.0,
      7700.0
@@ -18029,7 +18029,7 @@
     "state": "thin",
     "wallets": 3
    },
-   "last_scan": "2026-09-19T05:00:10Z",
+   "last_scan": "2026-09-19T05:15:13Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -20436,7 +20436,7 @@
    "cid": "0x6c50a077692305711df46f096db295920327c416f78bfa037818e0f892d44d4c",
    "first_seen": "2026-09-18T22:15:10Z",
    "last_pre": {
-    "at": "2026-09-19T05:00:10Z",
+    "at": "2026-09-19T05:15:13Z",
     "fish": [
      0.0,
      0.0
@@ -20455,7 +20455,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-19T05:00:10Z",
+   "last_scan": "2026-09-19T05:15:13Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -21307,6 +21307,42 @@
    "slug": "wta-jorge-ristic-2026-08-26",
    "start": "2026-08-26T17:25:00Z",
    "title": "US Open, Qualification WTA: Francisca Jorge vs Mia Ristic",
+   "tour": "WTA"
+  },
+  "0x700c1946a61c9af41ad875731af83a38850a083f53d319327098c0dd127e48dd": {
+   "cid": "0x700c1946a61c9af41ad875731af83a38850a083f53d319327098c0dd127e48dd",
+   "first_seen": "2026-09-19T05:15:13Z",
+   "last_pre": {
+    "at": "2026-09-19T05:15:13Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-09-19T05:15:13Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Iva Jovic",
+    "Peyton Stearns"
+   ],
+   "result": null,
+   "slug": "wta-stearns-jovic-2026-09-19",
+   "start": "2026-09-19T23:00:00Z",
+   "title": "Guadalajara Open Akron: Peyton Stearns vs Iva Jovic",
    "tour": "WTA"
   },
   "0x70aefec9474493854a21a2e43ace969bea2483c831e086442e966ffb956f76f2": {
@@ -25302,7 +25338,7 @@
    "cid": "0x8752909561736c99777eaacdbeada732ad1b3adba37bad01adc5f2b0c61ce7f2",
    "first_seen": "2026-09-19T04:25:03Z",
    "last_pre": {
-    "at": "2026-09-19T05:00:10Z",
+    "at": "2026-09-19T05:15:13Z",
     "fish": [
      0.0,
      0.0
@@ -25321,7 +25357,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-19T05:00:10Z",
+   "last_scan": "2026-09-19T05:15:13Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -34640,8 +34676,8 @@
     "state": "thin",
     "wallets": 3
    },
-   "last_scan": "2026-09-19T05:00:10Z",
-   "lock_closed": false,
+   "last_scan": "2026-09-19T05:15:13Z",
+   "lock_closed": true,
    "locked": null,
    "outcomes": [
     "Tamara Zidansek",
@@ -34649,7 +34685,7 @@
    ],
    "result": null,
    "slug": "wta-zidanse-jeon-2026-09-19",
-   "start": "2026-09-19T05:05:00Z",
+   "start": "2026-09-19T05:10:00Z",
    "title": "Korea Open, Qualification: Tamara Zidansek vs Bo-Young Jeong",
    "tour": "WTA"
   },
@@ -46460,7 +46496,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-19T05:00:10Z",
+   "last_scan": "2026-09-19T05:15:13Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -48382,6 +48418,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-09-19T05:00:10Z",
+ "updated": "2026-09-19T05:15:13Z",
  "version": 1
 }
