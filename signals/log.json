@@ -11833,7 +11833,7 @@
    "cid": "0x3f3082fb4bff02b01353db540c46a9ede6556964f44a8e4fa101f49d37fe514e",
    "first_seen": "2026-09-19T16:00:09Z",
    "last_pre": {
-    "at": "2026-09-20T10:15:10Z",
+    "at": "2026-09-20T10:30:08Z",
     "fish": [
      0.0,
      0.0
@@ -11852,7 +11852,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-20T10:15:10Z",
+   "last_scan": "2026-09-20T10:30:08Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -22900,7 +22900,7 @@
    "cid": "0x763c3605007cc8840cea43308c5ca0cd523f3d16b996dfd7665e8fccc264c9a9",
    "first_seen": "2026-09-19T22:30:09Z",
    "last_pre": {
-    "at": "2026-09-20T10:15:10Z",
+    "at": "2026-09-20T10:30:08Z",
     "fish": [
      0.0,
      0.0
@@ -22919,7 +22919,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-20T10:15:10Z",
+   "last_scan": "2026-09-20T10:30:08Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -23034,7 +23034,7 @@
    "cid": "0x769244d3d5a260337dc59aafa13a70b56d0cabd7f75b91d5a5d287c6cdd92168",
    "first_seen": "2026-09-19T16:00:09Z",
    "last_pre": {
-    "at": "2026-09-20T10:15:10Z",
+    "at": "2026-09-20T10:30:08Z",
     "fish": [
      0.0,
      0.0
@@ -23053,7 +23053,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-20T10:15:10Z",
+   "last_scan": "2026-09-20T10:30:08Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -27760,6 +27760,42 @@
    "title": "US Open ATP: Zizou Bergs vs Botic van de Zandschulp",
    "tour": "ATP"
   },
+  "0x915a7faaed0cc6dd1101ffe01c954ea9ead7352234f951d75df5fc94bc244403": {
+   "cid": "0x915a7faaed0cc6dd1101ffe01c954ea9ead7352234f951d75df5fc94bc244403",
+   "first_seen": "2026-09-20T10:30:08Z",
+   "last_pre": {
+    "at": "2026-09-20T10:30:08Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-09-20T10:30:08Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Xinxin Yao",
+    "Maya Joint"
+   ],
+   "result": null,
+   "slug": "wta-yao-joint-2026-09-20",
+   "start": "2026-09-21T03:00:00Z",
+   "title": "Korea Open: Xinxin Yao vs Maya Joint",
+   "tour": "WTA"
+  },
   "0x921716d5f00e8df68d4f64af5b418b4489084033c8d36ee308c23a943c7cb3b8": {
    "cid": "0x921716d5f00e8df68d4f64af5b418b4489084033c8d36ee308c23a943c7cb3b8",
    "first_seen": "2026-08-08T17:01:07Z",
@@ -29686,7 +29722,7 @@
    "cid": "0x9a2c2de61783c98b6dc82891a4a558081f5c6095b2208c9e2de73f09b1feb296",
    "first_seen": "2026-09-19T16:00:09Z",
    "last_pre": {
-    "at": "2026-09-20T10:15:10Z",
+    "at": "2026-09-20T10:30:08Z",
     "fish": [
      0.0,
      0.0
@@ -29705,7 +29741,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-20T10:15:10Z",
+   "last_scan": "2026-09-20T10:30:08Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -30209,7 +30245,7 @@
    "cid": "0x9c490073157c54994cb8f3f4fc11a3b73edff7d74d7b1941618eca0766c034d2",
    "first_seen": "2026-09-19T16:00:09Z",
    "last_pre": {
-    "at": "2026-09-20T10:15:10Z",
+    "at": "2026-09-20T10:30:08Z",
     "fish": [
      0.0,
      0.0
@@ -30228,7 +30264,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-20T10:15:10Z",
+   "last_scan": "2026-09-20T10:30:08Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -32922,7 +32958,7 @@
    "cid": "0xad9abec91af4ba1dcb5ae624ac247b4953edfbb0ab207dce50a71032d03e4913",
    "first_seen": "2026-09-19T16:00:09Z",
    "last_pre": {
-    "at": "2026-09-20T10:15:10Z",
+    "at": "2026-09-20T10:30:08Z",
     "fish": [
      0.0,
      0.0
@@ -32941,7 +32977,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-20T10:15:10Z",
+   "last_scan": "2026-09-20T10:30:08Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -36601,6 +36637,42 @@
    "start": "2026-08-03T16:00:00Z",
    "title": "Plovdiv 2: Valerio Aboian vs Carlos Sanchez Jover",
    "tour": "ATP"
+  },
+  "0xbf67d3388aa6bcfcded7ca4e774e41deaa8716c24f65da8d752518778a8a163e": {
+   "cid": "0xbf67d3388aa6bcfcded7ca4e774e41deaa8716c24f65da8d752518778a8a163e",
+   "first_seen": "2026-09-20T10:30:08Z",
+   "last_pre": {
+    "at": "2026-09-20T10:30:08Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-09-20T10:30:08Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Darya Astakhova",
+    "Magda Linette"
+   ],
+   "result": null,
+   "slug": "wta-astakho-linette-2026-09-21",
+   "start": "2026-09-21T06:30:00Z",
+   "title": "Korea Open: Darya Astakhova vs Magda Linette",
+   "tour": "WTA"
   },
   "0xbfcc706d9df7300bd35978d097946616d6656eabd14c2280220f2f6d664d0dfb": {
    "cid": "0xbfcc706d9df7300bd35978d097946616d6656eabd14c2280220f2f6d664d0dfb",
@@ -49030,6 +49102,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-09-20T10:15:10Z",
+ "updated": "2026-09-20T10:30:08Z",
  "version": 1
 }
