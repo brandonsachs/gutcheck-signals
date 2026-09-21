@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.22901688311688326,
-   "edge_pp": -2.285714285714291,
-   "implied": 0.5098701298701299,
-   "n": 154,
-   "roi": -0.04919228879117252,
-   "win_rate": 0.487012987012987,
-   "wins": 75,
-   "z": -0.5893626182866021
+   "brier": 0.22799241935483885,
+   "edge_pp": -2.1000000000000076,
+   "implied": 0.5113225806451613,
+   "n": 155,
+   "roi": -0.046548827459054795,
+   "win_rate": 0.49032258064516127,
+   "wins": 76,
+   "z": -0.5435111541952865
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-09-21T04:15:15Z",
+ "generated": "2026-09-21T04:30:13Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json.",
  "overall": {
-  "brier": 0.22902879746835458,
-  "edge_pp": -2.974683544303802,
-  "implied": 0.5107594936708861,
-  "n": 158,
-  "roi": -0.06409074121216281,
-  "win_rate": 0.4810126582278481,
-  "wins": 76,
-  "z": -0.777380551861875
+  "brier": 0.22803003144654105,
+  "edge_pp": -2.7893081761006355,
+  "implied": 0.5121698113207548,
+  "n": 159,
+  "roi": -0.06142008109329968,
+  "win_rate": 0.48427672955974843,
+  "wins": 77,
+  "z": -0.7316029378485901
  },
- "pending": 6,
+ "pending": 5,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -1617,6 +1617,16 @@
    "title": "Sao Paulo Open: Anna Blinkova vs Alina Charaeva",
    "tour": "WTA",
    "winner": "Anna Blinkova"
+  },
+  {
+   "hit": true,
+   "locked_at": "2026-09-21T03:00:10Z",
+   "phase": "pre-match",
+   "price": 0.735,
+   "side": "Katie Volynets",
+   "title": "Korea Open: Katie Volynets vs Elvina Kalieva",
+   "tour": "WTA",
+   "winner": "Katie Volynets"
   }
  ]
 }
