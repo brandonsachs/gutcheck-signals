@@ -912,7 +912,7 @@
    "cid": "0x06645c471543025b31fa20e4cfc12ed63d06eb012a4d73489e3abd01b8eefa6f",
    "first_seen": "2026-09-21T16:00:09Z",
    "last_pre": {
-    "at": "2026-09-24T08:45:19Z",
+    "at": "2026-09-24T09:00:22Z",
     "fish": [
      0.0,
      3477.0
@@ -931,7 +931,7 @@
     "state": "none",
     "wallets": 2
    },
-   "last_scan": "2026-09-24T08:45:19Z",
+   "last_scan": "2026-09-24T09:00:22Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -4683,7 +4683,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-09-24T08:45:19Z",
+   "last_scan": "2026-09-24T09:00:22Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -5689,7 +5689,7 @@
     "state": "none",
     "wallets": 7
    },
-   "last_scan": "2026-09-24T08:45:19Z",
+   "last_scan": "2026-09-24T09:00:22Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -6311,7 +6311,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-24T08:45:19Z",
+   "last_scan": "2026-09-24T09:00:22Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -6914,7 +6914,7 @@
    "cid": "0x2280976c86f4e3e326720a7d49f690a1ce290fe7e51e1744b70893d8710182ae",
    "first_seen": "2026-09-21T16:00:09Z",
    "last_pre": {
-    "at": "2026-09-24T08:45:19Z",
+    "at": "2026-09-24T09:00:22Z",
     "fish": [
      1306.0,
      0.0
@@ -6933,7 +6933,7 @@
     "state": "thin",
     "wallets": 3
    },
-   "last_scan": "2026-09-24T08:45:19Z",
+   "last_scan": "2026-09-24T09:00:22Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -6969,8 +6969,8 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-24T08:45:19Z",
-   "lock_closed": false,
+   "last_scan": "2026-09-24T09:00:22Z",
+   "lock_closed": true,
    "locked": null,
    "outcomes": [
     "Moise Kouame",
@@ -7349,7 +7349,7 @@
     "state": "none",
     "wallets": 2
    },
-   "last_scan": "2026-09-24T08:45:19Z",
+   "last_scan": "2026-09-24T09:00:22Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -10167,7 +10167,7 @@
     "state": "none",
     "wallets": 8
    },
-   "last_scan": "2026-09-24T08:45:19Z",
+   "last_scan": "2026-09-24T09:00:22Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -12644,8 +12644,8 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-09-24T08:45:19Z",
-   "lock_closed": false,
+   "last_scan": "2026-09-24T09:00:22Z",
+   "lock_closed": true,
    "locked": null,
    "outcomes": [
     "Miomir Kecmanovic",
@@ -12653,7 +12653,7 @@
    ],
    "result": null,
    "slug": "atp-kecmano-basilas-2026-09-24",
-   "start": "2026-09-24T09:00:00Z",
+   "start": "2026-09-24T08:50:00Z",
    "title": "Chengdu Open: Miomir Kecmanovic vs Nikoloz Basilashvili",
    "tour": "ATP"
   },
@@ -19918,7 +19918,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-24T08:45:19Z",
+   "last_scan": "2026-09-24T09:00:22Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -20515,7 +20515,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-24T08:45:19Z",
+   "last_scan": "2026-09-24T09:00:22Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -20782,7 +20782,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-24T08:45:19Z",
+   "last_scan": "2026-09-24T09:00:22Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -22981,7 +22981,7 @@
    "cid": "0x713a39d52c118c6d9a961eb38cbca50aec3903370adcaa48a167584d852d405f",
    "first_seen": "2026-09-21T16:00:09Z",
    "last_pre": {
-    "at": "2026-09-24T08:45:19Z",
+    "at": "2026-09-24T09:00:22Z",
     "fish": [
      0.0,
      0.0
@@ -23000,7 +23000,7 @@
     "state": "none",
     "wallets": 2
    },
-   "last_scan": "2026-09-24T08:45:19Z",
+   "last_scan": "2026-09-24T09:00:22Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -23592,7 +23592,7 @@
    "cid": "0x73ce7a381a83aadaef382993805c4124c99d022301211e32c2ee1e19d115e9a3",
    "first_seen": "2026-09-23T11:15:47Z",
    "last_pre": {
-    "at": "2026-09-24T08:45:19Z",
+    "at": "2026-09-24T09:00:22Z",
     "fish": [
      4764.0,
      0.0
@@ -23611,7 +23611,7 @@
     "state": "thin",
     "wallets": 2
    },
-   "last_scan": "2026-09-24T08:45:19Z",
+   "last_scan": "2026-09-24T09:00:22Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -26695,7 +26695,7 @@
    "cid": "0x848bff23a35bf5af778ebbbf6a8e7b7edbfbab41c4411935ed6baf5c0ea0ae84",
    "first_seen": "2026-09-24T05:15:19Z",
    "last_pre": {
-    "at": "2026-09-24T08:45:19Z",
+    "at": "2026-09-24T09:00:22Z",
     "fish": [
      0.0,
      0.0
@@ -26714,7 +26714,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-24T08:45:19Z",
+   "last_scan": "2026-09-24T09:00:22Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -26723,7 +26723,7 @@
    ],
    "result": null,
    "slug": "atp-jacquet-etcheve-2026-09-25",
-   "start": "2026-09-25T04:00:00Z",
+   "start": "2026-09-25T05:30:00Z",
    "title": "Hangzhou Open: Kyrian Jacquet vs Tomas Etcheverry",
    "tour": "ATP"
   },
@@ -33310,7 +33310,7 @@
    "cid": "0xa3fac3636ea9c127aaf046f1d811a60b655e4cbe3eb1f058a52fb08efff431d2",
    "first_seen": "2026-09-23T16:00:59Z",
    "last_pre": {
-    "at": "2026-09-24T08:45:19Z",
+    "at": "2026-09-24T09:00:22Z",
     "fish": [
      0.0,
      0.0
@@ -33329,7 +33329,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-24T08:45:19Z",
+   "last_scan": "2026-09-24T09:00:22Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -34496,7 +34496,7 @@
    "cid": "0xac59c7794af2a30e6dc471f9c9c2f2dc8d1da73686436d9126a02bb3cd50ab7b",
    "first_seen": "2026-09-21T16:00:09Z",
    "last_pre": {
-    "at": "2026-09-24T08:45:19Z",
+    "at": "2026-09-24T09:00:22Z",
     "fish": [
      0.0,
      0.0
@@ -34515,7 +34515,7 @@
     "state": "none",
     "wallets": 3
    },
-   "last_scan": "2026-09-24T08:45:19Z",
+   "last_scan": "2026-09-24T09:00:22Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -38530,7 +38530,7 @@
    "cid": "0xbe3378fe9b93859ea829ed2e721f00715afaa385a0146f81d968113bbf4caaa7",
    "first_seen": "2026-09-23T11:15:47Z",
    "last_pre": {
-    "at": "2026-09-24T08:45:19Z",
+    "at": "2026-09-24T09:00:22Z",
     "fish": [
      0.0,
      0.0
@@ -38549,7 +38549,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-09-24T08:45:19Z",
+   "last_scan": "2026-09-24T09:00:22Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -39187,7 +39187,7 @@
     "state": "none",
     "wallets": 4
    },
-   "last_scan": "2026-09-24T08:45:19Z",
+   "last_scan": "2026-09-24T09:00:22Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -39905,8 +39905,8 @@
     "state": "thin",
     "wallets": 2
    },
-   "last_scan": "2026-09-24T08:45:19Z",
-   "lock_closed": false,
+   "last_scan": "2026-09-24T09:00:22Z",
+   "lock_closed": true,
    "locked": null,
    "outcomes": [
     "Juncheng Shang",
@@ -39914,7 +39914,7 @@
    ],
    "result": null,
    "slug": "atp-shang-mannari-2026-09-22",
-   "start": "2026-09-24T08:50:00Z",
+   "start": "2026-09-24T08:55:00Z",
    "title": "Chengdu Open: Juncheng Shang vs Adrian Mannarino",
    "tour": "ATP"
   },
@@ -42769,7 +42769,7 @@
     "state": "crowded",
     "wallets": 7
    },
-   "last_scan": "2026-09-24T08:45:19Z",
+   "last_scan": "2026-09-24T09:00:22Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -44564,7 +44564,7 @@
    "cid": "0xdc5d8763db521d9146016c8de70eda9123c2a32465029f5467110965027f6ec0",
    "first_seen": "2026-09-23T11:15:47Z",
    "last_pre": {
-    "at": "2026-09-24T08:45:19Z",
+    "at": "2026-09-24T09:00:22Z",
     "fish": [
      0.0,
      0.0
@@ -44583,7 +44583,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-24T08:45:19Z",
+   "last_scan": "2026-09-24T09:00:22Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -51827,6 +51827,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-09-24T08:45:19Z",
+ "updated": "2026-09-24T09:00:22Z",
  "version": 1
 }
