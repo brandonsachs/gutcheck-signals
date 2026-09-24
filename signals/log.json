@@ -912,26 +912,26 @@
    "cid": "0x06645c471543025b31fa20e4cfc12ed63d06eb012a4d73489e3abd01b8eefa6f",
    "first_seen": "2026-09-21T16:00:09Z",
    "last_pre": {
-    "at": "2026-09-24T10:00:21Z",
+    "at": "2026-09-24T10:15:19Z",
     "fish": [
      0.0,
-     3477.0
+     7577.0
     ],
     "frozen_pre": false,
     "price": null,
     "sharp": [
      0.0,
-     0.0
+     1077.0
     ],
     "sharp_wallets": [
      0,
-     0
+     1
     ],
     "side": null,
-    "state": "none",
-    "wallets": 2
+    "state": "crowded",
+    "wallets": 4
    },
-   "last_scan": "2026-09-24T10:00:21Z",
+   "last_scan": "2026-09-24T10:15:19Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -4683,7 +4683,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-09-24T10:00:21Z",
+   "last_scan": "2026-09-24T10:15:19Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -6442,6 +6442,23 @@
    "title": "US Open, Qualification WTA: Anouk Koevermans vs Linda Klimovicova",
    "tour": "WTA"
   },
+  "0x20b71bf74fbb835c025b362bea96bf553be189065123d74c041464705406349f": {
+   "cid": "0x20b71bf74fbb835c025b362bea96bf553be189065123d74c041464705406349f",
+   "first_seen": "2026-09-24T10:15:19Z",
+   "last_pre": null,
+   "last_scan": "2026-09-24T10:15:19Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Taylah Preston",
+    "Alina Korneeva"
+   ],
+   "result": null,
+   "slug": "wta-preston-korneev-2026-09-25",
+   "start": "2026-09-25T06:00:00Z",
+   "title": "Korea Open: Taylah Preston vs Alina Korneeva",
+   "tour": "WTA"
+  },
   "0x20e102eac0aa751682b9b40d70883a3efdf7279f24c7f4e0e6b037e455bce061": {
    "cid": "0x20e102eac0aa751682b9b40d70883a3efdf7279f24c7f4e0e6b037e455bce061",
    "first_seen": "2026-08-24T20:01:05Z",
@@ -6914,7 +6931,7 @@
    "cid": "0x2280976c86f4e3e326720a7d49f690a1ce290fe7e51e1744b70893d8710182ae",
    "first_seen": "2026-09-21T16:00:09Z",
    "last_pre": {
-    "at": "2026-09-24T10:00:21Z",
+    "at": "2026-09-24T10:15:19Z",
     "fish": [
      1306.0,
      0.0
@@ -6933,7 +6950,7 @@
     "state": "thin",
     "wallets": 4
    },
-   "last_scan": "2026-09-24T10:00:21Z",
+   "last_scan": "2026-09-24T10:15:19Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -6969,7 +6986,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-24T10:00:21Z",
+   "last_scan": "2026-09-24T10:15:19Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -7349,7 +7366,7 @@
     "state": "none",
     "wallets": 2
    },
-   "last_scan": "2026-09-24T10:00:21Z",
+   "last_scan": "2026-09-24T10:15:19Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -12106,8 +12123,8 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-09-24T06:15:20Z",
-   "lock_closed": false,
+   "last_scan": "2026-09-24T10:15:19Z",
+   "lock_closed": true,
    "locked": null,
    "outcomes": [
     "Hubert Hurkacz",
@@ -12644,7 +12661,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-09-24T10:00:21Z",
+   "last_scan": "2026-09-24T10:15:19Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -19918,7 +19935,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-24T10:00:21Z",
+   "last_scan": "2026-09-24T10:15:19Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -23000,7 +23017,7 @@
     "state": "none",
     "wallets": 2
    },
-   "last_scan": "2026-09-24T10:00:21Z",
+   "last_scan": "2026-09-24T10:15:19Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -23592,7 +23609,7 @@
    "cid": "0x73ce7a381a83aadaef382993805c4124c99d022301211e32c2ee1e19d115e9a3",
    "first_seen": "2026-09-23T11:15:47Z",
    "last_pre": {
-    "at": "2026-09-24T10:00:21Z",
+    "at": "2026-09-24T10:15:19Z",
     "fish": [
      4764.0,
      0.0
@@ -23600,18 +23617,18 @@
     "frozen_pre": false,
     "price": null,
     "sharp": [
-     0.0,
-     2943.0
+     1907.0,
+     4805.0
     ],
     "sharp_wallets": [
-     0,
-     1
+     1,
+     2
     ],
     "side": null,
     "state": "thin",
-    "wallets": 2
+    "wallets": 4
    },
-   "last_scan": "2026-09-24T10:00:21Z",
+   "last_scan": "2026-09-24T10:15:19Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -26695,7 +26712,7 @@
    "cid": "0x848bff23a35bf5af778ebbbf6a8e7b7edbfbab41c4411935ed6baf5c0ea0ae84",
    "first_seen": "2026-09-24T05:15:19Z",
    "last_pre": {
-    "at": "2026-09-24T10:00:21Z",
+    "at": "2026-09-24T10:15:19Z",
     "fish": [
      0.0,
      0.0
@@ -26714,7 +26731,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-24T10:00:21Z",
+   "last_scan": "2026-09-24T10:15:19Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -33310,7 +33327,7 @@
    "cid": "0xa3fac3636ea9c127aaf046f1d811a60b655e4cbe3eb1f058a52fb08efff431d2",
    "first_seen": "2026-09-23T16:00:59Z",
    "last_pre": {
-    "at": "2026-09-24T10:00:21Z",
+    "at": "2026-09-24T10:15:19Z",
     "fish": [
      0.0,
      0.0
@@ -33329,7 +33346,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-24T10:00:21Z",
+   "last_scan": "2026-09-24T10:15:19Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -34496,7 +34513,7 @@
    "cid": "0xac59c7794af2a30e6dc471f9c9c2f2dc8d1da73686436d9126a02bb3cd50ab7b",
    "first_seen": "2026-09-21T16:00:09Z",
    "last_pre": {
-    "at": "2026-09-24T10:00:21Z",
+    "at": "2026-09-24T10:15:19Z",
     "fish": [
      0.0,
      0.0
@@ -34515,7 +34532,7 @@
     "state": "none",
     "wallets": 3
    },
-   "last_scan": "2026-09-24T10:00:21Z",
+   "last_scan": "2026-09-24T10:15:19Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -38549,7 +38566,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-09-24T10:00:21Z",
+   "last_scan": "2026-09-24T10:15:19Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -38991,6 +39008,23 @@
    "title": "National Bank Open: Marta Kostyuk vs Iga Swiatek",
    "tour": "WTA"
   },
+  "0xc159756df847ca238378e4934cf2cdce6c8d2a31919759d4e1151a82bcad427c": {
+   "cid": "0xc159756df847ca238378e4934cf2cdce6c8d2a31919759d4e1151a82bcad427c",
+   "first_seen": "2026-09-24T10:15:19Z",
+   "last_pre": null,
+   "last_scan": "2026-09-24T10:15:19Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Anna Bondar",
+    "Gabriela Ruse"
+   ],
+   "result": null,
+   "slug": "wta-bondar-ruse-2026-09-25",
+   "start": "2026-09-25T04:30:00Z",
+   "title": "Korea Open: Anna Bondar vs Gabriela Ruse",
+   "tour": "WTA"
+  },
   "0xc18b4d338d95d0074efc8bfbeb3b926fad8e7d3dbf307053f8e3e8a9535fb457": {
    "cid": "0xc18b4d338d95d0074efc8bfbeb3b926fad8e7d3dbf307053f8e3e8a9535fb457",
    "first_seen": "2026-08-04T16:16:03Z",
@@ -39187,7 +39221,7 @@
     "state": "none",
     "wallets": 4
    },
-   "last_scan": "2026-09-24T10:00:21Z",
+   "last_scan": "2026-09-24T10:15:19Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -39905,7 +39939,7 @@
     "state": "thin",
     "wallets": 2
    },
-   "last_scan": "2026-09-24T10:00:21Z",
+   "last_scan": "2026-09-24T10:15:19Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -44564,7 +44598,7 @@
    "cid": "0xdc5d8763db521d9146016c8de70eda9123c2a32465029f5467110965027f6ec0",
    "first_seen": "2026-09-23T11:15:47Z",
    "last_pre": {
-    "at": "2026-09-24T10:00:21Z",
+    "at": "2026-09-24T10:15:19Z",
     "fish": [
      0.0,
      0.0
@@ -44583,7 +44617,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-24T10:00:21Z",
+   "last_scan": "2026-09-24T10:15:19Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -50868,6 +50902,23 @@
    "title": "Hamburg: Matheus Pucinelli de Almeida vs Florian Broska",
    "tour": "ATP"
   },
+  "0xfb7723570e5f574e9567d5635bba7b0c61c49fbfc36d8e872cff6617c5db4b25": {
+   "cid": "0xfb7723570e5f574e9567d5635bba7b0c61c49fbfc36d8e872cff6617c5db4b25",
+   "first_seen": "2026-09-24T10:15:19Z",
+   "last_pre": null,
+   "last_scan": "2026-09-24T10:15:19Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Katie Volynets",
+    "Kimberly Birrell"
+   ],
+   "result": null,
+   "slug": "wta-volynet-birrell-2026-09-24",
+   "start": "2026-09-25T03:00:00Z",
+   "title": "Korea Open: Katie Volynets vs Kimberly Birrell",
+   "tour": "WTA"
+  },
   "0xfba9b55ef1b14e19223340fe03355b4a1e508b4fa4a51ed65832b89aac25cbd3": {
    "cid": "0xfba9b55ef1b14e19223340fe03355b4a1e508b4fa4a51ed65832b89aac25cbd3",
    "first_seen": "2026-08-05T02:01:04Z",
@@ -51827,6 +51878,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-09-24T10:00:21Z",
+ "updated": "2026-09-24T10:15:19Z",
  "version": 1
 }
