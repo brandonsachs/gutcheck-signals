@@ -279,6 +279,7 @@
     "side_name": "Shuai Zhang",
     "wallets": 17
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Yulia Putintseva",
     "Shuai Zhang"
@@ -541,6 +542,7 @@
     "side_name": "Gabriel Diallo",
     "wallets": 23
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Luciano Darderi",
     "Gabriel Diallo"
@@ -863,6 +865,7 @@
     "side_name": "Dusan Lajovic",
     "wallets": 4
    },
+   "market_type": "moneyline",
    "outcomes": [
     "James McCabe",
     "Dusan Lajovic"
@@ -1403,7 +1406,7 @@
    "cid": "0x08ba9fd1fdd7830500b9bc6c9bbf16af358e5924b5be9ac710a8947c6e945b6a",
    "first_seen": "2026-09-24T17:15:21Z",
    "last_pre": {
-    "at": "2026-09-25T16:01:13Z",
+    "at": "2026-09-25T16:16:03Z",
     "fish": [
      0.0,
      0.0
@@ -1422,7 +1425,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-25T16:01:13Z",
+   "last_scan": "2026-09-25T16:16:03Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -1477,6 +1480,7 @@
     "side_name": "Iga Swiatek",
     "wallets": 28
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Iga Swiatek",
     "Qinwen Zheng"
@@ -1707,6 +1711,7 @@
     "side_name": "Emma Navarro",
     "wallets": 41
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Anna Kalinskaya",
     "Emma Navarro"
@@ -1899,6 +1904,7 @@
     "side_name": "Camila Osorio",
     "wallets": 14
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Camila Osorio",
     "Ekaterina Alexandrova"
@@ -2201,6 +2207,7 @@
     "side_name": "Taylor Townsend",
     "wallets": 11
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Tatjana Maria",
     "Taylor Townsend"
@@ -2292,6 +2299,7 @@
     "side_name": "Anna Bondar",
     "wallets": 7
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Lucie Havlickova",
     "Anna Bondar"
@@ -2521,6 +2529,7 @@
     "side_name": "Valentin Vacherot",
     "wallets": 21
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Valentin Vacherot",
     "Aleksandar Kovacevic"
@@ -2606,6 +2615,7 @@
     "side_name": "Sumit Nagal",
     "wallets": 12
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Jan Kumstat",
     "Sumit Nagal"
@@ -2758,6 +2768,7 @@
     "side_name": "Arthur Gea",
     "wallets": 3
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Coleman Wong",
     "Arthur Gea"
@@ -3011,6 +3022,7 @@
     "side_name": "Maja Chwalinska",
     "wallets": 20
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Maja Chwalinska",
     "Talia Gibson"
@@ -3346,6 +3358,7 @@
     "side_name": "Arthur Gea",
     "wallets": 18
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Arthur Gea",
     "Botic van de Zandschulp"
@@ -3427,6 +3440,7 @@
     "side_name": "Viktor Durasovic",
     "wallets": 5
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Viktor Durasovic",
     "Michael Geerts"
@@ -3588,6 +3602,7 @@
     "side_name": "Daniel Merida Aguilar",
     "wallets": 20
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Tallon Griekspoor",
     "Daniel Merida Aguilar"
@@ -3644,6 +3659,7 @@
     "side_name": "Emma Navarro",
     "wallets": 4
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Emma Navarro",
     "Lois Boisson"
@@ -3734,6 +3750,7 @@
     "side_name": "Diane Parry",
     "wallets": 8
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Diane Parry",
     "Lois Boisson"
@@ -3953,6 +3970,7 @@
     "side_name": "Alexandre Muller",
     "wallets": 3
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Guy Den Ouden",
     "Alexandre Muller"
@@ -4146,6 +4164,7 @@
     "side_name": "Laura Samson",
     "wallets": 4
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Kaitlin Quevedo",
     "Laura Samson"
@@ -4200,6 +4219,7 @@
     "side_name": "Rafael Jodar",
     "wallets": 22
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Jiri Lehecka",
     "Rafael Jodar"
@@ -4250,6 +4270,7 @@
     "side_name": "Solana Sierra",
     "wallets": 7
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Solana Sierra",
     "Sloane Stephens"
@@ -4513,6 +4534,7 @@
     "side_name": "Janice Tjen",
     "wallets": 7
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Sloane Stephens",
     "Janice Tjen"
@@ -4633,6 +4655,7 @@
     "side_name": "Shuai Zhang",
     "wallets": 5
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Shuai Zhang",
     "Jelena Ostapenko"
@@ -4718,6 +4741,7 @@
     "side_name": "Viktorija Golubic",
     "wallets": 4
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Donna Vekic",
     "Viktorija Golubic"
@@ -4807,7 +4831,7 @@
    "cid": "0x1910bca3159c8f3181e8b6e5b4b80173f8b465a9d75a51b75ebe709aeac0c378",
    "first_seen": "2026-09-24T17:15:21Z",
    "last_pre": {
-    "at": "2026-09-25T16:01:13Z",
+    "at": "2026-09-25T16:16:03Z",
     "fish": [
      0.0,
      0.0
@@ -4826,7 +4850,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-25T16:01:13Z",
+   "last_scan": "2026-09-25T16:16:03Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -4881,6 +4905,7 @@
     "side_name": "Eva Lys",
     "wallets": 7
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Gabriela Knutson",
     "Eva Lys"
@@ -5385,6 +5410,7 @@
     "side_name": "Vit Kopriva",
     "wallets": 8
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Alexis Galarneau",
     "Vit Kopriva"
@@ -5993,6 +6019,7 @@
     "side_name": "Mirra Andreeva",
     "wallets": 10
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Mirra Andreeva",
     "Anastasia Potapova"
@@ -6154,7 +6181,7 @@
    "cid": "0x1f2421b2a1221e69bb5ae9692ef87e0d7fcec1f6ac43a71d0a5a36427ce183b4",
    "first_seen": "2026-09-25T16:01:13Z",
    "last_pre": {
-    "at": "2026-09-25T16:01:13Z",
+    "at": "2026-09-25T16:16:03Z",
     "fish": [
      0.0,
      0.0
@@ -6173,7 +6200,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-25T16:01:13Z",
+   "last_scan": "2026-09-25T16:16:03Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -6590,7 +6617,7 @@
    "cid": "0x20b71bf74fbb835c025b362bea96bf553be189065123d74c041464705406349f",
    "first_seen": "2026-09-24T10:15:19Z",
    "last_pre": {
-    "at": "2026-09-25T16:01:13Z",
+    "at": "2026-09-25T16:16:03Z",
     "fish": [
      0.0,
      0.0
@@ -6609,7 +6636,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-25T16:01:13Z",
+   "last_scan": "2026-09-25T16:16:03Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -7010,6 +7037,7 @@
     "side_name": "Zizou Bergs",
     "wallets": 5
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Zizou Bergs",
     "Ben Shelton"
@@ -7786,6 +7814,7 @@
     "side_name": "Ekaterina Alexandrova",
     "wallets": 11
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Ekaterina Alexandrova",
     "Clara Tauson"
@@ -8356,6 +8385,7 @@
     "side_name": "Magdalena Frech",
     "wallets": 2
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Magdalena Frech",
     "Leolia Jeanjean"
@@ -8447,6 +8477,7 @@
     "side_name": "Alex Molcan",
     "wallets": 19
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Alex Molcan",
     "Benjamin Bonzi"
@@ -8643,6 +8674,7 @@
     "side_name": "Sara Bejlek",
     "wallets": 15
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Sara Bejlek",
     "Ekaterina Alexandrova"
@@ -8865,6 +8897,7 @@
     "side_name": "Adolfo Vallejo",
     "wallets": 7
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Adolfo Vallejo",
     "Juncheng Shang"
@@ -9095,6 +9128,7 @@
     "side_name": "Alina Korneeva",
     "wallets": 16
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Alina Korneeva",
     "Coco Gauff"
@@ -9283,6 +9317,7 @@
     "side_name": "Aidan Mayo",
     "wallets": 2
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Rei Sakamoto",
     "Aidan Mayo"
@@ -10243,6 +10278,7 @@
     "side_name": "Leylah Fernandez",
     "wallets": 10
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Mirra Andreeva",
     "Leylah Fernandez"
@@ -10297,6 +10333,7 @@
     "side_name": "Jakub Mensik",
     "wallets": 33
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Jakub Mensik",
     "Ben Shelton"
@@ -10382,6 +10419,7 @@
     "side_name": "Carole Monnet",
     "wallets": 3
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Kaitlin Quevedo",
     "Carole Monnet"
@@ -10542,6 +10580,7 @@
     "side_name": "Luciano Darderi",
     "wallets": 9
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Luciano Darderi",
     "Rinky Hijikata"
@@ -10903,6 +10942,7 @@
     "side_name": "Valentin Royer",
     "wallets": 7
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Dalibor Svrcina",
     "Valentin Royer"
@@ -10960,6 +11000,7 @@
     "source": "at-serve-book",
     "wallets": 16
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Yibing Wu",
     "Adam Walton"
@@ -11016,6 +11057,7 @@
     "side_name": "Aryna Sabalenka",
     "wallets": 34
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Aryna Sabalenka",
     "Elena Rybakina"
@@ -11314,6 +11356,7 @@
     "side_name": "Petr Nesterov",
     "wallets": 9
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Adrian Andreev",
     "Petr Nesterov"
@@ -11473,6 +11516,7 @@
     "side_name": "Nikola Bartunkova",
     "wallets": 13
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Nikola Bartunkova",
     "Anastasia Potapova"
@@ -12321,6 +12365,7 @@
     "side_name": "Carol Young Suh Lee",
     "wallets": 5
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Elsa Jacquemot",
     "Carol Young Suh Lee"
@@ -12550,6 +12595,7 @@
     "source": "at-serve-book",
     "wallets": 5
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Harriet Dart",
     "Peyton Stearns"
@@ -13037,6 +13083,7 @@
     "side_name": "Mattia Bellucci",
     "wallets": 19
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Mattia Bellucci",
     "Luciano Darderi"
@@ -13193,6 +13240,7 @@
     "side_name": "Rinky Hijikata",
     "wallets": 5
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Jaume Munar",
     "Rinky Hijikata"
@@ -13877,6 +13925,7 @@
     "side_name": "Fabian Marozsan",
     "wallets": 31
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Fabian Marozsan",
     "Michael Zheng"
@@ -14176,6 +14225,7 @@
     "side_name": "Alexander Blockx",
     "wallets": 6
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Alexander Blockx",
     "Marco Trungelliti"
@@ -14387,6 +14437,7 @@
     "side_name": "Andrey Rublev",
     "wallets": 19
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Andrey Rublev",
     "Pablo Carreno Busta"
@@ -14671,6 +14722,7 @@
     "side_name": "Philip Henning",
     "wallets": 2
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Philip Henning",
     "Maks Kasnikowski"
@@ -14727,6 +14779,7 @@
     "side_name": "Jaume Munar",
     "wallets": 16
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Jaume Munar",
     "Arthur Rinderknech"
@@ -14847,6 +14900,7 @@
     "side_name": "J.J. Wolf",
     "wallets": 10
    },
+   "market_type": "moneyline",
    "outcomes": [
     "J.J. Wolf",
     "Mark Lajal"
@@ -15070,6 +15124,7 @@
     "side_name": "Denis Shapovalov",
     "wallets": 7
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Denis Shapovalov",
     "Dalibor Svrcina"
@@ -15196,6 +15251,7 @@
     "side_name": "Dalibor Svrcina",
     "wallets": 23
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Luciano Darderi",
     "Dalibor Svrcina"
@@ -15392,6 +15448,7 @@
     "side_name": "Marcos Giron",
     "wallets": 29
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Marcos Giron",
     "Ignacio Buse"
@@ -15688,7 +15745,7 @@
    "cid": "0x4da8851c252053d4d3fbf0442e00c3623c00b715e8fa18888e3c591d3b418049",
    "first_seen": "2026-09-24T17:15:21Z",
    "last_pre": {
-    "at": "2026-09-25T16:01:13Z",
+    "at": "2026-09-25T16:16:03Z",
     "fish": [
      0.0,
      0.0
@@ -15707,7 +15764,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-09-25T16:01:13Z",
+   "last_scan": "2026-09-25T16:16:03Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -16037,6 +16094,7 @@
     "side_name": "Kaitlin Quevedo",
     "wallets": 7
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Whitney Osuigwe",
     "Kaitlin Quevedo"
@@ -16087,6 +16145,7 @@
     "side_name": "Ann Li",
     "wallets": 14
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Camila Osorio",
     "Ann Li"
@@ -16419,6 +16478,7 @@
     "side_name": "Adam Walton",
     "wallets": 8
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Valentin Royer",
     "Adam Walton"
@@ -16747,6 +16807,7 @@
     "side_name": "Zachary Svajda",
     "wallets": 14
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Zachary Svajda",
     "Daniel Altmaier"
@@ -17043,6 +17104,7 @@
     "side_name": "Lorenzo Sonego",
     "wallets": 25
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Lorenzo Sonego",
     "Frances Tiafoe"
@@ -17265,6 +17327,7 @@
     "side_name": "Jakub Mensik",
     "wallets": 6
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Rinky Hijikata",
     "Jakub Mensik"
@@ -17531,6 +17594,7 @@
     "side_name": "Maya Joint",
     "wallets": 5
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Panna Udvardy",
     "Maya Joint"
@@ -17618,6 +17682,7 @@
     "side_name": "Elena Rybakina",
     "wallets": 27
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Qinwen Zheng",
     "Elena Rybakina"
@@ -17703,6 +17768,7 @@
     "side_name": "Arthur Rinderknech",
     "wallets": 10
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Frances Tiafoe",
     "Arthur Rinderknech"
@@ -17950,6 +18016,7 @@
     "side_name": "Luciano Darderi",
     "wallets": 19
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Luciano Darderi",
     "Brandon Nakashima"
@@ -18006,6 +18073,7 @@
     "side_name": "Marta Kostyuk",
     "wallets": 17
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Marta Kostyuk",
     "Ekaterina Alexandrova"
@@ -18062,6 +18130,7 @@
     "side_name": "Jiri Lehecka",
     "wallets": 26
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Jiri Lehecka",
     "Stefanos Tsitsipas"
@@ -18536,6 +18605,7 @@
     "side_name": "Osaka",
     "wallets": 3
    },
+   "market_type": "tennis_game_handicap",
    "outcomes": [
     "Osaka",
     "Mertens"
@@ -18548,7 +18618,11 @@
    "slug": "wta-osaka-mertens-2026-09-04",
    "start": "2026-09-05T23:00:00Z",
    "title": "US Open WTA: Naomi Osaka vs Elise Mertens",
-   "tour": "WTA"
+   "tour": "WTA",
+   "void": {
+    "at": "2026-09-25T16:16:09Z",
+    "reason": "locked on a tennis_game_handicap market, not the moneyline"
+   }
   },
   "0x5bff06a81177d1d5831a7240f4c056383818c5640166c5940f19b184956c713d": {
    "cid": "0x5bff06a81177d1d5831a7240f4c056383818c5640166c5940f19b184956c713d",
@@ -18870,6 +18944,7 @@
     "side_name": "Maria Timofeeva",
     "wallets": 15
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Shuai Zhang",
     "Maria Timofeeva"
@@ -18994,6 +19069,7 @@
     "side_name": "Caty McNally",
     "wallets": 9
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Caty McNally",
     "McCartney Kessler"
@@ -19152,6 +19228,7 @@
     "side_name": "Zsombor Piros",
     "wallets": 8
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Mattia Bellucci",
     "Zsombor Piros"
@@ -19206,6 +19283,7 @@
     "side_name": "Petra Marcinko",
     "wallets": 16
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Alycia Parks",
     "Petra Marcinko"
@@ -19256,6 +19334,7 @@
     "side_name": "Matteo Berrettini",
     "wallets": 18
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Matteo Berrettini",
     "Mariano Navone"
@@ -19774,6 +19853,7 @@
     "side_name": "Iva Jovic",
     "wallets": 7
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Iva Jovic",
     "Coco Gauff"
@@ -19824,6 +19904,7 @@
     "side_name": "Daniel Merida Aguilar",
     "wallets": 6
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Daniel Merida Aguilar",
     "Liam Draxl"
@@ -20082,6 +20163,7 @@
     "side_name": "Taylor Fritz",
     "wallets": 27
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Taylor Fritz",
     "Brandon Nakashima"
@@ -20138,6 +20220,7 @@
     "source": "at-serve-book",
     "wallets": 13
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Diane Parry",
     "Ann Li"
@@ -20575,6 +20658,7 @@
     "side_name": "Nikola Bartunkova",
     "wallets": 7
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Clara Tauson",
     "Nikola Bartunkova"
@@ -20666,6 +20750,7 @@
     "side_name": "Jessica Pegula",
     "wallets": 20
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Jessica Pegula",
     "Sorana Cirstea"
@@ -20963,6 +21048,7 @@
     "side_name": "Fabian Marozsan",
     "wallets": 6
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Miomir Kecmanovic",
     "Fabian Marozsan"
@@ -21544,7 +21630,7 @@
    "cid": "0x683feed0df35755c7c4c1b687101f82eb097a36741c5fe8978ec5712f9caad45",
    "first_seen": "2026-09-25T16:01:13Z",
    "last_pre": {
-    "at": "2026-09-25T16:01:13Z",
+    "at": "2026-09-25T16:16:03Z",
     "fish": [
      0.0,
      0.0
@@ -21563,7 +21649,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-25T16:01:13Z",
+   "last_scan": "2026-09-25T16:16:03Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -21612,6 +21698,7 @@
     "side_name": "Ben Shelton",
     "wallets": 13
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Alejandro Tabilo",
     "Ben Shelton"
@@ -21703,6 +21790,7 @@
     "side_name": "Luciano Darderi",
     "wallets": 7
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Luciano Darderi",
     "Harry Wendelken"
@@ -22428,6 +22516,7 @@
     "side_name": "Benjamin Bonzi",
     "wallets": 12
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Benjamin Bonzi",
     "Quentin Halys"
@@ -22583,6 +22672,7 @@
     "side_name": "Raphael Collignon",
     "wallets": 8
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Mariano Navone",
     "Raphael Collignon"
@@ -22639,6 +22729,7 @@
     "side_name": "Alejandro Tabilo",
     "wallets": 15
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Alexei Popyrin",
     "Alejandro Tabilo"
@@ -22829,6 +22920,7 @@
     "side_name": "Brandon Nakashima",
     "wallets": 9
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Brandon Nakashima",
     "Aleksandar Kovacevic"
@@ -23061,6 +23153,7 @@
     "side_name": "Iva Jovic",
     "wallets": 5
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Marie Bouzkova",
     "Iva Jovic"
@@ -23253,6 +23346,7 @@
     "side_name": "Kamil Majchrzak",
     "wallets": 19
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Kamil Majchrzak",
     "Gael Monfils"
@@ -23480,6 +23574,7 @@
     "side_name": "Caty McNally",
     "wallets": 7
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Kristina Liutova",
     "Caty McNally"
@@ -24113,6 +24208,7 @@
     "side_name": "Daniel Altmaier",
     "wallets": 14
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Daniel Altmaier",
     "Francisco Comesana"
@@ -24417,6 +24513,7 @@
     "side_name": "Donna Vekic",
     "wallets": 10
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Ann Li",
     "Donna Vekic"
@@ -24975,6 +25072,7 @@
     "side_name": "Zizou Bergs",
     "wallets": 22
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Daniel Merida Aguilar",
     "Zizou Bergs"
@@ -25100,6 +25198,7 @@
     "side_name": "Hamad Medjedovic",
     "wallets": 12
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Hamad Medjedovic",
     "Marco Trungelliti"
@@ -25150,6 +25249,7 @@
     "side_name": "Mattia Bellucci",
     "wallets": 13
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Sebastian Baez",
     "Mattia Bellucci"
@@ -25204,6 +25304,7 @@
     "side_name": "Alexander Donski",
     "wallets": 9
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Alexander Donski",
     "Daniil Glinka"
@@ -25528,6 +25629,7 @@
     "side_name": "Takuya Kumasaka",
     "wallets": 3
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Alexander Donski",
     "Takuya Kumasaka"
@@ -25671,6 +25773,7 @@
     "side_name": "Frances Tiafoe",
     "wallets": 26
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Daniil Medvedev",
     "Frances Tiafoe"
@@ -25793,6 +25896,7 @@
     "side_name": "Rafael Jodar",
     "wallets": 20
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Taylor Fritz",
     "Rafael Jodar"
@@ -25985,6 +26089,7 @@
     "side_name": "Katie Volynets",
     "wallets": 4
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Darja Vidmanova",
     "Katie Volynets"
@@ -26370,6 +26475,7 @@
     "side_name": "Jessica Bouzas Maneiro",
     "wallets": 5
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Darja Vidmanova",
     "Jessica Bouzas Maneiro"
@@ -26491,6 +26597,7 @@
     "side_name": "Constantin Bittoun Kouzmine",
     "wallets": 4
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Constantin Bittoun Kouzmine",
     "Gabriel Debru"
@@ -26616,6 +26723,7 @@
     "side_name": "Kei Nishikori",
     "wallets": 11
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Sebastian Ofner",
     "Kei Nishikori"
@@ -27003,6 +27111,7 @@
     "side_name": "Denis Shapovalov",
     "wallets": 13
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Miomir Kecmanovic",
     "Denis Shapovalov"
@@ -27428,6 +27537,7 @@
     "source": "at-serve-book",
     "wallets": 7
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Qinwen Zheng",
     "Kristina Liutova"
@@ -27517,6 +27627,7 @@
     "side_name": "Rinky Hijikata",
     "wallets": 10
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Rinky Hijikata",
     "Benjamin Bonzi"
@@ -27643,6 +27754,7 @@
     "side_name": "Marta Kostyuk",
     "wallets": 24
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Coco Gauff",
     "Marta Kostyuk"
@@ -27804,6 +27916,7 @@
     "side_name": "Valentin Vacherot",
     "wallets": 17
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Valentin Vacherot",
     "Mariano Navone"
@@ -28564,6 +28677,7 @@
     "side_name": "Fabian Marozsan",
     "wallets": 6
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Fabian Marozsan",
     "James Duckworth"
@@ -28618,6 +28732,7 @@
     "side_name": "Nuno Borges",
     "wallets": 11
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Nuno Borges",
     "Luciano Darderi"
@@ -29321,6 +29436,7 @@
     "side_name": "Brandon Nakashima",
     "wallets": 9
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Alex de Minaur",
     "Brandon Nakashima"
@@ -29727,6 +29843,7 @@
     "side_name": "Zizou Bergs",
     "wallets": 18
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Zizou Bergs",
     "Botic van de Zandschulp"
@@ -30123,6 +30240,7 @@
     "side_name": "Tomas Machac",
     "wallets": 26
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Tomas Machac",
     "Pablo Carreno Busta"
@@ -30179,6 +30297,7 @@
     "side_name": "Coco Gauff",
     "wallets": 12
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Mirra Andreeva",
     "Coco Gauff"
@@ -30264,6 +30383,7 @@
     "side_name": "Frederico Ferreira Silva",
     "wallets": 6
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Jan Kumstat",
     "Frederico Ferreira Silva"
@@ -31189,6 +31309,7 @@
     "side_name": "Frances Tiafoe",
     "wallets": 18
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Valentin Vacherot",
     "Frances Tiafoe"
@@ -31482,6 +31603,7 @@
     "side_name": "Adam Walton",
     "wallets": 6
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Adam Walton",
     "Jenson Brooksby"
@@ -31602,6 +31724,7 @@
     "side_name": "Kamilla Rakhimova",
     "wallets": 3
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Kamilla Rakhimova",
     "Katerina Siniakova"
@@ -31722,6 +31845,7 @@
     "side_name": "Sofia Costoulas",
     "wallets": 4
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Gabriela Knutson",
     "Sofia Costoulas"
@@ -32012,6 +32136,7 @@
     "side_name": "Arthur Gea",
     "wallets": 18
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Zachary Svajda",
     "Arthur Gea"
@@ -32172,6 +32297,7 @@
     "side_name": "Karolina Pliskova",
     "wallets": 10
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Sara Bejlek",
     "Karolina Pliskova"
@@ -32280,6 +32406,7 @@
     "side_name": "Marta Kostyuk",
     "wallets": 17
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Marta Kostyuk",
     "Linda Noskova"
@@ -32585,6 +32712,7 @@
     "side_name": "Elena Rybakina",
     "wallets": 22
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Iga Swiatek",
     "Elena Rybakina"
@@ -32744,6 +32872,7 @@
     "side_name": "Mark Lajal",
     "wallets": 15
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Mark Lajal",
     "Juan Manuel Cerundolo"
@@ -32829,6 +32958,7 @@
     "side_name": "Jessica Pegula",
     "wallets": 26
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Amanda Anisimova",
     "Jessica Pegula"
@@ -32847,7 +32977,7 @@
    "cid": "0x9f5825eb09eb887290d6757ae513de2c88e05d14455e43eededbed485bb32f82",
    "first_seen": "2026-09-24T17:15:21Z",
    "last_pre": {
-    "at": "2026-09-25T16:01:13Z",
+    "at": "2026-09-25T16:16:03Z",
     "fish": [
      0.0,
      0.0
@@ -32866,7 +32996,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-25T16:01:13Z",
+   "last_scan": "2026-09-25T16:16:03Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -33124,6 +33254,7 @@
     "side_name": "Vit Kopriva",
     "wallets": 6
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Jiri Lehecka",
     "Vit Kopriva"
@@ -33674,6 +33805,7 @@
     "side_name": "Anna Blinkova",
     "wallets": 7
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Anna Blinkova",
     "Alina Charaeva"
@@ -33765,6 +33897,7 @@
     "side_name": "Ben Shelton",
     "wallets": 35
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Ben Shelton",
     "Stefanos Tsitsipas"
@@ -33814,7 +33947,7 @@
    "cid": "0xa3fac3636ea9c127aaf046f1d811a60b655e4cbe3eb1f058a52fb08efff431d2",
    "first_seen": "2026-09-23T16:00:59Z",
    "last_pre": {
-    "at": "2026-09-25T16:01:13Z",
+    "at": "2026-09-25T16:16:03Z",
     "fish": [
      0.0,
      4600.0
@@ -33833,7 +33966,7 @@
     "state": "aligned",
     "wallets": 4
    },
-   "last_scan": "2026-09-25T16:01:13Z",
+   "last_scan": "2026-09-25T16:16:03Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -34371,6 +34504,7 @@
     "side_name": "Elena Rybakina",
     "wallets": 29
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Coco Gauff",
     "Elena Rybakina"
@@ -34462,6 +34596,7 @@
     "side_name": "Robin Montgomery",
     "wallets": 23
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Maria Sakkari",
     "Robin Montgomery"
@@ -34649,6 +34784,7 @@
     "side_name": "Abedallah Shelbayh",
     "wallets": 7
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Martin Damm",
     "Abedallah Shelbayh"
@@ -34702,7 +34838,7 @@
    "cid": "0xaa59cf9c41a0455a3cd3a35b506cb2035c00bc5f3df23e441e31b221fddf3783",
    "first_seen": "2026-09-24T11:15:21Z",
    "last_pre": {
-    "at": "2026-09-25T16:01:13Z",
+    "at": "2026-09-25T16:16:03Z",
     "fish": [
      1213.0,
      4465.0
@@ -34721,7 +34857,7 @@
     "state": "thin",
     "wallets": 5
    },
-   "last_scan": "2026-09-25T16:01:13Z",
+   "last_scan": "2026-09-25T16:16:03Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -35018,6 +35154,7 @@
     "side_name": "Francesco Passaro",
     "wallets": 8
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Jesper de Jong",
     "Francesco Passaro"
@@ -35210,6 +35347,7 @@
     "side_name": "Martin Landaluce",
     "wallets": 9
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Martin Landaluce",
     "Mattia Bellucci"
@@ -35301,6 +35439,7 @@
     "side_name": "Katie Volynets",
     "wallets": 4
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Katie Volynets",
     "Elvina Kalieva"
@@ -35685,6 +35824,7 @@
     "side_name": "Lorenzo Musetti",
     "wallets": 17
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Rafael Jodar",
     "Lorenzo Musetti"
@@ -35807,6 +35947,7 @@
     "side_name": "Jaume Munar",
     "wallets": 14
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Jaume Munar",
     "Alexander Blockx"
@@ -36091,6 +36232,7 @@
     "side_name": "Elena Rybakina",
     "wallets": 15
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Coco Gauff",
     "Elena Rybakina"
@@ -36282,6 +36424,7 @@
     "side_name": "Spencer Johnson",
     "wallets": 5
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Moez Echargui",
     "Spencer Johnson"
@@ -36443,6 +36586,7 @@
     "side_name": "Karen Khachanov",
     "wallets": 34
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Karen Khachanov",
     "Alexander Blockx"
@@ -36599,6 +36743,7 @@
     "side_name": "Flavio Cobolli",
     "wallets": 6
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Flavio Cobolli",
     "Yannick Hanfmann"
@@ -36655,6 +36800,7 @@
     "side_name": "Jakub Mensik",
     "wallets": 25
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Jakub Mensik",
     "Learner Tien"
@@ -36807,6 +36953,7 @@
     "side_name": "Martin Damm",
     "wallets": 15
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Martin Damm",
     "Stefanos Tsitsipas"
@@ -37083,6 +37230,7 @@
     "side_name": "Botic van de Zandschulp",
     "wallets": 19
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Botic van de Zandschulp",
     "Luciano Darderi"
@@ -37454,6 +37602,7 @@
     "side_name": "Lorenzo Musetti",
     "wallets": 35
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Lorenzo Musetti",
     "Frances Tiafoe"
@@ -38115,6 +38264,7 @@
     "side_name": "Matteo Berrettini",
     "wallets": 10
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Matteo Berrettini",
     "Mariano Navone"
@@ -38417,6 +38567,7 @@
     "side_name": "Frances Tiafoe",
     "wallets": 27
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Arthur Fils",
     "Frances Tiafoe"
@@ -38646,6 +38797,7 @@
     "side_name": "Reese Brantmeier",
     "wallets": 18
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Oleksandra Oliynykova",
     "Reese Brantmeier"
@@ -38801,7 +38953,7 @@
    "cid": "0xbc06584b0913a90e8c5f71959822f88c05ac7f6b21ec0865820c18845af9ab28",
    "first_seen": "2026-09-24T16:00:21Z",
    "last_pre": {
-    "at": "2026-09-25T16:01:13Z",
+    "at": "2026-09-25T16:16:03Z",
     "fish": [
      0.0,
      0.0
@@ -38820,7 +38972,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-25T16:01:13Z",
+   "last_scan": "2026-09-25T16:16:03Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -39386,6 +39538,7 @@
     "side_name": "Arthur Fils",
     "wallets": 20
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Arthur Fils",
     "Cameron Norrie"
@@ -39626,7 +39779,7 @@
     "state": "crowded",
     "wallets": 9
    },
-   "last_scan": "2026-09-25T16:01:13Z",
+   "last_scan": "2026-09-25T16:16:03Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -39888,6 +40041,7 @@
     "side_name": "Flavio Cobolli",
     "wallets": 16
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Miomir Kecmanovic",
     "Flavio Cobolli"
@@ -40117,6 +40271,7 @@
     "side_name": "Karen Khachanov",
     "wallets": 37
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Karen Khachanov",
     "Learner Tien"
@@ -40339,6 +40494,7 @@
     "side_name": "Gabriela Ruse",
     "wallets": 11
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Gabriela Ruse",
     "Anastasia Potapova"
@@ -40608,6 +40764,7 @@
     "side_name": "Naomi Osaka",
     "wallets": 4
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Naomi Osaka",
     "Elise Mertens"
@@ -40662,6 +40819,7 @@
     "side_name": "Frances Tiafoe",
     "wallets": 22
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Learner Tien",
     "Frances Tiafoe"
@@ -41192,6 +41350,7 @@
     "side_name": "Christopher O'Connell",
     "wallets": 6
    },
+   "market_type": "moneyline",
    "outcomes": [
     "James Duckworth",
     "Christopher O'Connell"
@@ -41281,6 +41440,7 @@
     "side_name": "Michael Zheng",
     "wallets": 7
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Fabian Marozsan",
     "Michael Zheng"
@@ -42472,6 +42632,7 @@
     "side_name": "Dalma Galfi",
     "wallets": 3
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Dalma Galfi",
     "Ella Seidel"
@@ -42557,6 +42718,7 @@
     "side_name": "Titouan Droguet",
     "wallets": 2
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Luca Van Assche",
     "Titouan Droguet"
@@ -42648,6 +42810,7 @@
     "side_name": "Kamil Majchrzak",
     "wallets": 28
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Valentin Vacherot",
     "Kamil Majchrzak"
@@ -42775,6 +42938,7 @@
     "side_name": "Giovanni Mpetshi Perricard",
     "wallets": 12
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Jurij Rodionov",
     "Giovanni Mpetshi Perricard"
@@ -42829,6 +42993,7 @@
     "side_name": "Mees Rottgering",
     "wallets": 9
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Mees Rottgering",
     "Tomas Machac"
@@ -42949,6 +43114,7 @@
     "side_name": "Saba Purtseladze",
     "wallets": 3
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Saba Purtseladze",
     "Mert Alkaya"
@@ -43309,6 +43475,7 @@
     "side_name": "Elina Svitolina",
     "wallets": 13
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Alexandra Eala",
     "Elina Svitolina"
@@ -43472,6 +43639,7 @@
     "side_name": "Taro Daniel",
     "wallets": 12
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Dane Sweeny",
     "Taro Daniel"
@@ -44083,6 +44251,7 @@
     "side_name": "Hubert Hurkacz",
     "wallets": 7
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Corentin Moutet",
     "Hubert Hurkacz"
@@ -44132,7 +44301,7 @@
    "cid": "0xd69d448257ae7a1704b24b6ee0758c05bbb0177049e6e5d31322d450bd531299",
    "first_seen": "2026-09-24T17:15:21Z",
    "last_pre": {
-    "at": "2026-09-25T16:01:13Z",
+    "at": "2026-09-25T16:16:03Z",
     "fish": [
      0.0,
      0.0
@@ -44151,7 +44320,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-25T16:01:13Z",
+   "last_scan": "2026-09-25T16:16:03Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -44375,6 +44544,7 @@
     "side_name": "Amanda Anisimova",
     "wallets": 33
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Alexandra Eala",
     "Amanda Anisimova"
@@ -44558,6 +44728,7 @@
     "side_name": "Terence Atmane",
     "wallets": 16
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Terence Atmane",
     "Jack Draper"
@@ -44888,6 +45059,7 @@
     "side_name": "Juan Manuel Cerundolo",
     "wallets": 15
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Juan Manuel Cerundolo",
     "Hamad Medjedovic"
@@ -45110,6 +45282,7 @@
     "side_name": "Marcos Giron",
     "wallets": 7
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Hubert Hurkacz",
     "Marcos Giron"
@@ -45160,6 +45333,7 @@
     "side_name": "Polina Kudermetova",
     "wallets": 4
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Alina Korneeva",
     "Polina Kudermetova"
@@ -45322,6 +45496,7 @@
     "side_name": "Gabriela Ruse",
     "wallets": 7
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Eva Lys",
     "Gabriela Ruse"
@@ -45411,6 +45586,7 @@
     "side_name": "Adolfo Vallejo",
     "wallets": 14
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Botic van de Zandschulp",
     "Adolfo Vallejo"
@@ -45920,7 +46096,7 @@
    "cid": "0xdf45f761993a2612caa39834d7808eff9f7b56a80e61ca0be282491a289c2d11",
    "first_seen": "2026-09-24T05:15:19Z",
    "last_pre": {
-    "at": "2026-09-25T16:01:13Z",
+    "at": "2026-09-25T16:16:03Z",
     "fish": [
      0.0,
      0.0
@@ -45939,7 +46115,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-25T16:01:13Z",
+   "last_scan": "2026-09-25T16:16:03Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -46131,6 +46307,7 @@
     "side_name": "Gael Monfils",
     "wallets": 16
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Adolfo Vallejo",
     "Gael Monfils"
@@ -46584,6 +46761,7 @@
     "side_name": "Alex de Minaur",
     "wallets": 6
    },
+   "market_type": "moneyline",
    "outcomes": [
     "James Duckworth",
     "Alex de Minaur"
@@ -46812,6 +46990,7 @@
     "side_name": "Harold Mayot",
     "wallets": 4
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Filip Pieczonka",
     "Harold Mayot"
@@ -47073,6 +47252,7 @@
     "side_name": "Elise Mertens",
     "wallets": 10
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Nikola Bartunkova",
     "Elise Mertens"
@@ -47588,6 +47768,7 @@
     "side_name": "Katerina Siniakova",
     "wallets": 4
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Maria Timofeeva",
     "Katerina Siniakova"
@@ -47816,6 +47997,7 @@
     "source": "at-serve-book",
     "wallets": 17
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Brandon Nakashima",
     "Alex Michelsen"
@@ -47975,7 +48157,7 @@
    "cid": "0xe94484f92f772ab6c9e9da1cd5bf132f2f3ad7ddf2b2f897715207627ea18925",
    "first_seen": "2026-09-25T16:01:13Z",
    "last_pre": {
-    "at": "2026-09-25T16:01:13Z",
+    "at": "2026-09-25T16:16:03Z",
     "fish": [
      0.0,
      0.0
@@ -47994,7 +48176,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-25T16:01:13Z",
+   "last_scan": "2026-09-25T16:16:03Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -48481,6 +48663,7 @@
     "side_name": "Jenson Brooksby",
     "wallets": 23
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Jaime Faria",
     "Jenson Brooksby"
@@ -48602,6 +48785,7 @@
     "side_name": "Taylor Townsend",
     "wallets": 2
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Tereza Valentova",
     "Taylor Townsend"
@@ -48725,6 +48909,7 @@
     "side_name": "Magdalena Frech",
     "wallets": 6
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Magdalena Frech",
     "Caroline Dolehide"
@@ -49018,6 +49203,7 @@
     "side_name": "Petr Bar Biryukov",
     "wallets": 2
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Petr Bar Biryukov",
     "Paul Inchauspe"
@@ -49074,6 +49260,7 @@
     "source": "at-serve-book",
     "wallets": 24
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Diane Parry",
     "Elise Mertens"
@@ -49432,6 +49619,7 @@
     "side_name": "Ignacio Buse",
     "wallets": 24
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Arthur Fery",
     "Ignacio Buse"
@@ -49587,6 +49775,7 @@
     "side_name": "Stefanos Tsitsipas",
     "wallets": 8
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Stefanos Tsitsipas",
     "Felix Auger-Aliassime"
@@ -49672,6 +49861,7 @@
     "side_name": "Anastasia Zakharova",
     "wallets": 2
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Anastasia Zakharova",
     "Renata Zarazua"
@@ -49728,6 +49918,7 @@
     "side_name": "Andrey Rublev",
     "wallets": 28
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Daniel Merida Aguilar",
     "Andrey Rublev"
@@ -50481,6 +50672,7 @@
     "side_name": "Jesper de Jong",
     "wallets": 7
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Zizou Bergs",
     "Jesper de Jong"
@@ -50735,6 +50927,7 @@
     "side_name": "Elizara Yaneva",
     "wallets": 2
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Linda Klimovicova",
     "Elizara Yaneva"
@@ -50861,6 +51054,7 @@
     "side_name": "Toby Samuel",
     "wallets": 20
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Toby Samuel",
     "Tomas Machac"
@@ -50952,6 +51146,7 @@
     "side_name": "Jessica Pegula",
     "wallets": 29
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Aryna Sabalenka",
     "Jessica Pegula"
@@ -51129,6 +51324,7 @@
     "side_name": "Elena Rybakina",
     "wallets": 19
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Naomi Osaka",
     "Elena Rybakina"
@@ -51246,6 +51442,7 @@
     "side_name": "Aleksandar Vukic",
     "wallets": 8
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Aleksandar Vukic",
     "Daniel Altmaier"
@@ -51611,7 +51808,7 @@
     "state": "none",
     "wallets": 3
    },
-   "last_scan": "2026-09-25T16:01:13Z",
+   "last_scan": "2026-09-25T16:16:03Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -52099,6 +52296,7 @@
     "side_name": "Alexei Popyrin",
     "wallets": 14
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Alexei Popyrin",
     "Thiago Agustin Tirante"
@@ -52257,6 +52455,7 @@
     "source": "at-serve-book",
     "wallets": 20
    },
+   "market_type": "moneyline",
    "outcomes": [
     "Nuno Borges",
     "Learner Tien"
@@ -52583,6 +52782,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-09-25T16:01:13Z",
+ "updated": "2026-09-25T16:16:03Z",
  "version": 1
 }
