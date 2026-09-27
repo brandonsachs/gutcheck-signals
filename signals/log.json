@@ -506,7 +506,7 @@
    "cid": "0x0415033b1975da826a4624a1ffdfc3095dc3d082ff94c5f35892ddbda51cb3a5",
    "first_seen": "2026-09-27T16:31:18Z",
    "last_pre": {
-    "at": "2026-09-27T16:31:18Z",
+    "at": "2026-09-27T16:46:13Z",
     "fish": [
      0.0,
      0.0
@@ -525,7 +525,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-27T16:31:18Z",
+   "last_scan": "2026-09-27T16:46:13Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -3943,7 +3943,7 @@
    "cid": "0x13e875ac44bef5fba51d02cd0c1332cc3cf0b8b90a350abbeee9630f07a1ec07",
    "first_seen": "2026-09-27T16:31:18Z",
    "last_pre": {
-    "at": "2026-09-27T16:31:18Z",
+    "at": "2026-09-27T16:46:13Z",
     "fish": [
      0.0,
      0.0
@@ -3962,7 +3962,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-27T16:31:18Z",
+   "last_scan": "2026-09-27T16:46:13Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -7749,7 +7749,7 @@
    "cid": "0x2697ee9d06e66e86b2324fab943fe7f689d495e8c3bbb29f8ad05e2315298ca4",
    "first_seen": "2026-09-27T16:31:18Z",
    "last_pre": {
-    "at": "2026-09-27T16:31:18Z",
+    "at": "2026-09-27T16:46:13Z",
     "fish": [
      0.0,
      0.0
@@ -7768,7 +7768,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-27T16:31:18Z",
+   "last_scan": "2026-09-27T16:46:13Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -8938,7 +8938,7 @@
    "cid": "0x2c1bbdc405a7ef6f481be75ce41381c743835cb36950a6455bd34f29889f8d45",
    "first_seen": "2026-09-27T16:31:18Z",
    "last_pre": {
-    "at": "2026-09-27T16:31:18Z",
+    "at": "2026-09-27T16:46:13Z",
     "fish": [
      0.0,
      0.0
@@ -8957,7 +8957,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-27T16:31:18Z",
+   "last_scan": "2026-09-27T16:46:13Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -11989,6 +11989,42 @@
    "title": "Lexington: Spencer Johnson vs Andres Martin",
    "tour": "ATP"
   },
+  "0x37835661265622ab1403b5063521a7c4b777b89ac18768f32605581cc5f07f99": {
+   "cid": "0x37835661265622ab1403b5063521a7c4b777b89ac18768f32605581cc5f07f99",
+   "first_seen": "2026-09-27T16:46:13Z",
+   "last_pre": {
+    "at": "2026-09-27T16:46:13Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-09-27T16:46:13Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Ulrikke Eikeri",
+    "Varvara Lepchenko"
+   ],
+   "result": null,
+   "slug": "wta-eikeri-lepchen-2026-09-28",
+   "start": "2026-09-28T07:30:00Z",
+   "title": "China Open, Qualification: Ulrikke Eikeri vs Varvara Lepchenko",
+   "tour": "WTA"
+  },
   "0x37a595a1d377f8b6220597de0156224251303dcfc8af69811291f86190824c25": {
    "cid": "0x37a595a1d377f8b6220597de0156224251303dcfc8af69811291f86190824c25",
    "first_seen": "2026-08-24T20:01:05Z",
@@ -12772,7 +12808,7 @@
    "cid": "0x3bee6f1cee38fb2c8b0d812cbdade0ca9541c9ace52098b74a4fa3ea2a76e69b",
    "first_seen": "2026-09-27T11:16:13Z",
    "last_pre": {
-    "at": "2026-09-27T16:31:18Z",
+    "at": "2026-09-27T16:46:13Z",
     "fish": [
      0.0,
      0.0
@@ -12791,7 +12827,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-27T16:31:18Z",
+   "last_scan": "2026-09-27T16:46:13Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -34077,7 +34113,7 @@
    "cid": "0xa39c7faea7d4d88af3161adf66b467b145dbc0af11bcfc93f299b883e066b711",
    "first_seen": "2026-09-27T16:31:18Z",
    "last_pre": {
-    "at": "2026-09-27T16:31:18Z",
+    "at": "2026-09-27T16:46:13Z",
     "fish": [
      0.0,
      0.0
@@ -34096,7 +34132,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-27T16:31:18Z",
+   "last_scan": "2026-09-27T16:46:13Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -34351,7 +34387,7 @@
    "cid": "0xa472c7b8f8dc065a8aef7376fc5487fa05850bc1f44de6ee508e81bf1092305c",
    "first_seen": "2026-09-27T16:31:18Z",
    "last_pre": {
-    "at": "2026-09-27T16:31:18Z",
+    "at": "2026-09-27T16:46:13Z",
     "fish": [
      0.0,
      0.0
@@ -34370,7 +34406,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-27T16:31:18Z",
+   "last_scan": "2026-09-27T16:46:13Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -35670,7 +35706,7 @@
    "cid": "0xace1e649ba8f6ecfe030b2235f8d8e9462c1ac294c98bea43f380c9276c9ce1d",
    "first_seen": "2026-09-27T16:31:18Z",
    "last_pre": {
-    "at": "2026-09-27T16:31:18Z",
+    "at": "2026-09-27T16:46:13Z",
     "fish": [
      0.0,
      0.0
@@ -35689,7 +35725,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-27T16:31:18Z",
+   "last_scan": "2026-09-27T16:46:13Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -37169,7 +37205,7 @@
    "cid": "0xb33d861e02dad73ceddc05af84ed2014e46143cd95a726f19593313c1a97977c",
    "first_seen": "2026-09-27T16:31:18Z",
    "last_pre": {
-    "at": "2026-09-27T16:31:18Z",
+    "at": "2026-09-27T16:46:13Z",
     "fish": [
      0.0,
      0.0
@@ -37188,7 +37224,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-27T16:31:18Z",
+   "last_scan": "2026-09-27T16:46:13Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -38816,7 +38852,7 @@
    "cid": "0xb90afeeeb5ffc2bcb23c711ff32946aed486634582d7b30a270c23cd02b7695c",
    "first_seen": "2026-09-27T11:16:13Z",
    "last_pre": {
-    "at": "2026-09-27T16:31:18Z",
+    "at": "2026-09-27T16:46:13Z",
     "fish": [
      0.0,
      0.0
@@ -38835,7 +38871,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-27T16:31:18Z",
+   "last_scan": "2026-09-27T16:46:13Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -40122,6 +40158,42 @@
    "title": "National Bank Open: Arthur Fils vs Cameron Norrie",
    "tour": "ATP"
   },
+  "0xbf274cf7b438a6d9e64872e21925564a6ca0a270f8eeac5182b583063913fd2d": {
+   "cid": "0xbf274cf7b438a6d9e64872e21925564a6ca0a270f8eeac5182b583063913fd2d",
+   "first_seen": "2026-09-27T16:46:13Z",
+   "last_pre": {
+    "at": "2026-09-27T16:46:13Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-09-27T16:46:13Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Katarzyna Kawa",
+    "Rinko Matsuda"
+   ],
+   "result": null,
+   "slug": "wta-kawa-matsuda-2026-09-28",
+   "start": "2026-09-28T04:30:00Z",
+   "title": "China Open, Qualification: Katarzyna Kawa vs Rinko Matsuda",
+   "tour": "WTA"
+  },
   "0xbf47fa49b90e6358512a6df8a18c27d55dc0d545a9027a8285e9585f4c3849de": {
    "cid": "0xbf47fa49b90e6358512a6df8a18c27d55dc0d545a9027a8285e9585f4c3849de",
    "first_seen": "2026-08-01T22:11:46Z",
@@ -40323,6 +40395,42 @@
    "slug": "wta-kostyuk-swiatek-2026-08-09",
    "start": "2026-08-08T16:35:00Z",
    "title": "National Bank Open: Marta Kostyuk vs Iga Swiatek",
+   "tour": "WTA"
+  },
+  "0xc1237851c09fb7a8abbe3178be66b303973ca8a9ac48a3888fd8a559125c830a": {
+   "cid": "0xc1237851c09fb7a8abbe3178be66b303973ca8a9ac48a3888fd8a559125c830a",
+   "first_seen": "2026-09-27T16:46:13Z",
+   "last_pre": {
+    "at": "2026-09-27T16:46:13Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-09-27T16:46:13Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Valeria Savinykh",
+    "Irene Burillo Escorihuela"
+   ],
+   "result": null,
+   "slug": "wta-savinyk-escorih-2026-09-28",
+   "start": "2026-09-28T04:30:00Z",
+   "title": "China Open, Qualification: Valeria Savinykh vs Irene Burillo Escorihuela",
    "tour": "WTA"
   },
   "0xc159756df847ca238378e4934cf2cdce6c8d2a31919759d4e1151a82bcad427c": {
@@ -42850,6 +42958,42 @@
    "slug": "wta-udvardy-osaka-2026-08-06",
    "start": "2026-08-05T21:00:00Z",
    "title": "National Bank Open: Panna Udvardy vs Naomi Osaka",
+   "tour": "WTA"
+  },
+  "0xcdb783973b0eccb38972ddb4e4d01292d293a5f405645d763e2f78c76a7a6a2f": {
+   "cid": "0xcdb783973b0eccb38972ddb4e4d01292d293a5f405645d763e2f78c76a7a6a2f",
+   "first_seen": "2026-09-27T16:46:13Z",
+   "last_pre": {
+    "at": "2026-09-27T16:46:13Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-09-27T16:46:13Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Aliaksandra Sasnovich",
+    "Junhan Zhang"
+   ],
+   "result": null,
+   "slug": "wta-sasnovi-junhanz-2026-09-28",
+   "start": "2026-09-28T06:00:00Z",
+   "title": "China Open, Qualification: Aliaksandra Sasnovich vs Junhan Zhang",
    "tour": "WTA"
   },
   "0xcdc49824ddff541a8b6de3496c860ac1174b64d25314e365e2732ea07012b6fd": {
@@ -53423,6 +53567,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-09-27T16:31:18Z",
+ "updated": "2026-09-27T16:46:13Z",
  "version": 1
 }
