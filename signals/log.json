@@ -502,6 +502,42 @@
    "title": "Korea Open: Lanlana Tararudee vs So-Hyun Park",
    "tour": "WTA"
   },
+  "0x0415033b1975da826a4624a1ffdfc3095dc3d082ff94c5f35892ddbda51cb3a5": {
+   "cid": "0x0415033b1975da826a4624a1ffdfc3095dc3d082ff94c5f35892ddbda51cb3a5",
+   "first_seen": "2026-09-27T16:31:18Z",
+   "last_pre": {
+    "at": "2026-09-27T16:31:18Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-09-27T16:31:18Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Yufei Ren",
+    "Yexin Ma"
+   ],
+   "result": null,
+   "slug": "wta-ren-ma-2026-09-27",
+   "start": "2026-09-28T03:00:00Z",
+   "title": "China Open, Qualification: Yufei Ren vs Yexin Ma",
+   "tour": "WTA"
+  },
   "0x041eb404c839cdb46387c06c4c74cbc72eb35a0d68adf2ce6171523b64d16788": {
    "cid": "0x041eb404c839cdb46387c06c4c74cbc72eb35a0d68adf2ce6171523b64d16788",
    "first_seen": "2026-08-04T04:16:03Z",
@@ -3901,6 +3937,42 @@
    "slug": "wta-tjen-golubic-2026-08-16",
    "start": "2026-08-16T15:05:00Z",
    "title": "Cincinnati Open: Janice Tjen vs Viktorija Golubic",
+   "tour": "WTA"
+  },
+  "0x13e875ac44bef5fba51d02cd0c1332cc3cf0b8b90a350abbeee9630f07a1ec07": {
+   "cid": "0x13e875ac44bef5fba51d02cd0c1332cc3cf0b8b90a350abbeee9630f07a1ec07",
+   "first_seen": "2026-09-27T16:31:18Z",
+   "last_pre": {
+    "at": "2026-09-27T16:31:18Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-09-27T16:31:18Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Tereza Mihalikova",
+    "Han Shi"
+   ],
+   "result": null,
+   "slug": "wta-mihalik-shi-2026-09-28",
+   "start": "2026-09-28T06:00:00Z",
+   "title": "China Open, Qualification: Tereza Mihalikova vs Han Shi",
    "tour": "WTA"
   },
   "0x145685a073aa06cd5326a0a0c1261b6a95f5a529e6934ed8ae7f3372bceb034a": {
@@ -7673,6 +7745,42 @@
    "title": "San Marino: Juan Pablo Varillas vs Timofey Skatov",
    "tour": "ATP"
   },
+  "0x2697ee9d06e66e86b2324fab943fe7f689d495e8c3bbb29f8ad05e2315298ca4": {
+   "cid": "0x2697ee9d06e66e86b2324fab943fe7f689d495e8c3bbb29f8ad05e2315298ca4",
+   "first_seen": "2026-09-27T16:31:18Z",
+   "last_pre": {
+    "at": "2026-09-27T16:31:18Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-09-27T16:31:18Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Dayana Yastremska",
+    "Jiaqi Wang"
+   ],
+   "result": null,
+   "slug": "wta-yastrem-jiaqiwa-2026-09-27",
+   "start": "2026-09-28T03:00:00Z",
+   "title": "China Open, Qualification: Dayana Yastremska vs Jiaqi Wang",
+   "tour": "WTA"
+  },
   "0x2698297d2e5a40b0358ff8fd886ad9cb26f8908a7d37dd216aa8e135df19599f": {
    "cid": "0x2698297d2e5a40b0358ff8fd886ad9cb26f8908a7d37dd216aa8e135df19599f",
    "first_seen": "2026-08-02T06:41:29Z",
@@ -8824,6 +8932,42 @@
    "slug": "wta-noskova-mcnally-2026-08-06",
    "start": "2026-08-05T22:30:00Z",
    "title": "National Bank Open: Linda Noskova vs Caty McNally",
+   "tour": "WTA"
+  },
+  "0x2c1bbdc405a7ef6f481be75ce41381c743835cb36950a6455bd34f29889f8d45": {
+   "cid": "0x2c1bbdc405a7ef6f481be75ce41381c743835cb36950a6455bd34f29889f8d45",
+   "first_seen": "2026-09-27T16:31:18Z",
+   "last_pre": {
+    "at": "2026-09-27T16:31:18Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-09-27T16:31:18Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Elvina Kalieva",
+    "Ellen Perez"
+   ],
+   "result": null,
+   "slug": "wta-kalieva-perez-2026-09-28",
+   "start": "2026-09-28T06:00:00Z",
+   "title": "China Open, Qualification: Elvina Kalieva vs Ellen Perez",
    "tour": "WTA"
   },
   "0x2ccf002d4c41866699275c30eeab6613d7b61bbe39ccd663c39b164b38eea39f": {
@@ -12628,7 +12772,7 @@
    "cid": "0x3bee6f1cee38fb2c8b0d812cbdade0ca9541c9ace52098b74a4fa3ea2a76e69b",
    "first_seen": "2026-09-27T11:16:13Z",
    "last_pre": {
-    "at": "2026-09-27T16:16:13Z",
+    "at": "2026-09-27T16:31:18Z",
     "fish": [
      0.0,
      0.0
@@ -12647,7 +12791,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-27T16:16:13Z",
+   "last_scan": "2026-09-27T16:31:18Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -33929,6 +34073,42 @@
    "title": "US Open, Qualification WTA: Elvina Kalieva vs Vendula Valdmannova",
    "tour": "WTA"
   },
+  "0xa39c7faea7d4d88af3161adf66b467b145dbc0af11bcfc93f299b883e066b711": {
+   "cid": "0xa39c7faea7d4d88af3161adf66b467b145dbc0af11bcfc93f299b883e066b711",
+   "first_seen": "2026-09-27T16:31:18Z",
+   "last_pre": {
+    "at": "2026-09-27T16:31:18Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-09-27T16:31:18Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Mina Hodzic",
+    "Zhuoxuan Bai"
+   ],
+   "result": null,
+   "slug": "wta-hodzic-bai-2026-09-27",
+   "start": "2026-09-28T03:00:00Z",
+   "title": "China Open, Qualification: Mina Hodzic vs Zhuoxuan Bai",
+   "tour": "WTA"
+  },
   "0xa3a3db2b020de051c38a41c95a4a3928e3e9a2aea6e3e568140bd198e0b7a09e": {
    "cid": "0xa3a3db2b020de051c38a41c95a4a3928e3e9a2aea6e3e568140bd198e0b7a09e",
    "first_seen": "2026-09-17T22:30:41Z",
@@ -34165,6 +34345,42 @@
    "slug": "wta-tararud-joint-2026-09-24",
    "start": "2026-09-26T03:00:00Z",
    "title": "Korea Open: Lanlana Tararudee vs Maya Joint",
+   "tour": "WTA"
+  },
+  "0xa472c7b8f8dc065a8aef7376fc5487fa05850bc1f44de6ee508e81bf1092305c": {
+   "cid": "0xa472c7b8f8dc065a8aef7376fc5487fa05850bc1f44de6ee508e81bf1092305c",
+   "first_seen": "2026-09-27T16:31:18Z",
+   "last_pre": {
+    "at": "2026-09-27T16:31:18Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-09-27T16:31:18Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Yiming Dang",
+    "Xiaodi You"
+   ],
+   "result": null,
+   "slug": "wta-dang-you-2026-09-28",
+   "start": "2026-09-28T04:30:00Z",
+   "title": "China Open, Qualification: Yiming Dang vs Xiaodi You",
    "tour": "WTA"
   },
   "0xa4ad6fcf0bd28b5ce55a343eb111534cc993eb5859d472c5923c4363811919b8": {
@@ -35448,6 +35664,42 @@
    "slug": "wta-blinkov-valdman-2026-09-17",
    "start": "2026-09-17T17:35:00Z",
    "title": "Sao Paulo Open: Anna Blinkova vs Vendula Valdmannova",
+   "tour": "WTA"
+  },
+  "0xace1e649ba8f6ecfe030b2235f8d8e9462c1ac294c98bea43f380c9276c9ce1d": {
+   "cid": "0xace1e649ba8f6ecfe030b2235f8d8e9462c1ac294c98bea43f380c9276c9ce1d",
+   "first_seen": "2026-09-27T16:31:18Z",
+   "last_pre": {
+    "at": "2026-09-27T16:31:18Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-09-27T16:31:18Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Marina Bassols Ribera",
+    "Olivia Nicholls"
+   ],
+   "result": null,
+   "slug": "wta-ribera-nicholl-2026-09-28",
+   "start": "2026-09-28T06:00:00Z",
+   "title": "China Open, Qualification: Marina Bassols Ribera vs Olivia Nicholls",
    "tour": "WTA"
   },
   "0xad0144501842072aad3c380d5b700f1272a2f80a827d3e14cd58878ad7712aac": {
@@ -36912,6 +37164,42 @@
    "start": "2026-08-31T23:20:00Z",
    "title": "US Open ATP: Grigor Dimitrov vs Alexei Popyrin",
    "tour": "ATP"
+  },
+  "0xb33d861e02dad73ceddc05af84ed2014e46143cd95a726f19593313c1a97977c": {
+   "cid": "0xb33d861e02dad73ceddc05af84ed2014e46143cd95a726f19593313c1a97977c",
+   "first_seen": "2026-09-27T16:31:18Z",
+   "last_pre": {
+    "at": "2026-09-27T16:31:18Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-09-27T16:31:18Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Harriet Dart",
+    "Tiphanie Lemaitre"
+   ],
+   "result": null,
+   "slug": "wta-dart-lemaitr-2026-09-27",
+   "start": "2026-09-28T03:00:00Z",
+   "title": "China Open, Qualification: Harriet Dart vs Tiphanie Lemaitre",
+   "tour": "WTA"
   },
   "0xb3557d1368422933aef5227e1a440c8f96381278abb2698c83fe9f869ed44c3f": {
    "cid": "0xb3557d1368422933aef5227e1a440c8f96381278abb2698c83fe9f869ed44c3f",
@@ -38528,7 +38816,7 @@
    "cid": "0xb90afeeeb5ffc2bcb23c711ff32946aed486634582d7b30a270c23cd02b7695c",
    "first_seen": "2026-09-27T11:16:13Z",
    "last_pre": {
-    "at": "2026-09-27T16:16:13Z",
+    "at": "2026-09-27T16:31:18Z",
     "fish": [
      0.0,
      0.0
@@ -38547,7 +38835,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-27T16:16:13Z",
+   "last_scan": "2026-09-27T16:31:18Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -53135,6 +53423,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-09-27T16:16:13Z",
+ "updated": "2026-09-27T16:31:18Z",
  "version": 1
 }
