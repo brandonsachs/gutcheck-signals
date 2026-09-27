@@ -12628,7 +12628,7 @@
    "cid": "0x3bee6f1cee38fb2c8b0d812cbdade0ca9541c9ace52098b74a4fa3ea2a76e69b",
    "first_seen": "2026-09-27T11:16:13Z",
    "last_pre": {
-    "at": "2026-09-27T11:53:47Z",
+    "at": "2026-09-27T16:01:24Z",
     "fish": [
      0.0,
      0.0
@@ -12647,7 +12647,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-27T11:53:47Z",
+   "last_scan": "2026-09-27T16:01:24Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -38528,7 +38528,7 @@
    "cid": "0xb90afeeeb5ffc2bcb23c711ff32946aed486634582d7b30a270c23cd02b7695c",
    "first_seen": "2026-09-27T11:16:13Z",
    "last_pre": {
-    "at": "2026-09-27T11:53:47Z",
+    "at": "2026-09-27T16:01:24Z",
     "fish": [
      0.0,
      0.0
@@ -38547,7 +38547,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-09-27T11:53:47Z",
+   "last_scan": "2026-09-27T16:01:24Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -43382,8 +43382,8 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-09-27T11:53:47Z",
-   "lock_closed": false,
+   "last_scan": "2026-09-27T16:01:24Z",
+   "lock_closed": true,
    "locked": null,
    "outcomes": [
     "Daniil Medvedev",
@@ -53135,6 +53135,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-09-27T11:53:47Z",
+ "updated": "2026-09-27T16:01:24Z",
  "version": 1
 }
