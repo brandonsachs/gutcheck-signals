@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.2250607361963192,
-   "edge_pp": -0.6012269938650339,
-   "implied": 0.5152147239263803,
-   "n": 163,
-   "roi": -0.021250094434749837,
-   "win_rate": 0.50920245398773,
+   "brier": 0.22700333333333347,
+   "edge_pp": -1.3333333333333308,
+   "implied": 0.5163636363636364,
+   "n": 165,
+   "roi": -0.03311372965372257,
+   "win_rate": 0.503030303030303,
    "wins": 83,
-   "z": -0.15955516810510442
+   "z": -0.3560707394786658
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-09-30T05:46:06Z",
+ "generated": "2026-09-30T06:01:55Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json. Only a lock on the match moneyline is scored. 1 lock placed on a side market by an earlier scanner fault is void and listed under voided.",
  "overall": {
-  "brier": 0.22516676646706607,
-  "edge_pp": -1.2934131736527021,
-  "implied": 0.5159281437125749,
-  "n": 167,
-  "roi": -0.03601491036254719,
-  "win_rate": 0.5029940119760479,
+  "brier": 0.22706213017751495,
+  "edge_pp": -2.0000000000000018,
+  "implied": 0.5170414201183432,
+  "n": 169,
+  "roi": -0.047423017932221194,
+  "win_rate": 0.4970414201183432,
   "wins": 84,
-  "z": -0.3476321061829587
+  "z": -0.5408415382252664
  },
- "pending": 7,
+ "pending": 5,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -1707,6 +1707,26 @@
    "title": "Hangzhou Open: Daniil Medvedev vs Andrey Rublev",
    "tour": "ATP",
    "winner": "Daniil Medvedev"
+  },
+  {
+   "hit": false,
+   "locked_at": "2026-09-30T02:45:47Z",
+   "phase": "pre-match",
+   "price": 0.495,
+   "side": "Anhelina Kalinina",
+   "title": "China Open: Janice Tjen vs Anhelina Kalinina",
+   "tour": "WTA",
+   "winner": "Janice Tjen"
+  },
+  {
+   "hit": false,
+   "locked_at": "2026-09-30T04:30:47Z",
+   "phase": "pre-match",
+   "price": 0.725,
+   "side": "Tommy Paul",
+   "title": "Japan Open Tennis Championships: Alejandro Tabilo vs Tommy Paul",
+   "tour": "ATP",
+   "winner": "Alejandro Tabilo"
   }
  ],
  "voided": [
