@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.22700333333333347,
-   "edge_pp": -1.3333333333333308,
-   "implied": 0.5163636363636364,
-   "n": 165,
-   "roi": -0.03311372965372257,
-   "win_rate": 0.503030303030303,
-   "wins": 83,
-   "z": -0.3560707394786658
+   "brier": 0.2259143072289158,
+   "edge_pp": -1.195783132530126,
+   "implied": 0.5179819277108434,
+   "n": 166,
+   "roi": -0.0312643376056973,
+   "win_rate": 0.5060240963855421,
+   "wins": 84,
+   "z": -0.32056506548120106
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-10-01T04:46:09Z",
+ "generated": "2026-10-01T05:01:43Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json. Only a lock on the match moneyline is scored. 1 lock placed on a side market by an earlier scanner fault is void and listed under voided.",
  "overall": {
-  "brier": 0.22706213017751495,
-  "edge_pp": -2.0000000000000018,
-  "implied": 0.5170414201183432,
-  "n": 169,
-  "roi": -0.047423017932221194,
-  "win_rate": 0.4970414201183432,
-  "wins": 84,
-  "z": -0.5408415382252664
+  "brier": 0.22599838235294134,
+  "edge_pp": -1.8617647058823517,
+  "implied": 0.5186176470588235,
+  "n": 170,
+  "roi": -0.04553296870721712,
+  "win_rate": 0.5,
+  "wins": 85,
+  "z": -0.5053481915288621
  },
- "pending": 9,
+ "pending": 8,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -1727,6 +1727,16 @@
    "title": "Japan Open Tennis Championships: Alejandro Tabilo vs Tommy Paul",
    "tour": "ATP",
    "winner": "Alejandro Tabilo"
+  },
+  {
+   "hit": true,
+   "locked_at": "2026-10-01T02:45:18Z",
+   "phase": "pre-match",
+   "price": 0.785,
+   "side": "Alex de Minaur",
+   "title": "China Open: Alex de Minaur vs Mariano Navone",
+   "tour": "ATP",
+   "winner": "Alex de Minaur"
   }
  ],
  "voided": [
