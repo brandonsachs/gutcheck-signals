@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.22572928994082855,
-   "edge_pp": -1.3431952662721791,
-   "implied": 0.5223076923076923,
-   "n": 169,
-   "roi": -0.033126914115958306,
-   "win_rate": 0.5088757396449705,
-   "wins": 86,
-   "z": -0.3640432269859443
+   "brier": 0.22541455882352954,
+   "edge_pp": -1.0911764705882288,
+   "implied": 0.5226764705882352,
+   "n": 170,
+   "roi": -0.028759098683501436,
+   "win_rate": 0.5117647058823529,
+   "wins": 87,
+   "z": -0.2965646447867574
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-10-01T10:31:10Z",
+ "generated": "2026-10-01T10:45:42Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json. Only a lock on the match moneyline is scored. 1 lock placed on a side market by an earlier scanner fault is void and listed under voided.",
  "overall": {
-  "brier": 0.22581618497109845,
-  "edge_pp": -1.9942196531791856,
-  "implied": 0.5228323699421965,
-  "n": 173,
-  "roi": -0.047105046955364806,
-  "win_rate": 0.5028901734104047,
-  "wins": 87,
-  "z": -0.5471106322392983
+  "brier": 0.22550818965517258,
+  "edge_pp": -1.7442528735632123,
+  "implied": 0.5231896551724138,
+  "n": 174,
+  "roi": -0.04275730697630117,
+  "win_rate": 0.5057471264367817,
+  "wins": 88,
+  "z": -0.4798362000133245
  },
- "pending": 7,
+ "pending": 6,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -1767,6 +1767,16 @@
    "title": "Japan Open Tennis Championships: Kei Nishikori vs Frances Tiafoe",
    "tour": "ATP",
    "winner": "Frances Tiafoe"
+  },
+  {
+   "hit": true,
+   "locked_at": "2026-10-01T07:45:24Z",
+   "phase": "pre-match",
+   "price": 0.585,
+   "side": "Juncheng Shang",
+   "title": "China Open: Juncheng Shang vs Sebastian Baez",
+   "tour": "ATP",
+   "winner": "Juncheng Shang"
   }
  ],
  "voided": [
