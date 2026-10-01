@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.22779640718562888,
-   "edge_pp": -1.6287425149700607,
-   "implied": 0.5192814371257485,
-   "n": 167,
-   "roi": -0.03706514995536379,
-   "win_rate": 0.5029940119760479,
-   "wins": 84,
-   "z": -0.4381515151412366
+   "brier": 0.22689062500000015,
+   "edge_pp": -1.4553571428571388,
+   "implied": 0.5205059523809523,
+   "n": 168,
+   "roi": -0.03458672439117956,
+   "win_rate": 0.5059523809523809,
+   "wins": 85,
+   "z": -0.3928382516650514
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-10-01T05:46:07Z",
+ "generated": "2026-10-01T06:00:51Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json. Only a lock on the match moneyline is scored. 1 lock placed on a side market by an earlier scanner fault is void and listed under voided.",
  "overall": {
-  "brier": 0.22783596491228086,
-  "edge_pp": -2.2807017543859667,
-  "implied": 0.5198830409356725,
-  "n": 171,
-  "roi": -0.05111464725278895,
-  "win_rate": 0.49707602339181284,
-  "wins": 85,
-  "z": -0.6211636333984794
+  "brier": 0.22695101744186064,
+  "edge_pp": -2.107558139534882,
+  "implied": 0.5210755813953488,
+  "n": 172,
+  "roi": -0.04861217636860072,
+  "win_rate": 0.5,
+  "wins": 86,
+  "z": -0.5759090812254697
  },
- "pending": 7,
+ "pending": 6,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -1747,6 +1747,16 @@
    "title": "China Open: Alex de Minaur vs Mariano Navone",
    "tour": "ATP",
    "winner": "Alex de Minaur"
+  },
+  {
+   "hit": true,
+   "locked_at": "2026-10-01T03:15:17Z",
+   "phase": "pre-match",
+   "price": 0.725,
+   "side": "Stefanos Tsitsipas",
+   "title": "Japan Open Tennis Championships: Tomas Etcheverry vs Stefanos Tsitsipas",
+   "tour": "ATP",
+   "winner": "Stefanos Tsitsipas"
   }
  ],
  "voided": [
