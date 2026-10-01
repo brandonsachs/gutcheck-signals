@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.2259143072289158,
-   "edge_pp": -1.195783132530126,
-   "implied": 0.5179819277108434,
-   "n": 166,
-   "roi": -0.0312643376056973,
-   "win_rate": 0.5060240963855421,
+   "brier": 0.22779640718562888,
+   "edge_pp": -1.6287425149700607,
+   "implied": 0.5192814371257485,
+   "n": 167,
+   "roi": -0.03706514995536379,
+   "win_rate": 0.5029940119760479,
    "wins": 84,
-   "z": -0.32056506548120106
+   "z": -0.4381515151412366
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-10-01T05:01:43Z",
+ "generated": "2026-10-01T05:15:55Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json. Only a lock on the match moneyline is scored. 1 lock placed on a side market by an earlier scanner fault is void and listed under voided.",
  "overall": {
-  "brier": 0.22599838235294134,
-  "edge_pp": -1.8617647058823517,
-  "implied": 0.5186176470588235,
-  "n": 170,
-  "roi": -0.04553296870721712,
-  "win_rate": 0.5,
+  "brier": 0.22783596491228086,
+  "edge_pp": -2.2807017543859667,
+  "implied": 0.5198830409356725,
+  "n": 171,
+  "roi": -0.05111464725278895,
+  "win_rate": 0.49707602339181284,
   "wins": 85,
-  "z": -0.5053481915288621
+  "z": -0.6211636333984794
  },
- "pending": 8,
+ "pending": 7,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -1727,6 +1727,16 @@
    "title": "Japan Open Tennis Championships: Alejandro Tabilo vs Tommy Paul",
    "tour": "ATP",
    "winner": "Alejandro Tabilo"
+  },
+  {
+   "hit": false,
+   "locked_at": "2026-10-01T02:15:19Z",
+   "phase": "pre-match",
+   "price": 0.735,
+   "side": "Taylor Fritz",
+   "title": "Japan Open Tennis Championships: Taylor Fritz vs Jaume Munar",
+   "tour": "ATP",
+   "winner": "Jaume Munar"
   },
   {
    "hit": true,
