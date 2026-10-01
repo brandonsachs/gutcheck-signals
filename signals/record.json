@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.22541455882352954,
-   "edge_pp": -1.0911764705882288,
-   "implied": 0.5226764705882352,
-   "n": 170,
-   "roi": -0.028759098683501436,
-   "win_rate": 0.5117647058823529,
-   "wins": 87,
-   "z": -0.2965646447867574
+   "brier": 0.22496315789473695,
+   "edge_pp": -0.8596491228070158,
+   "implied": 0.5232163742690058,
+   "n": 171,
+   "roi": -0.02493000301773475,
+   "win_rate": 0.5146198830409356,
+   "wins": 88,
+   "z": -0.23430557270715816
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-10-01T11:46:28Z",
+ "generated": "2026-10-01T12:59:57Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json. Only a lock on the match moneyline is scored. 1 lock placed on a side market by an earlier scanner fault is void and listed under voided.",
  "overall": {
-  "brier": 0.22550818965517258,
-  "edge_pp": -1.7442528735632123,
-  "implied": 0.5231896551724138,
-  "n": 174,
-  "roi": -0.04275730697630117,
-  "win_rate": 0.5057471264367817,
-  "wins": 88,
-  "z": -0.4798362000133245
+  "brier": 0.22506657142857156,
+  "edge_pp": -1.5142857142857125,
+  "implied": 0.5237142857142857,
+  "n": 175,
+  "roi": -0.038935743735507435,
+  "win_rate": 0.5085714285714286,
+  "wins": 89,
+  "z": -0.4177330251125213
  },
- "pending": 6,
+ "pending": 5,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -1777,6 +1777,16 @@
    "title": "China Open: Juncheng Shang vs Sebastian Baez",
    "tour": "ATP",
    "winner": "Juncheng Shang"
+  },
+  {
+   "hit": true,
+   "locked_at": "2026-10-01T07:45:24Z",
+   "phase": "pre-match",
+   "price": 0.615,
+   "side": "Andrey Rublev",
+   "title": "China Open: Tallon Griekspoor vs Andrey Rublev",
+   "tour": "ATP",
+   "winner": "Andrey Rublev"
   }
  ],
  "voided": [
