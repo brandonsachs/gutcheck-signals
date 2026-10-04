@@ -3729,7 +3729,7 @@
    "cid": "0x109cbdd8f226fc00f311a74b40b86b7f6b3ce3c72646438934cd0f8370d22857",
    "first_seen": "2026-10-03T16:07:45Z",
    "last_pre": {
-    "at": "2026-10-04T08:00:40Z",
+    "at": "2026-10-04T08:30:40Z",
     "fish": [
      0.0,
      0.0
@@ -3748,7 +3748,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-04T08:00:40Z",
+   "last_scan": "2026-10-04T08:30:40Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -3757,7 +3757,7 @@
    ],
    "result": null,
    "slug": "wta-sakkari-svitoli-2026-10-04",
-   "start": "2026-10-05T04:00:00Z",
+   "start": "2026-10-05T08:30:00Z",
    "title": "China Open: Maria Sakkari vs Elina Svitolina",
    "tour": "WTA"
   },
@@ -4459,7 +4459,7 @@
    "cid": "0x13420f878465086d369dd9d43cc92740ba4935094fd2f4cdec6946a20390d200",
    "first_seen": "2026-10-02T18:00:27Z",
    "last_pre": {
-    "at": "2026-10-04T08:00:40Z",
+    "at": "2026-10-04T08:30:40Z",
     "fish": [
      0.0,
      0.0
@@ -4478,7 +4478,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-04T08:00:40Z",
+   "last_scan": "2026-10-04T08:30:40Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -8423,7 +8423,7 @@
    "cid": "0x23d7505ff4d75035df4b1bd6e2bb69e315215b9b3d011febd3f0b091dccfd435",
    "first_seen": "2026-10-02T18:00:27Z",
    "last_pre": {
-    "at": "2026-10-04T08:00:40Z",
+    "at": "2026-10-04T08:30:40Z",
     "fish": [
      0.0,
      0.0
@@ -8442,7 +8442,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-04T08:00:40Z",
+   "last_scan": "2026-10-04T08:30:40Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -8575,7 +8575,7 @@
     "state": "thin",
     "wallets": 4
    },
-   "last_scan": "2026-10-04T08:00:40Z",
+   "last_scan": "2026-10-04T08:30:40Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -10331,7 +10331,7 @@
     "state": "crowded",
     "wallets": 11
    },
-   "last_scan": "2026-10-04T08:00:40Z",
+   "last_scan": "2026-10-04T08:30:40Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -14390,7 +14390,7 @@
    "cid": "0x3babe7a2fa49f45ad85af4a516a1ac040956e9f7e0ff938a7d961c85a3fd2681",
    "first_seen": "2026-10-03T16:07:45Z",
    "last_pre": {
-    "at": "2026-10-04T08:00:40Z",
+    "at": "2026-10-04T08:30:40Z",
     "fish": [
      0.0,
      0.0
@@ -14409,7 +14409,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-04T08:00:40Z",
+   "last_scan": "2026-10-04T08:30:40Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -14418,7 +14418,7 @@
    ],
    "result": null,
    "slug": "wta-vekic-swiatek-2026-10-04",
-   "start": "2026-10-05T04:00:00Z",
+   "start": "2026-10-05T03:00:00Z",
    "title": "China Open: Donna Vekic vs Iga Swiatek",
    "tour": "WTA"
   },
@@ -14738,7 +14738,7 @@
     "state": "crowded",
     "wallets": 9
    },
-   "last_scan": "2026-10-04T08:00:40Z",
+   "last_scan": "2026-10-04T08:30:40Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -15410,7 +15410,7 @@
    "cid": "0x3fbb649ee901173ee6752fbbe3ccda78e4800a4cab4fcab5a675bd41d661981b",
    "first_seen": "2026-10-03T16:07:45Z",
    "last_pre": {
-    "at": "2026-10-04T08:00:40Z",
+    "at": "2026-10-04T08:30:40Z",
     "fish": [
      0.0,
      0.0
@@ -15429,7 +15429,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-04T08:00:40Z",
+   "last_scan": "2026-10-04T08:30:40Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -15438,7 +15438,7 @@
    ],
    "result": null,
    "slug": "wta-ostapen-mertens-2026-10-04",
-   "start": "2026-10-05T04:00:00Z",
+   "start": "2026-10-05T08:30:00Z",
    "title": "China Open: Jelena Ostapenko vs Elise Mertens",
    "tour": "WTA"
   },
@@ -16686,7 +16686,7 @@
    "cid": "0x457e41fbb07a70cda20e27b63db2d2929c75c950d6dd0373c70f5a6b9773ad81",
    "first_seen": "2026-10-03T18:00:10Z",
    "last_pre": {
-    "at": "2026-10-04T08:00:40Z",
+    "at": "2026-10-04T08:30:40Z",
     "fish": [
      0.0,
      0.0
@@ -16705,7 +16705,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-04T08:00:40Z",
+   "last_scan": "2026-10-04T08:30:40Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -16714,7 +16714,7 @@
    ],
    "result": null,
    "slug": "wta-gauff-su-2026-10-04",
-   "start": "2026-10-05T04:00:00Z",
+   "start": "2026-10-05T12:30:00Z",
    "title": "China Open: Coco Gauff vs Xinran Sun",
    "tour": "WTA"
   },
@@ -21621,7 +21621,7 @@
    "cid": "0x5bafdabbc25d28803fb2a21d53034510d96357ce0506a2082e6583f303b2d61c",
    "first_seen": "2026-10-03T16:07:45Z",
    "last_pre": {
-    "at": "2026-10-04T08:00:40Z",
+    "at": "2026-10-04T08:30:40Z",
     "fish": [
      0.0,
      0.0
@@ -21629,18 +21629,18 @@
     "frozen_pre": false,
     "price": null,
     "sharp": [
-     0.0,
+     1209.0,
      0.0
     ],
     "sharp_wallets": [
-     0,
+     1,
      0
     ],
     "side": null,
     "state": "none",
-    "wallets": 0
+    "wallets": 1
    },
-   "last_scan": "2026-10-04T08:00:40Z",
+   "last_scan": "2026-10-04T08:30:40Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -21649,7 +21649,7 @@
    ],
    "result": null,
    "slug": "wta-bencic-annli-2026-10-03",
-   "start": "2026-10-05T04:00:00Z",
+   "start": "2026-10-05T07:00:00Z",
    "title": "China Open: Belinda Bencic vs Ann Li",
    "tour": "WTA"
   },
@@ -24097,7 +24097,7 @@
     "state": "aligned",
     "wallets": 15
    },
-   "last_scan": "2026-10-04T08:00:40Z",
+   "last_scan": "2026-10-04T08:30:40Z",
    "lock_closed": false,
    "locked": {
     "at": "2026-10-04T05:30:41Z",
@@ -24191,7 +24191,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-10-04T08:00:40Z",
+   "last_scan": "2026-10-04T08:30:40Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -25597,7 +25597,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-04T08:00:40Z",
+   "last_scan": "2026-10-04T08:30:40Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -26644,26 +26644,26 @@
    "cid": "0x6f6f877fcea81db41b0c433f19f64716c12f23df8edcae623111244c15d9ce10",
    "first_seen": "2026-10-03T18:00:10Z",
    "last_pre": {
-    "at": "2026-10-04T08:00:40Z",
+    "at": "2026-10-04T08:30:40Z",
     "fish": [
-     24415.0,
-     8440.0
+     29410.0,
+     10625.0
     ],
     "frozen_pre": false,
     "price": null,
     "sharp": [
-     18280.0,
-     8141.0
+     22363.0,
+     10453.0
     ],
     "sharp_wallets": [
      3,
-     3
+     4
     ],
     "side": null,
     "state": "crowded",
-    "wallets": 11
+    "wallets": 13
    },
-   "last_scan": "2026-10-04T08:00:40Z",
+   "last_scan": "2026-10-04T08:30:40Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -29570,7 +29570,7 @@
     "state": "aligned",
     "wallets": 11
    },
-   "last_scan": "2026-10-04T08:00:40Z",
+   "last_scan": "2026-10-04T08:30:40Z",
    "lock_closed": false,
    "locked": {
     "at": "2026-10-04T07:30:40Z",
@@ -33858,9 +33858,9 @@
    "cid": "0x8fc0a4532e653f0c46f7d6cabae168f8353e6da32d700990434ac87f0712dbcb",
    "first_seen": "2026-10-03T18:00:10Z",
    "last_pre": {
-    "at": "2026-10-04T08:00:40Z",
+    "at": "2026-10-04T08:30:40Z",
     "fish": [
-     2293.0,
+     7417.0,
      0.0
     ],
     "frozen_pre": false,
@@ -33875,9 +33875,9 @@
     ],
     "side": null,
     "state": "none",
-    "wallets": 1
+    "wallets": 2
    },
-   "last_scan": "2026-10-04T08:00:40Z",
+   "last_scan": "2026-10-04T08:30:40Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -33886,7 +33886,7 @@
    ],
    "result": null,
    "slug": "atp-lehecka-vallejo-2026-10-04",
-   "start": "2026-10-04T08:30:00Z",
+   "start": "2026-10-04T08:50:00Z",
    "title": "Japan Open Tennis Championships: Jiri Lehecka vs Adolfo Vallejo",
    "tour": "ATP"
   },
@@ -37069,7 +37069,7 @@
     "state": "aligned",
     "wallets": 5
    },
-   "last_scan": "2026-10-04T08:00:40Z",
+   "last_scan": "2026-10-04T08:30:40Z",
    "lock_closed": false,
    "locked": {
     "at": "2026-10-04T04:30:41Z",
@@ -39089,7 +39089,7 @@
    "cid": "0xa40d4ad7b71447cb5be11db073157e78ee74ee18e5ba5edb3dc9a85e48b59605",
    "first_seen": "2026-10-03T18:00:10Z",
    "last_pre": {
-    "at": "2026-10-04T08:00:40Z",
+    "at": "2026-10-04T08:30:40Z",
     "fish": [
      0.0,
      0.0
@@ -39108,7 +39108,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-04T08:00:40Z",
+   "last_scan": "2026-10-04T08:30:40Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -39117,7 +39117,7 @@
    ],
    "result": null,
    "slug": "wta-charaev-kartal-2026-10-03",
-   "start": "2026-10-05T04:00:00Z",
+   "start": "2026-10-05T06:00:00Z",
    "title": "China Open: Alina Charaeva vs Sonay Kartal",
    "tour": "WTA"
   },
@@ -41504,7 +41504,7 @@
     "state": "crowded",
     "wallets": 5
    },
-   "last_scan": "2026-10-04T08:00:40Z",
+   "last_scan": "2026-10-04T08:30:40Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -42431,9 +42431,9 @@
    "cid": "0xb39b2389e7b04dba062fcbcc3a26fc6b283a7052a82898e712549a292133386e",
    "first_seen": "2026-10-03T18:00:10Z",
    "last_pre": {
-    "at": "2026-10-04T08:00:40Z",
+    "at": "2026-10-04T08:30:40Z",
     "fish": [
-     10672.0,
+     11635.0,
      2100.0
     ],
     "frozen_pre": false,
@@ -42450,7 +42450,7 @@
     "state": "none",
     "wallets": 5
    },
-   "last_scan": "2026-10-04T08:00:40Z",
+   "last_scan": "2026-10-04T08:30:40Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -42459,7 +42459,7 @@
    ],
    "result": null,
    "slug": "atp-medvede-cerundo-2026-10-04",
-   "start": "2026-10-04T08:30:00Z",
+   "start": "2026-10-04T08:35:00Z",
    "title": "China Open: Daniil Medvedev vs Francisco Cerundolo",
    "tour": "ATP"
   },
@@ -47061,7 +47061,7 @@
    "cid": "0xc6193a2490c7528fa543bfbb7e973e72bed702bb86e8f4938feda57f824655a8",
    "first_seen": "2026-10-03T18:00:10Z",
    "last_pre": {
-    "at": "2026-10-04T08:00:40Z",
+    "at": "2026-10-04T08:30:40Z",
     "fish": [
      0.0,
      0.0
@@ -47080,7 +47080,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-04T08:00:40Z",
+   "last_scan": "2026-10-04T08:30:40Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -47089,7 +47089,7 @@
    ],
    "result": null,
    "slug": "wta-bouzkov-zhen-2026-10-04",
-   "start": "2026-10-05T04:00:00Z",
+   "start": "2026-10-05T04:30:00Z",
    "title": "China Open: Marie Bouzkova vs Qinwen Zheng",
    "tour": "WTA"
   },
@@ -48804,7 +48804,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-10-04T08:00:40Z",
+   "last_scan": "2026-10-04T08:30:40Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -57266,7 +57266,7 @@
    "cid": "0xf257c2cf20996d881c4a21371506ceacc0fa8fbfe5e75e2565bc9a24b3f5331f",
    "first_seen": "2026-10-03T18:00:10Z",
    "last_pre": {
-    "at": "2026-10-04T08:00:40Z",
+    "at": "2026-10-04T08:30:40Z",
     "fish": [
      0.0,
      0.0
@@ -57285,7 +57285,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-04T08:00:40Z",
+   "last_scan": "2026-10-04T08:30:40Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -57294,7 +57294,7 @@
    ],
    "result": null,
    "slug": "wta-jovic-rakhimo-2026-10-04",
-   "start": "2026-10-05T04:00:00Z",
+   "start": "2026-10-05T04:30:00Z",
    "title": "China Open: Iva Jovic vs Kamilla Rakhimova",
    "tour": "WTA"
   },
@@ -60801,6 +60801,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-10-04T08:00:40Z",
+ "updated": "2026-10-04T08:30:40Z",
  "version": 1
 }
