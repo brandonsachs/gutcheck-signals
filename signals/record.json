@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.23018019662921363,
-   "edge_pp": -2.0870786516853923,
-   "implied": 0.5264887640449438,
-   "n": 178,
-   "roi": -0.04271705462715126,
-   "win_rate": 0.5056179775280899,
-   "wins": 90,
-   "z": -0.5818702434619919
+   "brier": 0.23121843575419007,
+   "edge_pp": -1.7150837988826884,
+   "implied": 0.5255307262569833,
+   "n": 179,
+   "roi": -0.03232812466582245,
+   "win_rate": 0.5083798882681564,
+   "wins": 91,
+   "z": -0.4795008166622105
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-10-05T08:01:51Z",
+ "generated": "2026-10-05T08:31:20Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json. Only a lock on the match moneyline is scored. 1 lock placed on a side market by an earlier scanner fault is void and listed under voided.",
  "overall": {
-  "brier": 0.2301649725274727,
-  "edge_pp": -2.6895604395604455,
-  "implied": 0.5268956043956045,
-  "n": 182,
-  "roi": -0.05579318879842902,
-  "win_rate": 0.5,
-  "wins": 91,
-  "z": -0.7585276096283238
+  "brier": 0.23118060109289632,
+  "edge_pp": -2.3224043715847076,
+  "implied": 0.5259562841530055,
+  "n": 183,
+  "roi": -0.045559884988324466,
+  "win_rate": 0.5027322404371585,
+  "wins": 92,
+  "z": -0.6567755321456392
  },
- "pending": 6,
+ "pending": 5,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -1857,6 +1857,16 @@
    "title": "China Open: Alexander Zverev vs Novak Djokovic",
    "tour": "ATP",
    "winner": "Novak Djokovic"
+  },
+  {
+   "hit": true,
+   "locked_at": "2026-10-05T07:00:59Z",
+   "phase": "pre-match",
+   "price": 0.355,
+   "side": "Alina Charaeva",
+   "title": "China Open: Alina Charaeva vs Sonay Kartal",
+   "tour": "WTA",
+   "winner": "Alina Charaeva"
   }
  ],
  "voided": [

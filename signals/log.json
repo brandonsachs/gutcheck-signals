@@ -3642,7 +3642,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-10-05T08:01:04Z",
+   "last_scan": "2026-10-05T08:30:59Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -3765,7 +3765,7 @@
    "cid": "0x109cbdd8f226fc00f311a74b40b86b7f6b3ce3c72646438934cd0f8370d22857",
    "first_seen": "2026-10-03T16:07:45Z",
    "last_pre": {
-    "at": "2026-10-05T08:01:04Z",
+    "at": "2026-10-05T08:30:59Z",
     "fish": [
      0.0,
      1725.0
@@ -3784,7 +3784,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-10-05T08:01:04Z",
+   "last_scan": "2026-10-05T08:30:59Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -3793,7 +3793,7 @@
    ],
    "result": null,
    "slug": "wta-sakkari-svitoli-2026-10-04",
-   "start": "2026-10-05T08:30:00Z",
+   "start": "2026-10-05T08:45:00Z",
    "title": "China Open: Maria Sakkari vs Elina Svitolina",
    "tour": "WTA"
   },
@@ -4945,7 +4945,7 @@
    "cid": "0x1522d3943a6535571880a41fc6461b739885977b294cef5b54e1e52c2bb2d4ba",
    "first_seen": "2026-10-04T22:30:54Z",
    "last_pre": {
-    "at": "2026-10-05T08:01:04Z",
+    "at": "2026-10-05T08:30:59Z",
     "fish": [
      0.0,
      0.0
@@ -4964,7 +4964,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-05T08:01:04Z",
+   "last_scan": "2026-10-05T08:30:59Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -5558,7 +5558,7 @@
    "cid": "0x18e0464a50d416cf582173722c7ede961b6ee40d01cfbc34ff193a247f884501",
    "first_seen": "2026-10-04T11:30:57Z",
    "last_pre": {
-    "at": "2026-10-05T08:01:04Z",
+    "at": "2026-10-05T08:30:59Z",
     "fish": [
      0.0,
      0.0
@@ -5577,7 +5577,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-05T08:01:04Z",
+   "last_scan": "2026-10-05T08:30:59Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -5586,7 +5586,7 @@
    ],
    "result": null,
    "slug": "atp-jacquet-zha-2026-10-05",
-   "start": "2026-10-05T08:10:00Z",
+   "start": "2026-10-05T08:45:00Z",
    "title": "Shanghai Rolex Masters, Qualification: Kyrian Jacquet vs Tianhui Zhang",
    "tour": "ATP"
   },
@@ -8771,7 +8771,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-05T08:01:04Z",
+   "last_scan": "2026-10-05T08:30:59Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -9368,7 +9368,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-05T08:01:04Z",
+   "last_scan": "2026-10-05T08:30:59Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -9404,7 +9404,7 @@
     "state": "thin",
     "wallets": 2
    },
-   "last_scan": "2026-10-05T08:01:04Z",
+   "last_scan": "2026-10-05T08:30:59Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -9615,7 +9615,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-05T08:01:04Z",
+   "last_scan": "2026-10-05T08:30:59Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -11943,7 +11943,7 @@
    "cid": "0x316a019809dd519ed554a8672b8b7d42d666ea2270a2845a9792225ff32bd2a2",
    "first_seen": "2026-10-04T11:30:57Z",
    "last_pre": {
-    "at": "2026-10-05T08:01:04Z",
+    "at": "2026-10-05T08:30:59Z",
     "fish": [
      1100.0,
      0.0
@@ -11962,7 +11962,7 @@
     "state": "thin",
     "wallets": 2
    },
-   "last_scan": "2026-10-05T08:01:04Z",
+   "last_scan": "2026-10-05T08:30:59Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -11971,7 +11971,7 @@
    ],
    "result": null,
    "slug": "atp-cui-vukic-2026-10-05",
-   "start": "2026-10-05T08:10:00Z",
+   "start": "2026-10-05T08:45:00Z",
    "title": "Shanghai Rolex Masters, Qualification: Jie Cui vs Aleksandar Vukic",
    "tour": "ATP"
   },
@@ -14571,7 +14571,7 @@
    "cid": "0x3aeeadf367df7c7e84983c77fbfe7c3fee307b9a94e96ccfb6e4d542482ee453",
    "first_seen": "2026-10-04T11:30:57Z",
    "last_pre": {
-    "at": "2026-10-05T08:01:04Z",
+    "at": "2026-10-05T08:30:59Z",
     "fish": [
      0.0,
      0.0
@@ -14590,7 +14590,7 @@
     "state": "none",
     "wallets": 2
    },
-   "last_scan": "2026-10-05T08:01:04Z",
+   "last_scan": "2026-10-05T08:30:59Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -14733,7 +14733,7 @@
     "state": "crowded",
     "wallets": 7
    },
-   "last_scan": "2026-10-05T08:01:04Z",
+   "last_scan": "2026-10-05T08:30:59Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -15310,8 +15310,8 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-05T08:01:04Z",
-   "lock_closed": false,
+   "last_scan": "2026-10-05T08:30:59Z",
+   "lock_closed": true,
    "locked": null,
    "outcomes": [
     "Billy Harris",
@@ -15319,7 +15319,7 @@
    ],
    "result": null,
    "slug": "atp-harris-svrcina-2026-10-05",
-   "start": "2026-10-05T08:05:00Z",
+   "start": "2026-10-05T08:10:00Z",
    "title": "Shanghai Rolex Masters, Qualification: Billy Harris vs Dalibor Svrcina",
    "tour": "ATP"
   },
@@ -15770,7 +15770,7 @@
    "cid": "0x3fbb649ee901173ee6752fbbe3ccda78e4800a4cab4fcab5a675bd41d661981b",
    "first_seen": "2026-10-03T16:07:45Z",
    "last_pre": {
-    "at": "2026-10-05T08:01:04Z",
+    "at": "2026-10-05T08:30:59Z",
     "fish": [
      1850.0,
      5000.0
@@ -15779,7 +15779,7 @@
     "price": null,
     "sharp": [
      14674.0,
-     22271.0
+     22256.0
     ],
     "sharp_wallets": [
      2,
@@ -15789,7 +15789,7 @@
     "state": "crowded",
     "wallets": 8
    },
-   "last_scan": "2026-10-05T08:01:04Z",
+   "last_scan": "2026-10-05T08:30:59Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -15798,7 +15798,7 @@
    ],
    "result": null,
    "slug": "wta-ostapen-mertens-2026-10-04",
-   "start": "2026-10-05T08:30:00Z",
+   "start": "2026-10-05T08:35:00Z",
    "title": "China Open: Jelena Ostapenko vs Elise Mertens",
    "tour": "WTA"
   },
@@ -17046,7 +17046,7 @@
    "cid": "0x457e41fbb07a70cda20e27b63db2d2929c75c950d6dd0373c70f5a6b9773ad81",
    "first_seen": "2026-10-03T18:00:10Z",
    "last_pre": {
-    "at": "2026-10-05T08:01:04Z",
+    "at": "2026-10-05T08:30:59Z",
     "fish": [
      7489.0,
      1400.0
@@ -17065,7 +17065,7 @@
     "state": "crowded",
     "wallets": 9
    },
-   "last_scan": "2026-10-05T08:01:04Z",
+   "last_scan": "2026-10-05T08:30:59Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -19777,7 +19777,7 @@
    "cid": "0x51d318f267ba47277ed51123961f317fc9a28f94191bfdc23f23e4475e546e51",
    "first_seen": "2026-10-04T18:00:58Z",
    "last_pre": {
-    "at": "2026-10-05T08:01:04Z",
+    "at": "2026-10-05T08:30:59Z",
     "fish": [
      0.0,
      0.0
@@ -19796,7 +19796,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-05T08:01:04Z",
+   "last_scan": "2026-10-05T08:30:59Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -20207,7 +20207,7 @@
    "cid": "0x5388ce5a6e061709e4dcebaef5e0d2fb0347b1ae0ebee7608fbd475de8f021d4",
    "first_seen": "2026-10-04T11:30:57Z",
    "last_pre": {
-    "at": "2026-10-05T08:01:04Z",
+    "at": "2026-10-05T08:30:59Z",
     "fish": [
      0.0,
      0.0
@@ -20226,7 +20226,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-05T08:01:04Z",
+   "last_scan": "2026-10-05T08:30:59Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -21085,7 +21085,7 @@
    "cid": "0x567b8bd0f88f73bb2bf2b0a7010f05ffc3375b742d894c263028e2a71980029e",
    "first_seen": "2026-10-04T11:30:57Z",
    "last_pre": {
-    "at": "2026-10-05T08:01:04Z",
+    "at": "2026-10-05T08:30:59Z",
     "fish": [
      0.0,
      1548.0
@@ -21104,7 +21104,7 @@
     "state": "thin",
     "wallets": 3
    },
-   "last_scan": "2026-10-05T08:01:04Z",
+   "last_scan": "2026-10-05T08:30:59Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -21409,7 +21409,7 @@
    "cid": "0x5836971e09e19b6dc8897639cfe6f594ae59cddd6b4ee5fdeaf33368c20fa614",
    "first_seen": "2026-10-04T11:30:57Z",
    "last_pre": {
-    "at": "2026-10-05T08:01:04Z",
+    "at": "2026-10-05T08:30:59Z",
     "fish": [
      0.0,
      0.0
@@ -21428,7 +21428,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-05T08:01:04Z",
+   "last_scan": "2026-10-05T08:30:59Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -21437,7 +21437,7 @@
    ],
    "result": null,
    "slug": "atp-sweeny-schoolk-2026-10-05",
-   "start": "2026-10-05T08:30:00Z",
+   "start": "2026-10-05T08:45:00Z",
    "title": "Shanghai Rolex Masters, Qualification: Dane Sweeny vs Tristan Schoolkate",
    "tour": "ATP"
   },
@@ -22144,7 +22144,7 @@
     "state": "none",
     "wallets": 3
    },
-   "last_scan": "2026-10-05T08:01:04Z",
+   "last_scan": "2026-10-05T08:30:59Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -22266,26 +22266,26 @@
    "cid": "0x5c10d31a9cf5d49800fe4f733f4351b40a2e34692568ead9c520d9ababd8ab2b",
    "first_seen": "2026-10-04T11:30:57Z",
    "last_pre": {
-    "at": "2026-10-05T08:01:04Z",
+    "at": "2026-10-05T08:30:59Z",
     "fish": [
-     15652.0,
+     41227.0,
      40647.0
     ],
     "frozen_pre": false,
-    "price": 0.595,
+    "price": null,
     "sharp": [
-     72815.0,
-     17682.0
+     75696.0,
+     40133.0
     ],
     "sharp_wallets": [
-     3,
-     7
+     5,
+     5
     ],
-    "side": 0,
-    "state": "aligned",
-    "wallets": 20
+    "side": null,
+    "state": "none",
+    "wallets": 23
    },
-   "last_scan": "2026-10-05T08:01:04Z",
+   "last_scan": "2026-10-05T08:30:59Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -22294,7 +22294,7 @@
    ],
    "result": null,
    "slug": "atp-minaur-hurkacz-2026-10-05",
-   "start": "2026-10-05T08:10:00Z",
+   "start": "2026-10-05T09:00:00Z",
    "title": "China Open: Alex de Minaur vs Hubert Hurkacz",
    "tour": "ATP"
   },
@@ -24695,7 +24695,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-05T08:01:04Z",
+   "last_scan": "2026-10-05T08:30:59Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -24731,7 +24731,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-05T08:01:04Z",
+   "last_scan": "2026-10-05T08:30:59Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -25801,7 +25801,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-10-05T08:01:04Z",
+   "last_scan": "2026-10-05T08:30:59Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -26620,7 +26620,7 @@
     "state": "crowded",
     "wallets": 8
    },
-   "last_scan": "2026-10-05T08:01:04Z",
+   "last_scan": "2026-10-05T08:30:59Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -27476,7 +27476,7 @@
    "cid": "0x6fedf95cc8e111217794cedadc50b5e1baf48cab9a8b3f4d710a8c8fdb95a637",
    "first_seen": "2026-10-04T11:30:57Z",
    "last_pre": {
-    "at": "2026-10-05T08:01:04Z",
+    "at": "2026-10-05T08:30:59Z",
     "fish": [
      9226.0,
      9936.0
@@ -27495,7 +27495,7 @@
     "state": "none",
     "wallets": 12
    },
-   "last_scan": "2026-10-05T08:01:04Z",
+   "last_scan": "2026-10-05T08:30:59Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -29434,8 +29434,8 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-05T08:01:04Z",
-   "lock_closed": false,
+   "last_scan": "2026-10-05T08:30:59Z",
+   "lock_closed": true,
    "locked": null,
    "outcomes": [
     "Martin Damm",
@@ -29443,7 +29443,7 @@
    ],
    "result": null,
    "slug": "atp-damm-kotov-2026-10-05",
-   "start": "2026-10-05T08:10:00Z",
+   "start": "2026-10-05T08:25:00Z",
    "title": "Shanghai Rolex Masters, Qualification: Martin Damm vs Pavel Kotov",
    "tour": "ATP"
   },
@@ -34342,7 +34342,7 @@
    "cid": "0x8e6ae359865a8ab441f7b11f451d4b3d4082e17206692a52ab8e204f0758a68d",
    "first_seen": "2026-10-04T18:00:58Z",
    "last_pre": {
-    "at": "2026-10-05T08:01:04Z",
+    "at": "2026-10-05T08:30:59Z",
     "fish": [
      0.0,
      0.0
@@ -34361,7 +34361,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-05T08:01:04Z",
+   "last_scan": "2026-10-05T08:30:59Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -34555,7 +34555,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-10-05T08:01:04Z",
+   "last_scan": "2026-10-05T08:30:59Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -37367,7 +37367,7 @@
     "state": "crowded",
     "wallets": 5
    },
-   "last_scan": "2026-10-05T08:01:04Z",
+   "last_scan": "2026-10-05T08:30:59Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -37797,7 +37797,7 @@
    "cid": "0x9b5ccec2578815f93d3b4ec042b64f0f143bf4bf12c33c5627d8fed00fc20135",
    "first_seen": "2026-10-04T11:30:57Z",
    "last_pre": {
-    "at": "2026-10-05T08:01:04Z",
+    "at": "2026-10-05T08:30:59Z",
     "fish": [
      0.0,
      1015.0
@@ -37806,7 +37806,7 @@
     "price": null,
     "sharp": [
      19600.0,
-     2295.0
+     2294.0
     ],
     "sharp_wallets": [
      1,
@@ -37816,7 +37816,7 @@
     "state": "thin",
     "wallets": 3
    },
-   "last_scan": "2026-10-05T08:01:04Z",
+   "last_scan": "2026-10-05T08:30:59Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -37825,7 +37825,7 @@
    ],
    "result": null,
    "slug": "atp-shevche-nishiok-2026-10-05",
-   "start": "2026-10-05T08:10:00Z",
+   "start": "2026-10-05T08:35:00Z",
    "title": "Shanghai Rolex Masters, Qualification: Alexander Shevchenko vs Yoshihito Nishioka",
    "tour": "ATP"
   },
@@ -37959,7 +37959,7 @@
    "cid": "0x9be4f916d2ae816bc074817fe3c62c0595658b7d808e7a53e7301b5cb4d703fe",
    "first_seen": "2026-10-04T11:30:57Z",
    "last_pre": {
-    "at": "2026-10-05T08:01:04Z",
+    "at": "2026-10-05T08:30:59Z",
     "fish": [
      0.0,
      0.0
@@ -37978,7 +37978,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-05T08:01:04Z",
+   "last_scan": "2026-10-05T08:30:59Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -38812,7 +38812,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-05T08:01:04Z",
+   "last_scan": "2026-10-05T08:30:59Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -39317,7 +39317,7 @@
    "cid": "0xa18e7ba7a06b99a6591fa09f8e73c6e5e0151cbbf40e50ae1205bfb72d95b3ba",
    "first_seen": "2026-10-04T11:30:57Z",
    "last_pre": {
-    "at": "2026-10-05T08:01:04Z",
+    "at": "2026-10-05T08:30:59Z",
     "fish": [
      0.0,
      0.0
@@ -39336,7 +39336,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-05T08:01:04Z",
+   "last_scan": "2026-10-05T08:30:59Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -40142,7 +40142,7 @@
     "state": "aligned",
     "wallets": 14
    },
-   "last_scan": "2026-10-05T08:01:04Z",
+   "last_scan": "2026-10-05T08:30:59Z",
    "lock_closed": false,
    "locked": {
     "at": "2026-10-05T07:00:59Z",
@@ -40167,7 +40167,11 @@
     "Alina Charaeva",
     "Sonay Kartal"
    ],
-   "result": null,
+   "result": {
+    "hit": true,
+    "scored_at": "2026-10-05T08:31:20Z",
+    "winner": "Alina Charaeva"
+   },
    "slug": "wta-charaev-kartal-2026-10-03",
    "start": "2026-10-05T06:50:00Z",
    "title": "China Open: Alina Charaeva vs Sonay Kartal",
@@ -47089,7 +47093,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-10-05T08:01:04Z",
+   "last_scan": "2026-10-05T08:30:59Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -48168,7 +48172,7 @@
     "state": "crowded",
     "wallets": 13
    },
-   "last_scan": "2026-10-05T08:01:04Z",
+   "last_scan": "2026-10-05T08:30:59Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -56673,7 +56677,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-10-05T08:01:04Z",
+   "last_scan": "2026-10-05T08:30:59Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -56812,7 +56816,7 @@
    "cid": "0xeb26070a9c65e6f7967ef0ab7ab9ae3bdb2728b814e559c6b8557a6e5db301b6",
    "first_seen": "2026-10-04T18:00:58Z",
    "last_pre": {
-    "at": "2026-10-05T08:01:04Z",
+    "at": "2026-10-05T08:30:59Z",
     "fish": [
      6631.0,
      7451.0
@@ -56831,7 +56835,7 @@
     "state": "none",
     "wallets": 6
    },
-   "last_scan": "2026-10-05T08:01:04Z",
+   "last_scan": "2026-10-05T08:30:59Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -58445,7 +58449,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-05T08:01:04Z",
+   "last_scan": "2026-10-05T08:30:59Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -58835,7 +58839,7 @@
    "cid": "0xf46de324e53f9bc9ae6dcaa67f5a8fc3c18d0359a21b556008738a926c9a4768",
    "first_seen": "2026-10-04T18:00:58Z",
    "last_pre": {
-    "at": "2026-10-05T08:01:04Z",
+    "at": "2026-10-05T08:30:59Z",
     "fish": [
      0.0,
      0.0
@@ -58854,7 +58858,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-05T08:01:04Z",
+   "last_scan": "2026-10-05T08:30:59Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -61997,6 +62001,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-10-05T08:01:04Z",
+ "updated": "2026-10-05T08:30:59Z",
  "version": 1
 }
