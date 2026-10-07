@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.23092237569060786,
-   "edge_pp": -1.9392265193370117,
-   "implied": 0.5276795580110497,
-   "n": 181,
-   "roi": -0.0363238292986796,
-   "win_rate": 0.5082872928176796,
-   "wins": 92,
-   "z": -0.5456929555654897
+   "brier": 0.23023392857142871,
+   "edge_pp": -1.750000000000007,
+   "implied": 0.528489010989011,
+   "n": 182,
+   "roi": -0.033478745173513874,
+   "win_rate": 0.510989010989011,
+   "wins": 93,
+   "z": -0.4938582527873757
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-10-07T06:02:12Z",
+ "generated": "2026-10-07T06:32:25Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json. Only a lock on the match moneyline is scored. 1 lock placed on a side market by an earlier scanner fault is void and listed under voided.",
  "overall": {
-  "brier": 0.2308913513513515,
-  "edge_pp": -2.535135135135147,
-  "implied": 0.5280540540540541,
-  "n": 185,
-  "roi": -0.04932614994995765,
-  "win_rate": 0.5027027027027027,
-  "wins": 93,
-  "z": -0.7214949170054277
+  "brier": 0.2302178763440862,
+  "edge_pp": -2.3467741935483954,
+  "implied": 0.5288440860215055,
+  "n": 186,
+  "roi": -0.04647234547989615,
+  "win_rate": 0.5053763440860215,
+  "wins": 94,
+  "z": -0.6697615909372092
  },
- "pending": 7,
+ "pending": 6,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -1887,6 +1887,16 @@
    "title": "Shanghai Rolex Masters, Qualification: Kyrian Jacquet vs Rei Sakamoto",
    "tour": "ATP",
    "winner": "Rei Sakamoto"
+  },
+  {
+   "hit": true,
+   "locked_at": "2026-10-07T04:31:43Z",
+   "phase": "pre-match",
+   "price": 0.675,
+   "side": "Arthur Gea",
+   "title": "Shanghai Rolex Masters: Arthur Gea vs Jaime Faria",
+   "tour": "ATP",
+   "winner": "Arthur Gea"
   }
  ],
  "voided": [
