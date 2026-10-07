@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.22895557065217406,
-   "edge_pp": -1.9048913043478222,
-   "implied": 0.5299184782608696,
-   "n": 184,
-   "roi": -0.03770142531205258,
-   "win_rate": 0.5108695652173914,
-   "wins": 94,
-   "z": -0.5411091810306702
+   "brier": 0.22799162162162176,
+   "edge_pp": -1.7729729729729748,
+   "implied": 0.5312432432432432,
+   "n": 185,
+   "roi": -0.03592832257714872,
+   "win_rate": 0.5135135135135135,
+   "wins": 95,
+   "z": -0.5053242327380302
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-10-07T11:32:02Z",
+ "generated": "2026-10-07T12:02:45Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json. Only a lock on the match moneyline is scored. 1 lock placed on a side market by an earlier scanner fault is void and listed under voided.",
  "overall": {
-  "brier": 0.2289668882978725,
-  "edge_pp": -2.492021276595746,
-  "implied": 0.5302393617021277,
-  "n": 188,
-  "roi": -0.050466951569674644,
-  "win_rate": 0.5053191489361702,
-  "wins": 95,
-  "z": -0.7157952176970666
+  "brier": 0.2280232804232806,
+  "edge_pp": -2.3597883597883618,
+  "implied": 0.5315343915343915,
+  "n": 189,
+  "roi": -0.04866383235160673,
+  "win_rate": 0.5079365079365079,
+  "wins": 96,
+  "z": -0.6800360915940545
  },
- "pending": 6,
+ "pending": 5,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -1917,6 +1917,16 @@
    "title": "Shanghai Rolex Masters: Quentin Halys vs Coleman Wong",
    "tour": "ATP",
    "winner": "Quentin Halys"
+  },
+  {
+   "hit": true,
+   "locked_at": "2026-10-07T10:32:07Z",
+   "phase": "pre-match",
+   "price": 0.775,
+   "side": "Yibing Wu",
+   "title": "Shanghai Rolex Masters: Yibing Wu vs Michael Zheng",
+   "tour": "ATP",
+   "winner": "Yibing Wu"
   }
  ],
  "voided": [
