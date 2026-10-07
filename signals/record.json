@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.23023392857142871,
-   "edge_pp": -1.750000000000007,
-   "implied": 0.528489010989011,
-   "n": 182,
-   "roi": -0.033478745173513874,
-   "win_rate": 0.510989010989011,
-   "wins": 93,
-   "z": -0.4938582527873757
+   "brier": 0.22907540983606572,
+   "edge_pp": -1.6666666666666607,
+   "implied": 0.530327868852459,
+   "n": 183,
+   "roi": -0.03244296315528784,
+   "win_rate": 0.5136612021857924,
+   "wins": 94,
+   "z": -0.472262986691701
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-10-07T06:32:25Z",
+ "generated": "2026-10-07T07:02:06Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json. Only a lock on the match moneyline is scored. 1 lock placed on a side market by an earlier scanner fault is void and listed under voided.",
  "overall": {
-  "brier": 0.2302178763440862,
-  "edge_pp": -2.3467741935483954,
-  "implied": 0.5288440860215055,
-  "n": 186,
-  "roi": -0.04647234547989615,
-  "win_rate": 0.5053763440860215,
-  "wins": 94,
-  "z": -0.6697615909372092
+  "brier": 0.22908422459893066,
+  "edge_pp": -2.262032085561494,
+  "implied": 0.5306417112299465,
+  "n": 187,
+  "roi": -0.04538923473314884,
+  "win_rate": 0.5080213903743316,
+  "wins": 95,
+  "z": -0.6481569381171753
  },
- "pending": 6,
+ "pending": 5,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -1897,6 +1897,16 @@
    "title": "Shanghai Rolex Masters: Arthur Gea vs Jaime Faria",
    "tour": "ATP",
    "winner": "Arthur Gea"
+  },
+  {
+   "hit": true,
+   "locked_at": "2026-10-07T05:31:43Z",
+   "phase": "pre-match",
+   "price": 0.865,
+   "side": "Iga Swiatek",
+   "title": "China Open: Iva Jovic vs Iga Swiatek",
+   "tour": "WTA",
+   "winner": "Iga Swiatek"
   }
  ],
  "voided": [
