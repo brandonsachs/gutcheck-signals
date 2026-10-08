@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.22786577540106967,
-   "edge_pp": -1.7540106951871581,
-   "implied": 0.5309090909090909,
-   "n": 187,
-   "roi": -0.03624374758432001,
-   "win_rate": 0.5133689839572193,
+   "brier": 0.2280102393617023,
+   "edge_pp": -2.013297872340425,
+   "implied": 0.5307712765957446,
+   "n": 188,
+   "roi": -0.041370110629084265,
+   "win_rate": 0.5106382978723404,
    "wins": 96,
-   "z": -0.5023666050212846
+   "z": -0.5780204181230149
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-10-08T11:02:33Z",
+ "generated": "2026-10-08T11:32:16Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json. Only a lock on the match moneyline is scored. 1 lock placed on a side market by an earlier scanner fault is void and listed under voided.",
  "overall": {
-  "brier": 0.22789973821989545,
-  "edge_pp": -2.3350785340314095,
-  "implied": 0.5312041884816754,
-  "n": 191,
-  "roi": -0.04883929547617277,
-  "win_rate": 0.5078534031413613,
+  "brier": 0.2280410156250002,
+  "edge_pp": -2.5859375000000018,
+  "implied": 0.5310677083333334,
+  "n": 192,
+  "roi": -0.05379325747890105,
+  "win_rate": 0.5052083333333334,
   "wins": 97,
-  "z": -0.6761368061097139
+  "z": -0.750542023404664
  },
- "pending": 7,
+ "pending": 6,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -1947,6 +1947,16 @@
    "title": "Shanghai Rolex Masters: Adolfo Vallejo vs Valentin Royer",
    "tour": "ATP",
    "winner": "Adolfo Vallejo"
+  },
+  {
+   "hit": false,
+   "locked_at": "2026-10-08T09:02:08Z",
+   "phase": "pre-match",
+   "price": 0.505,
+   "side": "Daniel Merida Aguilar",
+   "title": "Shanghai Rolex Masters: Botic van de Zandschulp vs Daniel Merida Aguilar",
+   "tour": "ATP",
+   "winner": "Botic van de Zandschulp"
   }
  ],
  "voided": [
