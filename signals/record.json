@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.2280102393617023,
-   "edge_pp": -2.013297872340425,
-   "implied": 0.5307712765957446,
-   "n": 188,
-   "roi": -0.041370110629084265,
-   "win_rate": 0.5106382978723404,
-   "wins": 96,
-   "z": -0.5780204181230149
+   "brier": 0.22743359788359807,
+   "edge_pp": -1.8201058201058107,
+   "implied": 0.5314285714285714,
+   "n": 189,
+   "roi": -0.03836435577257108,
+   "win_rate": 0.5132275132275133,
+   "wins": 97,
+   "z": -0.5239554546815258
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-10-08T11:32:16Z",
+ "generated": "2026-10-08T12:01:06Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json. Only a lock on the match moneyline is scored. 1 lock placed on a side market by an earlier scanner fault is void and listed under voided.",
  "overall": {
-  "brier": 0.2280410156250002,
-  "edge_pp": -2.5859375000000018,
-  "implied": 0.5310677083333334,
-  "n": 192,
-  "roi": -0.05379325747890105,
-  "win_rate": 0.5052083333333334,
-  "wins": 97,
-  "z": -0.750542023404664
+  "brier": 0.227476165803109,
+  "edge_pp": -2.3937823834196847,
+  "implied": 0.5317098445595855,
+  "n": 193,
+  "roi": -0.050785429423301,
+  "win_rate": 0.5077720207253886,
+  "wins": 98,
+  "z": -0.6965933277094181
  },
- "pending": 6,
+ "pending": 5,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -1957,6 +1957,16 @@
    "title": "Shanghai Rolex Masters: Botic van de Zandschulp vs Daniel Merida Aguilar",
    "tour": "ATP",
    "winner": "Botic van de Zandschulp"
+  },
+  {
+   "hit": true,
+   "locked_at": "2026-10-08T10:31:55Z",
+   "phase": "pre-match",
+   "price": 0.655,
+   "side": "Yunchaokete Bu",
+   "title": "Shanghai Rolex Masters: Luca Van Assche vs Yunchaokete Bu",
+   "tour": "ATP",
+   "winner": "Yunchaokete Bu"
   }
  ],
  "voided": [
