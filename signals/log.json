@@ -1440,7 +1440,7 @@
    "cid": "0x075c48ca38ca5f7ecd3b2e232f22708b44bf85ca675bb67346d59de0c8ca2d93",
    "first_seen": "2026-10-07T18:02:25Z",
    "last_pre": {
-    "at": "2026-10-08T12:00:56Z",
+    "at": "2026-10-08T12:30:53Z",
     "fish": [
      0.0,
      2435.0
@@ -1459,7 +1459,7 @@
     "state": "crowded",
     "wallets": 3
    },
-   "last_scan": "2026-10-08T12:00:56Z",
+   "last_scan": "2026-10-08T12:30:53Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -5809,7 +5809,7 @@
    "cid": "0x1930ba7903feabf1e1c1ee24c691b0998f666e14a97036accc9ccd0a0760a863",
    "first_seen": "2026-10-08T05:31:44Z",
    "last_pre": {
-    "at": "2026-10-08T12:00:56Z",
+    "at": "2026-10-08T12:30:53Z",
     "fish": [
      0.0,
      0.0
@@ -5828,7 +5828,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-08T12:00:56Z",
+   "last_scan": "2026-10-08T12:30:53Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -6362,7 +6362,7 @@
    "cid": "0x1ac824b08f65fd7b6f4423f8a051bf1c4a6e51aecc564bb959d5d6eb22c0a80c",
    "first_seen": "2026-10-08T05:31:44Z",
    "last_pre": {
-    "at": "2026-10-08T12:00:56Z",
+    "at": "2026-10-08T12:30:53Z",
     "fish": [
      0.0,
      0.0
@@ -6381,7 +6381,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-08T12:00:56Z",
+   "last_scan": "2026-10-08T12:30:53Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -6555,7 +6555,7 @@
     "state": "none",
     "wallets": 3
    },
-   "last_scan": "2026-10-08T12:00:56Z",
+   "last_scan": "2026-10-08T12:30:53Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -8987,7 +8987,7 @@
    "cid": "0x24b9c0d58931416f2b960a99b8944abee68406b812e0ce8f7ad4c27208f0bebe",
    "first_seen": "2026-10-08T05:31:44Z",
    "last_pre": {
-    "at": "2026-10-08T12:00:56Z",
+    "at": "2026-10-08T12:30:53Z",
     "fish": [
      0.0,
      0.0
@@ -9006,7 +9006,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-08T12:00:56Z",
+   "last_scan": "2026-10-08T12:30:53Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -9042,7 +9042,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-10-08T12:00:56Z",
+   "last_scan": "2026-10-08T12:30:53Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -13307,7 +13307,7 @@
    "cid": "0x355527aa4ff572726a21aa4e975cc8d400bd8b2cba6bd4b48fb90169ac3adf98",
    "first_seen": "2026-10-08T05:31:44Z",
    "last_pre": {
-    "at": "2026-10-08T12:00:56Z",
+    "at": "2026-10-08T12:30:53Z",
     "fish": [
      0.0,
      0.0
@@ -13326,7 +13326,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-08T12:00:56Z",
+   "last_scan": "2026-10-08T12:30:53Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -18216,7 +18216,7 @@
    "cid": "0x486ac50cf4831f6153c9946c8217cb94fe2b526a7c2f36657deaf4e54e58fb49",
    "first_seen": "2026-10-08T05:31:44Z",
    "last_pre": {
-    "at": "2026-10-08T12:00:56Z",
+    "at": "2026-10-08T12:30:53Z",
     "fish": [
      0.0,
      0.0
@@ -18235,7 +18235,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-08T12:00:56Z",
+   "last_scan": "2026-10-08T12:30:53Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -24347,7 +24347,7 @@
     "state": "none",
     "wallets": 2
    },
-   "last_scan": "2026-10-08T12:00:56Z",
+   "last_scan": "2026-10-08T12:30:53Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -26459,16 +26459,34 @@
     "state": "aligned",
     "wallets": 17
    },
-   "last_scan": "2026-10-08T12:00:56Z",
+   "last_scan": "2026-10-08T12:30:53Z",
    "lock_closed": false,
-   "locked": null,
+   "locked": {
+    "at": "2026-10-08T12:30:53Z",
+    "fish": [
+     8608.0,
+     14741.0
+    ],
+    "notified": true,
+    "phase": "pre-match",
+    "price": 0.655,
+    "sharp": [
+     39104.0,
+     10029.0
+    ],
+    "side": 0,
+    "side_name": "Cameron Norrie",
+    "source": "at-serve-book",
+    "wallets": 17
+   },
+   "market_type": "moneyline",
    "outcomes": [
     "Cameron Norrie",
     "Dalibor Svrcina"
    ],
    "result": null,
    "slug": "atp-norrie-svrcina-2026-10-07",
-   "start": "2026-10-08T12:05:00Z",
+   "start": "2026-10-08T12:10:00Z",
    "title": "Shanghai Rolex Masters: Cameron Norrie vs Dalibor Svrcina",
    "tour": "ATP"
   },
@@ -26927,7 +26945,7 @@
    "cid": "0x69c8e1ae792e4ed0d49d171cbdc694c2e9a4d838ce3833eca2ed40aec9b774e7",
    "first_seen": "2026-10-08T05:31:44Z",
    "last_pre": {
-    "at": "2026-10-08T12:00:56Z",
+    "at": "2026-10-08T12:30:53Z",
     "fish": [
      0.0,
      0.0
@@ -26946,7 +26964,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-08T12:00:56Z",
+   "last_scan": "2026-10-08T12:30:53Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -31588,7 +31606,7 @@
    "cid": "0x7c471739de3702c5edb969d31463fc94f79e75b64ed9a162c296c80ae01c5b5e",
    "first_seen": "2026-10-08T11:32:00Z",
    "last_pre": {
-    "at": "2026-10-08T12:00:56Z",
+    "at": "2026-10-08T12:30:53Z",
     "fish": [
      0.0,
      0.0
@@ -31607,7 +31625,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-08T12:00:56Z",
+   "last_scan": "2026-10-08T12:30:53Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -33034,7 +33052,7 @@
     "state": "aligned",
     "wallets": 6
    },
-   "last_scan": "2026-10-08T12:00:56Z",
+   "last_scan": "2026-10-08T12:30:53Z",
    "lock_closed": false,
    "locked": {
     "at": "2026-10-08T10:31:55Z",
@@ -34143,7 +34161,7 @@
    "cid": "0x885a6775e7e17591e3e3379e067c7d7dcde86d45ce15ea6bafc2ed543f4860a6",
    "first_seen": "2026-10-08T05:31:44Z",
    "last_pre": {
-    "at": "2026-10-08T12:00:56Z",
+    "at": "2026-10-08T12:30:53Z",
     "fish": [
      0.0,
      0.0
@@ -34162,7 +34180,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-08T12:00:56Z",
+   "last_scan": "2026-10-08T12:30:53Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -34334,7 +34352,7 @@
    "cid": "0x8933398b25710ce976e6d1b2df92a333c0295fc167f37f59c201136d2fad3b04",
    "first_seen": "2026-10-08T05:31:44Z",
    "last_pre": {
-    "at": "2026-10-08T12:00:56Z",
+    "at": "2026-10-08T12:30:53Z",
     "fish": [
      0.0,
      0.0
@@ -34353,7 +34371,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-08T12:00:56Z",
+   "last_scan": "2026-10-08T12:30:53Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -34910,7 +34928,7 @@
     "state": "crowded",
     "wallets": 8
    },
-   "last_scan": "2026-10-08T12:00:56Z",
+   "last_scan": "2026-10-08T12:30:53Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -35588,15 +35606,15 @@
    "cid": "0x8e21f64ea4c57ac06269cac82b222c1eec6daca13a10a8a50631d842ab1d1d96",
    "first_seen": "2026-10-08T05:31:44Z",
    "last_pre": {
-    "at": "2026-10-08T12:00:56Z",
+    "at": "2026-10-08T12:30:53Z",
     "fish": [
      15188.0,
-     9440.0
+     11419.0
     ],
     "frozen_pre": false,
     "price": null,
     "sharp": [
-     10611.0,
+     14139.0,
      0.0
     ],
     "sharp_wallets": [
@@ -35607,7 +35625,7 @@
     "state": "crowded",
     "wallets": 9
    },
-   "last_scan": "2026-10-08T12:00:56Z",
+   "last_scan": "2026-10-08T12:30:53Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -38481,7 +38499,7 @@
    "cid": "0x98801bbce84057653cd24b36b38b9bde8a6a414d240abdf28782f96b4a6b753e",
    "first_seen": "2026-10-08T11:32:00Z",
    "last_pre": {
-    "at": "2026-10-08T12:00:56Z",
+    "at": "2026-10-08T12:30:53Z",
     "fish": [
      0.0,
      0.0
@@ -38500,7 +38518,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-08T12:00:56Z",
+   "last_scan": "2026-10-08T12:30:53Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -41119,7 +41137,7 @@
     "state": "aligned",
     "wallets": 14
    },
-   "last_scan": "2026-10-08T12:00:56Z",
+   "last_scan": "2026-10-08T12:30:53Z",
    "lock_closed": false,
    "locked": {
     "at": "2026-10-08T09:02:08Z",
@@ -44006,7 +44024,7 @@
    "cid": "0xae5d3968aa5caf9045299a864832ba6173e24afe0d8b23b1cbfa657ad9f2dfc3",
    "first_seen": "2026-10-07T18:02:25Z",
    "last_pre": {
-    "at": "2026-10-08T12:00:56Z",
+    "at": "2026-10-08T12:30:53Z",
     "fish": [
      0.0,
      0.0
@@ -44025,7 +44043,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-10-08T12:00:56Z",
+   "last_scan": "2026-10-08T12:30:53Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -45840,7 +45858,7 @@
    "cid": "0xb52ce93d44dbab15dc082533424fa37883cc30598d0dfe14f7d30b187d350f7e",
    "first_seen": "2026-10-08T05:31:44Z",
    "last_pre": {
-    "at": "2026-10-08T12:00:56Z",
+    "at": "2026-10-08T12:30:53Z",
     "fish": [
      0.0,
      0.0
@@ -45859,7 +45877,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-08T12:00:56Z",
+   "last_scan": "2026-10-08T12:30:53Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -47817,7 +47835,7 @@
    "cid": "0xbbd521860f7cd81bb35333783a7d2de99ac3a89d08c90da0725c7a10b9a39ee5",
    "first_seen": "2026-10-08T05:31:44Z",
    "last_pre": {
-    "at": "2026-10-08T12:00:56Z",
+    "at": "2026-10-08T12:30:53Z",
     "fish": [
      0.0,
      0.0
@@ -47836,7 +47854,7 @@
     "state": "none",
     "wallets": 3
    },
-   "last_scan": "2026-10-08T12:00:56Z",
+   "last_scan": "2026-10-08T12:30:53Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -50826,7 +50844,7 @@
     "state": "crowded",
     "wallets": 18
    },
-   "last_scan": "2026-10-08T12:00:56Z",
+   "last_scan": "2026-10-08T12:30:53Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -51323,7 +51341,7 @@
    "cid": "0xcacf19b6b88e2ba0f0a1013ac6bb31c3ab4f477ed60ff65497b460d13fa8fceb",
    "first_seen": "2026-10-08T05:31:44Z",
    "last_pre": {
-    "at": "2026-10-08T12:00:56Z",
+    "at": "2026-10-08T12:30:53Z",
     "fish": [
      0.0,
      0.0
@@ -51342,7 +51360,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-08T12:00:56Z",
+   "last_scan": "2026-10-08T12:30:53Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -51626,7 +51644,7 @@
     "state": "aligned",
     "wallets": 13
    },
-   "last_scan": "2026-10-08T12:00:56Z",
+   "last_scan": "2026-10-08T12:30:53Z",
    "lock_closed": false,
    "locked": {
     "at": "2026-10-08T07:01:55Z",
@@ -55395,7 +55413,7 @@
    "cid": "0xdbb900a41ea07b6c8f388409b23e5d842c3405b30d8d59dd147782ce86e5bbcd",
    "first_seen": "2026-10-08T05:31:44Z",
    "last_pre": {
-    "at": "2026-10-08T12:00:56Z",
+    "at": "2026-10-08T12:30:53Z",
     "fish": [
      0.0,
      0.0
@@ -55414,7 +55432,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-08T12:00:56Z",
+   "last_scan": "2026-10-08T12:30:53Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -59337,7 +59355,7 @@
    "cid": "0xeb4b643edadd0e289ba95b97625968bd35bbfcbefcb1276f517e4813c48aa426",
    "first_seen": "2026-10-08T05:31:44Z",
    "last_pre": {
-    "at": "2026-10-08T12:00:56Z",
+    "at": "2026-10-08T12:30:53Z",
     "fish": [
      0.0,
      0.0
@@ -59356,7 +59374,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-08T12:00:56Z",
+   "last_scan": "2026-10-08T12:30:53Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -60535,7 +60553,7 @@
     "state": "crowded",
     "wallets": 18
    },
-   "last_scan": "2026-10-08T12:00:56Z",
+   "last_scan": "2026-10-08T12:30:53Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -62885,7 +62903,7 @@
     "state": "thin",
     "wallets": 3
    },
-   "last_scan": "2026-10-08T12:00:56Z",
+   "last_scan": "2026-10-08T12:30:53Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -64775,6 +64793,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-10-08T12:00:56Z",
+ "updated": "2026-10-08T12:30:53Z",
  "version": 1
 }
