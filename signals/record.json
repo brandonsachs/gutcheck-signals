@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.2284946052631581,
-   "edge_pp": -2.155263157894738,
-   "implied": 0.5320789473684211,
-   "n": 190,
-   "roi": -0.04342559600534702,
-   "win_rate": 0.5105263157894737,
+   "brier": 0.23069109947643995,
+   "edge_pp": -2.565445026178015,
+   "implied": 0.5335078534031414,
+   "n": 191,
+   "roi": -0.048433838958198604,
+   "win_rate": 0.5078534031413613,
    "wins": 97,
-   "z": -0.6220917256256507
+   "z": -0.743038577856149
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-10-09T13:30:33Z",
+ "generated": "2026-10-09T18:00:41Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json. Only a lock on the match moneyline is scored. 1 lock placed on a side market by an earlier scanner fault is void and listed under voided.",
  "overall": {
-  "brier": 0.22851507731958784,
-  "edge_pp": -2.719072164948455,
-  "implied": 0.5323453608247423,
-  "n": 194,
-  "roi": -0.055678288034521094,
-  "win_rate": 0.5051546391752577,
+  "brier": 0.23066641025641044,
+  "edge_pp": -3.1179487179487264,
+  "implied": 0.5337435897435898,
+  "n": 195,
+  "roi": -0.0605209634804979,
+  "win_rate": 0.5025641025641026,
   "wins": 98,
-  "z": -0.793317625835879
+  "z": -0.9127642465738713
  },
- "pending": 6,
+ "pending": 5,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -1977,6 +1977,16 @@
    "title": "Shanghai Rolex Masters: Cameron Norrie vs Dalibor Svrcina",
    "tour": "ATP",
    "winner": "Dalibor Svrcina"
+  },
+  {
+   "hit": false,
+   "locked_at": "2026-10-09T11:31:30Z",
+   "phase": "pre-match",
+   "price": 0.805,
+   "side": "Lorenzo Musetti",
+   "title": "Shanghai Rolex Masters: Yi Zhou vs Lorenzo Musetti",
+   "tour": "ATP",
+   "winner": "Yi Zhou"
   }
  ],
  "voided": [
