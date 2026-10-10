@@ -1495,7 +1495,7 @@
     "state": "crowded",
     "wallets": 6
    },
-   "last_scan": "2026-10-10T10:01:18Z",
+   "last_scan": "2026-10-10T10:31:14Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -2165,7 +2165,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-10T10:01:18Z",
+   "last_scan": "2026-10-10T10:31:14Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -3212,6 +3212,42 @@
    "title": "China Open: Daniil Medvedev vs Pablo Carreno Busta",
    "tour": "ATP"
   },
+  "0x0df11677dbce2ea4b3594bd111169db681f480a1540b23461c64e3e1bf0a1eab": {
+   "cid": "0x0df11677dbce2ea4b3594bd111169db681f480a1540b23461c64e3e1bf0a1eab",
+   "first_seen": "2026-10-10T10:31:14Z",
+   "last_pre": {
+    "at": "2026-10-10T10:31:14Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-10-10T10:31:14Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Zeynep Sonmez",
+    "Sinja Kraus"
+   ],
+   "result": null,
+   "slug": "wta-sonmez-kraus-2026-10-10",
+   "start": "2026-10-11T03:00:00Z",
+   "title": "Wuhan Tennis Open, Qualification: Zeynep Sonmez vs Sinja Kraus",
+   "tour": "WTA"
+  },
   "0x0e0081ae8ad8c0fc73f8618858a5f9ba05860da9638c63c543da3ddde8fe4f6b": {
    "cid": "0x0e0081ae8ad8c0fc73f8618858a5f9ba05860da9638c63c543da3ddde8fe4f6b",
    "first_seen": "2026-09-28T16:01:03Z",
@@ -4154,7 +4190,7 @@
    "cid": "0x114addebae6165ed1800488dc74bedce2507982288725682b828e4d66c7a0aaa",
    "first_seen": "2026-10-08T18:00:57Z",
    "last_pre": {
-    "at": "2026-10-10T10:01:18Z",
+    "at": "2026-10-10T10:31:14Z",
     "fish": [
      0.0,
      0.0
@@ -4173,7 +4209,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-10T10:01:18Z",
+   "last_scan": "2026-10-10T10:31:14Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -12121,7 +12157,7 @@
     "state": "none",
     "wallets": 5
    },
-   "last_scan": "2026-10-10T10:01:18Z",
+   "last_scan": "2026-10-10T10:31:14Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -12329,7 +12365,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-10T10:01:18Z",
+   "last_scan": "2026-10-10T10:31:14Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -13279,7 +13315,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-10T10:01:18Z",
+   "last_scan": "2026-10-10T10:31:14Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -13296,16 +13332,16 @@
    "cid": "0x344b471f6f47081ea0125e8f0c99eb99dfc7950c864f6f7578ef6a99af8b991a",
    "first_seen": "2026-10-08T18:00:57Z",
    "last_pre": {
-    "at": "2026-10-10T10:01:18Z",
+    "at": "2026-10-10T10:31:14Z",
     "fish": [
-     5941.0,
+     7813.0,
      21514.0
     ],
     "frozen_pre": false,
     "price": 0.355,
     "sharp": [
      10029.0,
-     5956.0
+     8498.0
     ],
     "sharp_wallets": [
      4,
@@ -13313,9 +13349,9 @@
     ],
     "side": 0,
     "state": "aligned",
-    "wallets": 12
+    "wallets": 13
    },
-   "last_scan": "2026-10-10T10:01:18Z",
+   "last_scan": "2026-10-10T10:31:14Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -13324,7 +13360,7 @@
    ],
    "result": null,
    "slug": "atp-zandsch-michels-2026-10-09",
-   "start": "2026-10-10T11:00:00Z",
+   "start": "2026-10-10T11:30:00Z",
    "title": "Shanghai Rolex Masters: Botic van de Zandschulp vs Alex Michelsen",
    "tour": "ATP"
   },
@@ -15500,7 +15536,7 @@
    "cid": "0x3bb8fc968dac8677fe7d57b1a7da7e8eae7c05aecb451925a75b27b0431b6b60",
    "first_seen": "2026-10-10T05:30:57Z",
    "last_pre": {
-    "at": "2026-10-10T10:01:18Z",
+    "at": "2026-10-10T10:31:14Z",
     "fish": [
      0.0,
      0.0
@@ -15519,7 +15555,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-10T10:01:18Z",
+   "last_scan": "2026-10-10T10:31:14Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -15759,7 +15795,7 @@
    "cid": "0x3c5e976b116855c013ef194de181d7c7c22db1896f4351388c9097754e119f12",
    "first_seen": "2026-10-08T18:00:57Z",
    "last_pre": {
-    "at": "2026-10-10T10:01:18Z",
+    "at": "2026-10-10T10:31:14Z",
     "fish": [
      1350.0,
      21588.0
@@ -15778,7 +15814,7 @@
     "state": "crowded",
     "wallets": 8
    },
-   "last_scan": "2026-10-10T10:01:18Z",
+   "last_scan": "2026-10-10T10:31:14Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -16030,11 +16066,11 @@
    "title": "National Bank Open: Casper Ruud vs Joao Fonseca",
    "tour": "ATP"
   },
-  "0x3e00f01328c99afa810454cb971a795805493afe4a461730e554c91741a610b3": {
-   "cid": "0x3e00f01328c99afa810454cb971a795805493afe4a461730e554c91741a610b3",
-   "first_seen": "2026-10-10T05:30:57Z",
+  "0x3dd26832075f3f07f08d610bddafe35a7c92351450b16c896e8b1aabff9ae3f6": {
+   "cid": "0x3dd26832075f3f07f08d610bddafe35a7c92351450b16c896e8b1aabff9ae3f6",
+   "first_seen": "2026-10-10T10:31:14Z",
    "last_pre": {
-    "at": "2026-10-10T10:01:18Z",
+    "at": "2026-10-10T10:31:14Z",
     "fish": [
      0.0,
      0.0
@@ -16053,7 +16089,43 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-10T10:01:18Z",
+   "last_scan": "2026-10-10T10:31:14Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Yulia Putintseva",
+    "Ashlyn Krueger"
+   ],
+   "result": null,
+   "slug": "wta-putints-krueger-2026-10-10",
+   "start": "2026-10-11T03:00:00Z",
+   "title": "Wuhan Tennis Open, Qualification: Yulia Putintseva vs Ashlyn Krueger",
+   "tour": "WTA"
+  },
+  "0x3e00f01328c99afa810454cb971a795805493afe4a461730e554c91741a610b3": {
+   "cid": "0x3e00f01328c99afa810454cb971a795805493afe4a461730e554c91741a610b3",
+   "first_seen": "2026-10-10T05:30:57Z",
+   "last_pre": {
+    "at": "2026-10-10T10:31:14Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-10-10T10:31:14Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -19685,6 +19757,42 @@
    "title": "Sao Paulo Open: Darja Semenistaja vs Teodora Kostovic",
    "tour": "WTA"
   },
+  "0x4d9d36b806a52d87a234f8da89ea4edf11c30c4c7203c7f70ab747a7221a13cb": {
+   "cid": "0x4d9d36b806a52d87a234f8da89ea4edf11c30c4c7203c7f70ab747a7221a13cb",
+   "first_seen": "2026-10-10T10:31:14Z",
+   "last_pre": {
+    "at": "2026-10-10T10:31:14Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-10-10T10:31:14Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Han Shi",
+    "Kamilla Rakhimova"
+   ],
+   "result": null,
+   "slug": "wta-shi-rakhimo-2026-10-10",
+   "start": "2026-10-11T04:30:00Z",
+   "title": "Wuhan Tennis Open, Qualification: Han Shi vs Kamilla Rakhimova",
+   "tour": "WTA"
+  },
   "0x4da8851c252053d4d3fbf0442e00c3623c00b715e8fa18888e3c591d3b418049": {
    "cid": "0x4da8851c252053d4d3fbf0442e00c3623c00b715e8fa18888e3c591d3b418049",
    "first_seen": "2026-09-24T17:15:21Z",
@@ -20559,7 +20667,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-10T10:01:18Z",
+   "last_scan": "2026-10-10T10:31:14Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -21333,26 +21441,26 @@
    "cid": "0x531cb8647bb33eaa51f674978315d3ef2998805c9aab7cacd672f0df9125f739",
    "first_seen": "2026-10-09T18:00:21Z",
    "last_pre": {
-    "at": "2026-10-10T10:01:18Z",
+    "at": "2026-10-10T10:31:14Z",
     "fish": [
      7767.0,
      0.0
     ],
     "frozen_pre": false,
-    "price": 0.415,
+    "price": null,
     "sharp": [
-     7586.0,
-     10474.0
+     13792.0,
+     11129.0
     ],
     "sharp_wallets": [
-     4,
+     5,
      3
     ],
-    "side": 1,
-    "state": "aligned",
-    "wallets": 9
+    "side": null,
+    "state": "crowded",
+    "wallets": 10
    },
-   "last_scan": "2026-10-10T10:01:18Z",
+   "last_scan": "2026-10-10T10:31:14Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -23352,7 +23460,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-10T10:01:18Z",
+   "last_scan": "2026-10-10T10:31:14Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -26649,7 +26757,7 @@
     "state": "crowded",
     "wallets": 6
    },
-   "last_scan": "2026-10-10T10:01:18Z",
+   "last_scan": "2026-10-10T10:31:14Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -28002,7 +28110,7 @@
     "state": "thin",
     "wallets": 7
    },
-   "last_scan": "2026-10-10T10:01:18Z",
+   "last_scan": "2026-10-10T10:31:14Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -28836,7 +28944,7 @@
     "state": "crowded",
     "wallets": 3
    },
-   "last_scan": "2026-10-10T10:01:18Z",
+   "last_scan": "2026-10-10T10:31:14Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -29034,7 +29142,7 @@
     "state": "none",
     "wallets": 3
    },
-   "last_scan": "2026-10-10T10:01:18Z",
+   "last_scan": "2026-10-10T10:31:14Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -30510,7 +30618,7 @@
     "state": "thin",
     "wallets": 2
    },
-   "last_scan": "2026-10-10T10:01:18Z",
+   "last_scan": "2026-10-10T10:31:14Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -33139,7 +33247,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-10T10:01:18Z",
+   "last_scan": "2026-10-10T10:31:14Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -34029,7 +34137,7 @@
    "cid": "0x8370502da1f776c9fc617d28d39ec77e788f08262feb756b7524746a88234750",
    "first_seen": "2026-10-10T05:30:57Z",
    "last_pre": {
-    "at": "2026-10-10T10:01:18Z",
+    "at": "2026-10-10T10:31:14Z",
     "fish": [
      0.0,
      0.0
@@ -34048,7 +34156,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-10T10:01:18Z",
+   "last_scan": "2026-10-10T10:31:14Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -35220,7 +35328,7 @@
    "cid": "0x892847e2eb07728f98ae110f3eb100bd48aa4e2829137c28accd21542c118fcb",
    "first_seen": "2026-10-10T05:30:57Z",
    "last_pre": {
-    "at": "2026-10-10T10:01:18Z",
+    "at": "2026-10-10T10:31:14Z",
     "fish": [
      0.0,
      0.0
@@ -35239,7 +35347,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-10T10:01:18Z",
+   "last_scan": "2026-10-10T10:31:14Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -40849,7 +40957,7 @@
    "cid": "0x9d11f795ed39b8991a0d3febc7095249ed9fa3973cbaf7b0c960fc9aa59fab8a",
    "first_seen": "2026-10-10T05:30:57Z",
    "last_pre": {
-    "at": "2026-10-10T10:01:18Z",
+    "at": "2026-10-10T10:31:14Z",
     "fish": [
      0.0,
      0.0
@@ -40868,7 +40976,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-10T10:01:18Z",
+   "last_scan": "2026-10-10T10:31:14Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -41288,7 +41396,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-10-10T10:01:18Z",
+   "last_scan": "2026-10-10T10:31:14Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -41973,7 +42081,7 @@
     "state": "crowded",
     "wallets": 6
    },
-   "last_scan": "2026-10-10T10:01:18Z",
+   "last_scan": "2026-10-10T10:31:14Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -43827,6 +43935,42 @@
    "title": "China Open: Darja Vidmanova vs Maria Timofeeva",
    "tour": "WTA"
   },
+  "0xa909601858123415cdfba8517298c0ef692cb91cd2c0014213d22df80ca890ca": {
+   "cid": "0xa909601858123415cdfba8517298c0ef692cb91cd2c0014213d22df80ca890ca",
+   "first_seen": "2026-10-10T10:31:14Z",
+   "last_pre": {
+    "at": "2026-10-10T10:31:14Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-10-10T10:31:14Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Magdalena Frech",
+    "Aoi Ito"
+   ],
+   "result": null,
+   "slug": "wta-frech-ito-2026-10-10",
+   "start": "2026-10-11T03:00:00Z",
+   "title": "Wuhan Tennis Open, Qualification: Magdalena Frech vs Aoi Ito",
+   "tour": "WTA"
+  },
   "0xa9760492888e664ee9237f25997c0ded3c2c9fef6301795b66713737a8d4b138": {
    "cid": "0xa9760492888e664ee9237f25997c0ded3c2c9fef6301795b66713737a8d4b138",
    "first_seen": "2026-08-04T04:16:03Z",
@@ -44090,7 +44234,7 @@
    "cid": "0xa9f978746882701ecad68d7ecad46277d93624087e77bf8d62e8750265090fb3",
    "first_seen": "2026-10-10T05:30:57Z",
    "last_pre": {
-    "at": "2026-10-10T10:01:18Z",
+    "at": "2026-10-10T10:31:14Z",
     "fish": [
      0.0,
      0.0
@@ -44109,7 +44253,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-10T10:01:18Z",
+   "last_scan": "2026-10-10T10:31:14Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -46439,7 +46583,7 @@
     "state": "aligned",
     "wallets": 5
    },
-   "last_scan": "2026-10-10T10:01:18Z",
+   "last_scan": "2026-10-10T10:31:14Z",
    "lock_closed": false,
    "locked": {
     "at": "2026-10-10T05:36:51Z",
@@ -46463,7 +46607,11 @@
     "Alejandro Tabilo",
     "Pablo Carreno Busta"
    ],
-   "result": null,
+   "result": {
+    "hit": false,
+    "scored_at": "2026-10-10T10:31:30Z",
+    "winner": "Pablo Carreno Busta"
+   },
    "slug": "atp-tabilo-busta-2026-10-09",
    "start": "2026-10-10T06:00:00Z",
    "title": "Shanghai Rolex Masters: Alejandro Tabilo vs Pablo Carreno Busta",
@@ -49495,8 +49643,8 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-10T10:01:18Z",
-   "lock_closed": false,
+   "last_scan": "2026-10-10T10:31:14Z",
+   "lock_closed": true,
    "locked": null,
    "outcomes": [
     "Polina Kudermetova",
@@ -56494,8 +56642,8 @@
     "state": "crowded",
     "wallets": 6
    },
-   "last_scan": "2026-10-10T10:01:18Z",
-   "lock_closed": false,
+   "last_scan": "2026-10-10T10:31:14Z",
+   "lock_closed": true,
    "locked": null,
    "outcomes": [
     "Luciano Darderi",
@@ -56566,7 +56714,7 @@
     "state": "crowded",
     "wallets": 11
    },
-   "last_scan": "2026-10-10T10:01:18Z",
+   "last_scan": "2026-10-10T10:31:14Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -56602,7 +56750,7 @@
     "state": "thin",
     "wallets": 2
    },
-   "last_scan": "2026-10-10T10:01:18Z",
+   "last_scan": "2026-10-10T10:31:14Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -57253,7 +57401,7 @@
    "cid": "0xdd2979814b03d227c203fa7d4b7da232573d92451228df7112a4b60416dbf05a",
    "first_seen": "2026-10-10T05:30:57Z",
    "last_pre": {
-    "at": "2026-10-10T10:01:18Z",
+    "at": "2026-10-10T10:31:14Z",
     "fish": [
      0.0,
      0.0
@@ -57272,7 +57420,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-10T10:01:18Z",
+   "last_scan": "2026-10-10T10:31:14Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -59231,9 +59379,9 @@
    "cid": "0xe5c72a1ab28d10efbf91c6485525b13795c5b373814cde5e470b69b821efebe0",
    "first_seen": "2026-10-08T18:00:57Z",
    "last_pre": {
-    "at": "2026-10-10T10:01:18Z",
+    "at": "2026-10-10T10:31:14Z",
     "fish": [
-     4489.0,
+     4692.0,
      3388.0
     ],
     "frozen_pre": false,
@@ -59250,7 +59398,7 @@
     "state": "thin",
     "wallets": 10
    },
-   "last_scan": "2026-10-10T10:01:18Z",
+   "last_scan": "2026-10-10T10:31:14Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -61705,7 +61853,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-10T10:01:18Z",
+   "last_scan": "2026-10-10T10:31:14Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -62431,6 +62579,42 @@
    "slug": "wta-tararud-osorio-2026-09-29",
    "start": "2026-10-01T07:30:00Z",
    "title": "China Open: Lanlana Tararudee vs Camila Osorio",
+   "tour": "WTA"
+  },
+  "0xf1e3c553be8287246175eb604b5769e2494d9065097fbe19b649257f52eb5715": {
+   "cid": "0xf1e3c553be8287246175eb604b5769e2494d9065097fbe19b649257f52eb5715",
+   "first_seen": "2026-10-10T10:31:14Z",
+   "last_pre": {
+    "at": "2026-10-10T10:31:14Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-10-10T10:31:14Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Sara Sorribes Tormo",
+    "Daria Kasatkina"
+   ],
+   "result": null,
+   "slug": "wta-tormo-kasatki-2026-10-10",
+   "start": "2026-10-11T03:00:00Z",
+   "title": "Wuhan Tennis Open, Qualification: Sara Sorribes Tormo vs Daria Kasatkina",
    "tour": "WTA"
   },
   "0xf2244dfa1f6e82bdc83f04d968e807a21ee55b41e5eb3ab874dbd06c3e128f1a": {
@@ -66275,6 +66459,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-10-10T10:01:18Z",
+ "updated": "2026-10-10T10:31:14Z",
  "version": 1
 }
