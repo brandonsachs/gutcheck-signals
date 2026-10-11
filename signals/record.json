@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.23277770618556717,
-   "edge_pp": -3.095360824742277,
-   "implied": 0.5361082474226805,
-   "n": 194,
-   "roi": -0.055732032578106314,
-   "win_rate": 0.5051546391752577,
-   "wins": 98,
-   "z": -0.9041980368074499
+   "brier": 0.2331635897435899,
+   "edge_pp": -2.7948717948718005,
+   "implied": 0.5356410256410257,
+   "n": 195,
+   "roi": -0.049050375943162416,
+   "win_rate": 0.5076923076923077,
+   "wins": 99,
+   "z": -0.8183413805954579
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-10-11T12:37:28Z",
+ "generated": "2026-10-11T13:00:47Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json. Only a lock on the match moneyline is scored. 1 lock placed on a side market by an earlier scanner fault is void and listed under voided.",
  "overall": {
-  "brier": 0.23271123737373756,
-  "edge_pp": -3.628787878787887,
-  "implied": 0.5362878787878789,
-  "n": 198,
-  "roi": -0.06748858059512011,
-  "win_rate": 0.5,
-  "wins": 99,
-  "z": -1.0712173165228271
+  "brier": 0.2330896984924625,
+  "edge_pp": -3.3316582914572956,
+  "implied": 0.5358291457286433,
+  "n": 199,
+  "roi": -0.060882150485416224,
+  "win_rate": 0.5025125628140703,
+  "wins": 100,
+  "z": -0.9857698045846734
  },
- "pending": 6,
+ "pending": 5,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -2017,6 +2017,16 @@
    "title": "Shanghai Rolex Masters: Alex de Minaur vs Rei Sakamoto",
    "tour": "ATP",
    "winner": "Alex de Minaur"
+  },
+  {
+   "hit": true,
+   "locked_at": "2026-10-11T10:02:32Z",
+   "phase": "pre-match",
+   "price": 0.445,
+   "side": "Alexander Bublik",
+   "title": "Shanghai Rolex Masters: Alexander Bublik vs Brandon Nakashima",
+   "tour": "ATP",
+   "winner": "Alexander Bublik"
   }
  ],
  "voided": [
