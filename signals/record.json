@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.23433071065989863,
-   "edge_pp": -3.365482233502537,
-   "implied": 0.5361928934010152,
-   "n": 197,
-   "roi": -0.05870468684729274,
-   "win_rate": 0.5025380710659898,
+   "brier": 0.23625946969696984,
+   "edge_pp": -3.74494949494949,
+   "implied": 0.5374494949494949,
+   "n": 198,
+   "roi": -0.06345870358038723,
+   "win_rate": 0.5,
    "wins": 99,
-   "z": -0.9901385770987735
+   "z": -1.1052938581699014
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-10-12T12:31:41Z",
+ "generated": "2026-10-12T13:01:01Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json. Only a lock on the match moneyline is scored. 1 lock placed on a side market by an earlier scanner fault is void and listed under voided.",
  "overall": {
-  "brier": 0.23423432835820912,
-  "edge_pp": -3.885572139303478,
-  "implied": 0.5363681592039801,
-  "n": 201,
-  "roi": -0.07022660669949168,
-  "win_rate": 0.4975124378109453,
+  "brier": 0.23612537128712888,
+  "edge_pp": -4.254950495049503,
+  "implied": 0.5375990099009901,
+  "n": 202,
+  "roi": -0.07482944528018727,
+  "win_rate": 0.49504950495049505,
   "wins": 100,
-  "z": -1.155056284874268
+  "z": -1.2688136849587344
  },
- "pending": 7,
+ "pending": 6,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -2047,6 +2047,16 @@
    "title": "Shanghai Rolex Masters: Stefanos Tsitsipas vs Taylor Fritz",
    "tour": "ATP",
    "winner": "Stefanos Tsitsipas"
+  },
+  {
+   "hit": false,
+   "locked_at": "2026-10-12T10:31:22Z",
+   "phase": "pre-match",
+   "price": 0.785,
+   "side": "Arthur Fils",
+   "title": "Shanghai Rolex Masters: Arthur Fils vs Botic van de Zandschulp",
+   "tour": "ATP",
+   "winner": "Botic van de Zandschulp"
   }
  ],
  "voided": [
