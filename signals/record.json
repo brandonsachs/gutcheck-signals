@@ -11,29 +11,29 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.23625946969696984,
-   "edge_pp": -3.74494949494949,
-   "implied": 0.5374494949494949,
-   "n": 198,
-   "roi": -0.06345870358038723,
-   "win_rate": 0.5,
+   "brier": 0.2360231155778896,
+   "edge_pp": -3.9447236180904452,
+   "implied": 0.5369346733668341,
+   "n": 199,
+   "roi": -0.06816494125083754,
+   "win_rate": 0.49748743718592964,
    "wins": 99,
-   "z": -1.1052938581699014
+   "z": -1.1669537574243602
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-10-13T05:31:16Z",
+ "generated": "2026-10-13T06:01:26Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json. Only a lock on the match moneyline is scored. 1 lock placed on a side market by an earlier scanner fault is void and listed under voided.",
  "overall": {
-  "brier": 0.23612537128712888,
-  "edge_pp": -4.254950495049503,
-  "implied": 0.5375990099009901,
-  "n": 202,
-  "roi": -0.07482944528018727,
-  "win_rate": 0.49504950495049505,
+  "brier": 0.23589433497536963,
+  "edge_pp": -4.448275862068968,
+  "implied": 0.5370935960591133,
+  "n": 203,
+  "roi": -0.07938693569752625,
+  "win_rate": 0.49261083743842365,
   "wins": 100,
-  "z": -1.2688136849587344
+  "z": -1.3294738011590028
  },
  "pending": 8,
  "pre_epoch_summary": "10 hits in 28",
@@ -2057,6 +2057,16 @@
    "title": "Shanghai Rolex Masters: Arthur Fils vs Botic van de Zandschulp",
    "tour": "ATP",
    "winner": "Botic van de Zandschulp"
+  },
+  {
+   "hit": false,
+   "locked_at": "2026-10-13T04:30:43Z",
+   "phase": "pre-match",
+   "price": 0.435,
+   "side": "Karen Khachanov",
+   "title": "Shanghai Rolex Masters: Alex de Minaur vs Karen Khachanov",
+   "tour": "ATP",
+   "winner": "Alex de Minaur"
   }
  ],
  "voided": [
