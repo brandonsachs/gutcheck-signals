@@ -1301,7 +1301,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-14T10:00:15Z",
+   "last_scan": "2026-10-14T10:30:20Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -5728,7 +5728,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-10-14T10:00:15Z",
+   "last_scan": "2026-10-14T10:30:20Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -6384,8 +6384,8 @@
     "state": "none",
     "wallets": 9
    },
-   "last_scan": "2026-10-14T10:00:15Z",
-   "lock_closed": false,
+   "last_scan": "2026-10-14T10:30:20Z",
+   "lock_closed": true,
    "locked": null,
    "outcomes": [
     "Ashlyn Krueger",
@@ -6393,7 +6393,7 @@
    ],
    "result": null,
    "slug": "wta-krueger-tararud-2026-10-14",
-   "start": "2026-10-14T10:20:00Z",
+   "start": "2026-10-14T10:30:00Z",
    "title": "Wuhan Tennis Open: Ashlyn Krueger vs Lanlana Tararudee",
    "tour": "WTA"
   },
@@ -13826,9 +13826,9 @@
    "cid": "0x34ed824d03febbdb0c2abd5068768ebcc7d1b7d392668207e871ff83a2665151",
    "first_seen": "2026-10-13T18:00:27Z",
    "last_pre": {
-    "at": "2026-10-14T10:00:15Z",
+    "at": "2026-10-14T10:30:20Z",
     "fish": [
-     0.0,
+     3063.0,
      0.0
     ],
     "frozen_pre": false,
@@ -13843,9 +13843,9 @@
     ],
     "side": null,
     "state": "none",
-    "wallets": 0
+    "wallets": 1
    },
-   "last_scan": "2026-10-14T10:00:15Z",
+   "last_scan": "2026-10-14T10:30:20Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -17554,10 +17554,10 @@
    "cid": "0x411307c341b65f94c064209b7a52f7ece441d3b9dbbc89b7336f144cd55e49cb",
    "first_seen": "2026-10-12T18:00:39Z",
    "last_pre": {
-    "at": "2026-10-14T10:00:15Z",
+    "at": "2026-10-14T10:30:20Z",
     "fish": [
      0.0,
-     1197.0
+     1318.0
     ],
     "frozen_pre": false,
     "price": null,
@@ -17573,7 +17573,7 @@
     "state": "crowded",
     "wallets": 2
    },
-   "last_scan": "2026-10-14T10:00:15Z",
+   "last_scan": "2026-10-14T10:30:20Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -25390,7 +25390,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-14T10:00:15Z",
+   "last_scan": "2026-10-14T10:30:20Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -30462,7 +30462,7 @@
     "state": "crowded",
     "wallets": 11
    },
-   "last_scan": "2026-10-14T10:00:15Z",
+   "last_scan": "2026-10-14T10:30:20Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -35715,7 +35715,7 @@
     "state": "crowded",
     "wallets": 9
    },
-   "last_scan": "2026-10-14T10:00:15Z",
+   "last_scan": "2026-10-14T10:30:20Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -38371,7 +38371,7 @@
     "state": "aligned",
     "wallets": 7
    },
-   "last_scan": "2026-10-14T10:00:15Z",
+   "last_scan": "2026-10-14T10:30:20Z",
    "lock_closed": false,
    "locked": {
     "at": "2026-10-14T05:00:14Z",
@@ -40825,6 +40825,42 @@
    "slug": "wta-vidmano-birrell-2026-08-25",
    "start": "2026-08-25T21:30:00Z",
    "title": "Monterrey Open: Darja Vidmanova vs Kimberly Birrell",
+   "tour": "WTA"
+  },
+  "0x9854549027687eec13342f628cbd3fbf307db19322f503b6cc99aa19ce3ba6a7": {
+   "cid": "0x9854549027687eec13342f628cbd3fbf307db19322f503b6cc99aa19ce3ba6a7",
+   "first_seen": "2026-10-14T10:30:20Z",
+   "last_pre": {
+    "at": "2026-10-14T10:30:20Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-10-14T10:30:20Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Karolina Muchova",
+    "Diana Shnaider"
+   ],
+   "result": null,
+   "slug": "wta-muchova-shnaide-2026-10-14",
+   "start": "2026-10-15T03:00:00Z",
+   "title": "Wuhan Tennis Open: Karolina Muchova vs Diana Shnaider",
    "tour": "WTA"
   },
   "0x986ade24942c93e21d8b503860f23820306698e424e55f06f2496af0f084a05d": {
@@ -44729,7 +44765,7 @@
    "cid": "0xa504db7c98c90ad1e39d12a3209513efd955a540e6975851d126627b3affaa84",
    "first_seen": "2026-10-13T18:00:27Z",
    "last_pre": {
-    "at": "2026-10-14T10:00:15Z",
+    "at": "2026-10-14T10:30:20Z",
     "fish": [
      0.0,
      0.0
@@ -44748,7 +44784,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-14T10:00:15Z",
+   "last_scan": "2026-10-14T10:30:20Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -46124,6 +46160,42 @@
    "start": "2026-08-25T18:45:00Z",
    "title": "US Open, Qualification ATP: Maks Kasnikowski vs Nicolai Budkov Kjaer",
    "tour": "ATP"
+  },
+  "0xaacccfb0eec334669c0dd8c6cef21c02e7f07052c4d4ab3a0b874a822a4627e9": {
+   "cid": "0xaacccfb0eec334669c0dd8c6cef21c02e7f07052c4d4ab3a0b874a822a4627e9",
+   "first_seen": "2026-10-14T10:30:20Z",
+   "last_pre": {
+    "at": "2026-10-14T10:30:20Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-10-14T10:30:20Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Jasmine Paolini",
+    "Sonay Kartal"
+   ],
+   "result": null,
+   "slug": "wta-paolini-kartal-2026-10-14",
+   "start": "2026-10-15T05:30:00Z",
+   "title": "Wuhan Tennis Open: Jasmine Paolini vs Sonay Kartal",
+   "tour": "WTA"
   },
   "0xab182588077662cedb22c2aaa9c4a8735c6ba18ca3e5565ed9ebd1f975fc03c1": {
    "cid": "0xab182588077662cedb22c2aaa9c4a8735c6ba18ca3e5565ed9ebd1f975fc03c1",
@@ -49335,7 +49407,7 @@
     "state": "crowded",
     "wallets": 3
    },
-   "last_scan": "2026-10-14T10:00:15Z",
+   "last_scan": "2026-10-14T10:30:20Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -53249,7 +53321,7 @@
    "cid": "0xc4c1115be44e24b2ddc629099610d49e09a526403a7b323f104b28895dbfd5d9",
    "first_seen": "2026-10-14T05:30:15Z",
    "last_pre": {
-    "at": "2026-10-14T10:00:15Z",
+    "at": "2026-10-14T10:30:20Z",
     "fish": [
      0.0,
      0.0
@@ -53268,7 +53340,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-10-14T10:00:15Z",
+   "last_scan": "2026-10-14T10:30:20Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -53304,7 +53376,7 @@
     "state": "none",
     "wallets": 17
    },
-   "last_scan": "2026-10-14T10:00:15Z",
+   "last_scan": "2026-10-14T10:30:20Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -53484,7 +53556,7 @@
    "cid": "0xc5a44a22f4282b6e9251fb7e746990180c04e3ec70851537d5c31e9d7b728724",
    "first_seen": "2026-10-14T05:30:15Z",
    "last_pre": {
-    "at": "2026-10-14T10:00:15Z",
+    "at": "2026-10-14T10:30:20Z",
     "fish": [
      0.0,
      0.0
@@ -53503,7 +53575,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-14T10:00:15Z",
+   "last_scan": "2026-10-14T10:30:20Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -58625,8 +58697,8 @@
     "state": "none",
     "wallets": 12
    },
-   "last_scan": "2026-10-14T10:00:15Z",
-   "lock_closed": false,
+   "last_scan": "2026-10-14T10:30:20Z",
+   "lock_closed": true,
    "locked": null,
    "outcomes": [
     "Daniil Medvedev",
@@ -58634,7 +58706,7 @@
    ],
    "result": null,
    "slug": "atp-medvede-tsitsip-2026-10-13",
-   "start": "2026-10-14T10:05:00Z",
+   "start": "2026-10-14T10:10:00Z",
    "title": "Shanghai Rolex Masters: Daniil Medvedev vs Stefanos Tsitsipas",
    "tour": "ATP"
   },
@@ -62978,7 +63050,7 @@
    "cid": "0xe9cef9f7cf235ab346b7e8deabd6a19041c93a8d326d99c2b574e9d0823ae699",
    "first_seen": "2026-10-12T18:00:39Z",
    "last_pre": {
-    "at": "2026-10-14T10:00:15Z",
+    "at": "2026-10-14T10:30:20Z",
     "fish": [
      0.0,
      0.0
@@ -62997,7 +63069,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-10-14T10:00:15Z",
+   "last_scan": "2026-10-14T10:30:20Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -63448,6 +63520,42 @@
    "start": "2026-09-05T15:40:00Z",
    "title": "US Open ATP: Taylor Fritz vs Francisco Cerundolo",
    "tour": "ATP"
+  },
+  "0xebc8c8abb05720ff23becfa758ea03d3e13d1d568b1d597d7a6bc13a6018b161": {
+   "cid": "0xebc8c8abb05720ff23becfa758ea03d3e13d1d568b1d597d7a6bc13a6018b161",
+   "first_seen": "2026-10-14T10:30:20Z",
+   "last_pre": {
+    "at": "2026-10-14T10:30:20Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-10-14T10:30:20Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Iva Jovic",
+    "Maja Chwalinska"
+   ],
+   "result": null,
+   "slug": "wta-jovic-chwalin-2026-10-14",
+   "start": "2026-10-15T04:00:00Z",
+   "title": "Wuhan Tennis Open: Iva Jovic vs Maja Chwalinska",
+   "tour": "WTA"
   },
   "0xebcc753aa61c0ed5da1a64f2a25a60bc028bdaf954ced2d15acbbc478fa2864f": {
    "cid": "0xebcc753aa61c0ed5da1a64f2a25a60bc028bdaf954ced2d15acbbc478fa2864f",
@@ -69164,6 +69272,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-10-14T10:00:15Z",
+ "updated": "2026-10-14T10:30:20Z",
  "version": 1
 }
