@@ -6384,7 +6384,7 @@
     "state": "none",
     "wallets": 9
    },
-   "last_scan": "2026-10-14T13:30:38Z",
+   "last_scan": "2026-10-14T17:00:57Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -13845,7 +13845,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-10-14T13:30:38Z",
+   "last_scan": "2026-10-14T17:00:57Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -17573,8 +17573,8 @@
     "state": "crowded",
     "wallets": 12
    },
-   "last_scan": "2026-10-14T13:30:38Z",
-   "lock_closed": false,
+   "last_scan": "2026-10-14T17:00:57Z",
+   "lock_closed": true,
    "locked": null,
    "outcomes": [
     "Han Shi",
@@ -17582,7 +17582,7 @@
    ],
    "result": null,
    "slug": "wta-shi-fernand-2026-10-13",
-   "start": "2026-10-14T13:40:00Z",
+   "start": "2026-10-14T14:10:00Z",
    "title": "Wuhan Tennis Open: Han Shi vs Leylah Fernandez",
    "tour": "WTA"
   },
@@ -23260,6 +23260,42 @@
    "slug": "wta-putints-samsono-2026-08-13",
    "start": "2026-08-14T20:50:00Z",
    "title": "Cincinnati Open: Yulia Putintseva vs Liudmila Samsonova",
+   "tour": "WTA"
+  },
+  "0x5698980050a118397e8f1b8c6b0a8d5de6aecdb25f582e23ec83b9021dbf8957": {
+   "cid": "0x5698980050a118397e8f1b8c6b0a8d5de6aecdb25f582e23ec83b9021dbf8957",
+   "first_seen": "2026-10-14T17:00:57Z",
+   "last_pre": {
+    "at": "2026-10-14T17:00:57Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-10-14T17:00:57Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Leylah Fernandez",
+    "Jelena Ostapenko"
+   ],
+   "result": null,
+   "slug": "wta-fernand-ostapen-2026-10-15",
+   "start": "2026-10-15T07:30:00Z",
+   "title": "Wuhan Tennis Open: Leylah Fernandez vs Jelena Ostapenko",
    "tour": "WTA"
   },
   "0x56dfbe998360b411fa55ca1e15e2e76d8156f23067ae744c85f6a0adbcf925be": {
@@ -40831,7 +40867,7 @@
    "cid": "0x9854549027687eec13342f628cbd3fbf307db19322f503b6cc99aa19ce3ba6a7",
    "first_seen": "2026-10-14T10:30:20Z",
    "last_pre": {
-    "at": "2026-10-14T13:30:38Z",
+    "at": "2026-10-14T17:00:57Z",
     "fish": [
      0.0,
      0.0
@@ -40850,7 +40886,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-14T13:30:38Z",
+   "last_scan": "2026-10-14T17:00:57Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -44765,7 +44801,7 @@
    "cid": "0xa504db7c98c90ad1e39d12a3209513efd955a540e6975851d126627b3affaa84",
    "first_seen": "2026-10-13T18:00:27Z",
    "last_pre": {
-    "at": "2026-10-14T13:30:38Z",
+    "at": "2026-10-14T17:00:57Z",
     "fish": [
      0.0,
      0.0
@@ -44784,7 +44820,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-14T13:30:38Z",
+   "last_scan": "2026-10-14T17:00:57Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -46165,7 +46201,7 @@
    "cid": "0xaacccfb0eec334669c0dd8c6cef21c02e7f07052c4d4ab3a0b874a822a4627e9",
    "first_seen": "2026-10-14T10:30:20Z",
    "last_pre": {
-    "at": "2026-10-14T13:30:38Z",
+    "at": "2026-10-14T17:00:57Z",
     "fish": [
      0.0,
      0.0
@@ -46173,18 +46209,18 @@
     "frozen_pre": false,
     "price": null,
     "sharp": [
-     0.0,
-     0.0
+     1955.0,
+     1380.0
     ],
     "sharp_wallets": [
-     0,
-     0
+     1,
+     1
     ],
     "side": null,
     "state": "none",
-    "wallets": 0
+    "wallets": 2
    },
-   "last_scan": "2026-10-14T13:30:38Z",
+   "last_scan": "2026-10-14T17:00:57Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -46901,6 +46937,42 @@
    "slug": "wta-oliynyk-andreev-2026-08-16",
    "start": "2026-08-16T15:05:00Z",
    "title": "Cincinnati Open: Oleksandra Oliynykova vs Mirra Andreeva",
+   "tour": "WTA"
+  },
+  "0xadb06c41e59a0d48775ccdfe8ea45ccc49661c1efe84ab6523016585063420cf": {
+   "cid": "0xadb06c41e59a0d48775ccdfe8ea45ccc49661c1efe84ab6523016585063420cf",
+   "first_seen": "2026-10-14T17:00:57Z",
+   "last_pre": {
+    "at": "2026-10-14T17:00:57Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-10-14T17:00:57Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Ashlyn Krueger",
+    "Iga Swiatek"
+   ],
+   "result": null,
+   "slug": "wta-krueger-swiatek-2026-10-15",
+   "start": "2026-10-15T11:00:00Z",
+   "title": "Wuhan Tennis Open: Ashlyn Krueger vs Iga Swiatek",
    "tour": "WTA"
   },
   "0xaddaeb4e7445c9f153030622f21ead14f72dd70cce1b3f99312828ce1532c28b": {
@@ -51321,6 +51393,42 @@
    "title": "Istanbul 2: Arthur Weber vs Florent Bax",
    "tour": "ATP"
   },
+  "0xbc381682f953f631a2090b55d1d5e3b43527bd183dc468f70443e0c780e671bb": {
+   "cid": "0xbc381682f953f631a2090b55d1d5e3b43527bd183dc468f70443e0c780e671bb",
+   "first_seen": "2026-10-14T17:00:57Z",
+   "last_pre": {
+    "at": "2026-10-14T17:00:57Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-10-14T17:00:57Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Ann Li",
+    "Janice Tjen"
+   ],
+   "result": null,
+   "slug": "wta-annli-tjen-2026-10-15",
+   "start": "2026-10-15T12:30:00Z",
+   "title": "Wuhan Tennis Open: Ann Li vs Janice Tjen",
+   "tour": "WTA"
+  },
   "0xbc401a8bd55fbc0868c54ed25fa03591a3c192f5018c6bc3707e49c820d7d7b3": {
    "cid": "0xbc401a8bd55fbc0868c54ed25fa03591a3c192f5018c6bc3707e49c820d7d7b3",
    "first_seen": "2026-08-25T04:31:02Z",
@@ -53321,7 +53429,7 @@
    "cid": "0xc4c1115be44e24b2ddc629099610d49e09a526403a7b323f104b28895dbfd5d9",
    "first_seen": "2026-10-14T05:30:15Z",
    "last_pre": {
-    "at": "2026-10-14T13:30:38Z",
+    "at": "2026-10-14T17:00:57Z",
     "fish": [
      0.0,
      0.0
@@ -53330,17 +53438,17 @@
     "price": null,
     "sharp": [
      1097.0,
-     0.0
+     1500.0
     ],
     "sharp_wallets": [
      1,
-     0
+     1
     ],
     "side": null,
     "state": "none",
-    "wallets": 1
+    "wallets": 2
    },
-   "last_scan": "2026-10-14T13:30:38Z",
+   "last_scan": "2026-10-14T17:00:57Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -53556,7 +53664,7 @@
    "cid": "0xc5a44a22f4282b6e9251fb7e746990180c04e3ec70851537d5c31e9d7b728724",
    "first_seen": "2026-10-14T05:30:15Z",
    "last_pre": {
-    "at": "2026-10-14T13:30:38Z",
+    "at": "2026-10-14T17:00:57Z",
     "fish": [
      0.0,
      0.0
@@ -53575,7 +53683,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-14T13:30:38Z",
+   "last_scan": "2026-10-14T17:00:57Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -63069,7 +63177,7 @@
     "state": "thin",
     "wallets": 5
    },
-   "last_scan": "2026-10-14T13:30:38Z",
+   "last_scan": "2026-10-14T17:00:57Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -63525,7 +63633,7 @@
    "cid": "0xebc8c8abb05720ff23becfa758ea03d3e13d1d568b1d597d7a6bc13a6018b161",
    "first_seen": "2026-10-14T10:30:20Z",
    "last_pre": {
-    "at": "2026-10-14T13:30:38Z",
+    "at": "2026-10-14T17:00:57Z",
     "fish": [
      0.0,
      0.0
@@ -63544,7 +63652,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-14T13:30:38Z",
+   "last_scan": "2026-10-14T17:00:57Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -63613,6 +63721,42 @@
    "start": "2026-08-30T19:00:00Z",
    "title": "US Open ATP: Jaime Faria vs Jenson Brooksby",
    "tour": "ATP"
+  },
+  "0xebd27b2a70d87186c2342f8dd5c5895c06180c3830ac19184990f83faf328c4c": {
+   "cid": "0xebd27b2a70d87186c2342f8dd5c5895c06180c3830ac19184990f83faf328c4c",
+   "first_seen": "2026-10-14T17:00:57Z",
+   "last_pre": {
+    "at": "2026-10-14T17:00:57Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-10-14T17:00:57Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Elina Svitolina",
+    "Hanyu Guo"
+   ],
+   "result": null,
+   "slug": "wta-svitoli-guo-2026-10-15",
+   "start": "2026-10-15T04:30:00Z",
+   "title": "Wuhan Tennis Open: Elina Svitolina vs Hanyu Guo",
+   "tour": "WTA"
   },
   "0xebdf5b5841b0972c1ecbdb009624666ca50510486a40dd37b9b87e85d846b5c0": {
    "cid": "0xebdf5b5841b0972c1ecbdb009624666ca50510486a40dd37b9b87e85d846b5c0",
@@ -64734,6 +64878,42 @@
    "slug": "atp-piros-schoenh-2026-08-10",
    "start": "2026-08-10T08:00:00Z",
    "title": "Hamburg: Zsombor Piros vs Max Schoenhaus",
+   "tour": "ATP"
+  },
+  "0xf01ebec40a1f4aa902a8c9fb317b226697a20ba6567ed7f3f16f65a1bd17d8f2": {
+   "cid": "0xf01ebec40a1f4aa902a8c9fb317b226697a20ba6567ed7f3f16f65a1bd17d8f2",
+   "first_seen": "2026-10-14T17:00:57Z",
+   "last_pre": {
+    "at": "2026-10-14T17:00:57Z",
+    "fish": [
+     2850.0,
+     3496.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     2066.0,
+     1200.0
+    ],
+    "sharp_wallets": [
+     2,
+     1
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 5
+   },
+   "last_scan": "2026-10-14T17:00:57Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Rafael Jodar",
+    "Casper Ruud"
+   ],
+   "result": null,
+   "slug": "atp-jodar-ruud-2026-10-15",
+   "start": "2026-10-16T04:00:00Z",
+   "title": "Shanghai Rolex Masters: Rafael Jodar vs Casper Ruud",
    "tour": "ATP"
   },
   "0xf076eeb49e40aba78a34f2e8b911c957abc78c22cedd262f8b8ba1b57bc5e5b2": {
@@ -69272,6 +69452,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-10-14T13:30:38Z",
+ "updated": "2026-10-14T17:00:57Z",
  "version": 1
 }
