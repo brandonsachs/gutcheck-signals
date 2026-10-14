@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.23557192118226616,
-   "edge_pp": -3.0689655172413732,
-   "implied": 0.5380788177339901,
-   "n": 203,
-   "roi": -0.04386311150226169,
-   "win_rate": 0.5073891625615764,
+   "brier": 0.23603786764705895,
+   "edge_pp": -3.3357843137254872,
+   "implied": 0.5382598039215686,
+   "n": 204,
+   "roi": -0.04855005703411335,
+   "win_rate": 0.5049019607843137,
    "wins": 103,
-   "z": -0.9183747401052319
+   "z": -1.0004835280649118
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-10-14T07:00:35Z",
+ "generated": "2026-10-14T07:30:30Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json. Only a lock on the match moneyline is scored. 1 lock placed on a side market by an earlier scanner fault is void and listed under voided.",
  "overall": {
-  "brier": 0.23545434782608712,
-  "edge_pp": -3.579710144927528,
-  "implied": 0.5382125603864734,
-  "n": 207,
-  "roi": -0.05533785638956657,
-  "win_rate": 0.5024154589371981,
+  "brier": 0.2359118990384617,
+  "edge_pp": -3.8389423076923057,
+  "implied": 0.5383894230769231,
+  "n": 208,
+  "roi": -0.05987950131077058,
+  "win_rate": 0.5,
   "wins": 104,
-  "z": -1.0820003173813675
+  "z": -1.1629354342076768
  },
- "pending": 7,
+ "pending": 6,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -2107,6 +2107,16 @@
    "title": "Shanghai Rolex Masters: Botic van de Zandschulp vs Rafael Jodar",
    "tour": "ATP",
    "winner": "Rafael Jodar"
+  },
+  {
+   "hit": false,
+   "locked_at": "2026-10-14T05:00:14Z",
+   "phase": "pre-match",
+   "price": 0.575,
+   "side": "Nikola Bartunkova",
+   "title": "Wuhan Tennis Open: Jasmine Paolini vs Nikola Bartunkova",
+   "tour": "WTA",
+   "winner": "Jasmine Paolini"
   }
  ],
  "voided": [
