@@ -1301,7 +1301,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-14T07:30:15Z",
+   "last_scan": "2026-10-14T08:00:17Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -5728,7 +5728,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-10-14T07:30:15Z",
+   "last_scan": "2026-10-14T08:00:17Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -6365,7 +6365,7 @@
    "cid": "0x19b161b3a88502554f4b04dac773ff87738ceddcb96e4e8200b7ce3386262f8f",
    "first_seen": "2026-10-13T18:00:27Z",
    "last_pre": {
-    "at": "2026-10-14T07:30:15Z",
+    "at": "2026-10-14T08:00:17Z",
     "fish": [
      10294.0,
      8688.0
@@ -6373,7 +6373,7 @@
     "frozen_pre": false,
     "price": null,
     "sharp": [
-     11353.0,
+     11295.0,
      10722.0
     ],
     "sharp_wallets": [
@@ -6384,7 +6384,7 @@
     "state": "none",
     "wallets": 9
    },
-   "last_scan": "2026-10-14T07:30:15Z",
+   "last_scan": "2026-10-14T08:00:17Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -6492,7 +6492,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-10-14T07:30:15Z",
+   "last_scan": "2026-10-14T08:00:17Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -13826,7 +13826,7 @@
    "cid": "0x34ed824d03febbdb0c2abd5068768ebcc7d1b7d392668207e871ff83a2665151",
    "first_seen": "2026-10-13T18:00:27Z",
    "last_pre": {
-    "at": "2026-10-14T07:30:15Z",
+    "at": "2026-10-14T08:00:17Z",
     "fish": [
      0.0,
      0.0
@@ -13845,7 +13845,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-14T07:30:15Z",
+   "last_scan": "2026-10-14T08:00:17Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -16166,7 +16166,7 @@
     "state": "aligned",
     "wallets": 10
    },
-   "last_scan": "2026-10-14T07:30:15Z",
+   "last_scan": "2026-10-14T08:00:17Z",
    "lock_closed": false,
    "locked": {
     "at": "2026-10-14T04:30:17Z",
@@ -17554,7 +17554,7 @@
    "cid": "0x411307c341b65f94c064209b7a52f7ece441d3b9dbbc89b7336f144cd55e49cb",
    "first_seen": "2026-10-12T18:00:39Z",
    "last_pre": {
-    "at": "2026-10-14T07:30:15Z",
+    "at": "2026-10-14T08:00:17Z",
     "fish": [
      0.0,
      0.0
@@ -17573,7 +17573,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-10-14T07:30:15Z",
+   "last_scan": "2026-10-14T08:00:17Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -25390,7 +25390,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-14T07:30:15Z",
+   "last_scan": "2026-10-14T08:00:17Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -30443,16 +30443,16 @@
    "cid": "0x707c103c88cbf1fc12db3fa893818a9911be320c736c1292258f479e7a478ac0",
    "first_seen": "2026-10-13T10:30:48Z",
    "last_pre": {
-    "at": "2026-10-14T07:30:15Z",
+    "at": "2026-10-14T08:00:17Z",
     "fish": [
      1044.0,
-     5513.0
+     8462.0
     ],
     "frozen_pre": false,
     "price": null,
     "sharp": [
      6323.0,
-     16057.0
+     15694.0
     ],
     "sharp_wallets": [
      1,
@@ -30460,9 +30460,9 @@
     ],
     "side": null,
     "state": "crowded",
-    "wallets": 10
+    "wallets": 11
    },
-   "last_scan": "2026-10-14T07:30:15Z",
+   "last_scan": "2026-10-14T08:00:17Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -30471,7 +30471,7 @@
    ],
    "result": null,
    "slug": "wta-ostapen-pegula-2026-10-13",
-   "start": "2026-10-14T07:45:00Z",
+   "start": "2026-10-14T08:10:00Z",
    "title": "Wuhan Tennis Open: Jelena Ostapenko vs Jessica Pegula",
    "tour": "WTA"
   },
@@ -35715,8 +35715,8 @@
     "state": "crowded",
     "wallets": 9
    },
-   "last_scan": "2026-10-14T07:30:15Z",
-   "lock_closed": false,
+   "last_scan": "2026-10-14T08:00:17Z",
+   "lock_closed": true,
    "locked": null,
    "outcomes": [
     "Katie Volynets",
@@ -35724,7 +35724,7 @@
    ],
    "result": null,
    "slug": "wta-volynet-guo-2026-10-13",
-   "start": "2026-10-14T07:40:00Z",
+   "start": "2026-10-14T07:45:00Z",
    "title": "Wuhan Tennis Open: Katie Volynets vs Hanyu Guo",
    "tour": "WTA"
   },
@@ -38371,7 +38371,7 @@
     "state": "aligned",
     "wallets": 7
    },
-   "last_scan": "2026-10-14T07:30:15Z",
+   "last_scan": "2026-10-14T08:00:17Z",
    "lock_closed": false,
    "locked": {
     "at": "2026-10-14T05:00:14Z",
@@ -39473,7 +39473,7 @@
     "state": "thin",
     "wallets": 3
    },
-   "last_scan": "2026-10-14T07:30:15Z",
+   "last_scan": "2026-10-14T08:00:17Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -44729,7 +44729,7 @@
    "cid": "0xa504db7c98c90ad1e39d12a3209513efd955a540e6975851d126627b3affaa84",
    "first_seen": "2026-10-13T18:00:27Z",
    "last_pre": {
-    "at": "2026-10-14T07:30:15Z",
+    "at": "2026-10-14T08:00:17Z",
     "fish": [
      0.0,
      0.0
@@ -44748,7 +44748,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-14T07:30:15Z",
+   "last_scan": "2026-10-14T08:00:17Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -47758,7 +47758,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-14T07:30:15Z",
+   "last_scan": "2026-10-14T08:00:17Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -49335,7 +49335,7 @@
     "state": "crowded",
     "wallets": 3
    },
-   "last_scan": "2026-10-14T07:30:15Z",
+   "last_scan": "2026-10-14T08:00:17Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -53249,7 +53249,7 @@
    "cid": "0xc4c1115be44e24b2ddc629099610d49e09a526403a7b323f104b28895dbfd5d9",
    "first_seen": "2026-10-14T05:30:15Z",
    "last_pre": {
-    "at": "2026-10-14T07:30:15Z",
+    "at": "2026-10-14T08:00:17Z",
     "fish": [
      0.0,
      0.0
@@ -53268,7 +53268,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-14T07:30:15Z",
+   "last_scan": "2026-10-14T08:00:17Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -53277,7 +53277,7 @@
    ],
    "result": null,
    "slug": "atp-zverev-minaur-2026-10-15",
-   "start": "2026-10-15T04:00:00Z",
+   "start": "2026-10-15T10:00:00Z",
    "title": "Shanghai Rolex Masters: Alexander Zverev vs Alex de Minaur",
    "tour": "ATP"
   },
@@ -53304,7 +53304,7 @@
     "state": "none",
     "wallets": 17
    },
-   "last_scan": "2026-10-14T07:30:15Z",
+   "last_scan": "2026-10-14T08:00:17Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -53484,7 +53484,7 @@
    "cid": "0xc5a44a22f4282b6e9251fb7e746990180c04e3ec70851537d5c31e9d7b728724",
    "first_seen": "2026-10-14T05:30:15Z",
    "last_pre": {
-    "at": "2026-10-14T07:30:15Z",
+    "at": "2026-10-14T08:00:17Z",
     "fish": [
      0.0,
      0.0
@@ -53503,7 +53503,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-14T07:30:15Z",
+   "last_scan": "2026-10-14T08:00:17Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -53512,7 +53512,7 @@
    ],
    "result": null,
    "slug": "atp-gea-fokina-2026-10-15",
-   "start": "2026-10-15T04:00:00Z",
+   "start": "2026-10-15T06:30:00Z",
    "title": "Shanghai Rolex Masters: Arthur Gea vs Alejandro Davidovich Fokina",
    "tour": "ATP"
   },
@@ -58606,7 +58606,7 @@
    "cid": "0xd8ed079e5b6bfaf0b8c39e422020887e1323177e3c544ec9b47e5bcaee411287",
    "first_seen": "2026-10-12T18:00:39Z",
    "last_pre": {
-    "at": "2026-10-14T07:30:15Z",
+    "at": "2026-10-14T08:00:17Z",
     "fish": [
      14221.0,
      1503.0
@@ -58625,7 +58625,7 @@
     "state": "thin",
     "wallets": 5
    },
-   "last_scan": "2026-10-14T07:30:15Z",
+   "last_scan": "2026-10-14T08:00:17Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -62978,7 +62978,7 @@
    "cid": "0xe9cef9f7cf235ab346b7e8deabd6a19041c93a8d326d99c2b574e9d0823ae699",
    "first_seen": "2026-10-12T18:00:39Z",
    "last_pre": {
-    "at": "2026-10-14T07:30:15Z",
+    "at": "2026-10-14T08:00:17Z",
     "fish": [
      0.0,
      0.0
@@ -62997,7 +62997,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-10-14T07:30:15Z",
+   "last_scan": "2026-10-14T08:00:17Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -66353,7 +66353,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-14T07:30:15Z",
+   "last_scan": "2026-10-14T08:00:17Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -69164,6 +69164,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-10-14T07:30:15Z",
+ "updated": "2026-10-14T08:00:17Z",
  "version": 1
 }
