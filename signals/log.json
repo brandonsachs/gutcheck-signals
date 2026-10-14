@@ -1301,8 +1301,8 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-14T06:30:17Z",
-   "lock_closed": false,
+   "last_scan": "2026-10-14T07:00:17Z",
+   "lock_closed": true,
    "locked": null,
    "outcomes": [
     "Janice Tjen",
@@ -1310,7 +1310,7 @@
    ],
    "result": null,
    "slug": "wta-tjen-snigur-2026-10-13",
-   "start": "2026-10-14T06:45:00Z",
+   "start": "2026-10-14T07:00:00Z",
    "title": "Wuhan Tennis Open: Janice Tjen vs Daria Snigur",
    "tour": "WTA"
   },
@@ -5728,7 +5728,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-10-14T06:30:17Z",
+   "last_scan": "2026-10-14T07:00:17Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -6365,26 +6365,26 @@
    "cid": "0x19b161b3a88502554f4b04dac773ff87738ceddcb96e4e8200b7ce3386262f8f",
    "first_seen": "2026-10-13T18:00:27Z",
    "last_pre": {
-    "at": "2026-10-14T06:30:17Z",
+    "at": "2026-10-14T07:00:17Z",
     "fish": [
-     1404.0,
+     10294.0,
      8688.0
     ],
     "frozen_pre": false,
-    "price": 0.545,
+    "price": null,
     "sharp": [
-     20816.0,
-     10720.0
+     11330.0,
+     10722.0
     ],
     "sharp_wallets": [
      4,
      1
     ],
-    "side": 0,
-    "state": "aligned",
-    "wallets": 7
+    "side": null,
+    "state": "none",
+    "wallets": 9
    },
-   "last_scan": "2026-10-14T06:30:17Z",
+   "last_scan": "2026-10-14T07:00:17Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -6492,7 +6492,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-10-14T06:30:17Z",
+   "last_scan": "2026-10-14T07:00:17Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -13826,7 +13826,7 @@
    "cid": "0x34ed824d03febbdb0c2abd5068768ebcc7d1b7d392668207e871ff83a2665151",
    "first_seen": "2026-10-13T18:00:27Z",
    "last_pre": {
-    "at": "2026-10-14T06:30:17Z",
+    "at": "2026-10-14T07:00:17Z",
     "fish": [
      0.0,
      0.0
@@ -13845,7 +13845,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-14T06:30:17Z",
+   "last_scan": "2026-10-14T07:00:17Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -16166,7 +16166,7 @@
     "state": "aligned",
     "wallets": 10
    },
-   "last_scan": "2026-10-14T06:30:17Z",
+   "last_scan": "2026-10-14T07:00:17Z",
    "lock_closed": false,
    "locked": {
     "at": "2026-10-14T04:30:17Z",
@@ -16191,7 +16191,11 @@
     "Botic van de Zandschulp",
     "Rafael Jodar"
    ],
-   "result": null,
+   "result": {
+    "hit": true,
+    "scored_at": "2026-10-14T07:00:35Z",
+    "winner": "Rafael Jodar"
+   },
    "slug": "atp-zandsch-jodar-2026-10-13",
    "start": "2026-10-14T04:10:00Z",
    "title": "Shanghai Rolex Masters: Botic van de Zandschulp vs Rafael Jodar",
@@ -17550,7 +17554,7 @@
    "cid": "0x411307c341b65f94c064209b7a52f7ece441d3b9dbbc89b7336f144cd55e49cb",
    "first_seen": "2026-10-12T18:00:39Z",
    "last_pre": {
-    "at": "2026-10-14T06:30:17Z",
+    "at": "2026-10-14T07:00:17Z",
     "fish": [
      0.0,
      0.0
@@ -17569,7 +17573,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-10-14T06:30:17Z",
+   "last_scan": "2026-10-14T07:00:17Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -25386,7 +25390,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-14T06:30:17Z",
+   "last_scan": "2026-10-14T07:00:17Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -30439,26 +30443,26 @@
    "cid": "0x707c103c88cbf1fc12db3fa893818a9911be320c736c1292258f479e7a478ac0",
    "first_seen": "2026-10-13T10:30:48Z",
    "last_pre": {
-    "at": "2026-10-14T06:30:17Z",
+    "at": "2026-10-14T07:00:17Z",
     "fish": [
      1044.0,
-     2000.0
+     5513.0
     ],
     "frozen_pre": false,
     "price": null,
     "sharp": [
-     2677.0,
-     10216.0
+     6323.0,
+     16235.0
     ],
     "sharp_wallets": [
      1,
-     2
+     5
     ],
     "side": null,
-    "state": "none",
-    "wallets": 5
+    "state": "crowded",
+    "wallets": 10
    },
-   "last_scan": "2026-10-14T06:30:17Z",
+   "last_scan": "2026-10-14T07:00:17Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -30467,7 +30471,7 @@
    ],
    "result": null,
    "slug": "wta-ostapen-pegula-2026-10-13",
-   "start": "2026-10-14T06:45:00Z",
+   "start": "2026-10-14T07:30:00Z",
    "title": "Wuhan Tennis Open: Jelena Ostapenko vs Jessica Pegula",
    "tour": "WTA"
   },
@@ -35692,26 +35696,26 @@
    "cid": "0x86208891b063874eab32e69b6ffa54a442a2809c0ffab8688ece4a7a4a2540cb",
    "first_seen": "2026-10-13T10:30:48Z",
    "last_pre": {
-    "at": "2026-10-14T06:30:17Z",
+    "at": "2026-10-14T07:00:17Z",
     "fish": [
-     1528.0,
+     8966.0,
      1050.0
     ],
     "frozen_pre": false,
     "price": null,
     "sharp": [
-     2399.0,
-     0.0
+     8144.0,
+     4788.0
     ],
     "sharp_wallets": [
-     1,
-     0
+     3,
+     1
     ],
     "side": null,
-    "state": "none",
-    "wallets": 3
+    "state": "crowded",
+    "wallets": 8
    },
-   "last_scan": "2026-10-14T06:30:17Z",
+   "last_scan": "2026-10-14T07:00:17Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -35720,7 +35724,7 @@
    ],
    "result": null,
    "slug": "wta-volynet-guo-2026-10-13",
-   "start": "2026-10-14T07:00:00Z",
+   "start": "2026-10-14T07:20:00Z",
    "title": "Wuhan Tennis Open: Katie Volynets vs Hanyu Guo",
    "tour": "WTA"
   },
@@ -38367,7 +38371,7 @@
     "state": "aligned",
     "wallets": 7
    },
-   "last_scan": "2026-10-14T06:30:17Z",
+   "last_scan": "2026-10-14T07:00:17Z",
    "lock_closed": false,
    "locked": {
     "at": "2026-10-14T05:00:14Z",
@@ -39465,7 +39469,7 @@
     "state": "thin",
     "wallets": 3
    },
-   "last_scan": "2026-10-14T06:30:17Z",
+   "last_scan": "2026-10-14T07:00:17Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -44721,7 +44725,7 @@
    "cid": "0xa504db7c98c90ad1e39d12a3209513efd955a540e6975851d126627b3affaa84",
    "first_seen": "2026-10-13T18:00:27Z",
    "last_pre": {
-    "at": "2026-10-14T06:30:17Z",
+    "at": "2026-10-14T07:00:17Z",
     "fish": [
      0.0,
      0.0
@@ -44740,7 +44744,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-14T06:30:17Z",
+   "last_scan": "2026-10-14T07:00:17Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -47750,7 +47754,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-14T06:30:17Z",
+   "last_scan": "2026-10-14T07:00:17Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -49327,7 +49331,7 @@
     "state": "crowded",
     "wallets": 3
    },
-   "last_scan": "2026-10-14T06:30:17Z",
+   "last_scan": "2026-10-14T07:00:17Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -53241,7 +53245,7 @@
    "cid": "0xc4c1115be44e24b2ddc629099610d49e09a526403a7b323f104b28895dbfd5d9",
    "first_seen": "2026-10-14T05:30:15Z",
    "last_pre": {
-    "at": "2026-10-14T06:30:17Z",
+    "at": "2026-10-14T07:00:17Z",
     "fish": [
      0.0,
      0.0
@@ -53260,7 +53264,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-14T06:30:17Z",
+   "last_scan": "2026-10-14T07:00:17Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -53277,26 +53281,26 @@
    "cid": "0xc501dbffffd59ebc5419f5728995853836d67ac90127241fb2c8206b73512e03",
    "first_seen": "2026-10-12T18:00:39Z",
    "last_pre": {
-    "at": "2026-10-14T06:30:17Z",
+    "at": "2026-10-14T07:00:17Z",
     "fish": [
      11578.0,
-     18805.0
+     22893.0
     ],
     "frozen_pre": false,
     "price": null,
     "sharp": [
-     4533.0,
-     4282.0
+     8337.0,
+     8250.0
     ],
     "sharp_wallets": [
-     3,
-     2
+     4,
+     3
     ],
     "side": null,
     "state": "none",
-    "wallets": 14
+    "wallets": 17
    },
-   "last_scan": "2026-10-14T06:30:17Z",
+   "last_scan": "2026-10-14T07:00:17Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -53305,7 +53309,7 @@
    ],
    "result": null,
    "slug": "atp-ruud-augeral-2026-10-13",
-   "start": "2026-10-14T06:50:00Z",
+   "start": "2026-10-14T07:05:00Z",
    "title": "Shanghai Rolex Masters: Casper Ruud vs Felix Auger-Aliassime",
    "tour": "ATP"
   },
@@ -53476,7 +53480,7 @@
    "cid": "0xc5a44a22f4282b6e9251fb7e746990180c04e3ec70851537d5c31e9d7b728724",
    "first_seen": "2026-10-14T05:30:15Z",
    "last_pre": {
-    "at": "2026-10-14T06:30:17Z",
+    "at": "2026-10-14T07:00:17Z",
     "fish": [
      0.0,
      0.0
@@ -53495,7 +53499,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-14T06:30:17Z",
+   "last_scan": "2026-10-14T07:00:17Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -58598,7 +58602,7 @@
    "cid": "0xd8ed079e5b6bfaf0b8c39e422020887e1323177e3c544ec9b47e5bcaee411287",
    "first_seen": "2026-10-12T18:00:39Z",
    "last_pre": {
-    "at": "2026-10-14T06:30:17Z",
+    "at": "2026-10-14T07:00:17Z",
     "fish": [
      15458.0,
      1503.0
@@ -58617,7 +58621,7 @@
     "state": "thin",
     "wallets": 5
    },
-   "last_scan": "2026-10-14T06:30:17Z",
+   "last_scan": "2026-10-14T07:00:17Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -62970,7 +62974,7 @@
    "cid": "0xe9cef9f7cf235ab346b7e8deabd6a19041c93a8d326d99c2b574e9d0823ae699",
    "first_seen": "2026-10-12T18:00:39Z",
    "last_pre": {
-    "at": "2026-10-14T06:30:17Z",
+    "at": "2026-10-14T07:00:17Z",
     "fish": [
      0.0,
      0.0
@@ -62989,7 +62993,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-10-14T06:30:17Z",
+   "last_scan": "2026-10-14T07:00:17Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -66345,7 +66349,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-14T06:30:17Z",
+   "last_scan": "2026-10-14T07:00:17Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -69156,6 +69160,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-10-14T06:30:17Z",
+ "updated": "2026-10-14T07:00:17Z",
  "version": 1
 }
