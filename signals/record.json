@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.23605424757281568,
-   "edge_pp": -3.410194174757275,
-   "implied": 0.5389563106796116,
-   "n": 206,
-   "roi": -0.050142759637635065,
-   "win_rate": 0.5048543689320388,
+   "brier": 0.235137198067633,
+   "edge_pp": -3.4975845410628037,
+   "implied": 0.5373913043478261,
+   "n": 207,
+   "roi": -0.054731441958226205,
+   "win_rate": 0.5024154589371981,
    "wins": 104,
-   "z": -1.0275715687166675
+   "z": -1.0571134266887943
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-10-15T11:30:34Z",
+ "generated": "2026-10-15T12:00:37Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json. Only a lock on the match moneyline is scored. 1 lock placed on a side market by an earlier scanner fault is void and listed under voided.",
  "overall": {
-  "brier": 0.23592916666666683,
-  "edge_pp": -3.9071428571428535,
-  "implied": 0.5390714285714285,
-  "n": 210,
-  "roi": -0.06133396725254277,
-  "win_rate": 0.5,
+  "brier": 0.23503009478673,
+  "edge_pp": -3.990521327014224,
+  "implied": 0.5375355450236967,
+  "n": 211,
+  "roi": -0.06578262143618001,
+  "win_rate": 0.4976303317535545,
   "wins": 105,
-  "z": -1.1890071325702476
+  "z": -1.2180067930056473
  },
- "pending": 7,
+ "pending": 6,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -2137,6 +2137,16 @@
    "title": "Wuhan Tennis Open: Jasmine Paolini vs Sonay Kartal",
    "tour": "WTA",
    "winner": "Sonay Kartal"
+  },
+  {
+   "hit": false,
+   "locked_at": "2026-10-15T10:30:24Z",
+   "phase": "pre-match",
+   "price": 0.215,
+   "side": "Alex de Minaur",
+   "title": "Shanghai Rolex Masters: Alexander Zverev vs Alex de Minaur",
+   "tour": "ATP",
+   "winner": "Alexander Zverev"
   }
  ],
  "voided": [
