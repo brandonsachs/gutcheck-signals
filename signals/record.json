@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.235137198067633,
-   "edge_pp": -3.4975845410628037,
-   "implied": 0.5373913043478261,
-   "n": 207,
-   "roi": -0.054731441958226205,
-   "win_rate": 0.5024154589371981,
-   "wins": 104,
-   "z": -1.0571134266887943
+   "brier": 0.23454627403846168,
+   "edge_pp": -3.319711538461545,
+   "implied": 0.5380048076923077,
+   "n": 208,
+   "roi": -0.052046389840656654,
+   "win_rate": 0.5048076923076923,
+   "wins": 105,
+   "z": -1.0058143853339803
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-10-15T13:30:34Z",
+ "generated": "2026-10-15T16:49:06Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json. Only a lock on the match moneyline is scored. 1 lock placed on a side market by an earlier scanner fault is void and listed under voided.",
  "overall": {
-  "brier": 0.23503009478673,
-  "edge_pp": -3.990521327014224,
-  "implied": 0.5375355450236967,
-  "n": 211,
-  "roi": -0.06578262143618001,
-  "win_rate": 0.4976303317535545,
-  "wins": 105,
-  "z": -1.2180067930056473
+  "brier": 0.2344508254716983,
+  "edge_pp": -3.8136792452830193,
+  "implied": 0.5381367924528302,
+  "n": 212,
+  "roi": -0.06309610247423462,
+  "win_rate": 0.5,
+  "wins": 106,
+  "z": -1.166830374892643
  },
- "pending": 7,
+ "pending": 6,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -2147,6 +2147,16 @@
    "title": "Shanghai Rolex Masters: Alexander Zverev vs Alex de Minaur",
    "tour": "ATP",
    "winner": "Alexander Zverev"
+  },
+  {
+   "hit": true,
+   "locked_at": "2026-10-15T12:00:24Z",
+   "phase": "pre-match",
+   "price": 0.665,
+   "side": "Ann Li",
+   "title": "Wuhan Tennis Open: Ann Li vs Janice Tjen",
+   "tour": "WTA",
+   "winner": "Ann Li"
   }
  ],
  "voided": [
