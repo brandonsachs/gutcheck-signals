@@ -23266,7 +23266,7 @@
    "cid": "0x5698980050a118397e8f1b8c6b0a8d5de6aecdb25f582e23ec83b9021dbf8957",
    "first_seen": "2026-10-14T17:00:57Z",
    "last_pre": {
-    "at": "2026-10-15T05:00:59Z",
+    "at": "2026-10-15T05:31:00Z",
     "fish": [
      0.0,
      0.0
@@ -23285,7 +23285,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-10-15T05:00:59Z",
+   "last_scan": "2026-10-15T05:31:00Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -40886,7 +40886,7 @@
     "state": "aligned",
     "wallets": 11
    },
-   "last_scan": "2026-10-15T05:00:59Z",
+   "last_scan": "2026-10-15T05:31:00Z",
    "lock_closed": false,
    "locked": {
     "at": "2026-10-15T03:30:35Z",
@@ -40911,7 +40911,11 @@
     "Karolina Muchova",
     "Diana Shnaider"
    ],
-   "result": null,
+   "result": {
+    "hit": true,
+    "scored_at": "2026-10-15T05:31:13Z",
+    "winner": "Diana Shnaider"
+   },
    "slug": "wta-muchova-shnaide-2026-10-14",
    "start": "2026-10-15T03:05:00Z",
    "title": "Wuhan Tennis Open: Karolina Muchova vs Diana Shnaider",
@@ -43458,7 +43462,7 @@
    "cid": "0xa03d8bcc940eda5fe62eb3a56bfdc0f8955606caf4734d2e451852894ed53eb2",
    "first_seen": "2026-10-14T18:00:34Z",
    "last_pre": {
-    "at": "2026-10-15T05:00:59Z",
+    "at": "2026-10-15T05:31:00Z",
     "fish": [
      0.0,
      0.0
@@ -43477,7 +43481,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-15T05:00:59Z",
+   "last_scan": "2026-10-15T05:31:00Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -44855,16 +44859,16 @@
    "cid": "0xa504db7c98c90ad1e39d12a3209513efd955a540e6975851d126627b3affaa84",
    "first_seen": "2026-10-13T18:00:27Z",
    "last_pre": {
-    "at": "2026-10-15T05:00:59Z",
+    "at": "2026-10-15T05:31:00Z",
     "fish": [
-     1705.0,
-     6066.0
+     2057.0,
+     6025.0
     ],
     "frozen_pre": false,
     "price": null,
     "sharp": [
      6600.0,
-     9484.0
+     9539.0
     ],
     "sharp_wallets": [
      1,
@@ -44874,7 +44878,7 @@
     "state": "crowded",
     "wallets": 7
    },
-   "last_scan": "2026-10-15T05:00:59Z",
+   "last_scan": "2026-10-15T05:31:00Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -46255,7 +46259,7 @@
    "cid": "0xaacccfb0eec334669c0dd8c6cef21c02e7f07052c4d4ab3a0b874a822a4627e9",
    "first_seen": "2026-10-14T10:30:20Z",
    "last_pre": {
-    "at": "2026-10-15T05:00:59Z",
+    "at": "2026-10-15T05:31:00Z",
     "fish": [
      6206.0,
      14594.0
@@ -46263,7 +46267,7 @@
     "frozen_pre": false,
     "price": 0.545,
     "sharp": [
-     18883.0,
+     19064.0,
      2431.0
     ],
     "sharp_wallets": [
@@ -46274,7 +46278,7 @@
     "state": "aligned",
     "wallets": 11
    },
-   "last_scan": "2026-10-15T05:00:59Z",
+   "last_scan": "2026-10-15T05:31:00Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -46997,7 +47001,7 @@
    "cid": "0xadb06c41e59a0d48775ccdfe8ea45ccc49661c1efe84ab6523016585063420cf",
    "first_seen": "2026-10-14T17:00:57Z",
    "last_pre": {
-    "at": "2026-10-15T05:00:59Z",
+    "at": "2026-10-15T05:31:00Z",
     "fish": [
      0.0,
      2250.0
@@ -47016,7 +47020,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-10-15T05:00:59Z",
+   "last_scan": "2026-10-15T05:31:00Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -51451,7 +51455,7 @@
    "cid": "0xbc381682f953f631a2090b55d1d5e3b43527bd183dc468f70443e0c780e671bb",
    "first_seen": "2026-10-14T17:00:57Z",
    "last_pre": {
-    "at": "2026-10-15T05:00:59Z",
+    "at": "2026-10-15T05:31:00Z",
     "fish": [
      0.0,
      0.0
@@ -51470,7 +51474,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-10-15T05:00:59Z",
+   "last_scan": "2026-10-15T05:31:00Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -53483,7 +53487,7 @@
    "cid": "0xc4c1115be44e24b2ddc629099610d49e09a526403a7b323f104b28895dbfd5d9",
    "first_seen": "2026-10-14T05:30:15Z",
    "last_pre": {
-    "at": "2026-10-15T05:00:59Z",
+    "at": "2026-10-15T05:31:00Z",
     "fish": [
      0.0,
      0.0
@@ -53502,7 +53506,7 @@
     "state": "none",
     "wallets": 2
    },
-   "last_scan": "2026-10-15T05:00:59Z",
+   "last_scan": "2026-10-15T05:31:00Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -53718,26 +53722,26 @@
    "cid": "0xc5a44a22f4282b6e9251fb7e746990180c04e3ec70851537d5c31e9d7b728724",
    "first_seen": "2026-10-14T05:30:15Z",
    "last_pre": {
-    "at": "2026-10-15T05:00:59Z",
+    "at": "2026-10-15T05:31:00Z",
     "fish": [
      0.0,
-     0.0
+     2800.0
     ],
     "frozen_pre": false,
     "price": null,
     "sharp": [
-     5450.0,
+     8839.0,
      3189.0
     ],
     "sharp_wallets": [
-     2,
+     3,
      3
     ],
     "side": null,
-    "state": "none",
-    "wallets": 5
+    "state": "thin",
+    "wallets": 7
    },
-   "last_scan": "2026-10-15T05:00:59Z",
+   "last_scan": "2026-10-15T05:31:00Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -63687,10 +63691,10 @@
    "cid": "0xebc8c8abb05720ff23becfa758ea03d3e13d1d568b1d597d7a6bc13a6018b161",
    "first_seen": "2026-10-14T10:30:20Z",
    "last_pre": {
-    "at": "2026-10-15T05:00:59Z",
+    "at": "2026-10-15T05:31:00Z",
     "fish": [
      7000.0,
-     2266.0
+     1761.0
     ],
     "frozen_pre": false,
     "price": null,
@@ -63706,7 +63710,7 @@
     "state": "crowded",
     "wallets": 5
    },
-   "last_scan": "2026-10-15T05:00:59Z",
+   "last_scan": "2026-10-15T05:31:00Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -63799,8 +63803,8 @@
     "state": "crowded",
     "wallets": 6
    },
-   "last_scan": "2026-10-15T05:00:59Z",
-   "lock_closed": false,
+   "last_scan": "2026-10-15T05:31:00Z",
+   "lock_closed": true,
    "locked": null,
    "outcomes": [
     "Elina Svitolina",
@@ -63808,7 +63812,7 @@
    ],
    "result": null,
    "slug": "wta-svitoli-guo-2026-10-15",
-   "start": "2026-10-15T05:10:00Z",
+   "start": "2026-10-15T05:20:00Z",
    "title": "Wuhan Tennis Open: Elina Svitolina vs Hanyu Guo",
    "tour": "WTA"
   },
@@ -64938,7 +64942,7 @@
    "cid": "0xf01ebec40a1f4aa902a8c9fb317b226697a20ba6567ed7f3f16f65a1bd17d8f2",
    "first_seen": "2026-10-14T17:00:57Z",
    "last_pre": {
-    "at": "2026-10-15T05:00:59Z",
+    "at": "2026-10-15T05:31:00Z",
     "fish": [
      3125.0,
      3496.0
@@ -64957,7 +64961,7 @@
     "state": "none",
     "wallets": 5
    },
-   "last_scan": "2026-10-15T05:00:59Z",
+   "last_scan": "2026-10-15T05:31:00Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -69506,6 +69510,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-10-15T05:00:59Z",
+ "updated": "2026-10-15T05:31:00Z",
  "version": 1
 }
