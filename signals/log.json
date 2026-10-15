@@ -23266,7 +23266,7 @@
    "cid": "0x5698980050a118397e8f1b8c6b0a8d5de6aecdb25f582e23ec83b9021dbf8957",
    "first_seen": "2026-10-14T17:00:57Z",
    "last_pre": {
-    "at": "2026-10-15T03:30:35Z",
+    "at": "2026-10-15T04:00:32Z",
     "fish": [
      0.0,
      0.0
@@ -23285,7 +23285,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-10-15T03:30:35Z",
+   "last_scan": "2026-10-15T04:00:32Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -40886,7 +40886,7 @@
     "state": "aligned",
     "wallets": 11
    },
-   "last_scan": "2026-10-15T03:30:35Z",
+   "last_scan": "2026-10-15T04:00:32Z",
    "lock_closed": false,
    "locked": {
     "at": "2026-10-15T03:30:35Z",
@@ -43458,7 +43458,7 @@
    "cid": "0xa03d8bcc940eda5fe62eb3a56bfdc0f8955606caf4734d2e451852894ed53eb2",
    "first_seen": "2026-10-14T18:00:34Z",
    "last_pre": {
-    "at": "2026-10-15T03:30:35Z",
+    "at": "2026-10-15T04:00:32Z",
     "fish": [
      0.0,
      0.0
@@ -43477,7 +43477,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-15T03:30:35Z",
+   "last_scan": "2026-10-15T04:00:32Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -44855,10 +44855,10 @@
    "cid": "0xa504db7c98c90ad1e39d12a3209513efd955a540e6975851d126627b3affaa84",
    "first_seen": "2026-10-13T18:00:27Z",
    "last_pre": {
-    "at": "2026-10-15T03:30:35Z",
+    "at": "2026-10-15T04:00:32Z",
     "fish": [
      0.0,
-     6806.0
+     6593.0
     ],
     "frozen_pre": false,
     "price": null,
@@ -44874,7 +44874,7 @@
     "state": "thin",
     "wallets": 5
    },
-   "last_scan": "2026-10-15T03:30:35Z",
+   "last_scan": "2026-10-15T04:00:32Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -44883,7 +44883,7 @@
    ],
    "result": null,
    "slug": "wta-pohanko-sakkari-2026-10-14",
-   "start": "2026-10-15T04:00:00Z",
+   "start": "2026-10-15T05:00:00Z",
    "title": "Wuhan Tennis Open: Mia Pohankova vs Maria Sakkari",
    "tour": "WTA"
   },
@@ -46255,7 +46255,7 @@
    "cid": "0xaacccfb0eec334669c0dd8c6cef21c02e7f07052c4d4ab3a0b874a822a4627e9",
    "first_seen": "2026-10-14T10:30:20Z",
    "last_pre": {
-    "at": "2026-10-15T03:30:35Z",
+    "at": "2026-10-15T04:00:32Z",
     "fish": [
      6206.0,
      14594.0
@@ -46274,7 +46274,7 @@
     "state": "aligned",
     "wallets": 11
    },
-   "last_scan": "2026-10-15T03:30:35Z",
+   "last_scan": "2026-10-15T04:00:32Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -46283,7 +46283,7 @@
    ],
    "result": null,
    "slug": "wta-paolini-kartal-2026-10-14",
-   "start": "2026-10-15T07:00:00Z",
+   "start": "2026-10-15T06:00:00Z",
    "title": "Wuhan Tennis Open: Jasmine Paolini vs Sonay Kartal",
    "tour": "WTA"
   },
@@ -46997,7 +46997,7 @@
    "cid": "0xadb06c41e59a0d48775ccdfe8ea45ccc49661c1efe84ab6523016585063420cf",
    "first_seen": "2026-10-14T17:00:57Z",
    "last_pre": {
-    "at": "2026-10-15T03:30:35Z",
+    "at": "2026-10-15T04:00:32Z",
     "fish": [
      0.0,
      0.0
@@ -47006,17 +47006,17 @@
     "price": null,
     "sharp": [
      0.0,
-     0.0
+     2250.0
     ],
     "sharp_wallets": [
      0,
-     0
+     1
     ],
     "side": null,
     "state": "none",
-    "wallets": 0
+    "wallets": 1
    },
-   "last_scan": "2026-10-15T03:30:35Z",
+   "last_scan": "2026-10-15T04:00:32Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -51451,7 +51451,7 @@
    "cid": "0xbc381682f953f631a2090b55d1d5e3b43527bd183dc468f70443e0c780e671bb",
    "first_seen": "2026-10-14T17:00:57Z",
    "last_pre": {
-    "at": "2026-10-15T03:30:35Z",
+    "at": "2026-10-15T04:00:32Z",
     "fish": [
      0.0,
      0.0
@@ -51470,7 +51470,7 @@
     "state": "none",
     "wallets": 1
    },
-   "last_scan": "2026-10-15T03:30:35Z",
+   "last_scan": "2026-10-15T04:00:32Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -53483,7 +53483,7 @@
    "cid": "0xc4c1115be44e24b2ddc629099610d49e09a526403a7b323f104b28895dbfd5d9",
    "first_seen": "2026-10-14T05:30:15Z",
    "last_pre": {
-    "at": "2026-10-15T03:30:35Z",
+    "at": "2026-10-15T04:00:32Z",
     "fish": [
      0.0,
      0.0
@@ -53502,7 +53502,7 @@
     "state": "none",
     "wallets": 2
    },
-   "last_scan": "2026-10-15T03:30:35Z",
+   "last_scan": "2026-10-15T04:00:32Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -53718,7 +53718,7 @@
    "cid": "0xc5a44a22f4282b6e9251fb7e746990180c04e3ec70851537d5c31e9d7b728724",
    "first_seen": "2026-10-14T05:30:15Z",
    "last_pre": {
-    "at": "2026-10-15T03:30:35Z",
+    "at": "2026-10-15T04:00:32Z",
     "fish": [
      0.0,
      0.0
@@ -53737,7 +53737,7 @@
     "state": "none",
     "wallets": 5
    },
-   "last_scan": "2026-10-15T03:30:35Z",
+   "last_scan": "2026-10-15T04:00:32Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -63687,15 +63687,15 @@
    "cid": "0xebc8c8abb05720ff23becfa758ea03d3e13d1d568b1d597d7a6bc13a6018b161",
    "first_seen": "2026-10-14T10:30:20Z",
    "last_pre": {
-    "at": "2026-10-15T03:30:35Z",
+    "at": "2026-10-15T04:00:32Z",
     "fish": [
-     0.0,
-     0.0
+     7000.0,
+     3565.0
     ],
     "frozen_pre": false,
     "price": null,
     "sharp": [
-     8699.0,
+     8698.0,
      0.0
     ],
     "sharp_wallets": [
@@ -63703,10 +63703,10 @@
      0
     ],
     "side": null,
-    "state": "none",
-    "wallets": 2
+    "state": "crowded",
+    "wallets": 5
    },
-   "last_scan": "2026-10-15T03:30:35Z",
+   "last_scan": "2026-10-15T04:00:32Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -63715,7 +63715,7 @@
    ],
    "result": null,
    "slug": "wta-jovic-chwalin-2026-10-14",
-   "start": "2026-10-15T05:30:00Z",
+   "start": "2026-10-15T05:00:00Z",
    "title": "Wuhan Tennis Open: Iva Jovic vs Maja Chwalinska",
    "tour": "WTA"
   },
@@ -63780,15 +63780,15 @@
    "cid": "0xebd27b2a70d87186c2342f8dd5c5895c06180c3830ac19184990f83faf328c4c",
    "first_seen": "2026-10-14T17:00:57Z",
    "last_pre": {
-    "at": "2026-10-15T03:30:35Z",
+    "at": "2026-10-15T04:00:32Z",
     "fish": [
-     20605.0,
+     20904.0,
      0.0
     ],
     "frozen_pre": false,
     "price": null,
     "sharp": [
-     13174.0,
+     15178.0,
      1438.0
     ],
     "sharp_wallets": [
@@ -63799,7 +63799,7 @@
     "state": "crowded",
     "wallets": 5
    },
-   "last_scan": "2026-10-15T03:30:35Z",
+   "last_scan": "2026-10-15T04:00:32Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -64938,7 +64938,7 @@
    "cid": "0xf01ebec40a1f4aa902a8c9fb317b226697a20ba6567ed7f3f16f65a1bd17d8f2",
    "first_seen": "2026-10-14T17:00:57Z",
    "last_pre": {
-    "at": "2026-10-15T03:30:35Z",
+    "at": "2026-10-15T04:00:32Z",
     "fish": [
      3125.0,
      3496.0
@@ -64957,7 +64957,7 @@
     "state": "none",
     "wallets": 5
    },
-   "last_scan": "2026-10-15T03:30:35Z",
+   "last_scan": "2026-10-15T04:00:32Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -69506,6 +69506,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-10-15T03:30:35Z",
+ "updated": "2026-10-15T04:00:32Z",
  "version": 1
 }
