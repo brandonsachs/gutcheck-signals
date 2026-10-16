@@ -248,7 +248,7 @@
    "cid": "0x019f898a2fd2887326eeda19f8ced9cfbebcf755fbd7075ef61319c412e51928",
    "first_seen": "2026-10-16T10:30:38Z",
    "last_pre": {
-    "at": "2026-10-16T13:30:37Z",
+    "at": "2026-10-16T16:31:02Z",
     "fish": [
      0.0,
      0.0
@@ -267,7 +267,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-16T13:30:37Z",
+   "last_scan": "2026-10-16T16:31:02Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -644,6 +644,42 @@
    "slug": "wta-tararud-park-2026-09-22",
    "start": "2026-09-23T03:05:00Z",
    "title": "Korea Open: Lanlana Tararudee vs So-Hyun Park",
+   "tour": "WTA"
+  },
+  "0x0404d1a9b165ed5a05077b9ae53a06a913679c820c51007589e8fac208fe3ef0": {
+   "cid": "0x0404d1a9b165ed5a05077b9ae53a06a913679c820c51007589e8fac208fe3ef0",
+   "first_seen": "2026-10-16T16:31:02Z",
+   "last_pre": {
+    "at": "2026-10-16T16:31:02Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-10-16T16:31:02Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Iga Swiatek",
+    "Maja Chwalinska"
+   ],
+   "result": null,
+   "slug": "wta-swiatek-chwalin-2026-10-17",
+   "start": "2026-10-17T10:30:00Z",
+   "title": "Wuhan Tennis Open: Iga Swiatek vs Maja Chwalinska",
    "tour": "WTA"
   },
   "0x0415033b1975da826a4624a1ffdfc3095dc3d082ff94c5f35892ddbda51cb3a5": {
@@ -3003,10 +3039,10 @@
    "cid": "0x0d355f77bae87c474f052bf2cca4e71275a5a9c532d431e72433930e33aff788",
    "first_seen": "2026-10-16T10:30:38Z",
    "last_pre": {
-    "at": "2026-10-16T13:30:37Z",
+    "at": "2026-10-16T16:31:02Z",
     "fish": [
      0.0,
-     1320.0
+     1322.0
     ],
     "frozen_pre": false,
     "price": null,
@@ -3022,7 +3058,7 @@
     "state": "thin",
     "wallets": 3
    },
-   "last_scan": "2026-10-16T13:30:37Z",
+   "last_scan": "2026-10-16T16:31:02Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -3911,7 +3947,7 @@
    "cid": "0x0f907b3894548db1fbfeb872df9b9fab2223f388b7c860c09d58022c9291c0a3",
    "first_seen": "2026-10-16T10:30:38Z",
    "last_pre": {
-    "at": "2026-10-16T13:30:37Z",
+    "at": "2026-10-16T16:31:02Z",
     "fish": [
      0.0,
      0.0
@@ -3930,7 +3966,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-16T13:30:37Z",
+   "last_scan": "2026-10-16T16:31:02Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -4728,7 +4764,7 @@
    "cid": "0x1283b95f6245ac5f0cf89e366137296c16d2fbdc54e7f7bf81947657c6c11f78",
    "first_seen": "2026-10-16T10:30:38Z",
    "last_pre": {
-    "at": "2026-10-16T13:30:37Z",
+    "at": "2026-10-16T16:31:02Z",
     "fish": [
      0.0,
      0.0
@@ -4747,7 +4783,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-16T13:30:37Z",
+   "last_scan": "2026-10-16T16:31:02Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -9776,7 +9812,7 @@
    "cid": "0x259f90840d7ff7a1faf7e0989a91ff96ad37ca2c45080a84ddde9d725b554878",
    "first_seen": "2026-10-16T10:30:38Z",
    "last_pre": {
-    "at": "2026-10-16T13:30:37Z",
+    "at": "2026-10-16T16:31:02Z",
     "fish": [
      0.0,
      0.0
@@ -9795,7 +9831,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-16T13:30:37Z",
+   "last_scan": "2026-10-16T16:31:02Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -10082,6 +10118,42 @@
    "slug": "wta-mertens-parry-2026-08-15",
    "start": "2026-08-15T22:45:00Z",
    "title": "Cincinnati Open: Elise Mertens vs Diane Parry",
+   "tour": "WTA"
+  },
+  "0x26ecff706e3b0c088672803227303f2a45e01e49aa2289a827e2f53c5783cb00": {
+   "cid": "0x26ecff706e3b0c088672803227303f2a45e01e49aa2289a827e2f53c5783cb00",
+   "first_seen": "2026-10-16T16:31:02Z",
+   "last_pre": {
+    "at": "2026-10-16T16:31:02Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-10-16T16:31:02Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Katarzyna Kawa",
+    "Katie Volynets"
+   ],
+   "result": null,
+   "slug": "wta-kawa-volynet-2026-10-16",
+   "start": "2026-10-17T03:00:00Z",
+   "title": "Ningbo Open, Qualification: Katarzyna Kawa vs Katie Volynets",
    "tour": "WTA"
   },
   "0x26f093ddcbc941407c71da66a98e2fed47c0151155f6fca5f02c0fa2220bee01": {
@@ -15631,7 +15703,7 @@
    "cid": "0x3a149489a239493cbee8df51300f40469e50f1f3f831a0616dc895cfa58006f6",
    "first_seen": "2026-10-16T10:30:38Z",
    "last_pre": {
-    "at": "2026-10-16T13:30:37Z",
+    "at": "2026-10-16T16:31:02Z",
     "fish": [
      0.0,
      0.0
@@ -15650,7 +15722,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-16T13:30:37Z",
+   "last_scan": "2026-10-16T16:31:02Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -18844,7 +18916,7 @@
    "cid": "0x45687258e46ecdec41483d26fab71130dd6712c631c221cadd02e08c8edfb509",
    "first_seen": "2026-10-16T10:30:38Z",
    "last_pre": {
-    "at": "2026-10-16T13:30:37Z",
+    "at": "2026-10-16T16:31:02Z",
     "fish": [
      0.0,
      0.0
@@ -18863,7 +18935,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-16T13:30:37Z",
+   "last_scan": "2026-10-16T16:31:02Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -19393,6 +19465,42 @@
    "start": "2026-09-22T06:30:00Z",
    "title": "Chengdu Open, Qualification: Luca Castelnuovo vs Pavel Kotov",
    "tour": "ATP"
+  },
+  "0x47ba73aabdf7023e1f05bc4479da208e8ddeffef6894a6d8416ad08dcf21a0a4": {
+   "cid": "0x47ba73aabdf7023e1f05bc4479da208e8ddeffef6894a6d8416ad08dcf21a0a4",
+   "first_seen": "2026-10-16T16:31:02Z",
+   "last_pre": {
+    "at": "2026-10-16T16:31:02Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-10-16T16:31:02Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Alycia Parks",
+    "Jeline Vandromme"
+   ],
+   "result": null,
+   "slug": "wta-parks-vandrom-2026-10-17",
+   "start": "2026-10-17T04:30:00Z",
+   "title": "Ningbo Open, Qualification: Alycia Parks vs Jeline Vandromme",
+   "tour": "WTA"
   },
   "0x47c7e0cd160f8ef45b4766140d3db4e4eae324cb75cfadc2f34235120a5170da": {
    "cid": "0x47c7e0cd160f8ef45b4766140d3db4e4eae324cb75cfadc2f34235120a5170da",
@@ -21371,6 +21479,42 @@
    "title": "Shanghai Rolex Masters: Mariano Navone vs Pablo Carreno Busta",
    "tour": "ATP"
   },
+  "0x4f4e3844b64bb57691526206739d0e1e4aefb4d09efd7340c003ed7c30f2a05c": {
+   "cid": "0x4f4e3844b64bb57691526206739d0e1e4aefb4d09efd7340c003ed7c30f2a05c",
+   "first_seen": "2026-10-16T16:31:02Z",
+   "last_pre": {
+    "at": "2026-10-16T16:31:02Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-10-16T16:31:02Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Anhelina Kalinina",
+    "Simona Waltert"
+   ],
+   "result": null,
+   "slug": "wta-kalinin-waltert-2026-10-17",
+   "start": "2026-10-17T06:00:00Z",
+   "title": "Ningbo Open, Qualification: Anhelina Kalinina vs Simona Waltert",
+   "tour": "WTA"
+  },
   "0x4f73c3d64a19afee44ceb92981ba0048d0a5f533a5f6fd6d9317d7b792e1082f": {
    "cid": "0x4f73c3d64a19afee44ceb92981ba0048d0a5f533a5f6fd6d9317d7b792e1082f",
    "first_seen": "2026-09-14T17:31:09Z",
@@ -21885,6 +22029,42 @@
    "title": "Istanbul 2: Ilia Simakin vs Gabi Boitan",
    "tour": "ATP"
   },
+  "0x5101b647c75d14995281717cf9be80a645671c2351e9179ee16ccf39c956927c": {
+   "cid": "0x5101b647c75d14995281717cf9be80a645671c2351e9179ee16ccf39c956927c",
+   "first_seen": "2026-10-16T16:31:02Z",
+   "last_pre": {
+    "at": "2026-10-16T16:31:02Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-10-16T16:31:02Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Aliaksandra Sasnovich",
+    "Anna Bondar"
+   ],
+   "result": null,
+   "slug": "wta-sasnovi-bondar-2026-10-17",
+   "start": "2026-10-17T06:00:00Z",
+   "title": "Ningbo Open, Qualification: Aliaksandra Sasnovich vs Anna Bondar",
+   "tour": "WTA"
+  },
   "0x5123cb8fcb3722520d24658f69c7b96b391b6f950f13e5fdc246dbc3b49025e1": {
    "cid": "0x5123cb8fcb3722520d24658f69c7b96b391b6f950f13e5fdc246dbc3b49025e1",
    "first_seen": "2026-09-01T04:30:33Z",
@@ -22182,6 +22362,42 @@
    "start": "2026-08-03T18:20:00Z",
    "title": "Plovdiv 2: Sebastian Sorger vs Sandro Kopp",
    "tour": "ATP"
+  },
+  "0x5202af462d4016366a224b721c12c27b1b6aeaec1a19771ea18e67cc0bf19e0d": {
+   "cid": "0x5202af462d4016366a224b721c12c27b1b6aeaec1a19771ea18e67cc0bf19e0d",
+   "first_seen": "2026-10-16T16:31:02Z",
+   "last_pre": {
+    "at": "2026-10-16T16:31:02Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-10-16T16:31:02Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Daria Snigur",
+    "Yujun Lin"
+   ],
+   "result": null,
+   "slug": "wta-snigur-yujunli-2026-10-16",
+   "start": "2026-10-17T03:00:00Z",
+   "title": "Ningbo Open, Qualification: Daria Snigur vs Yujun Lin",
+   "tour": "WTA"
   },
   "0x521dcb4b434b4bd4b03e656a0d707ae74b4b89a7bf39ae0e60fa182f87319e29": {
    "cid": "0x521dcb4b434b4bd4b03e656a0d707ae74b4b89a7bf39ae0e60fa182f87319e29",
@@ -25168,7 +25384,7 @@
    "cid": "0x5ce09a8d605018e72f55cdfad3614f1a28183dbf60f6732186108f24b332d24d",
    "first_seen": "2026-10-16T10:30:38Z",
    "last_pre": {
-    "at": "2026-10-16T13:30:37Z",
+    "at": "2026-10-16T16:31:02Z",
     "fish": [
      0.0,
      0.0
@@ -25187,7 +25403,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-16T13:30:37Z",
+   "last_scan": "2026-10-16T16:31:02Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -31385,6 +31601,42 @@
    "title": "China Open: Linda Fruhvirtova vs Liudmila Samsonova",
    "tour": "WTA"
   },
+  "0x720899b35750df8a2284d0bd946bb27b5e133d9b1285cfa60291b8cf2b7720c6": {
+   "cid": "0x720899b35750df8a2284d0bd946bb27b5e133d9b1285cfa60291b8cf2b7720c6",
+   "first_seen": "2026-10-16T16:31:02Z",
+   "last_pre": {
+    "at": "2026-10-16T16:31:02Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-10-16T16:31:02Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Magdalena Frech",
+    "Han Shi"
+   ],
+   "result": null,
+   "slug": "wta-frech-shi-2026-10-17",
+   "start": "2026-10-17T07:30:00Z",
+   "title": "Ningbo Open, Qualification: Magdalena Frech vs Han Shi",
+   "tour": "WTA"
+  },
   "0x72092d7da1446563eb278a3982d57b5dd30773a8aa7d68f6ab52302414f5485a": {
    "cid": "0x72092d7da1446563eb278a3982d57b5dd30773a8aa7d68f6ab52302414f5485a",
    "first_seen": "2026-08-25T23:15:52Z",
@@ -35150,7 +35402,7 @@
    "cid": "0x814c7fba395dfbc8ba066fd7f19ac24dc7989a8e087681c54d4e2a31c37c5091",
    "first_seen": "2026-10-16T10:30:38Z",
    "last_pre": {
-    "at": "2026-10-16T13:30:37Z",
+    "at": "2026-10-16T16:31:02Z",
     "fish": [
      0.0,
      0.0
@@ -35169,7 +35421,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-16T13:30:37Z",
+   "last_scan": "2026-10-16T16:31:02Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -35222,10 +35474,10 @@
    "cid": "0x8177b786ee970afc1728eb80d6975ad87500b26838d865b79bfd3e83eb7f6260",
    "first_seen": "2026-10-16T10:30:38Z",
    "last_pre": {
-    "at": "2026-10-16T13:30:37Z",
+    "at": "2026-10-16T16:31:02Z",
     "fish": [
-     0.0,
-     0.0
+     2606.0,
+     6756.0
     ],
     "frozen_pre": false,
     "price": null,
@@ -35239,9 +35491,9 @@
     ],
     "side": null,
     "state": "none",
-    "wallets": 0
+    "wallets": 3
    },
-   "last_scan": "2026-10-16T13:30:37Z",
+   "last_scan": "2026-10-16T16:31:02Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -37318,6 +37570,42 @@
    "title": "Plovdiv 2: Gerard Campana Lee vs Gabriele Piraino",
    "tour": "ATP"
   },
+  "0x8a742928cfb7147a1134d9d4f2f754a5e2c5fa8fa84cea09cfe59112ee6100eb": {
+   "cid": "0x8a742928cfb7147a1134d9d4f2f754a5e2c5fa8fa84cea09cfe59112ee6100eb",
+   "first_seen": "2026-10-16T16:31:02Z",
+   "last_pre": {
+    "at": "2026-10-16T16:31:02Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-10-16T16:31:02Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Yihan Qu",
+    "Yulia Putintseva"
+   ],
+   "result": null,
+   "slug": "wta-qu-putints-2026-10-17",
+   "start": "2026-10-17T04:30:00Z",
+   "title": "Ningbo Open, Qualification: Yihan Qu vs Yulia Putintseva",
+   "tour": "WTA"
+  },
   "0x8a7611c4fdcf3e5910c1249ae02680a678a22eecf09c2fc25c2d07bb18baa96b": {
    "cid": "0x8a7611c4fdcf3e5910c1249ae02680a678a22eecf09c2fc25c2d07bb18baa96b",
    "first_seen": "2026-08-15T05:15:18Z",
@@ -38893,6 +39181,42 @@
    "slug": "wta-jone-ma-2026-09-21",
    "start": "2026-09-22T05:25:00Z",
    "title": "Korea Open: Emerson Jones vs Yexin Ma",
+   "tour": "WTA"
+  },
+  "0x904775ea7a92b093493ec73175bda6f538aeb2c1bb10fa432067952e452c3808": {
+   "cid": "0x904775ea7a92b093493ec73175bda6f538aeb2c1bb10fa432067952e452c3808",
+   "first_seen": "2026-10-16T16:31:02Z",
+   "last_pre": {
+    "at": "2026-10-16T16:31:02Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-10-16T16:31:02Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Polina Kudermetova",
+    "Mananchaya Sawangkaew"
+   ],
+   "result": null,
+   "slug": "wta-kuderme-sawangk-2026-10-17",
+   "start": "2026-10-17T04:30:00Z",
+   "title": "Ningbo Open, Qualification: Polina Kudermetova vs Mananchaya Sawangkaew",
    "tour": "WTA"
   },
   "0x90a3e6c3e2d1d84fba2ba5f96a2f689996985548e367b50c17b57e2fc413a458": {
@@ -49129,10 +49453,10 @@
    "cid": "0xb38dbe3b2842a4c28124c8f75a9db9d318d80ba4d573287d8eee7bd51e4bbb80",
    "first_seen": "2026-10-16T10:30:38Z",
    "last_pre": {
-    "at": "2026-10-16T13:30:37Z",
+    "at": "2026-10-16T16:31:02Z",
     "fish": [
      0.0,
-     0.0
+     3740.0
     ],
     "frozen_pre": false,
     "price": null,
@@ -49146,9 +49470,9 @@
     ],
     "side": null,
     "state": "none",
-    "wallets": 0
+    "wallets": 1
    },
-   "last_scan": "2026-10-16T13:30:37Z",
+   "last_scan": "2026-10-16T16:31:02Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -51136,7 +51460,7 @@
    "cid": "0xb96ff33df1ee14993aef2b971ceb2da206cb508d250601698a2e52b21ed46620",
    "first_seen": "2026-10-16T10:30:38Z",
    "last_pre": {
-    "at": "2026-10-16T13:30:37Z",
+    "at": "2026-10-16T16:31:02Z",
     "fish": [
      0.0,
      0.0
@@ -51155,7 +51479,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-16T13:30:37Z",
+   "last_scan": "2026-10-16T16:31:02Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -51773,26 +52097,26 @@
    "cid": "0xbb7b81204e4d4d78bcd2e220236ca4d1c104d50e4a30fbe65b3e07abb09de3e7",
    "first_seen": "2026-10-15T18:00:25Z",
    "last_pre": {
-    "at": "2026-10-16T13:30:37Z",
+    "at": "2026-10-16T16:31:02Z",
     "fish": [
-     0.0,
+     3900.0,
      0.0
     ],
     "frozen_pre": false,
     "price": null,
     "sharp": [
      7000.0,
-     0.0
+     2084.0
     ],
     "sharp_wallets": [
      1,
-     0
+     1
     ],
     "side": null,
-    "state": "none",
-    "wallets": 1
+    "state": "crowded",
+    "wallets": 3
    },
-   "last_scan": "2026-10-16T13:30:37Z",
+   "last_scan": "2026-10-16T16:31:02Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -51804,6 +52128,42 @@
    "start": "2026-10-17T08:30:00Z",
    "title": "Shanghai Rolex Masters: Alexander Zverev vs Alejandro Davidovich Fokina",
    "tour": "ATP"
+  },
+  "0xbb8321222b7ffe42850787fcf6e936f1dbbddf8e9e102d84fa4bac9fc145ea5a": {
+   "cid": "0xbb8321222b7ffe42850787fcf6e936f1dbbddf8e9e102d84fa4bac9fc145ea5a",
+   "first_seen": "2026-10-16T16:31:02Z",
+   "last_pre": {
+    "at": "2026-10-16T16:31:02Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-10-16T16:31:02Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Mayar Sherif",
+    "Tatiana Prozorova"
+   ],
+   "result": null,
+   "slug": "wta-sherif-prozoro-2026-10-17",
+   "start": "2026-10-17T07:30:00Z",
+   "title": "Ningbo Open, Qualification: Mayar Sherif vs Tatiana Prozorova",
+   "tour": "WTA"
   },
   "0xbbcf9611492a1ae5106ca1c113d06283b565349edcb7c27465bbda6a41617a5c": {
    "cid": "0xbbcf9611492a1ae5106ca1c113d06283b565349edcb7c27465bbda6a41617a5c",
@@ -58372,7 +58732,7 @@
     "state": "crowded",
     "wallets": 21
    },
-   "last_scan": "2026-10-16T13:30:37Z",
+   "last_scan": "2026-10-16T16:31:02Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -60168,6 +60528,42 @@
    "title": "US Open, Qualification ATP: Shintaro Mochizuki vs Francesco Passaro",
    "tour": "ATP"
   },
+  "0xdc0f28a55d43d1b08c3f82836d9dfed19bf2e764be11f2fc7f4103db30aa77db": {
+   "cid": "0xdc0f28a55d43d1b08c3f82836d9dfed19bf2e764be11f2fc7f4103db30aa77db",
+   "first_seen": "2026-10-16T16:31:02Z",
+   "last_pre": {
+    "at": "2026-10-16T16:31:02Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-10-16T16:31:02Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Yulia Starodubtseva",
+    "Anastasia Zakharova"
+   ],
+   "result": null,
+   "slug": "wta-starodu-zakharo-2026-10-16",
+   "start": "2026-10-17T03:00:00Z",
+   "title": "Ningbo Open, Qualification: Yulia Starodubtseva vs Anastasia Zakharova",
+   "tour": "WTA"
+  },
   "0xdc5d8763db521d9146016c8de70eda9123c2a32465029f5467110965027f6ec0": {
    "cid": "0xdc5d8763db521d9146016c8de70eda9123c2a32465029f5467110965027f6ec0",
    "first_seen": "2026-09-23T11:15:47Z",
@@ -61026,7 +61422,7 @@
    "cid": "0xdf3784af311f08a590dff86ff57c25e0f3e01fe7cb312fae5d5a3768b8b70f61",
    "first_seen": "2026-10-16T10:30:38Z",
    "last_pre": {
-    "at": "2026-10-16T13:30:37Z",
+    "at": "2026-10-16T16:31:02Z",
     "fish": [
      0.0,
      0.0
@@ -61045,7 +61441,7 @@
     "state": "none",
     "wallets": 0
    },
-   "last_scan": "2026-10-16T13:30:37Z",
+   "last_scan": "2026-10-16T16:31:02Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -66289,6 +66685,42 @@
    "title": "China Open: Iva Jovic vs Kamilla Rakhimova",
    "tour": "WTA"
   },
+  "0xf273476fccec442ed60e39868545161f8ac8ba6b21b1e3e32aa7e50f57fd0de2": {
+   "cid": "0xf273476fccec442ed60e39868545161f8ac8ba6b21b1e3e32aa7e50f57fd0de2",
+   "first_seen": "2026-10-16T16:31:02Z",
+   "last_pre": {
+    "at": "2026-10-16T16:31:02Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-10-16T16:31:02Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Jiali Dong",
+    "Alina Korneeva"
+   ],
+   "result": null,
+   "slug": "wta-don-korneev-2026-10-17",
+   "start": "2026-10-17T06:00:00Z",
+   "title": "Ningbo Open, Qualification: Jiali Dong vs Alina Korneeva",
+   "tour": "WTA"
+  },
   "0xf2879c8ebb8875ce8a39bccd9e3640915f40a7c01ec91bf457d120d3ee93468c": {
    "cid": "0xf2879c8ebb8875ce8a39bccd9e3640915f40a7c01ec91bf457d120d3ee93468c",
    "first_seen": "2026-09-01T03:00:45Z",
@@ -70103,6 +70535,42 @@
    "title": "US Open, Qualification WTA: Yue Yuan vs Hanyu Guo",
    "tour": "WTA"
   },
+  "0xff5f145a41aca36ecf2ccaa31ce623db9ac24eb330d7eb71d4fdf193add09b5c": {
+   "cid": "0xff5f145a41aca36ecf2ccaa31ce623db9ac24eb330d7eb71d4fdf193add09b5c",
+   "first_seen": "2026-10-16T16:31:02Z",
+   "last_pre": {
+    "at": "2026-10-16T16:31:02Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-10-16T16:31:02Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Dayana Yastremska",
+    "Kamilla Rakhimova"
+   ],
+   "result": null,
+   "slug": "wta-yastrem-rakhimo-2026-10-17",
+   "start": "2026-10-17T07:30:00Z",
+   "title": "Ningbo Open, Qualification: Dayana Yastremska vs Kamilla Rakhimova",
+   "tour": "WTA"
+  },
   "0xff90f8763616ba7639cc7133b3d9f29046768bb70caa150c34feb22415f59c99": {
    "cid": "0xff90f8763616ba7639cc7133b3d9f29046768bb70caa150c34feb22415f59c99",
    "first_seen": "2026-09-27T19:00:25Z",
@@ -70245,6 +70713,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-10-16T13:30:37Z",
+ "updated": "2026-10-16T16:31:02Z",
  "version": 1
 }
