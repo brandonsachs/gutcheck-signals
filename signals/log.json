@@ -14703,26 +14703,26 @@
    "cid": "0x36e95fdc10fb98ca9c098f280e92dc334bbdf3f19e3ab5867e098d89bea97aef",
    "first_seen": "2026-10-15T10:30:24Z",
    "last_pre": {
-    "at": "2026-10-16T05:00:32Z",
+    "at": "2026-10-16T05:30:31Z",
     "fish": [
      0.0,
-     6350.0
+     9235.0
     ],
     "frozen_pre": false,
     "price": null,
     "sharp": [
-     5000.0,
+     6163.0,
      10800.0
     ],
     "sharp_wallets": [
-     1,
+     2,
      1
     ],
     "side": null,
     "state": "crowded",
-    "wallets": 4
+    "wallets": 6
    },
-   "last_scan": "2026-10-16T05:00:32Z",
+   "last_scan": "2026-10-16T05:30:31Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -43498,7 +43498,7 @@
    "cid": "0xa03d8bcc940eda5fe62eb3a56bfdc0f8955606caf4734d2e451852894ed53eb2",
    "first_seen": "2026-10-14T18:00:34Z",
    "last_pre": {
-    "at": "2026-10-16T05:00:32Z",
+    "at": "2026-10-16T05:30:31Z",
     "fish": [
      7971.0,
      0.0
@@ -43517,7 +43517,7 @@
     "state": "thin",
     "wallets": 4
    },
-   "last_scan": "2026-10-16T05:00:32Z",
+   "last_scan": "2026-10-16T05:30:31Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -49698,7 +49698,7 @@
     "state": "crowded",
     "wallets": 9
    },
-   "last_scan": "2026-10-16T05:00:32Z",
+   "last_scan": "2026-10-16T05:30:31Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -51319,7 +51319,7 @@
    "cid": "0xbb7b81204e4d4d78bcd2e220236ca4d1c104d50e4a30fbe65b3e07abb09de3e7",
    "first_seen": "2026-10-15T18:00:25Z",
    "last_pre": {
-    "at": "2026-10-16T05:00:32Z",
+    "at": "2026-10-16T05:30:31Z",
     "fish": [
      0.0,
      1285.0
@@ -51338,7 +51338,7 @@
     "state": "thin",
     "wallets": 2
    },
-   "last_scan": "2026-10-16T05:00:32Z",
+   "last_scan": "2026-10-16T05:30:31Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -57899,7 +57899,7 @@
    "cid": "0xd48d8575d2fb40074ce8026209e747c136c333d6781ae1f7968f0577a514f1bc",
    "first_seen": "2026-10-15T16:48:55Z",
    "last_pre": {
-    "at": "2026-10-16T05:00:32Z",
+    "at": "2026-10-16T05:30:31Z",
     "fish": [
      0.0,
      4635.0
@@ -57918,7 +57918,7 @@
     "state": "crowded",
     "wallets": 3
    },
-   "last_scan": "2026-10-16T05:00:32Z",
+   "last_scan": "2026-10-16T05:30:31Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -58181,8 +58181,8 @@
     "state": "thin",
     "wallets": 10
    },
-   "last_scan": "2026-10-16T05:00:32Z",
-   "lock_closed": false,
+   "last_scan": "2026-10-16T05:30:31Z",
+   "lock_closed": true,
    "locked": null,
    "outcomes": [
     "Elina Svitolina",
@@ -58190,7 +58190,7 @@
    ],
    "result": null,
    "slug": "wta-svitoli-kartal-2026-10-16",
-   "start": "2026-10-16T05:05:00Z",
+   "start": "2026-10-16T05:10:00Z",
    "title": "Wuhan Tennis Open: Elina Svitolina vs Sonay Kartal",
    "tour": "WTA"
   },
@@ -65187,26 +65187,26 @@
    "cid": "0xf01ebec40a1f4aa902a8c9fb317b226697a20ba6567ed7f3f16f65a1bd17d8f2",
    "first_seen": "2026-10-14T17:00:57Z",
    "last_pre": {
-    "at": "2026-10-16T05:00:32Z",
+    "at": "2026-10-16T05:30:31Z",
     "fish": [
-     7841.0,
-     12712.0
+     9801.0,
+     18736.0
     ],
     "frozen_pre": false,
     "price": null,
     "sharp": [
-     9383.0,
+     15264.0,
      2580.0
     ],
     "sharp_wallets": [
-     4,
+     6,
      2
     ],
     "side": null,
     "state": "thin",
-    "wallets": 12
+    "wallets": 15
    },
-   "last_scan": "2026-10-16T05:00:32Z",
+   "last_scan": "2026-10-16T05:30:31Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -69755,6 +69755,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-10-16T05:00:32Z",
+ "updated": "2026-10-16T05:30:31Z",
  "version": 1
 }
