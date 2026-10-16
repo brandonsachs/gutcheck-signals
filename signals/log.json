@@ -14703,10 +14703,10 @@
    "cid": "0x36e95fdc10fb98ca9c098f280e92dc334bbdf3f19e3ab5867e098d89bea97aef",
    "first_seen": "2026-10-15T10:30:24Z",
    "last_pre": {
-    "at": "2026-10-16T06:00:31Z",
+    "at": "2026-10-16T06:30:31Z",
     "fish": [
      0.0,
-     9235.0
+     11012.0
     ],
     "frozen_pre": false,
     "price": null,
@@ -14720,9 +14720,9 @@
     ],
     "side": null,
     "state": "crowded",
-    "wallets": 6
+    "wallets": 7
    },
-   "last_scan": "2026-10-16T06:00:31Z",
+   "last_scan": "2026-10-16T06:30:31Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -14731,7 +14731,7 @@
    ],
    "result": null,
    "slug": "wta-chwalin-sakkari-2026-10-15",
-   "start": "2026-10-16T06:30:00Z",
+   "start": "2026-10-16T06:50:00Z",
    "title": "Wuhan Tennis Open: Maja Chwalinska vs Maria Sakkari",
    "tour": "WTA"
   },
@@ -43498,7 +43498,7 @@
    "cid": "0xa03d8bcc940eda5fe62eb3a56bfdc0f8955606caf4734d2e451852894ed53eb2",
    "first_seen": "2026-10-14T18:00:34Z",
    "last_pre": {
-    "at": "2026-10-16T06:00:31Z",
+    "at": "2026-10-16T06:30:31Z",
     "fish": [
      7971.0,
      0.0
@@ -43517,7 +43517,7 @@
     "state": "thin",
     "wallets": 5
    },
-   "last_scan": "2026-10-16T06:00:31Z",
+   "last_scan": "2026-10-16T06:30:31Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -49698,7 +49698,7 @@
     "state": "crowded",
     "wallets": 9
    },
-   "last_scan": "2026-10-16T06:00:31Z",
+   "last_scan": "2026-10-16T06:30:31Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -51319,7 +51319,7 @@
    "cid": "0xbb7b81204e4d4d78bcd2e220236ca4d1c104d50e4a30fbe65b3e07abb09de3e7",
    "first_seen": "2026-10-15T18:00:25Z",
    "last_pre": {
-    "at": "2026-10-16T06:00:31Z",
+    "at": "2026-10-16T06:30:31Z",
     "fish": [
      0.0,
      1285.0
@@ -51338,7 +51338,7 @@
     "state": "thin",
     "wallets": 2
    },
-   "last_scan": "2026-10-16T06:00:31Z",
+   "last_scan": "2026-10-16T06:30:31Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -57899,7 +57899,7 @@
    "cid": "0xd48d8575d2fb40074ce8026209e747c136c333d6781ae1f7968f0577a514f1bc",
    "first_seen": "2026-10-15T16:48:55Z",
    "last_pre": {
-    "at": "2026-10-16T06:00:31Z",
+    "at": "2026-10-16T06:30:31Z",
     "fish": [
      0.0,
      4635.0
@@ -57918,7 +57918,7 @@
     "state": "crowded",
     "wallets": 3
    },
-   "last_scan": "2026-10-16T06:00:31Z",
+   "last_scan": "2026-10-16T06:30:31Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -58181,7 +58181,7 @@
     "state": "thin",
     "wallets": 10
    },
-   "last_scan": "2026-10-16T06:00:31Z",
+   "last_scan": "2026-10-16T06:30:31Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -65206,8 +65206,8 @@
     "state": "thin",
     "wallets": 19
    },
-   "last_scan": "2026-10-16T06:00:31Z",
-   "lock_closed": false,
+   "last_scan": "2026-10-16T06:30:31Z",
+   "lock_closed": true,
    "locked": null,
    "outcomes": [
     "Rafael Jodar",
@@ -69755,6 +69755,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-10-16T06:00:31Z",
+ "updated": "2026-10-16T06:30:31Z",
  "version": 1
 }
