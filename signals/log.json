@@ -244,6 +244,42 @@
    "title": "US Open, Qualification ATP: Jack Pinnington Jones vs Trevor Svajda",
    "tour": "ATP"
   },
+  "0x019f898a2fd2887326eeda19f8ced9cfbebcf755fbd7075ef61319c412e51928": {
+   "cid": "0x019f898a2fd2887326eeda19f8ced9cfbebcf755fbd7075ef61319c412e51928",
+   "first_seen": "2026-10-16T10:30:38Z",
+   "last_pre": {
+    "at": "2026-10-16T10:30:38Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-10-16T10:30:38Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Sayaka Ishii",
+    "Elina Avanesyan"
+   ],
+   "result": null,
+   "slug": "wta-ishii-avanesy-2026-10-16",
+   "start": "2026-10-17T02:30:00Z",
+   "title": "Japan Women's Open, Qualification: Sayaka Ishii vs Elina Avanesyan",
+   "tour": "WTA"
+  },
   "0x01d5325a5dbce565b002daade6d279bef0861bf7fedc07bb40c0759846037f27": {
    "cid": "0x01d5325a5dbce565b002daade6d279bef0861bf7fedc07bb40c0759846037f27",
    "first_seen": "2026-08-24T20:01:05Z",
@@ -2963,6 +2999,42 @@
    "title": "National Bank Open: Renata Zarazua vs Tamara Korpatsch",
    "tour": "WTA"
   },
+  "0x0d355f77bae87c474f052bf2cca4e71275a5a9c532d431e72433930e33aff788": {
+   "cid": "0x0d355f77bae87c474f052bf2cca4e71275a5a9c532d431e72433930e33aff788",
+   "first_seen": "2026-10-16T10:30:38Z",
+   "last_pre": {
+    "at": "2026-10-16T10:30:38Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-10-16T10:30:38Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Sonay Kartal",
+    "Jelena Ostapenko"
+   ],
+   "result": null,
+   "slug": "wta-kartal-ostapen-2026-10-16",
+   "start": "2026-10-17T04:00:00Z",
+   "title": "Wuhan Tennis Open: Sonay Kartal vs Jelena Ostapenko",
+   "tour": "WTA"
+  },
   "0x0d3636f587c9178f0629fe3426428ec43972f0ffc7045f56ad6ecee5ac8602b3": {
    "cid": "0x0d3636f587c9178f0629fe3426428ec43972f0ffc7045f56ad6ecee5ac8602b3",
    "first_seen": "2026-08-16T04:30:18Z",
@@ -3835,6 +3907,42 @@
    "title": "Japan Open Tennis Championships: Valentin Vacherot vs Alexander Blockx",
    "tour": "ATP"
   },
+  "0x0f907b3894548db1fbfeb872df9b9fab2223f388b7c860c09d58022c9291c0a3": {
+   "cid": "0x0f907b3894548db1fbfeb872df9b9fab2223f388b7c860c09d58022c9291c0a3",
+   "first_seen": "2026-10-16T10:30:38Z",
+   "last_pre": {
+    "at": "2026-10-16T10:30:38Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-10-16T10:30:38Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Sinja Kraus",
+    "Momoko Kobori"
+   ],
+   "result": null,
+   "slug": "wta-kraus-kobori-2026-10-17",
+   "start": "2026-10-17T04:00:00Z",
+   "title": "Japan Women's Open, Qualification: Sinja Kraus vs Momoko Kobori",
+   "tour": "WTA"
+  },
   "0x0f90e0488d63a4ce9d5afb3f2ef703807b852e3fd1e5eff26f7dda88573cb6d3": {
    "cid": "0x0f90e0488d63a4ce9d5afb3f2ef703807b852e3fd1e5eff26f7dda88573cb6d3",
    "first_seen": "2026-09-29T16:30:41Z",
@@ -4614,6 +4722,42 @@
    "slug": "wta-navarro-boisson-2026-08-30",
    "start": "2026-08-30T22:35:00Z",
    "title": "US Open WTA: Emma Navarro vs Lois Boisson",
+   "tour": "WTA"
+  },
+  "0x1283b95f6245ac5f0cf89e366137296c16d2fbdc54e7f7bf81947657c6c11f78": {
+   "cid": "0x1283b95f6245ac5f0cf89e366137296c16d2fbdc54e7f7bf81947657c6c11f78",
+   "first_seen": "2026-10-16T10:30:38Z",
+   "last_pre": {
+    "at": "2026-10-16T10:30:38Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-10-16T10:30:38Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Taylah Preston",
+    "Haruka Kaji"
+   ],
+   "result": null,
+   "slug": "wta-preston-kaji-2026-10-17",
+   "start": "2026-10-17T05:30:00Z",
+   "title": "Japan Women's Open, Qualification: Taylah Preston vs Haruka Kaji",
    "tour": "WTA"
   },
   "0x12a1a1e22d57a9700520d2fa55bdd382c7f0d869ed5ae79ff219627dcc91783e": {
@@ -9627,6 +9771,42 @@
    "start": "2026-09-24T07:00:00Z",
    "title": "Hangzhou Open: Yunchaokete Bu vs Michael Zheng",
    "tour": "ATP"
+  },
+  "0x259f90840d7ff7a1faf7e0989a91ff96ad37ca2c45080a84ddde9d725b554878": {
+   "cid": "0x259f90840d7ff7a1faf7e0989a91ff96ad37ca2c45080a84ddde9d725b554878",
+   "first_seen": "2026-10-16T10:30:38Z",
+   "last_pre": {
+    "at": "2026-10-16T10:30:38Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-10-16T10:30:38Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Maya Joint",
+    "Kyoka Okamura"
+   ],
+   "result": null,
+   "slug": "wta-joint-okamura-2026-10-16",
+   "start": "2026-10-17T02:30:00Z",
+   "title": "Japan Women's Open, Qualification: Maya Joint vs Kyoka Okamura",
+   "tour": "WTA"
   },
   "0x25a618dfe066465e45f7be6e8873ad9a002dcbbf1ec617791ae295369b4fa968": {
    "cid": "0x25a618dfe066465e45f7be6e8873ad9a002dcbbf1ec617791ae295369b4fa968",
@@ -14722,7 +14902,7 @@
     "state": "aligned",
     "wallets": 16
    },
-   "last_scan": "2026-10-16T10:00:45Z",
+   "last_scan": "2026-10-16T10:30:38Z",
    "lock_closed": false,
    "locked": {
     "at": "2026-10-16T08:00:33Z",
@@ -14747,7 +14927,11 @@
     "Maja Chwalinska",
     "Maria Sakkari"
    ],
-   "result": null,
+   "result": {
+    "hit": true,
+    "scored_at": "2026-10-16T10:30:49Z",
+    "winner": "Maja Chwalinska"
+   },
    "slug": "wta-chwalin-sakkari-2026-10-15",
    "start": "2026-10-16T07:35:00Z",
    "title": "Wuhan Tennis Open: Maja Chwalinska vs Maria Sakkari",
@@ -15442,6 +15626,42 @@
    "start": "2026-09-30T05:50:00Z",
    "title": "China Open: Jan-Lennard Struff vs Thiago Agustin Tirante",
    "tour": "ATP"
+  },
+  "0x3a149489a239493cbee8df51300f40469e50f1f3f831a0616dc895cfa58006f6": {
+   "cid": "0x3a149489a239493cbee8df51300f40469e50f1f3f831a0616dc895cfa58006f6",
+   "first_seen": "2026-10-16T10:30:38Z",
+   "last_pre": {
+    "at": "2026-10-16T10:30:38Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-10-16T10:30:38Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Ena Koike",
+    "Kayla Day"
+   ],
+   "result": null,
+   "slug": "wta-koike-day-2026-10-16",
+   "start": "2026-10-17T02:30:00Z",
+   "title": "Japan Women's Open, Qualification: Ena Koike vs Kayla Day",
+   "tour": "WTA"
   },
   "0x3a2ef65b2988a853b16ca1b00cabaef5d425e6962b657bba49140f9bc94c7c88": {
    "cid": "0x3a2ef65b2988a853b16ca1b00cabaef5d425e6962b657bba49140f9bc94c7c88",
@@ -18619,6 +18839,42 @@
    "start": "2026-09-03T18:45:00Z",
    "title": "US Open ATP: Alexander Blockx vs Marco Trungelliti",
    "tour": "ATP"
+  },
+  "0x45687258e46ecdec41483d26fab71130dd6712c631c221cadd02e08c8edfb509": {
+   "cid": "0x45687258e46ecdec41483d26fab71130dd6712c631c221cadd02e08c8edfb509",
+   "first_seen": "2026-10-16T10:30:38Z",
+   "last_pre": {
+    "at": "2026-10-16T10:30:38Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-10-16T10:30:38Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Mary Stoiana",
+    "Rinko Matsuda"
+   ],
+   "result": null,
+   "slug": "wta-stoiana-matsuda-2026-10-16",
+   "start": "2026-10-17T02:30:00Z",
+   "title": "Japan Women's Open, Qualification: Mary Stoiana vs Rinko Matsuda",
+   "tour": "WTA"
   },
   "0x457a72b79aa8e4baab7cf8f08c029ea732d7e06d64ff030be02a636d859ae088": {
    "cid": "0x457a72b79aa8e4baab7cf8f08c029ea732d7e06d64ff030be02a636d859ae088",
@@ -24906,6 +25162,42 @@
    "slug": "wta-zhang-timofee-2026-08-25",
    "start": "2026-08-25T21:35:00Z",
    "title": "Monterrey Open: Shuai Zhang vs Maria Timofeeva",
+   "tour": "WTA"
+  },
+  "0x5ce09a8d605018e72f55cdfad3614f1a28183dbf60f6732186108f24b332d24d": {
+   "cid": "0x5ce09a8d605018e72f55cdfad3614f1a28183dbf60f6732186108f24b332d24d",
+   "first_seen": "2026-10-16T10:30:38Z",
+   "last_pre": {
+    "at": "2026-10-16T10:30:38Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-10-16T10:30:38Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Mei Yamaguchi",
+    "Sofia Kenin"
+   ],
+   "result": null,
+   "slug": "wta-yamaguc-kenin-2026-10-17",
+   "start": "2026-10-17T06:00:00Z",
+   "title": "Japan Women's Open, Qualification: Mei Yamaguchi vs Sofia Kenin",
    "tour": "WTA"
   },
   "0x5cf9bb2f681d28ee817006a963596f2ba0530d65c5472b9044f024cb18746997": {
@@ -34854,6 +35146,42 @@
    "title": "Warsaw: Viktoria Hruncakova vs Susan Bandecchi",
    "tour": "WTA"
   },
+  "0x814c7fba395dfbc8ba066fd7f19ac24dc7989a8e087681c54d4e2a31c37c5091": {
+   "cid": "0x814c7fba395dfbc8ba066fd7f19ac24dc7989a8e087681c54d4e2a31c37c5091",
+   "first_seen": "2026-10-16T10:30:38Z",
+   "last_pre": {
+    "at": "2026-10-16T10:30:38Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-10-16T10:30:38Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Harriet Dart",
+    "Rina Saigo"
+   ],
+   "result": null,
+   "slug": "wta-dart-saigo-2026-10-17",
+   "start": "2026-10-17T04:00:00Z",
+   "title": "Japan Women's Open, Qualification: Harriet Dart vs Rina Saigo",
+   "tour": "WTA"
+  },
   "0x8157e7c8d1e9a4d725d7b5730a67f1eb92bfe733ab9f17eef0456d4a8cfa8afe": {
    "cid": "0x8157e7c8d1e9a4d725d7b5730a67f1eb92bfe733ab9f17eef0456d4a8cfa8afe",
    "first_seen": "2026-09-01T22:31:15Z",
@@ -34888,6 +35216,42 @@
    "slug": "wta-andreev-lys-2026-09-02",
    "start": "2026-09-03T21:15:00Z",
    "title": "US Open WTA: Mirra Andreeva vs Eva Lys",
+   "tour": "WTA"
+  },
+  "0x8177b786ee970afc1728eb80d6975ad87500b26838d865b79bfd3e83eb7f6260": {
+   "cid": "0x8177b786ee970afc1728eb80d6975ad87500b26838d865b79bfd3e83eb7f6260",
+   "first_seen": "2026-10-16T10:30:38Z",
+   "last_pre": {
+    "at": "2026-10-16T10:30:38Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-10-16T10:30:38Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Sara Sorribes Tormo",
+    "Maddison Inglis"
+   ],
+   "result": null,
+   "slug": "wta-tormo-inglis-2026-10-17",
+   "start": "2026-10-17T05:30:00Z",
+   "title": "Japan Women's Open, Qualification: Sara Sorribes Tormo vs Maddison Inglis",
    "tour": "WTA"
   },
   "0x8195a99c93660e18bc49209359cf9cb539af42cfa00cb5000f6f5aeecef8dc57": {
@@ -43535,7 +43899,7 @@
     "state": "thin",
     "wallets": 14
    },
-   "last_scan": "2026-10-16T10:00:45Z",
+   "last_scan": "2026-10-16T10:30:38Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -48761,6 +49125,42 @@
    "title": "US Open, Qualification ATP: Otto Virtanen vs Grigor Dimitrov",
    "tour": "ATP"
   },
+  "0xb38dbe3b2842a4c28124c8f75a9db9d318d80ba4d573287d8eee7bd51e4bbb80": {
+   "cid": "0xb38dbe3b2842a4c28124c8f75a9db9d318d80ba4d573287d8eee7bd51e4bbb80",
+   "first_seen": "2026-10-16T10:30:38Z",
+   "last_pre": {
+    "at": "2026-10-16T10:30:38Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-10-16T10:30:38Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Aoi Ito",
+    "Tyra Caterina Grant"
+   ],
+   "result": null,
+   "slug": "wta-ito-grant-2026-10-17",
+   "start": "2026-10-17T04:00:00Z",
+   "title": "Japan Women's Open, Qualification: Aoi Ito vs Tyra Caterina Grant",
+   "tour": "WTA"
+  },
   "0xb39b2389e7b04dba062fcbcc3a26fc6b283a7052a82898e712549a292133386e": {
    "cid": "0xb39b2389e7b04dba062fcbcc3a26fc6b283a7052a82898e712549a292133386e",
    "first_seen": "2026-10-03T18:00:10Z",
@@ -50732,6 +51132,42 @@
    "title": "US Open, Qualification ATP: Vitaliy Sachko vs Pablo Llamas Ruiz",
    "tour": "ATP"
   },
+  "0xb96ff33df1ee14993aef2b971ceb2da206cb508d250601698a2e52b21ed46620": {
+   "cid": "0xb96ff33df1ee14993aef2b971ceb2da206cb508d250601698a2e52b21ed46620",
+   "first_seen": "2026-10-16T10:30:38Z",
+   "last_pre": {
+    "at": "2026-10-16T10:30:38Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-10-16T10:30:38Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Heather Watson",
+    "Emerson Jones"
+   ],
+   "result": null,
+   "slug": "wta-watson-jone-2026-10-17",
+   "start": "2026-10-17T05:30:00Z",
+   "title": "Japan Women's Open, Qualification: Heather Watson vs Emerson Jones",
+   "tour": "WTA"
+  },
   "0xb981077d67d43c0d91acd53b1318f82090834bb0d1166d8c3456909d30113514": {
    "cid": "0xb981077d67d43c0d91acd53b1318f82090834bb0d1166d8c3456909d30113514",
    "first_seen": "2026-08-24T20:01:05Z",
@@ -51337,7 +51773,7 @@
    "cid": "0xbb7b81204e4d4d78bcd2e220236ca4d1c104d50e4a30fbe65b3e07abb09de3e7",
    "first_seen": "2026-10-15T18:00:25Z",
    "last_pre": {
-    "at": "2026-10-16T10:00:45Z",
+    "at": "2026-10-16T10:30:38Z",
     "fish": [
      0.0,
      1272.0
@@ -51356,7 +51792,7 @@
     "state": "thin",
     "wallets": 2
    },
-   "last_scan": "2026-10-16T10:00:45Z",
+   "last_scan": "2026-10-16T10:30:38Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -57917,26 +58353,26 @@
    "cid": "0xd48d8575d2fb40074ce8026209e747c136c333d6781ae1f7968f0577a514f1bc",
    "first_seen": "2026-10-15T16:48:55Z",
    "last_pre": {
-    "at": "2026-10-16T10:00:45Z",
+    "at": "2026-10-16T10:30:38Z",
     "fish": [
-     0.0,
-     10790.0
+     1386.0,
+     16905.0
     ],
     "frozen_pre": false,
     "price": null,
     "sharp": [
-     1652.0,
-     1006.0
+     4805.0,
+     19688.0
     ],
     "sharp_wallets": [
-     1,
-     1
+     2,
+     5
     ],
     "side": null,
-    "state": "none",
-    "wallets": 4
+    "state": "crowded",
+    "wallets": 12
    },
-   "last_scan": "2026-10-16T10:00:45Z",
+   "last_scan": "2026-10-16T10:30:38Z",
    "lock_closed": false,
    "locked": null,
    "outcomes": [
@@ -58199,7 +58635,7 @@
     "state": "thin",
     "wallets": 10
    },
-   "last_scan": "2026-10-16T10:00:45Z",
+   "last_scan": "2026-10-16T10:30:38Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -60584,6 +61020,42 @@
    "slug": "wta-kraus-muchova-2026-08-30",
    "start": "2026-08-31T15:05:00Z",
    "title": "US Open WTA: Sinja Kraus vs Karolina Muchova",
+   "tour": "WTA"
+  },
+  "0xdf3784af311f08a590dff86ff57c25e0f3e01fe7cb312fae5d5a3768b8b70f61": {
+   "cid": "0xdf3784af311f08a590dff86ff57c25e0f3e01fe7cb312fae5d5a3768b8b70f61",
+   "first_seen": "2026-10-16T10:30:38Z",
+   "last_pre": {
+    "at": "2026-10-16T10:30:38Z",
+    "fish": [
+     0.0,
+     0.0
+    ],
+    "frozen_pre": false,
+    "price": null,
+    "sharp": [
+     0.0,
+     0.0
+    ],
+    "sharp_wallets": [
+     0,
+     0
+    ],
+    "side": null,
+    "state": "none",
+    "wallets": 0
+   },
+   "last_scan": "2026-10-16T10:30:38Z",
+   "lock_closed": false,
+   "locked": null,
+   "outcomes": [
+    "Claire Liu",
+    "Kanon Sawashiro"
+   ],
+   "result": null,
+   "slug": "wta-liu-sawashi-2026-10-17",
+   "start": "2026-10-17T04:00:00Z",
+   "title": "Japan Women's Open, Qualification: Claire Liu vs Kanon Sawashiro",
    "tour": "WTA"
   },
   "0xdf45f761993a2612caa39834d7808eff9f7b56a80e61ca0be282491a289c2d11": {
@@ -65224,7 +65696,7 @@
     "state": "thin",
     "wallets": 19
    },
-   "last_scan": "2026-10-16T10:00:45Z",
+   "last_scan": "2026-10-16T10:30:38Z",
    "lock_closed": true,
    "locked": null,
    "outcomes": [
@@ -69773,6 +70245,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-10-16T10:00:45Z",
+ "updated": "2026-10-16T10:30:38Z",
  "version": 1
 }
