@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.23555069767441875,
-   "edge_pp": -3.697674418604646,
-   "implied": 0.5393023255813953,
-   "n": 215,
-   "roi": -0.058478077732988167,
-   "win_rate": 0.5023255813953489,
+   "brier": 0.23507696759259275,
+   "edge_pp": -3.849537037037032,
+   "implied": 0.5384953703703703,
+   "n": 216,
+   "roi": -0.06283697552126137,
+   "win_rate": 0.5,
    "wins": 108,
-   "z": -1.1391298214388756
+   "z": -1.1886048042410768
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-10-22T20:00:45Z",
+ "generated": "2026-10-22T20:30:53Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json. Only a lock on the match moneyline is scored. 1 lock placed on a side market by an earlier scanner fault is void and listed under voided.",
  "overall": {
-  "brier": 0.2354399543378997,
-  "edge_pp": -4.1689497716895065,
-  "implied": 0.539406392694064,
-  "n": 219,
-  "roi": -0.06905712945330418,
-  "win_rate": 0.4977168949771689,
+  "brier": 0.23497534090909108,
+  "edge_pp": -4.315909090909087,
+  "implied": 0.5386136363636363,
+  "n": 220,
+  "roi": -0.07328868795578916,
+  "win_rate": 0.4954545454545455,
   "wins": 109,
-  "z": -1.2965212370517611
+  "z": -1.3452136176982499
  },
- "pending": 8,
+ "pending": 7,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -2227,6 +2227,16 @@
    "title": "Lyon Open: Valentin Vacherot vs Luca Van Assche",
    "tour": "ATP",
    "winner": "Luca Van Assche"
+  },
+  {
+   "hit": false,
+   "locked_at": "2026-10-22T18:00:33Z",
+   "phase": "pre-match",
+   "price": 0.365,
+   "side": "Kyrian Jacquet",
+   "title": "Lyon Open: Kyrian Jacquet vs Brandon Nakashima",
+   "tour": "ATP",
+   "winner": "Brandon Nakashima"
   }
  ],
  "voided": [
