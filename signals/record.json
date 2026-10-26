@@ -11,31 +11,31 @@
    "z": -1.2564216321465311
   },
   "pre-match": {
-   "brier": 0.23545878995433805,
-   "edge_pp": -4.1484018264840214,
-   "implied": 0.5392009132420091,
-   "n": 219,
-   "roi": -0.06946229449728485,
-   "win_rate": 0.4977168949771689,
-   "wins": 109,
-   "z": -1.291944536027919
+   "brier": 0.23550227272727287,
+   "edge_pp": -3.9045454545454494,
+   "implied": 0.5390454545454545,
+   "n": 220,
+   "roi": -0.06469111125047,
+   "win_rate": 0.5,
+   "wins": 110,
+   "z": -1.218476489961582
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-10-26T17:30:57Z",
+ "generated": "2026-10-26T18:01:47Z",
  "methodology": "Only the locked signal is scored. A signal locks at first serve from the last pre-match verdict, or within 30 minutes of the start if nothing was aligned pre-match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json. Only a lock on the match moneyline is scored. 1 lock placed on a side market by an earlier scanner fault is void and listed under voided.",
  "overall": {
-  "brier": 0.23535168161434997,
-  "edge_pp": -4.6031390134529175,
-  "implied": 0.539304932735426,
-  "n": 223,
-  "roi": -0.07965456113267508,
-  "win_rate": 0.49327354260089684,
-  "wins": 110,
-  "z": -1.4469005886411557
+  "brier": 0.23539486607142873,
+  "edge_pp": -4.361607142857138,
+  "implied": 0.5391517857142857,
+  "n": 224,
+  "roi": -0.07492307639635964,
+  "win_rate": 0.4955357142857143,
+  "wins": 111,
+  "z": -1.3737208722357155
  },
- "pending": 8,
+ "pending": 7,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -2267,6 +2267,16 @@
    "title": "Japan Women's Open: Ashlyn Krueger vs Katerina Siniakova",
    "tour": "WTA",
    "winner": "Katerina Siniakova"
+  },
+  {
+   "hit": true,
+   "locked_at": "2026-10-26T14:30:28Z",
+   "phase": "pre-match",
+   "price": 0.505,
+   "side": "Holger Rune",
+   "title": "Swiss Indoors Basel: Holger Rune vs Quentin Halys",
+   "tour": "ATP",
+   "winner": "Holger Rune"
   }
  ],
  "voided": [
