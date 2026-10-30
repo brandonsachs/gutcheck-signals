@@ -11,31 +11,31 @@
    "z": -1.2564216321465307
   },
   "pre-match": {
-   "brier": 0.2354657894736842,
-   "edge_pp": -3.491228070175434,
-   "implied": 0.539298245614035,
-   "n": 228,
-   "roi": -0.05533206240174203,
-   "win_rate": 0.5043859649122807,
-   "wins": 115,
-   "z": -1.1088351482607748
+   "brier": 0.2362295652173913,
+   "edge_pp": -3.7391304347826115,
+   "implied": 0.5417391304347826,
+   "n": 230,
+   "roi": -0.058431476692877786,
+   "win_rate": 0.5043478260869565,
+   "wins": 116,
+   "z": -1.1945919340349849
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-10-29T18:04:41Z",
+ "generated": "2026-10-30T00:39:14Z",
  "methodology": "Only the locked signal is scored. The signal is the verdict carried by the pre-match book the site seals at first serve. Nothing aligned at first serve means no signal on that match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json. Only a lock on the match moneyline is scored. 1 lock placed on a side market by an earlier scanner fault is void and listed under voided.",
  "overall": {
-  "brier": 0.23536271551724136,
-  "edge_pp": -3.939655172413792,
-  "implied": 0.5393965517241379,
-  "n": 232,
-  "roi": -0.0653725640744756,
+  "brier": 0.23611431623931622,
+  "edge_pp": -4.179487179487184,
+  "implied": 0.5417948717948718,
+  "n": 234,
+  "roi": -0.06833318067112412,
   "win_rate": 0.5,
-  "wins": 116,
-  "z": -1.262452013345359
+  "wins": 117,
+  "z": -1.3470863530583106
  },
- "pending": 8,
+ "pending": 7,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -2357,6 +2357,26 @@
    "title": "Erste Bank Open: Cameron Norrie vs Daniil Medvedev",
    "tour": "ATP",
    "winner": "Daniil Medvedev"
+  },
+  {
+   "hit": true,
+   "locked_at": "2026-10-29T16:15:00Z",
+   "phase": "pre-match",
+   "price": 0.85,
+   "side": "Jiri Lehecka",
+   "title": "Swiss Indoors Basel: Daniel Altmaier vs Jiri Lehecka",
+   "tour": "ATP",
+   "winner": "Jiri Lehecka"
+  },
+  {
+   "hit": false,
+   "locked_at": "2026-10-29T21:15:00Z",
+   "phase": "pre-match",
+   "price": 0.79,
+   "side": "Ben Shelton",
+   "title": "Swiss Indoors Basel: Ben Shelton vs Jerome Kym",
+   "tour": "ATP",
+   "winner": "Jerome Kym"
   }
  ],
  "voided": [

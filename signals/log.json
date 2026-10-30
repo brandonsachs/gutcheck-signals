@@ -2670,6 +2670,23 @@
    "title": "US Open WTA: Ann Li vs Linda Noskova",
    "tour": "WTA"
   },
+  "0x091a4a5664098f81554043044556e0475f7f2159bc06e781e2599eccb896eb9b": {
+   "cid": "0x091a4a5664098f81554043044556e0475f7f2159bc06e781e2599eccb896eb9b",
+   "first_seen": "2026-10-30T00:39:03Z",
+   "last_pre": null,
+   "last_scan": "2026-10-30T00:39:03Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Flavio Cobolli",
+    "Matteo Berrettini"
+   ],
+   "result": null,
+   "slug": "atp-cobolli-berrett-2026-10-29",
+   "start": "2026-10-29T19:45:00Z",
+   "title": "Erste Bank Open: Flavio Cobolli vs Matteo Berrettini",
+   "tour": "ATP"
+  },
   "0x0941697b2f0105c2d7f6a245cfbe79ba2cc2673aa8b185675598f8c3e3c83619": {
    "cid": "0x0941697b2f0105c2d7f6a245cfbe79ba2cc2673aa8b185675598f8c3e3c83619",
    "first_seen": "2026-09-01T05:15:32Z",
@@ -2834,6 +2851,23 @@
    "start": "2026-10-26T03:25:00Z",
    "title": "Pan Pacific Open: Daria Kasatkina vs Talia Gibson",
    "tour": "WTA"
+  },
+  "0x09685805d0cf45bac3bdcabfc78866b2ca98aa45561ade9e73ec234366d12fbe": {
+   "cid": "0x09685805d0cf45bac3bdcabfc78866b2ca98aa45561ade9e73ec234366d12fbe",
+   "first_seen": "2026-10-30T00:39:03Z",
+   "last_pre": null,
+   "last_scan": "2026-10-30T00:39:03Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Alexander Zverev",
+    "Tallon Griekspoor"
+   ],
+   "result": null,
+   "slug": "atp-zverev-grieksp-2026-10-29",
+   "start": "2026-10-29T17:40:00Z",
+   "title": "Erste Bank Open: Alexander Zverev vs Tallon Griekspoor",
+   "tour": "ATP"
   },
   "0x097b41b9d528615774fd3353b271c5e75a56f0dc94de6568d317e2032221652f": {
    "cid": "0x097b41b9d528615774fd3353b271c5e75a56f0dc94de6568d317e2032221652f",
@@ -5135,7 +5169,11 @@
     "Daniel Altmaier",
     "Jiri Lehecka"
    ],
-   "result": null,
+   "result": {
+    "hit": true,
+    "scored_at": "2026-10-30T00:39:14Z",
+    "winner": "Jiri Lehecka"
+   },
    "slug": "atp-altmaie-lehecka-2026-10-29",
    "start": "2026-10-29T16:15:00Z",
    "title": "Swiss Indoors Basel: Daniel Altmaier vs Jiri Lehecka",
@@ -9508,6 +9546,46 @@
    "slug": "atp-cerundo-mensik-2026-10-02",
    "start": "2026-10-03T11:30:00Z",
    "title": "China Open: Francisco Cerundolo vs Jakub Mensik",
+   "tour": "ATP"
+  },
+  "0x1e216e41631b9948489c50cd989a59bf9bc9d8fb879601a1f3d022d21ed26e61": {
+   "cid": "0x1e216e41631b9948489c50cd989a59bf9bc9d8fb879601a1f3d022d21ed26e61",
+   "first_seen": "2026-10-30T00:39:03Z",
+   "last_pre": null,
+   "last_scan": "2026-10-30T00:39:03Z",
+   "lock_closed": false,
+   "locked": {
+    "at": "2026-10-29T21:15:00Z",
+    "fish": [
+     0.0,
+     1100.0
+    ],
+    "locked_by": "nightly",
+    "phase": "pre-match",
+    "price": 0.79,
+    "read_at": "2026-10-30T00:39:03Z",
+    "sharp": [
+     24495.0,
+     6374.0
+    ],
+    "side": 0,
+    "side_name": "Ben Shelton",
+    "source": "at-serve-book",
+    "wallets": 7
+   },
+   "market_type": "moneyline",
+   "outcomes": [
+    "Ben Shelton",
+    "Jerome Kym"
+   ],
+   "result": {
+    "hit": false,
+    "scored_at": "2026-10-30T00:39:14Z",
+    "winner": "Jerome Kym"
+   },
+   "slug": "atp-shelton-kym-2026-10-29",
+   "start": "2026-10-29T21:15:00Z",
+   "title": "Swiss Indoors Basel: Ben Shelton vs Jerome Kym",
    "tour": "ATP"
   },
   "0x1e93e33beecbd9ae3dbe35a7c263b5d1a6d81084f6eed57e16b7fba56821ea1b": {
@@ -42514,6 +42592,23 @@
    "start": "2026-10-14T07:45:00Z",
    "title": "Wuhan Tennis Open: Katie Volynets vs Hanyu Guo",
    "tour": "WTA"
+  },
+  "0x86715860db7bdd8bf846f5695e331addfd607cd38a2e044da549dece2cc31a20": {
+   "cid": "0x86715860db7bdd8bf846f5695e331addfd607cd38a2e044da549dece2cc31a20",
+   "first_seen": "2026-10-30T00:39:03Z",
+   "last_pre": null,
+   "last_scan": "2026-10-30T00:39:03Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Novak Djokovic",
+    "Jan-Lennard Struff"
+   ],
+   "result": null,
+   "slug": "atp-djokovi-struff-2026-10-29",
+   "start": "2026-10-29T18:20:00Z",
+   "title": "Swiss Indoors Basel: Novak Djokovic vs Jan-Lennard Struff",
+   "tour": "ATP"
   },
   "0x86755ef4c8f24b883184b975ceb1864990017617b8dff17df02784c3f9a3bbaa": {
    "cid": "0x86755ef4c8f24b883184b975ceb1864990017617b8dff17df02784c3f9a3bbaa",
@@ -82197,6 +82292,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-10-29T18:04:27Z",
+ "updated": "2026-10-30T00:39:03Z",
  "version": 1
 }
