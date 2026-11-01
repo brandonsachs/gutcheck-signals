@@ -4486,6 +4486,23 @@
    "title": "Cincinnati Open: Mattia Bellucci vs Jakub Mensik",
    "tour": "ATP"
   },
+  "0x0eddc702f0904da755d70eb9a3d7611dc9ae12ffaed8f477ebe0aa2657734e80": {
+   "cid": "0x0eddc702f0904da755d70eb9a3d7611dc9ae12ffaed8f477ebe0aa2657734e80",
+   "first_seen": "2026-11-01T00:41:21Z",
+   "last_pre": null,
+   "last_scan": "2026-11-01T00:41:21Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Himeno Sakatsume",
+    "Cody Wong"
+   ],
+   "result": null,
+   "slug": "wta-sakatsu-wong-2026-10-30",
+   "start": "2026-10-31T02:05:00Z",
+   "title": "Prudential Hong Kong Tennis Open, Qualification: Himeno Sakatsume vs Cody Wong",
+   "tour": "WTA"
+  },
   "0x0eebc03e51caea48f4a14a2954ee34626ce134f06c00514a111dbdfd131f04d9": {
    "cid": "0x0eebc03e51caea48f4a14a2954ee34626ce134f06c00514a111dbdfd131f04d9",
    "first_seen": "2026-08-03T04:06:53Z",
@@ -5351,6 +5368,23 @@
    "start": "2026-08-04T01:45:00Z",
    "title": "Canadian Open: Camilo Ugo Carabelli vs Cameron Norrie",
    "tour": "ATP"
+  },
+  "0x110759e3556d90efedf505e764cd5160cdc15b34548b4be6fb6932910bdf2ea5": {
+   "cid": "0x110759e3556d90efedf505e764cd5160cdc15b34548b4be6fb6932910bdf2ea5",
+   "first_seen": "2026-11-01T00:41:21Z",
+   "last_pre": null,
+   "last_scan": "2026-11-01T00:41:21Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Rinko Matsuda",
+    "Momoko Kobori"
+   ],
+   "result": null,
+   "slug": "wta-matsuda-kobori-2026-10-31",
+   "start": "2026-10-31T11:05:00Z",
+   "title": "Chennai Open, Qualification: Rinko Matsuda vs Momoko Kobori",
+   "tour": "WTA"
   },
   "0x1110ddf6ca1dc2f8906dac9029ba1056d0cc483e58b187ee5dc2927f2940a3d0": {
    "cid": "0x1110ddf6ca1dc2f8906dac9029ba1056d0cc483e58b187ee5dc2927f2940a3d0",
@@ -7690,6 +7724,23 @@
    "title": "Grodzisk Mazowiecki: Damir Dzumhur vs Mathys Erhard",
    "tour": "ATP"
   },
+  "0x19440707accfaa0ee5e5db8dc51b472ed4f7c4e73575b6d8a1319ebdbd40fea3": {
+   "cid": "0x19440707accfaa0ee5e5db8dc51b472ed4f7c4e73575b6d8a1319ebdbd40fea3",
+   "first_seen": "2026-11-01T00:41:21Z",
+   "last_pre": null,
+   "last_scan": "2026-11-01T00:41:21Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Pablo Carreno Busta",
+    "Mattia Bellucci"
+   ],
+   "result": null,
+   "slug": "atp-busta-bellucc-2026-10-31",
+   "start": "2026-10-31T10:05:00Z",
+   "title": "Rolex Paris Masters, Qualification: Pablo Carreno Busta vs Mattia Bellucci",
+   "tour": "ATP"
+  },
   "0x196fe8d998ac762c9dcbe882e41a2c91a4a5cf3bef093935defbb627de47fde0": {
    "cid": "0x196fe8d998ac762c9dcbe882e41a2c91a4a5cf3bef093935defbb627de47fde0",
    "first_seen": "2026-09-29T11:15:34Z",
@@ -8009,6 +8060,23 @@
    "start": "2026-10-28T18:15:00Z",
    "title": "Swiss Indoors Basel: Taylor Fritz vs Rinky Hijikata",
    "tour": "ATP"
+  },
+  "0x1a3814fcdae124c83bd431527c866fe58418063f4d31f31e33b6259ecff720d0": {
+   "cid": "0x1a3814fcdae124c83bd431527c866fe58418063f4d31f31e33b6259ecff720d0",
+   "first_seen": "2026-11-01T00:41:21Z",
+   "last_pre": null,
+   "last_scan": "2026-11-01T00:41:21Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Ying Zhang",
+    "Alexandra Shubladze"
+   ],
+   "result": null,
+   "slug": "wta-zhan-shublad-2026-10-31",
+   "start": "2026-10-31T06:20:00Z",
+   "title": "Prudential Hong Kong Tennis Open, Qualification: Ying Zhang vs Alexandra Shubladze",
+   "tour": "WTA"
   },
   "0x1a41f2508001e1d82ae02f111e77a1e0ded2e02c72f76803d52a80c004698b37": {
    "cid": "0x1a41f2508001e1d82ae02f111e77a1e0ded2e02c72f76803d52a80c004698b37",
@@ -21573,6 +21641,23 @@
    "title": "China Open: Linda Noskova vs Gabriela Ruse",
    "tour": "WTA"
   },
+  "0x42d9b0d5a990983fec5407f603674e94500e0f275f2ca9da36d2973b3c6f812b": {
+   "cid": "0x42d9b0d5a990983fec5407f603674e94500e0f275f2ca9da36d2973b3c6f812b",
+   "first_seen": "2026-11-01T00:41:21Z",
+   "last_pre": null,
+   "last_scan": "2026-11-01T00:41:21Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Aliona Falei",
+    "Ekaterina Yashina"
+   ],
+   "result": null,
+   "slug": "wta-falei-yashina-2026-10-31",
+   "start": "2026-10-31T09:40:00Z",
+   "title": "Chennai Open, Qualification: Aliona Falei vs Ekaterina Yashina",
+   "tour": "WTA"
+  },
   "0x42df616cce5d781363049270ed7585699bfded5605b14c991b4b85606dd96a2d": {
    "cid": "0x42df616cce5d781363049270ed7585699bfded5605b14c991b4b85606dd96a2d",
    "first_seen": "2026-08-03T22:42:12Z",
@@ -24252,6 +24337,23 @@
    "slug": "atp-batalla-bondiol-2026-08-10",
    "start": "2026-08-10T08:00:00Z",
    "title": "Todi: Oriol Roca Batalla vs Federico Bondioli",
+   "tour": "ATP"
+  },
+  "0x4cb0d4b2bb715405143a5a460b6bfeed2dd05e46072df0f5f451e71091ae2c60": {
+   "cid": "0x4cb0d4b2bb715405143a5a460b6bfeed2dd05e46072df0f5f451e71091ae2c60",
+   "first_seen": "2026-11-01T00:41:21Z",
+   "last_pre": null,
+   "last_scan": "2026-11-01T00:41:21Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Felix Balshaw",
+    "Yannick Hanfmann"
+   ],
+   "result": null,
+   "slug": "atp-balshaw-hanfman-2026-10-31",
+   "start": "2026-10-31T13:40:00Z",
+   "title": "Rolex Paris Masters, Qualification: Felix Balshaw vs Yannick Hanfmann",
    "tour": "ATP"
   },
   "0x4cf7f6daf34e24e332b7c8bb6ab417e0943a4b886d6460bc5d6cc4c25924b902": {
@@ -27373,6 +27475,86 @@
    "title": "Winston-Salem Open: Raphael Collignon vs Rinky Hijikata",
    "tour": "ATP"
   },
+  "0x5588cf7a6da29ed363916c7b4eea96b36a7a19f1539307f78ad50bce629e0201": {
+   "cid": "0x5588cf7a6da29ed363916c7b4eea96b36a7a19f1539307f78ad50bce629e0201",
+   "first_seen": "2026-11-01T00:41:21Z",
+   "last_pre": null,
+   "last_scan": "2026-11-01T00:41:21Z",
+   "lock_closed": false,
+   "locked": {
+    "at": "2026-10-31T08:35:00Z",
+    "fish": [
+     9338.0,
+     30332.0
+    ],
+    "locked_by": "nightly",
+    "phase": "pre-match",
+    "price": 0.54,
+    "read_at": "2026-11-01T00:41:21Z",
+    "sharp": [
+     49531.0,
+     22933.0
+    ],
+    "side": 0,
+    "side_name": "Xinran Sun",
+    "source": "at-serve-book",
+    "wallets": 22
+   },
+   "market_type": "moneyline",
+   "outcomes": [
+    "Xinran Sun",
+    "Harriet Dart"
+   ],
+   "result": {
+    "hit": false,
+    "scored_at": "2026-11-01T00:41:46Z",
+    "winner": "Harriet Dart"
+   },
+   "slug": "wta-su-dart-2026-10-31",
+   "start": "2026-10-31T08:35:00Z",
+   "title": "Guangzhou Open: Xinran Sun vs Harriet Dart",
+   "tour": "WTA"
+  },
+  "0x559eec42eb4cde6da0d249e9692211805b5afa8272dc29df90011ced6a388296": {
+   "cid": "0x559eec42eb4cde6da0d249e9692211805b5afa8272dc29df90011ced6a388296",
+   "first_seen": "2026-11-01T00:41:21Z",
+   "last_pre": null,
+   "last_scan": "2026-11-01T00:41:21Z",
+   "lock_closed": false,
+   "locked": {
+    "at": "2026-10-31T13:45:00Z",
+    "fish": [
+     7031.0,
+     0.0
+    ],
+    "locked_by": "nightly",
+    "phase": "pre-match",
+    "price": 0.63,
+    "read_at": "2026-11-01T00:41:21Z",
+    "sharp": [
+     2427.0,
+     15567.0
+    ],
+    "side": 1,
+    "side_name": "Damir Dzumhur",
+    "source": "at-serve-book",
+    "wallets": 4
+   },
+   "market_type": "moneyline",
+   "outcomes": [
+    "Sebastian Baez",
+    "Damir Dzumhur"
+   ],
+   "result": {
+    "hit": false,
+    "scored_at": "2026-11-01T00:41:46Z",
+    "winner": "Sebastian Baez"
+   },
+   "slug": "atp-baez-dzumhur-2026-10-31",
+   "start": "2026-10-31T13:45:00Z",
+   "title": "Rolex Paris Masters, Qualification: Sebastian Baez vs Damir Dzumhur",
+   "tour": "ATP"
+  },
   "0x55a81cd8e45d1612b2580f52545e90dfa7f34672b335994d9c80a8c73853b25b": {
    "cid": "0x55a81cd8e45d1612b2580f52545e90dfa7f34672b335994d9c80a8c73853b25b",
    "first_seen": "2026-10-17T10:30:35Z",
@@ -28151,6 +28333,23 @@
    "slug": "atp-darderi-nakashi-2026-08-11",
    "start": "2026-08-11T16:40:00Z",
    "title": "National Bank Open: Luciano Darderi vs Brandon Nakashima",
+   "tour": "ATP"
+  },
+  "0x57aa8b704ddc4b34576158072d52e672578632c30dbe77feccecb9b4d3cbf9b2": {
+   "cid": "0x57aa8b704ddc4b34576158072d52e672578632c30dbe77feccecb9b4d3cbf9b2",
+   "first_seen": "2026-11-01T00:41:21Z",
+   "last_pre": null,
+   "last_scan": "2026-11-01T00:41:21Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Thiago Agustin Tirante",
+    "Zachary Svajda"
+   ],
+   "result": null,
+   "slug": "atp-tirante-svajda-2026-10-31",
+   "start": "2026-10-31T10:05:00Z",
+   "title": "Rolex Paris Masters, Qualification: Thiago Agustin Tirante vs Zachary Svajda",
    "tour": "ATP"
   },
   "0x57ac475163d2ee2da7ab3120460d0d23b1c546697a2edd2ec9ef1910f5bf2080": {
@@ -29957,6 +30156,23 @@
    "title": "National Bank Open: Moyuka Uchijima vs Cristina Bucsa",
    "tour": "WTA"
   },
+  "0x5d57e9ef748984a1a38f4471904d2251a3908010e7333911464cbb28322fe535": {
+   "cid": "0x5d57e9ef748984a1a38f4471904d2251a3908010e7333911464cbb28322fe535",
+   "first_seen": "2026-11-01T00:41:21Z",
+   "last_pre": null,
+   "last_scan": "2026-11-01T00:41:21Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Mei Yamaguchi",
+    "Zeel Desai"
+   ],
+   "result": null,
+   "slug": "wta-yamaguc-desai-2026-10-31",
+   "start": "2026-10-31T12:15:00Z",
+   "title": "Chennai Open, Qualification: Mei Yamaguchi vs Zeel Desai",
+   "tour": "WTA"
+  },
   "0x5d581a6206b1820d493aedebebe7ccf9b55d85672247c9c9a842f70240109dba": {
    "cid": "0x5d581a6206b1820d493aedebebe7ccf9b55d85672247c9c9a842f70240109dba",
    "first_seen": "2026-10-31T00:42:15Z",
@@ -30915,6 +31131,23 @@
    "title": "Korea Open, Qualification: Xinxin Yao vs Priscilla Hon",
    "tour": "WTA"
   },
+  "0x600967d539b37731f73883d0b2fb024b8da376229ce708df174cc53884987270": {
+   "cid": "0x600967d539b37731f73883d0b2fb024b8da376229ce708df174cc53884987270",
+   "first_seen": "2026-11-01T00:41:21Z",
+   "last_pre": null,
+   "last_scan": "2026-11-01T00:41:21Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Mariia Tkacheva",
+    "Rada Zolotareva"
+   ],
+   "result": null,
+   "slug": "wta-tkachev-zolotar-2026-10-31",
+   "start": "2026-10-31T09:35:00Z",
+   "title": "Chennai Open, Qualification: Mariia Tkacheva vs Rada Zolotareva",
+   "tour": "WTA"
+  },
   "0x60103a0f8a721a843b08c7d4cee854435624c3c0bd2e104fceb5e673b2a5c40f": {
    "cid": "0x60103a0f8a721a843b08c7d4cee854435624c3c0bd2e104fceb5e673b2a5c40f",
    "first_seen": "2026-08-06T04:15:34Z",
@@ -31373,6 +31606,46 @@
    "title": "Wuhan Tennis Open, Qualification: Daria Kasatkina vs Viktorija Golubic",
    "tour": "WTA"
   },
+  "0x6127da27757e6fce5b8ae2de13448e1352e5946869784d12ebf0c5c0eb8496c0": {
+   "cid": "0x6127da27757e6fce5b8ae2de13448e1352e5946869784d12ebf0c5c0eb8496c0",
+   "first_seen": "2026-11-01T00:41:21Z",
+   "last_pre": null,
+   "last_scan": "2026-11-01T00:41:21Z",
+   "lock_closed": false,
+   "locked": {
+    "at": "2026-10-31T16:10:00Z",
+    "fish": [
+     1730.0,
+     3000.0
+    ],
+    "locked_by": "nightly",
+    "phase": "pre-match",
+    "price": 0.71,
+    "read_at": "2026-11-01T00:41:21Z",
+    "sharp": [
+     6701.0,
+     0.0
+    ],
+    "side": 0,
+    "side_name": "Alexander Zverev",
+    "source": "at-serve-book",
+    "wallets": 4
+   },
+   "market_type": "moneyline",
+   "outcomes": [
+    "Alexander Zverev",
+    "Alex de Minaur"
+   ],
+   "result": {
+    "hit": false,
+    "scored_at": "2026-11-01T00:41:46Z",
+    "winner": "Alex de Minaur"
+   },
+   "slug": "atp-zverev-minaur-2026-10-31",
+   "start": "2026-10-31T16:10:00Z",
+   "title": "Erste Bank Open: Alexander Zverev vs Alex de Minaur",
+   "tour": "ATP"
+  },
   "0x612ad60cff6d13e5bd07300eaf6acd5550f8e89c4391c3890cd4562e5f883885": {
    "cid": "0x612ad60cff6d13e5bd07300eaf6acd5550f8e89c4391c3890cd4562e5f883885",
    "first_seen": "2026-08-30T13:00:54Z",
@@ -31660,6 +31933,23 @@
    "title": "Chengdu Open, Qualification: Kaichi Uchida vs Federico Cina",
    "tour": "ATP"
   },
+  "0x619a0627ef818b5ccfca18184ec02e53ca86c8b83605382f481efa3e06ef003c": {
+   "cid": "0x619a0627ef818b5ccfca18184ec02e53ca86c8b83605382f481efa3e06ef003c",
+   "first_seen": "2026-11-01T00:41:21Z",
+   "last_pre": null,
+   "last_scan": "2026-11-01T00:41:21Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Elena Pridankina",
+    "Ekaterine Gorgodze"
+   ],
+   "result": null,
+   "slug": "wta-pridank-gorgodz-2026-10-30",
+   "start": "2026-10-31T04:15:00Z",
+   "title": "Prudential Hong Kong Tennis Open, Qualification: Elena Pridankina vs Ekaterine Gorgodze",
+   "tour": "WTA"
+  },
   "0x61def4e9de8d382bfe678856fa55b9fb7eaba815648b83064c41a5ae2c42e464": {
    "cid": "0x61def4e9de8d382bfe678856fa55b9fb7eaba815648b83064c41a5ae2c42e464",
    "first_seen": "2026-08-03T16:33:32Z",
@@ -31690,6 +31980,23 @@
    "start": "2026-08-04T09:45:00Z",
    "title": "Hagen: Thiago Monteiro vs Tom Gentzsch",
    "tour": "ATP"
+  },
+  "0x61edf69b238cc10e4d5ed26e8d705722335bca205683824c3d882d1a4b494633": {
+   "cid": "0x61edf69b238cc10e4d5ed26e8d705722335bca205683824c3d882d1a4b494633",
+   "first_seen": "2026-11-01T00:41:21Z",
+   "last_pre": null,
+   "last_scan": "2026-11-01T00:41:21Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Zhibek Kulambayeva",
+    "Yelyzaveta Kotliar"
+   ],
+   "result": null,
+   "slug": "wta-kulamba-kotliar-2026-10-31",
+   "start": "2026-10-31T12:40:00Z",
+   "title": "Chennai Open, Qualification: Zhibek Kulambayeva vs Yelyzaveta Kotliar",
+   "tour": "WTA"
   },
   "0x61fb7521a0c5b74b731b71348bf3f12d2b8045e5564e948d124817c4bd3e7a18": {
    "cid": "0x61fb7521a0c5b74b731b71348bf3f12d2b8045e5564e948d124817c4bd3e7a18",
@@ -34255,6 +34562,23 @@
    "title": "Shanghai Rolex Masters: Matteo Berrettini vs Brandon Nakashima",
    "tour": "ATP"
   },
+  "0x6a1ea14fa06d9772846b02a2be9a20677af21a1db83278691dba93b20e8d3a9d": {
+   "cid": "0x6a1ea14fa06d9772846b02a2be9a20677af21a1db83278691dba93b20e8d3a9d",
+   "first_seen": "2026-11-01T00:41:21Z",
+   "last_pre": null,
+   "last_scan": "2026-11-01T00:41:21Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Mika Stojsavljevic",
+    "Alevtina Ibragimova"
+   ],
+   "result": null,
+   "slug": "wta-stojsav-ibragim-2026-10-30",
+   "start": "2026-10-31T02:10:00Z",
+   "title": "Prudential Hong Kong Tennis Open, Qualification: Mika Stojsavljevic vs Alevtina Ibragimova",
+   "tour": "WTA"
+  },
   "0x6a32c9814d44be17c82789a37b0b17b73f7280d3ea2eeff5a2eb3fcf2a4c20e9": {
    "cid": "0x6a32c9814d44be17c82789a37b0b17b73f7280d3ea2eeff5a2eb3fcf2a4c20e9",
    "first_seen": "2026-08-25T00:16:01Z",
@@ -34496,6 +34820,23 @@
    "slug": "wta-stefani-yastrem-2026-08-30",
    "start": "2026-08-30T18:25:00Z",
    "title": "US Open WTA: Lucrezia Stefanini vs Dayana Yastremska",
+   "tour": "WTA"
+  },
+  "0x6b383caeb571d41060881c77a6ed80ef011ff43c7937d8ce132ddf4730f50663": {
+   "cid": "0x6b383caeb571d41060881c77a6ed80ef011ff43c7937d8ce132ddf4730f50663",
+   "first_seen": "2026-11-01T00:41:21Z",
+   "last_pre": null,
+   "last_scan": "2026-11-01T00:41:21Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Leylah Fernandez",
+    "Kamilla Rakhimova"
+   ],
+   "result": null,
+   "slug": "wta-fernand-rakhimo-2026-10-30",
+   "start": "2026-10-31T03:05:00Z",
+   "title": "Pan Pacific Open: Leylah Fernandez vs Kamilla Rakhimova",
    "tour": "WTA"
   },
   "0x6b5a4b013f59b002ed515c9f955204283d8754cb26b0ef0ddea276125e25d49f": {
@@ -35979,6 +36320,23 @@
    "slug": "wta-bouzkov-jovic-2026-08-18",
    "start": "2026-08-19T00:30:00Z",
    "title": "Cincinnati Open: Marie Bouzkova vs Iva Jovic",
+   "tour": "WTA"
+  },
+  "0x6fc4e9705eb48ecd10e5a561fbd91510305988870a20c577c136d2c0ef4b8ac5": {
+   "cid": "0x6fc4e9705eb48ecd10e5a561fbd91510305988870a20c577c136d2c0ef4b8ac5",
+   "first_seen": "2026-11-01T00:41:21Z",
+   "last_pre": null,
+   "last_scan": "2026-11-01T00:41:21Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Jensi Dipakbhai Kanabar",
+    "Weronika Falkowska"
+   ],
+   "result": null,
+   "slug": "wta-kanabar-falkows-2026-10-31",
+   "start": "2026-10-31T11:30:00Z",
+   "title": "Chennai Open, Qualification: Jensi Dipakbhai Kanabar vs Weronika Falkowska",
    "tour": "WTA"
   },
   "0x6fedf95cc8e111217794cedadc50b5e1baf48cab9a8b3f4d710a8c8fdb95a637": {
@@ -41838,6 +42196,23 @@
    "title": "Shanghai Rolex Masters: Mattia Bellucci vs Yi Zhou",
    "tour": "ATP"
   },
+  "0x827c14702fe6a1d81158d14de4988b44f264753360d0fee1d25875e5946a3d6e": {
+   "cid": "0x827c14702fe6a1d81158d14de4988b44f264753360d0fee1d25875e5946a3d6e",
+   "first_seen": "2026-11-01T00:41:21Z",
+   "last_pre": null,
+   "last_scan": "2026-11-01T00:41:21Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Juan Manuel Cerundolo",
+    "Aleksandar Kovacevic"
+   ],
+   "result": null,
+   "slug": "atp-cerund-kovacev-2026-10-31",
+   "start": "2026-10-31T12:15:00Z",
+   "title": "Rolex Paris Masters, Qualification: Juan Manuel Cerundolo vs Aleksandar Kovacevic",
+   "tour": "ATP"
+  },
   "0x82a1bb5cf0767798c18d8b01ad1c79cabde8f1ffe1ab8144d69672d52232480f": {
    "cid": "0x82a1bb5cf0767798c18d8b01ad1c79cabde8f1ffe1ab8144d69672d52232480f",
    "first_seen": "2026-10-20T16:47:24Z",
@@ -43136,6 +43511,23 @@
    "title": "Sao Paulo Open: Nadia Podoroska vs Paula Badosa",
    "tour": "WTA"
   },
+  "0x875f4fa1ad98fd17710bd0bdbc9364d9446762c5d774a9aafd1b9591f4d3492e": {
+   "cid": "0x875f4fa1ad98fd17710bd0bdbc9364d9446762c5d774a9aafd1b9591f4d3492e",
+   "first_seen": "2026-11-01T00:41:21Z",
+   "last_pre": null,
+   "last_scan": "2026-11-01T00:41:21Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Jaime Faria",
+    "Rinky Hijikata"
+   ],
+   "result": null,
+   "slug": "atp-faria-hijikat-2026-10-31",
+   "start": "2026-10-31T10:10:00Z",
+   "title": "Rolex Paris Masters, Qualification: Jaime Faria vs Rinky Hijikata",
+   "tour": "ATP"
+  },
   "0x87ba83c95cce206a9cbcbd983ae0e1c08b6f9ef388914f297499d58c0ffd3e71": {
    "cid": "0x87ba83c95cce206a9cbcbd983ae0e1c08b6f9ef388914f297499d58c0ffd3e71",
    "first_seen": "2026-09-21T16:00:09Z",
@@ -43562,6 +43954,23 @@
    "start": "2026-10-09T07:00:00Z",
    "title": "Shanghai Rolex Masters: Yannick Hanfmann vs Frances Tiafoe",
    "tour": "ATP"
+  },
+  "0x88643b477ef4d2041dfbb7224459fa5dd10cd51e08a74b1d0ffb5acb30ef4eaa": {
+   "cid": "0x88643b477ef4d2041dfbb7224459fa5dd10cd51e08a74b1d0ffb5acb30ef4eaa",
+   "first_seen": "2026-11-01T00:41:21Z",
+   "last_pre": null,
+   "last_scan": "2026-11-01T00:41:21Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Kaitlin Quevedo",
+    "Lilli Tagger"
+   ],
+   "result": null,
+   "slug": "wta-quevedo-tagger-2026-10-31",
+   "start": "2026-10-31T11:25:00Z",
+   "title": "Guangzhou Open: Kaitlin Quevedo vs Lilli Tagger",
+   "tour": "WTA"
   },
   "0x88708588c2df0480ec4e76c6b7466225baaf2df014b689051fdacc7307007b3b": {
    "cid": "0x88708588c2df0480ec4e76c6b7466225baaf2df014b689051fdacc7307007b3b",
@@ -46651,6 +47060,23 @@
    "title": "Astana: Vadym Ursu vs Manoj Dhamne Manas",
    "tour": "ATP"
   },
+  "0x927971dca48bd2094c0c545c49d5c4c63950d0d120a4a2d646cb703d550745f1": {
+   "cid": "0x927971dca48bd2094c0c545c49d5c4c63950d0d120a4a2d646cb703d550745f1",
+   "first_seen": "2026-11-01T00:41:21Z",
+   "last_pre": null,
+   "last_scan": "2026-11-01T00:41:21Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Jiri Lehecka",
+    "Jan-Lennard Struff"
+   ],
+   "result": null,
+   "slug": "atp-lehecka-struff-2026-10-31",
+   "start": "2026-10-31T16:05:00Z",
+   "title": "Swiss Indoors Basel: Jiri Lehecka vs Jan-Lennard Struff",
+   "tour": "ATP"
+  },
   "0x928432eae59c4bf25b970d8c383a6645accca4c5ca62cbd89f4a7d968c362f48": {
    "cid": "0x928432eae59c4bf25b970d8c383a6645accca4c5ca62cbd89f4a7d968c362f48",
    "first_seen": "2026-09-14T17:31:09Z",
@@ -48071,6 +48497,23 @@
    "start": "2026-10-02T03:05:00Z",
    "title": "China Open: Viktorija Golubic vs Peyton Stearns",
    "tour": "WTA"
+  },
+  "0x96672f8eee7ad956267a8f30ab5e17556d66c6f7da92a55bca7f0b525f2061ce": {
+   "cid": "0x96672f8eee7ad956267a8f30ab5e17556d66c6f7da92a55bca7f0b525f2061ce",
+   "first_seen": "2026-11-01T00:41:21Z",
+   "last_pre": null,
+   "last_scan": "2026-11-01T00:41:21Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Tomas Machac",
+    "Martin Landaluce"
+   ],
+   "result": null,
+   "slug": "atp-machac-landalu-2026-10-31",
+   "start": "2026-10-31T11:55:00Z",
+   "title": "Rolex Paris Masters, Qualification: Tomas Machac vs Martin Landaluce",
+   "tour": "ATP"
   },
   "0x966fb1e10d9ae1efb0acbe1361cb3c5e373f0aa15d6acf7a9ca0ca4799c08132": {
    "cid": "0x966fb1e10d9ae1efb0acbe1361cb3c5e373f0aa15d6acf7a9ca0ca4799c08132",
@@ -51266,6 +51709,23 @@
    "start": "2026-08-03T19:40:00Z",
    "title": "National Bank Open: Janice Tjen vs Liudmila Samsonova",
    "tour": "WTA"
+  },
+  "0x9f025fa3e370faf2d46a1ddcc1f6de42ee8c3fce93484c269d3590546c3cbc96": {
+   "cid": "0x9f025fa3e370faf2d46a1ddcc1f6de42ee8c3fce93484c269d3590546c3cbc96",
+   "first_seen": "2026-11-01T00:41:21Z",
+   "last_pre": null,
+   "last_scan": "2026-11-01T00:41:21Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Alex Molcan",
+    "Daniel Altmaier"
+   ],
+   "result": null,
+   "slug": "atp-molcan-altmaie-2026-10-31",
+   "start": "2026-10-31T16:10:00Z",
+   "title": "Rolex Paris Masters, Qualification: Alex Molcan vs Daniel Altmaier",
+   "tour": "ATP"
   },
   "0x9f250ad26e602f713ac1dd8e2cb98914fc1d008f080acad56930fe86abe0c75a": {
    "cid": "0x9f250ad26e602f713ac1dd8e2cb98914fc1d008f080acad56930fe86abe0c75a",
@@ -58146,6 +58606,23 @@
    "title": "Istanbul 2: Alexandr Binda vs Mert Naci Turker",
    "tour": "ATP"
   },
+  "0xb4b5fa30087617d5ef316a0902305c56db0fd394092469732f2b3fbe6ab4effb": {
+   "cid": "0xb4b5fa30087617d5ef316a0902305c56db0fd394092469732f2b3fbe6ab4effb",
+   "first_seen": "2026-11-01T00:41:21Z",
+   "last_pre": null,
+   "last_scan": "2026-11-01T00:41:21Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Ching Laam Lai",
+    "Carol Young Suh Lee"
+   ],
+   "result": null,
+   "slug": "wta-lai-lee-2026-10-31",
+   "start": "2026-10-31T05:10:00Z",
+   "title": "Prudential Hong Kong Tennis Open, Qualification: Ching Laam Lai vs Carol Young Suh Lee",
+   "tour": "WTA"
+  },
   "0xb4dfcd19cea0e18fb2b0cb0f5e81b784c5296f54f4d89ba698f1ee85921a098d": {
    "cid": "0xb4dfcd19cea0e18fb2b0cb0f5e81b784c5296f54f4d89ba698f1ee85921a098d",
    "first_seen": "2026-08-24T20:01:05Z",
@@ -61486,6 +61963,23 @@
    "title": "Swiss Indoors Basel: Remy Bertola vs Denis Shapovalov",
    "tour": "ATP"
   },
+  "0xbe9aad83328351ca32d15e84638a7a21ea260933e75c82045b3768e2cce9a3bf": {
+   "cid": "0xbe9aad83328351ca32d15e84638a7a21ea260933e75c82045b3768e2cce9a3bf",
+   "first_seen": "2026-11-01T00:41:21Z",
+   "last_pre": null,
+   "last_scan": "2026-11-01T00:41:21Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Viktoria Morvayova",
+    "Shrivalli Bhamidipaty"
+   ],
+   "result": null,
+   "slug": "wta-morvayo-bhamidi-2026-10-31",
+   "start": "2026-10-31T10:50:00Z",
+   "title": "Chennai Open, Qualification: Viktoria Morvayova vs Shrivalli Bhamidipaty",
+   "tour": "WTA"
+  },
   "0xbeb2457f58a6184c36e22b70f44d96f5e08507ba7e1082df3f302335295e8faf": {
    "cid": "0xbeb2457f58a6184c36e22b70f44d96f5e08507ba7e1082df3f302335295e8faf",
    "first_seen": "2026-09-24T16:00:21Z",
@@ -61992,6 +62486,23 @@
    "slug": "atp-tirante-fritz-2026-08-06",
    "start": "2026-08-05T18:55:00Z",
    "title": "National Bank Open: Thiago Agustin Tirante vs Taylor Fritz",
+   "tour": "ATP"
+  },
+  "0xc0a25d72caf5ddb235764fd78cfd60641ef4ea086d09fe4ddd2139abc4cb09d7": {
+   "cid": "0xc0a25d72caf5ddb235764fd78cfd60641ef4ea086d09fe4ddd2139abc4cb09d7",
+   "first_seen": "2026-11-01T00:41:21Z",
+   "last_pre": null,
+   "last_scan": "2026-11-01T00:41:21Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Valentin Vacherot",
+    "Taylor Fritz"
+   ],
+   "result": null,
+   "slug": "atp-vachero-fritz-2026-10-31",
+   "start": "2026-10-31T14:10:00Z",
+   "title": "Swiss Indoors Basel: Valentin Vacherot vs Taylor Fritz",
    "tour": "ATP"
   },
   "0xc0a6fdda5a02a2466cb8a8688efb06f3c0d1d60bb85a1e2ccd164aa15bff5881": {
@@ -64185,6 +64696,23 @@
    "title": "Winston-Salem Open: James Duckworth vs Arthur Fery",
    "tour": "ATP"
   },
+  "0xc6ac7d433125b338686d77b59123901ef2603b778a1f001b6cbf88e46faa61e4": {
+   "cid": "0xc6ac7d433125b338686d77b59123901ef2603b778a1f001b6cbf88e46faa61e4",
+   "first_seen": "2026-11-01T00:41:21Z",
+   "last_pre": null,
+   "last_scan": "2026-11-01T00:41:21Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Hugo Gaston",
+    "Vit Kopriva"
+   ],
+   "result": null,
+   "slug": "atp-gaston-kopriva-2026-10-31",
+   "start": "2026-10-31T11:05:00Z",
+   "title": "Rolex Paris Masters, Qualification: Hugo Gaston vs Vit Kopriva",
+   "tour": "ATP"
+  },
   "0xc7189e6fa0f1d494bff5539d7d57a3e57d4bb4fff9f9c9693c361de09072be7f": {
    "cid": "0xc7189e6fa0f1d494bff5539d7d57a3e57d4bb4fff9f9c9693c361de09072be7f",
    "first_seen": "2026-09-01T23:16:09Z",
@@ -64674,6 +65202,23 @@
    "start": "2026-08-14T20:50:00Z",
    "title": "Cincinnati Open: Fabian Marozsan vs Michael Zheng",
    "tour": "ATP"
+  },
+  "0xc8a083bf3a2aa4f4bcb075b4abe85c6fd765ffc37c0ff3aa53cfb16605ab022c": {
+   "cid": "0xc8a083bf3a2aa4f4bcb075b4abe85c6fd765ffc37c0ff3aa53cfb16605ab022c",
+   "first_seen": "2026-11-01T00:41:21Z",
+   "last_pre": null,
+   "last_scan": "2026-11-01T00:41:21Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Tatiana Prozorova",
+    "Hayu Kinoshita"
+   ],
+   "result": null,
+   "slug": "wta-prozoro-kinoshi-2026-10-30",
+   "start": "2026-10-31T02:10:00Z",
+   "title": "Prudential Hong Kong Tennis Open, Qualification: Tatiana Prozorova vs Hayu Kinoshita",
+   "tour": "WTA"
   },
   "0xc8c2d49665ab4bac36e685d801e733341b7e28cd2a17463864f218f0405c2b29": {
    "cid": "0xc8c2d49665ab4bac36e685d801e733341b7e28cd2a17463864f218f0405c2b29",
@@ -65477,6 +66022,23 @@
    "slug": "atp-vallejo-royer-2026-10-06",
    "start": "2026-10-08T06:50:00Z",
    "title": "Shanghai Rolex Masters: Adolfo Vallejo vs Valentin Royer",
+   "tour": "ATP"
+  },
+  "0xcc2ee00fd6029f2151a5a5f9b3f22c6c2524ccd445d769cc861ef278b3191c44": {
+   "cid": "0xcc2ee00fd6029f2151a5a5f9b3f22c6c2524ccd445d769cc861ef278b3191c44",
+   "first_seen": "2026-11-01T00:41:21Z",
+   "last_pre": null,
+   "last_scan": "2026-11-01T00:41:21Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "James Duckworth",
+    "Miomir Kecmanovic"
+   ],
+   "result": null,
+   "slug": "atp-duckwor-kecmano-2026-10-31",
+   "start": "2026-10-31T11:30:00Z",
+   "title": "Rolex Paris Masters, Qualification: James Duckworth vs Miomir Kecmanovic",
    "tour": "ATP"
   },
   "0xcc86be14d3e37335b893c4a4c84507c1c8c0162db7568a995896722c7a42daf4": {
@@ -67598,6 +68160,40 @@
    "title": "Pan Pacific Open, Qualification: Xinyu Wang vs Tereza Valentova",
    "tour": "WTA"
   },
+  "0xd26e5468b0d91b82a3a678058c698d8b366493cec475887654a0d1c4fa6565b0": {
+   "cid": "0xd26e5468b0d91b82a3a678058c698d8b366493cec475887654a0d1c4fa6565b0",
+   "first_seen": "2026-11-01T00:41:21Z",
+   "last_pre": null,
+   "last_scan": "2026-11-01T00:41:21Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Diana Shnaider",
+    "Mia Pohankova"
+   ],
+   "result": null,
+   "slug": "wta-shnaide-pohanko-2026-10-31",
+   "start": "2026-10-31T05:20:00Z",
+   "title": "Pan Pacific Open: Diana Shnaider vs Mia Pohankova",
+   "tour": "WTA"
+  },
+  "0xd27231e3ccfb9cf8a4530ae94686a387b785b4b5a2653147f0f6bf979367b3b3": {
+   "cid": "0xd27231e3ccfb9cf8a4530ae94686a387b785b4b5a2653147f0f6bf979367b3b3",
+   "first_seen": "2026-11-01T00:41:21Z",
+   "last_pre": null,
+   "last_scan": "2026-11-01T00:41:21Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Kyoka Okamura",
+    "Diya Ramesh"
+   ],
+   "result": null,
+   "slug": "wta-okamura-ramesh-2026-10-31",
+   "start": "2026-10-31T09:40:00Z",
+   "title": "Chennai Open, Qualification: Kyoka Okamura vs Diya Ramesh",
+   "tour": "WTA"
+  },
   "0xd288c64a9aa3d8b8d20369745b813236ba47e66d2b2c4593449e60b65bad070b": {
    "cid": "0xd288c64a9aa3d8b8d20369745b813236ba47e66d2b2c4593449e60b65bad070b",
    "first_seen": "2026-10-31T00:42:15Z",
@@ -69051,6 +69647,23 @@
    "title": "US Open, Qualification WTA: Elvina Kalieva vs Sofia Costoulas",
    "tour": "WTA"
   },
+  "0xd6f6c72e552e9c361cd668ecc1841374df2b032cd19a492cf5d3b7ce0096e210": {
+   "cid": "0xd6f6c72e552e9c361cd668ecc1841374df2b032cd19a492cf5d3b7ce0096e210",
+   "first_seen": "2026-11-01T00:41:21Z",
+   "last_pre": null,
+   "last_scan": "2026-11-01T00:41:21Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Lorenzo Sonego",
+    "Jaume Munar"
+   ],
+   "result": null,
+   "slug": "atp-sonego-munar-2026-10-31",
+   "start": "2026-10-31T14:00:00Z",
+   "title": "Rolex Paris Masters, Qualification: Lorenzo Sonego vs Jaume Munar",
+   "tour": "ATP"
+  },
   "0xd6fab46b14f7befc694a48fd07066e41bc348f60365a80c1c30773ccca4721d7": {
    "cid": "0xd6fab46b14f7befc694a48fd07066e41bc348f60365a80c1c30773ccca4721d7",
    "first_seen": "2026-08-04T22:31:05Z",
@@ -69584,6 +70197,23 @@
    "start": "2026-09-01T18:50:00Z",
    "title": "US Open WTA: Thea Frodin vs Elena Rybakina",
    "tour": "WTA"
+  },
+  "0xd7da8c42d19e5eee2c3af5bfe2ede69e61fe883a0764465bab6f8a38312e9af3": {
+   "cid": "0xd7da8c42d19e5eee2c3af5bfe2ede69e61fe883a0764465bab6f8a38312e9af3",
+   "first_seen": "2026-11-01T00:41:21Z",
+   "last_pre": null,
+   "last_scan": "2026-11-01T00:41:21Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Adolfo Vallejo",
+    "Grigor Dimitrov"
+   ],
+   "result": null,
+   "slug": "atp-vallejo-dimitro-2026-10-31",
+   "start": "2026-10-31T17:15:00Z",
+   "title": "Rolex Paris Masters, Qualification: Adolfo Vallejo vs Grigor Dimitrov",
+   "tour": "ATP"
   },
   "0xd8380ad93814ee41b4dc3fd87520453e1bf1953e7b352c236d953b9f5bb3b446": {
    "cid": "0xd8380ad93814ee41b4dc3fd87520453e1bf1953e7b352c236d953b9f5bb3b446",
@@ -70298,6 +70928,23 @@
    "slug": "atp-hurkacz-giron-2026-08-03",
    "start": "2026-08-04T15:00:00Z",
    "title": "National Bank Open: Hubert Hurkacz vs Marcos Giron",
+   "tour": "ATP"
+  },
+  "0xdb64dc63a5218e56b604b5993835255555dd8bef9ae78f54df42b73be22a84aa": {
+   "cid": "0xdb64dc63a5218e56b604b5993835255555dd8bef9ae78f54df42b73be22a84aa",
+   "first_seen": "2026-11-01T00:41:21Z",
+   "last_pre": null,
+   "last_scan": "2026-11-01T00:41:21Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Tallon Griekspoor",
+    "Benjamin Bonzi"
+   ],
+   "result": null,
+   "slug": "atp-grieksp-bonzi-2026-10-31",
+   "start": "2026-10-31T13:20:00Z",
+   "title": "Rolex Paris Masters, Qualification: Tallon Griekspoor vs Benjamin Bonzi",
    "tour": "ATP"
   },
   "0xdb6bf9ec308bcdf9876e6af02b7a690fb60e143f6e90c26227026eb1745002c9": {
@@ -71691,6 +72338,23 @@
    "title": "US Open WTA: Sinja Kraus vs Karolina Muchova",
    "tour": "WTA"
   },
+  "0xdf2536133063b0baead4e1f5278393093a94fdaf097e7e3d0c8475c0be1d321b": {
+   "cid": "0xdf2536133063b0baead4e1f5278393093a94fdaf097e7e3d0c8475c0be1d321b",
+   "first_seen": "2026-11-01T00:41:21Z",
+   "last_pre": null,
+   "last_scan": "2026-11-01T00:41:21Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Nuno Borges",
+    "Adrian Mannarino"
+   ],
+   "result": null,
+   "slug": "atp-borges-mannari-2026-10-31",
+   "start": "2026-10-31T15:25:00Z",
+   "title": "Rolex Paris Masters, Qualification: Nuno Borges vs Adrian Mannarino",
+   "tour": "ATP"
+  },
   "0xdf3784af311f08a590dff86ff57c25e0f3e01fe7cb312fae5d5a3768b8b70f61": {
    "cid": "0xdf3784af311f08a590dff86ff57c25e0f3e01fe7cb312fae5d5a3768b8b70f61",
    "first_seen": "2026-10-16T10:30:38Z",
@@ -71879,6 +72543,23 @@
    "slug": "wta-montgom-vandrom-2026-08-26",
    "start": "2026-08-26T15:05:00Z",
    "title": "US Open, Qualification WTA: Robin Montgomery vs Jeline Vandromme",
+   "tour": "WTA"
+  },
+  "0xdfdbfd011dfd50c710915276cde85fcbec67d1b6bb5d25a4e04af4d62f3a4c57": {
+   "cid": "0xdfdbfd011dfd50c710915276cde85fcbec67d1b6bb5d25a4e04af4d62f3a4c57",
+   "first_seen": "2026-11-01T00:41:21Z",
+   "last_pre": null,
+   "last_scan": "2026-11-01T00:41:21Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Aliaksandra Sasnovich",
+    "Cheuk Ying Shek"
+   ],
+   "result": null,
+   "slug": "wta-sasnovi-shek-2026-10-30",
+   "start": "2026-10-31T03:40:00Z",
+   "title": "Prudential Hong Kong Tennis Open, Qualification: Aliaksandra Sasnovich vs Cheuk Ying Shek",
    "tour": "WTA"
   },
   "0xdff20e49886391d8e8af7bb7b37ee7f99de7690423499fc89820b7c43aec2a02": {
@@ -73172,6 +73853,23 @@
    "start": "2026-08-06T12:05:00Z",
    "title": "Warsaw: Vendula Valdmannova vs Susan Bandecchi",
    "tour": "WTA"
+  },
+  "0xe3ecbd32e074f423c1827bf70bc9029038892b4dcf660aa3b01cf2dbf3d3209d": {
+   "cid": "0xe3ecbd32e074f423c1827bf70bc9029038892b4dcf660aa3b01cf2dbf3d3209d",
+   "first_seen": "2026-11-01T00:41:21Z",
+   "last_pre": null,
+   "last_scan": "2026-11-01T00:41:21Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Daniil Medvedev",
+    "Carlos Alcaraz"
+   ],
+   "result": null,
+   "slug": "atp-medvede-alcaraz-2026-10-31",
+   "start": "2026-10-31T14:10:00Z",
+   "title": "Erste Bank Open: Daniil Medvedev vs Carlos Alcaraz",
+   "tour": "ATP"
   },
   "0xe3f35d8785787a7c48b8ea84f5fa6ba4d1f193f567cd3997f57be27a8a1a0f01": {
    "cid": "0xe3f35d8785787a7c48b8ea84f5fa6ba4d1f193f567cd3997f57be27a8a1a0f01",
@@ -77623,6 +78321,23 @@
    "start": "2026-08-16T17:15:00Z",
    "title": "Cincinnati Open: Stefanos Tsitsipas vs Felix Auger-Aliassime",
    "tour": "ATP"
+  },
+  "0xf1430ae7f436953b4b0c372c64e6d1c300396eed14b5840f6009efe5f299b143": {
+   "cid": "0xf1430ae7f436953b4b0c372c64e6d1c300396eed14b5840f6009efe5f299b143",
+   "first_seen": "2026-11-01T00:41:21Z",
+   "last_pre": null,
+   "last_scan": "2026-11-01T00:41:21Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Emerson Jones",
+    "Heather Watson"
+   ],
+   "result": null,
+   "slug": "wta-jone-watson-2026-10-30",
+   "start": "2026-10-31T03:20:00Z",
+   "title": "Prudential Hong Kong Tennis Open, Qualification: Emerson Jones vs Heather Watson",
+   "tour": "WTA"
   },
   "0xf164e7060789296e1728f9dea3b1a729c301ed6f3c788dbeb2bb870c567b1044": {
    "cid": "0xf164e7060789296e1728f9dea3b1a729c301ed6f3c788dbeb2bb870c567b1044",
@@ -82629,6 +83344,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-10-31T00:42:15Z",
+ "updated": "2026-11-01T00:41:21Z",
  "version": 1
 }
