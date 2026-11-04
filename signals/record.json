@@ -11,31 +11,31 @@
    "z": -1.2564216321465307
   },
   "pre-match": {
-   "brier": 0.23876340425531914,
-   "edge_pp": -4.91914893617022,
-   "implied": 0.5428085106382979,
-   "n": 235,
-   "roi": -0.07846484952919953,
-   "win_rate": 0.49361702127659574,
+   "brier": 0.24015316455696203,
+   "edge_pp": -5.413502109704648,
+   "implied": 0.5435864978902955,
+   "n": 237,
+   "roi": -0.08624151746566198,
+   "win_rate": 0.48945147679324896,
    "wins": 116,
-   "z": -1.5877293542492736
+   "z": -1.7545127911633398
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-11-02T00:42:16Z",
+ "generated": "2026-11-04T01:05:54Z",
  "methodology": "Only the locked signal is scored. The signal is the verdict carried by the pre-match book the site seals at first serve. Nothing aligned at first serve means no signal on that match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json. Only a lock on the match moneyline is scored. 1 lock placed on a side market by an earlier scanner fault is void and listed under voided.",
  "overall": {
-  "brier": 0.2386081589958159,
-  "edge_pp": -5.330543933054399,
-  "implied": 0.5428451882845189,
-  "n": 239,
-  "roi": -0.08782411831398763,
-  "win_rate": 0.4895397489539749,
+  "brier": 0.23997614107883816,
+  "edge_pp": -5.813278008298756,
+  "implied": 0.5436099585062241,
+  "n": 241,
+  "roi": -0.09539404264333214,
+  "win_rate": 0.4854771784232365,
   "wins": 117,
-  "z": -1.735420240568342
+  "z": -1.9002703366131994
  },
- "pending": 8,
+ "pending": 10,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -2427,6 +2427,26 @@
    "title": "Erste Bank Open: Alexander Zverev vs Alex de Minaur",
    "tour": "ATP",
    "winner": "Alex de Minaur"
+  },
+  {
+   "hit": false,
+   "locked_at": "2026-11-03T13:20:00Z",
+   "phase": "pre-match",
+   "price": 0.62,
+   "side": "Brandon Nakashima",
+   "title": "Rolex Paris Masters: Brandon Nakashima vs Matteo Berrettini",
+   "tour": "ATP",
+   "winner": "Matteo Berrettini"
+  },
+  {
+   "hit": false,
+   "locked_at": "2026-11-03T20:00:00Z",
+   "phase": "pre-match",
+   "price": 0.65,
+   "side": "Rafael Jodar",
+   "title": "Rolex Paris Masters: Casper Ruud vs Rafael Jodar",
+   "tour": "ATP",
+   "winner": "Casper Ruud"
   }
  ],
  "voided": [
