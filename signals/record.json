@@ -11,29 +11,29 @@
    "z": -1.2564216321465307
   },
   "pre-match": {
-   "brier": 0.24015316455696203,
-   "edge_pp": -5.413502109704648,
-   "implied": 0.5435864978902955,
-   "n": 237,
-   "roi": -0.08624151746566198,
-   "win_rate": 0.48945147679324896,
-   "wins": 116,
-   "z": -1.7545127911633398
+   "brier": 0.24055809128630706,
+   "edge_pp": -5.481327800829877,
+   "implied": 0.5444398340248963,
+   "n": 241,
+   "roi": -0.08709528745661016,
+   "win_rate": 0.4896265560165975,
+   "wins": 118,
+   "z": -1.790776990651516
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-11-04T01:05:54Z",
+ "generated": "2026-11-05T00:41:21Z",
  "methodology": "Only the locked signal is scored. The signal is the verdict carried by the pre-match book the site seals at first serve. Nothing aligned at first serve means no signal on that match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json. Only a lock on the match moneyline is scored. 1 lock placed on a side market by an earlier scanner fault is void and listed under voided.",
  "overall": {
-  "brier": 0.23997614107883816,
-  "edge_pp": -5.813278008298756,
-  "implied": 0.5436099585062241,
-  "n": 241,
-  "roi": -0.09539404264333214,
-  "win_rate": 0.4854771784232365,
-  "wins": 117,
-  "z": -1.9002703366131994
+  "brier": 0.2403773469387755,
+  "edge_pp": -5.873469387755098,
+  "implied": 0.5444489795918367,
+  "n": 245,
+  "roi": -0.09608444454989472,
+  "win_rate": 0.4857142857142857,
+  "wins": 119,
+  "z": -1.9351197657766634
  },
  "pending": 10,
  "pre_epoch_summary": "10 hits in 28",
@@ -2447,6 +2447,46 @@
    "title": "Rolex Paris Masters: Casper Ruud vs Rafael Jodar",
    "tour": "ATP",
    "winner": "Casper Ruud"
+  },
+  {
+   "hit": true,
+   "locked_at": "2026-11-04T06:05:00Z",
+   "phase": "pre-match",
+   "price": 0.5,
+   "side": "Antonia Ruzic",
+   "title": "Prudential Hong Kong Tennis Open: Antonia Ruzic vs Alina Charaeva",
+   "tour": "WTA",
+   "winner": "Antonia Ruzic"
+  },
+  {
+   "hit": false,
+   "locked_at": "2026-11-04T11:35:00Z",
+   "phase": "pre-match",
+   "price": 0.64,
+   "side": "Learner Tien",
+   "title": "Rolex Paris Masters: Luca Van Assche vs Learner Tien",
+   "tour": "ATP",
+   "winner": "Luca Van Assche"
+  },
+  {
+   "hit": false,
+   "locked_at": "2026-11-04T17:35:00Z",
+   "phase": "pre-match",
+   "price": 0.55,
+   "side": "Ugo Humbert",
+   "title": "Rolex Paris Masters: Matteo Berrettini vs Ugo Humbert",
+   "tour": "ATP",
+   "winner": "Matteo Berrettini"
+  },
+  {
+   "hit": true,
+   "locked_at": "2026-11-04T18:10:00Z",
+   "phase": "pre-match",
+   "price": 0.69,
+   "side": "Jan-Lennard Struff",
+   "title": "Rolex Paris Masters: Thiago Agustin Tirante vs Jan-Lennard Struff",
+   "tour": "ATP",
+   "winner": "Jan-Lennard Struff"
   }
  ],
  "voided": [
