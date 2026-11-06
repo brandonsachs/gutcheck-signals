@@ -11,29 +11,29 @@
    "z": -1.2564216321465307
   },
   "pre-match": {
-   "brier": 0.24055809128630706,
-   "edge_pp": -5.481327800829877,
-   "implied": 0.5444398340248963,
-   "n": 241,
-   "roi": -0.08709528745661016,
-   "win_rate": 0.4896265560165975,
-   "wins": 118,
-   "z": -1.790776990651516
+   "brier": 0.2412074074074074,
+   "edge_pp": -5.423868312757207,
+   "implied": 0.5439506172839507,
+   "n": 243,
+   "roi": -0.08481074854358299,
+   "win_rate": 0.4897119341563786,
+   "wins": 119,
+   "z": -1.7787017586736755
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-11-05T00:41:21Z",
+ "generated": "2026-11-06T00:37:22Z",
  "methodology": "Only the locked signal is scored. The signal is the verdict carried by the pre-match book the site seals at first serve. Nothing aligned at first serve means no signal on that match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json. Only a lock on the match moneyline is scored. 1 lock placed on a side market by an earlier scanner fault is void and listed under voided.",
  "overall": {
-  "brier": 0.2403773469387755,
-  "edge_pp": -5.873469387755098,
-  "implied": 0.5444489795918367,
-  "n": 245,
-  "roi": -0.09608444454989472,
-  "win_rate": 0.4857142857142857,
-  "wins": 119,
-  "z": -1.9351197657766634
+  "brier": 0.24101761133603236,
+  "edge_pp": -5.813765182186242,
+  "implied": 0.5439676113360324,
+  "n": 247,
+  "roi": -0.09376411552134342,
+  "win_rate": 0.48582995951417,
+  "wins": 120,
+  "z": -1.9225671336850756
  },
  "pending": 10,
  "pre_epoch_summary": "10 hits in 28",
@@ -2487,6 +2487,26 @@
    "title": "Rolex Paris Masters: Thiago Agustin Tirante vs Jan-Lennard Struff",
    "tour": "ATP",
    "winner": "Jan-Lennard Struff"
+  },
+  {
+   "hit": true,
+   "locked_at": "2026-11-05T13:40:00Z",
+   "phase": "pre-match",
+   "price": 0.42,
+   "side": "Rinky Hijikata",
+   "title": "Rolex Paris Masters: Rinky Hijikata vs Tomas Etcheverry",
+   "tour": "ATP",
+   "winner": "Rinky Hijikata"
+  },
+  {
+   "hit": false,
+   "locked_at": "2026-11-05T18:15:00Z",
+   "phase": "pre-match",
+   "price": 0.55,
+   "side": "Arthur Fils",
+   "title": "Rolex Paris Masters: Arthur Fils vs Taylor Fritz",
+   "tour": "ATP",
+   "winner": "Taylor Fritz"
   }
  ],
  "voided": [
