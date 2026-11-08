@@ -11,29 +11,29 @@
    "z": -1.2564216321465307
   },
   "pre-match": {
-   "brier": 0.2412074074074074,
-   "edge_pp": -5.423868312757207,
-   "implied": 0.5439506172839507,
-   "n": 243,
-   "roi": -0.08481074854358299,
-   "win_rate": 0.4897119341563786,
-   "wins": 119,
-   "z": -1.7787017586736755
+   "brier": 0.24107102040816325,
+   "edge_pp": -4.995918367346946,
+   "implied": 0.5438367346938776,
+   "n": 245,
+   "roi": -0.07667933496891956,
+   "win_rate": 0.49387755102040815,
+   "wins": 121,
+   "z": -1.6445078190891973
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-11-06T00:37:22Z",
+ "generated": "2026-11-08T00:38:27Z",
  "methodology": "Only the locked signal is scored. The signal is the verdict carried by the pre-match book the site seals at first serve. Nothing aligned at first serve means no signal on that match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json. Only a lock on the match moneyline is scored. 1 lock placed on a side market by an earlier scanner fault is void and listed under voided.",
  "overall": {
-  "brier": 0.24101761133603236,
-  "edge_pp": -5.813765182186242,
-  "implied": 0.5439676113360324,
-  "n": 247,
-  "roi": -0.09376411552134342,
-  "win_rate": 0.48582995951417,
-  "wins": 120,
-  "z": -1.9225671336850756
+  "brier": 0.24088493975903616,
+  "edge_pp": -5.389558232931724,
+  "implied": 0.5438554216867469,
+  "n": 249,
+  "roi": -0.08569141247014639,
+  "win_rate": 0.4899598393574297,
+  "wins": 122,
+  "z": -1.7888619309454843
  },
  "pending": 10,
  "pre_epoch_summary": "10 hits in 28",
@@ -2507,6 +2507,26 @@
    "title": "Rolex Paris Masters: Arthur Fils vs Taylor Fritz",
    "tour": "ATP",
    "winner": "Taylor Fritz"
+  },
+  {
+   "hit": true,
+   "locked_at": "2026-11-06T13:10:00Z",
+   "phase": "pre-match",
+   "price": 0.47,
+   "side": "Ben Shelton",
+   "title": "Rolex Paris Masters: Ben Shelton vs Tommy Paul",
+   "tour": "ATP",
+   "winner": "Ben Shelton"
+  },
+  {
+   "hit": true,
+   "locked_at": "2026-11-07T12:35:00Z",
+   "phase": "pre-match",
+   "price": 0.59,
+   "side": "Janice Tjen",
+   "title": "Chennai Open: Janice Tjen vs Robin Montgomery",
+   "tour": "WTA",
+   "winner": "Janice Tjen"
   }
  ],
  "voided": [
