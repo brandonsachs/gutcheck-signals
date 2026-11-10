@@ -18276,6 +18276,23 @@
    "title": "National Bank Open: Rafael Jodar vs Lorenzo Musetti",
    "tour": "ATP"
   },
+  "0x376f1e8e7632ee04c94341dfdbcec2eb61187e319191862ab0b1ca376d821a11": {
+   "cid": "0x376f1e8e7632ee04c94341dfdbcec2eb61187e319191862ab0b1ca376d821a11",
+   "first_seen": "2026-11-10T00:38:52Z",
+   "last_pre": null,
+   "last_scan": "2026-11-10T00:38:52Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Alex Michelsen",
+    "Yannick Hanfmann"
+   ],
+   "result": null,
+   "slug": "atp-michels-hanfman-2026-11-09",
+   "start": "2026-11-09T11:50:00Z",
+   "title": "BNP Paribas Nordic Open: Alex Michelsen vs Yannick Hanfmann",
+   "tour": "ATP"
+  },
   "0x377fa8d53499b4186ded26f2d7ae0f72ad9027e5f2463f09f3a3592224285b14": {
    "cid": "0x377fa8d53499b4186ded26f2d7ae0f72ad9027e5f2463f09f3a3592224285b14",
    "first_seen": "2026-08-07T04:15:27Z",
@@ -44390,6 +44407,23 @@
    "title": "National Bank Open: Daniil Medvedev vs Botic van de Zandschulp",
    "tour": "ATP"
   },
+  "0x8676bff9e9fd168388fa4aca19da0c3de13ae31edf6f9400a7bb849a71b6fcfb": {
+   "cid": "0x8676bff9e9fd168388fa4aca19da0c3de13ae31edf6f9400a7bb849a71b6fcfb",
+   "first_seen": "2026-11-10T00:38:52Z",
+   "last_pre": null,
+   "last_scan": "2026-11-10T00:38:52Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Adolfo Vallejo",
+    "Ugo Humbert"
+   ],
+   "result": null,
+   "slug": "atp-vallejo-humbert-2026-11-09",
+   "start": "2026-11-09T13:30:00Z",
+   "title": "BNP Paribas Nordic Open: Adolfo Vallejo vs Ugo Humbert",
+   "tour": "ATP"
+  },
   "0x869505c6c8d7571a55b42f81afe125d41306cf7ad5b8f7c8cac0169f980cd3db": {
    "cid": "0x869505c6c8d7571a55b42f81afe125d41306cf7ad5b8f7c8cac0169f980cd3db",
    "first_seen": "2026-10-31T00:42:15Z",
@@ -47424,6 +47458,23 @@
    "start": "2026-10-22T08:45:00Z",
    "title": "Ningbo Open: Alexandra Eala vs Diana Shnaider",
    "tour": "WTA"
+  },
+  "0x8f8e7db32ca8bba17b44e49f294492f0cf33fd581a6ea63bff060d5ba3de6c97": {
+   "cid": "0x8f8e7db32ca8bba17b44e49f294492f0cf33fd581a6ea63bff060d5ba3de6c97",
+   "first_seen": "2026-11-10T00:38:52Z",
+   "last_pre": null,
+   "last_scan": "2026-11-10T00:38:52Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Leo Borg",
+    "Toby Samuel"
+   ],
+   "result": null,
+   "slug": "atp-borg-samuel-2026-11-09",
+   "start": "2026-11-09T20:00:00Z",
+   "title": "BNP Paribas Nordic Open: Leo Borg vs Toby Samuel",
+   "tour": "ATP"
   },
   "0x8f96eb06dd0eb02a986ff3145d88612c1b5decbfdc6ce0ab7f07e4be71f79160": {
    "cid": "0x8f96eb06dd0eb02a986ff3145d88612c1b5decbfdc6ce0ab7f07e4be71f79160",
@@ -67335,6 +67386,46 @@
    "title": "National Bank Open: Elise Mertens vs Naomi Osaka",
    "tour": "WTA"
   },
+  "0xca70168ed60800b936f0c81a68b230bf4580856d9e5d6442086daf85820aa409": {
+   "cid": "0xca70168ed60800b936f0c81a68b230bf4580856d9e5d6442086daf85820aa409",
+   "first_seen": "2026-11-10T00:38:52Z",
+   "last_pre": null,
+   "last_scan": "2026-11-10T00:38:52Z",
+   "lock_closed": false,
+   "locked": {
+    "at": "2026-11-09T05:35:00Z",
+    "fish": [
+     6244.0,
+     9389.0
+    ],
+    "locked_by": "nightly",
+    "phase": "pre-match",
+    "price": 0.65,
+    "read_at": "2026-11-10T00:38:52Z",
+    "sharp": [
+     22348.0,
+     2725.0
+    ],
+    "side": 0,
+    "side_name": "Janice Tjen",
+    "source": "at-serve-book",
+    "wallets": 11
+   },
+   "market_type": "moneyline",
+   "outcomes": [
+    "Janice Tjen",
+    "Magda Linette"
+   ],
+   "result": {
+    "hit": false,
+    "scored_at": "2026-11-10T00:39:00Z",
+    "winner": "Magda Linette"
+   },
+   "slug": "wta-tjen-linette-2026-11-08",
+   "start": "2026-11-09T05:35:00Z",
+   "title": "Chennai Open: Janice Tjen vs Magda Linette",
+   "tour": "WTA"
+  },
   "0xca7e4b0c1532136cb9a30baecc506034931fc3b90139d4b07dd285fff5deb401": {
    "cid": "0xca7e4b0c1532136cb9a30baecc506034931fc3b90139d4b07dd285fff5deb401",
    "first_seen": "2026-08-30T16:00:56Z",
@@ -67528,6 +67619,23 @@
    "start": "2026-08-18T19:00:00Z",
    "title": "Cincinnati Open: Marta Kostyuk vs Sloane Stephens",
    "tour": "WTA"
+  },
+  "0xcbd4166eca65f66e0864b73866e1096132e4c2f52848be6d6753a44b20b32ff0": {
+   "cid": "0xcbd4166eca65f66e0864b73866e1096132e4c2f52848be6d6753a44b20b32ff0",
+   "first_seen": "2026-11-10T00:38:52Z",
+   "last_pre": null,
+   "last_scan": "2026-11-10T00:38:52Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Tomas Etcheverry",
+    "Max Dahlin"
+   ],
+   "result": null,
+   "slug": "atp-etcheve-dahlin-2026-11-09",
+   "start": "2026-11-09T17:05:00Z",
+   "title": "BNP Paribas Nordic Open: Tomas Etcheverry vs Max Dahlin",
+   "tour": "ATP"
   },
   "0xcbd4b48615fc8bca080e98c445fb9a61b6fbdc4b315d831b2ce43c61d7275c77": {
    "cid": "0xcbd4b48615fc8bca080e98c445fb9a61b6fbdc4b315d831b2ce43c61d7275c77",
@@ -74805,6 +74913,23 @@
    "title": "Winston-Salem Open: Aleksandar Kovacevic vs Stefanos Tsitsipas",
    "tour": "ATP"
   },
+  "0xe0a27429a2954775d04101fb71713c9f441c4441882cc3e92a168ee1cb836207": {
+   "cid": "0xe0a27429a2954775d04101fb71713c9f441c4441882cc3e92a168ee1cb836207",
+   "first_seen": "2026-11-10T00:38:52Z",
+   "last_pre": null,
+   "last_scan": "2026-11-10T00:38:52Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "James Duckworth",
+    "Cameron Norrie"
+   ],
+   "result": null,
+   "slug": "atp-duckwor-norrie-2026-11-09",
+   "start": "2026-11-09T12:05:00Z",
+   "title": "BNP Paribas Nordic Open: James Duckworth vs Cameron Norrie",
+   "tour": "ATP"
+  },
   "0xe0a68351e9ef1b6ec94b6745af28a30b6f703def88ab3a72f978b132a88e61f5": {
    "cid": "0xe0a68351e9ef1b6ec94b6745af28a30b6f703def88ab3a72f978b132a88e61f5",
    "first_seen": "2026-10-10T18:00:28Z",
@@ -77860,6 +77985,23 @@
    "start": "2026-08-09T16:35:00Z",
    "title": "National Bank Open: Liudmila Samsonova vs Elena Rybakina",
    "tour": "WTA"
+  },
+  "0xe9cef44bb316d400edeab839649c0bc15e89c1ae234493d414cb783de83fe606": {
+   "cid": "0xe9cef44bb316d400edeab839649c0bc15e89c1ae234493d414cb783de83fe606",
+   "first_seen": "2026-11-10T00:38:52Z",
+   "last_pre": null,
+   "last_scan": "2026-11-10T00:38:52Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Tomas Machac",
+    "Borna Gojo"
+   ],
+   "result": null,
+   "slug": "atp-machac-gojo-2026-11-09",
+   "start": "2026-11-09T13:15:00Z",
+   "title": "BNP Paribas Nordic Open: Tomas Machac vs Borna Gojo",
+   "tour": "ATP"
   },
   "0xe9cef9f7cf235ab346b7e8deabd6a19041c93a8d326d99c2b574e9d0823ae699": {
    "cid": "0xe9cef9f7cf235ab346b7e8deabd6a19041c93a8d326d99c2b574e9d0823ae699",
@@ -85741,6 +85883,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-11-09T00:38:24Z",
+ "updated": "2026-11-10T00:38:52Z",
  "version": 1
 }
