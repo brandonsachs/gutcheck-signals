@@ -6622,6 +6622,23 @@
    "title": "US Open ATP: Ben Shelton vs Tallon Griekspoor",
    "tour": "ATP"
   },
+  "0x14beb1c725590987eeea52ad7a3beffbc628aad1150bab5d1a2b84315c1e6a5e": {
+   "cid": "0x14beb1c725590987eeea52ad7a3beffbc628aad1150bab5d1a2b84315c1e6a5e",
+   "first_seen": "2026-11-11T00:36:38Z",
+   "last_pre": null,
+   "last_scan": "2026-11-11T00:36:38Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Lorenzo Musetti",
+    "Toby Samuel"
+   ],
+   "result": null,
+   "slug": "atp-musetti-samuel-2026-11-10",
+   "start": "2026-11-10T19:05:00Z",
+   "title": "BNP Paribas Nordic Open: Lorenzo Musetti vs Toby Samuel",
+   "tour": "ATP"
+  },
   "0x14dbe60a976c5f458ee746e8108192bde4ceb2397c4f3e84eae87fd266b9086d": {
    "cid": "0x14dbe60a976c5f458ee746e8108192bde4ceb2397c4f3e84eae87fd266b9086d",
    "first_seen": "2026-10-31T00:42:15Z",
@@ -13485,6 +13502,46 @@
    "title": "BNP Paribas Nordic Open, Qualification: Adrian Mannarino vs Toby Samuel",
    "tour": "ATP"
   },
+  "0x2a527aaa7edc1b720351ae57517918543029d3b18d663ad35b77e022b4e3ed9d": {
+   "cid": "0x2a527aaa7edc1b720351ae57517918543029d3b18d663ad35b77e022b4e3ed9d",
+   "first_seen": "2026-11-11T00:36:38Z",
+   "last_pre": null,
+   "last_scan": "2026-11-11T00:36:38Z",
+   "lock_closed": false,
+   "locked": {
+    "at": "2026-11-10T13:25:00Z",
+    "fish": [
+     9993.0,
+     3384.0
+    ],
+    "locked_by": "nightly",
+    "phase": "pre-match",
+    "price": 0.55,
+    "read_at": "2026-11-11T00:36:38Z",
+    "sharp": [
+     5426.0,
+     11832.0
+    ],
+    "side": 1,
+    "side_name": "Quentin Halys",
+    "source": "at-serve-book",
+    "wallets": 10
+   },
+   "market_type": "moneyline",
+   "outcomes": [
+    "Lorenzo Sonego",
+    "Quentin Halys"
+   ],
+   "result": {
+    "hit": false,
+    "scored_at": "2026-11-11T00:36:47Z",
+    "winner": "Lorenzo Sonego"
+   },
+   "slug": "atp-sonego-halys-2026-11-10",
+   "start": "2026-11-10T13:25:00Z",
+   "title": "BNP Paribas Nordic Open: Lorenzo Sonego vs Quentin Halys",
+   "tour": "ATP"
+  },
   "0x2a7c10b99edaec933216875779ed0f0705ee8f012360d4cb0a67a9d7c3150df2": {
    "cid": "0x2a7c10b99edaec933216875779ed0f0705ee8f012360d4cb0a67a9d7c3150df2",
    "first_seen": "2026-10-10T18:00:28Z",
@@ -19025,6 +19082,23 @@
    "start": "2026-09-16T20:15:00Z",
    "title": "Sao Paulo Open: Vendula Valdmannova vs Laura Pigossi",
    "tour": "WTA"
+  },
+  "0x3995cbf6960f73f9fa841e7f9dc9ce60c45a1b0d997181d7f3d9713525dd3d76": {
+   "cid": "0x3995cbf6960f73f9fa841e7f9dc9ce60c45a1b0d997181d7f3d9713525dd3d76",
+   "first_seen": "2026-11-11T00:36:38Z",
+   "last_pre": null,
+   "last_scan": "2026-11-11T00:36:38Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Alex Michelsen",
+    "Juan Manuel Cerundolo"
+   ],
+   "result": null,
+   "slug": "atp-michels-cerund-2026-11-10",
+   "start": "2026-11-10T12:05:00Z",
+   "title": "BNP Paribas Nordic Open: Alex Michelsen vs Juan Manuel Cerundolo",
+   "tour": "ATP"
   },
   "0x39a4b304b681d530183fb6cac9c80e713c40b927f3da8314ec39f24ece0f2ff7": {
    "cid": "0x39a4b304b681d530183fb6cac9c80e713c40b927f3da8314ec39f24ece0f2ff7",
@@ -40995,6 +41069,23 @@
    "start": "2026-08-05T13:00:00Z",
    "title": "Warsaw: Weronika Falkowska vs Noma Noha Akugue",
    "tour": "WTA"
+  },
+  "0x7ac2523e59b352d6468a57054280a93e81273ce3568362e376a49b6972b7b7f8": {
+   "cid": "0x7ac2523e59b352d6468a57054280a93e81273ce3568362e376a49b6972b7b7f8",
+   "first_seen": "2026-11-11T00:36:38Z",
+   "last_pre": null,
+   "last_scan": "2026-11-11T00:36:38Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Holger Rune",
+    "Zizou Bergs"
+   ],
+   "result": null,
+   "slug": "atp-rune-bergs-2026-11-09",
+   "start": "2026-11-10T17:15:00Z",
+   "title": "BNP Paribas Nordic Open: Holger Rune vs Zizou Bergs",
+   "tour": "ATP"
   },
   "0x7b02186cfb0200f6db3c8cf645334a94e13e4efe0015f3616e632647f088b93c": {
    "cid": "0x7b02186cfb0200f6db3c8cf645334a94e13e4efe0015f3616e632647f088b93c",
@@ -72765,6 +72856,23 @@
    "title": "Shanghai Rolex Masters: Luciano Darderi vs Stefanos Tsitsipas",
    "tour": "ATP"
   },
+  "0xd9d57d0a14f033826a0647389cc5c17e48da61b0926aea089a94fb95fbca5b7a": {
+   "cid": "0xd9d57d0a14f033826a0647389cc5c17e48da61b0926aea089a94fb95fbca5b7a",
+   "first_seen": "2026-11-11T00:36:38Z",
+   "last_pre": null,
+   "last_scan": "2026-11-11T00:36:38Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Tomas Etcheverry",
+    "Thiago Agustin Tirante"
+   ],
+   "result": null,
+   "slug": "atp-etcheve-tirante-2026-11-10",
+   "start": "2026-11-10T13:30:00Z",
+   "title": "BNP Paribas Nordic Open: Tomas Etcheverry vs Thiago Agustin Tirante",
+   "tour": "ATP"
+  },
   "0xda65069e54a9511c29fc17f608d5e4656c7e951f6aa59783bac7499a6635b379": {
    "cid": "0xda65069e54a9511c29fc17f608d5e4656c7e951f6aa59783bac7499a6635b379",
    "first_seen": "2026-08-31T03:30:51Z",
@@ -76402,6 +76510,23 @@
    "title": "Guangzhou Open: Jil Teichmann vs Zeynep Sonmez",
    "tour": "WTA"
   },
+  "0xe5a75de9fe0aa9be63856233c78866e0d347581031a535ae9671e9b02fa633af": {
+   "cid": "0xe5a75de9fe0aa9be63856233c78866e0d347581031a535ae9671e9b02fa633af",
+   "first_seen": "2026-11-11T00:36:38Z",
+   "last_pre": null,
+   "last_scan": "2026-11-11T00:36:38Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Arthur Rinderknech",
+    "Miomir Kecmanovic"
+   ],
+   "result": null,
+   "slug": "atp-rinderk-kecmano-2026-11-09",
+   "start": "2026-11-10T14:35:00Z",
+   "title": "BNP Paribas Nordic Open: Arthur Rinderknech vs Miomir Kecmanovic",
+   "tour": "ATP"
+  },
   "0xe5b260f55a9dabf96de98c02590e7d0092b2b867a4ca922749914ff942fc4eaf": {
    "cid": "0xe5b260f55a9dabf96de98c02590e7d0092b2b867a4ca922749914ff942fc4eaf",
    "first_seen": "2026-09-03T23:15:56Z",
@@ -77633,6 +77758,23 @@
    "slug": "atp-tirante-struff-2026-11-04",
    "start": "2026-11-04T18:10:00Z",
    "title": "Rolex Paris Masters: Thiago Agustin Tirante vs Jan-Lennard Struff",
+   "tour": "ATP"
+  },
+  "0xe8daa670cbe9f842937afe95b213f5277cf9a3a21b18883c32aef24e5ed539fb": {
+   "cid": "0xe8daa670cbe9f842937afe95b213f5277cf9a3a21b18883c32aef24e5ed539fb",
+   "first_seen": "2026-11-11T00:36:38Z",
+   "last_pre": null,
+   "last_scan": "2026-11-11T00:36:38Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Adrian Mannarino",
+    "Alexander Shevchenko"
+   ],
+   "result": null,
+   "slug": "atp-mannari-shevche-2026-11-10",
+   "start": "2026-11-10T12:00:00Z",
+   "title": "BNP Paribas Nordic Open: Adrian Mannarino vs Alexander Shevchenko",
    "tour": "ATP"
   },
   "0xe8ed669b29a92bc3793d8cab1d9878442f1f0d37434819a2ba430d5ee25db819": {
@@ -85883,6 +86025,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-11-10T00:38:52Z",
+ "updated": "2026-11-11T00:36:38Z",
  "version": 1
 }
