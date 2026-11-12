@@ -2245,6 +2245,23 @@
    "title": "China Open, Qualification: Botic van de Zandschulp vs Valentin Royer",
    "tour": "ATP"
   },
+  "0x083bc9368578ce68a05e4c7aca3488d879cda23c917f40bed68981e5b1c3aee3": {
+   "cid": "0x083bc9368578ce68a05e4c7aca3488d879cda23c917f40bed68981e5b1c3aee3",
+   "first_seen": "2026-11-12T01:07:39Z",
+   "last_pre": null,
+   "last_scan": "2026-11-12T01:07:39Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Borna Gojo",
+    "Ugo Humbert"
+   ],
+   "result": null,
+   "slug": "atp-gojo-humbert-2026-11-11",
+   "start": "2026-11-11T15:05:00Z",
+   "title": "BNP Paribas Nordic Open: Borna Gojo vs Ugo Humbert",
+   "tour": "ATP"
+  },
   "0x0851f2cb3c4a4796ffbd3661a581d301eacd5c74d137760a6c5f5179574bc2d4": {
    "cid": "0x0851f2cb3c4a4796ffbd3661a581d301eacd5c74d137760a6c5f5179574bc2d4",
    "first_seen": "2026-10-18T23:30:32Z",
@@ -9985,6 +10002,23 @@
    "slug": "atp-bertola-cina-2026-10-18",
    "start": "2026-10-18T10:30:00Z",
    "title": "European Open, Qualification: Remy Bertola vs Federico Cina",
+   "tour": "ATP"
+  },
+  "0x1effd6ff8be7959ad0682ebaeb9af4917be1496fbf779c0f9a27452567175949": {
+   "cid": "0x1effd6ff8be7959ad0682ebaeb9af4917be1496fbf779c0f9a27452567175949",
+   "first_seen": "2026-11-12T01:07:39Z",
+   "last_pre": null,
+   "last_scan": "2026-11-12T01:07:39Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Miomir Kecmanovic",
+    "Holger Rune"
+   ],
+   "result": null,
+   "slug": "atp-kecmano-rune-2026-11-11",
+   "start": "2026-11-11T19:45:00Z",
+   "title": "BNP Paribas Nordic Open: Miomir Kecmanovic vs Holger Rune",
    "tour": "ATP"
   },
   "0x1f006d41ff7dc6c6e96fd3f4f7f1e04491514c6cc9131498f7ad8a9adf29196b": {
@@ -32893,6 +32927,23 @@
    "title": "Prudential Hong Kong Tennis Open, Qualification: Elena Pridankina vs Ekaterine Gorgodze",
    "tour": "WTA"
   },
+  "0x61ad0d64021e6b7cd496b7e9883c5125659d1d2f533edc449fc6adfc76056c63": {
+   "cid": "0x61ad0d64021e6b7cd496b7e9883c5125659d1d2f533edc449fc6adfc76056c63",
+   "first_seen": "2026-11-12T01:07:39Z",
+   "last_pre": null,
+   "last_scan": "2026-11-12T01:07:39Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Taylor Fritz",
+    "Cameron Norrie"
+   ],
+   "result": null,
+   "slug": "atp-fritz-norrie-2026-11-11",
+   "start": "2026-11-11T15:20:00Z",
+   "title": "BNP Paribas Nordic Open: Taylor Fritz vs Cameron Norrie",
+   "tour": "ATP"
+  },
   "0x61cb662349b2d2c1f6058c6822dc48b3ba295ee5d8fc6f0dbd8aae482831aaf0": {
    "cid": "0x61cb662349b2d2c1f6058c6822dc48b3ba295ee5d8fc6f0dbd8aae482831aaf0",
    "first_seen": "2026-11-02T00:42:00Z",
@@ -40380,6 +40431,23 @@
    "title": "Rolex Paris Masters: Ben Shelton vs Cameron Norrie",
    "tour": "ATP"
   },
+  "0x778a2821c49976e6853535382b577980aa73e23b9cef681f72938ab9600be636": {
+   "cid": "0x778a2821c49976e6853535382b577980aa73e23b9cef681f72938ab9600be636",
+   "first_seen": "2026-11-12T01:07:39Z",
+   "last_pre": null,
+   "last_scan": "2026-11-12T01:07:39Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Lorenzo Sonego",
+    "Alejandro Tabilo"
+   ],
+   "result": null,
+   "slug": "atp-sonego-tabilo-2026-11-11",
+   "start": "2026-11-11T12:05:00Z",
+   "title": "BNP Paribas Nordic Open: Lorenzo Sonego vs Alejandro Tabilo",
+   "tour": "ATP"
+  },
   "0x7882cff3a85d342a9e083eab8f2edacdac2729c0e4e32e9d22be40fea7acf6db": {
    "cid": "0x7882cff3a85d342a9e083eab8f2edacdac2729c0e4e32e9d22be40fea7acf6db",
    "first_seen": "2026-08-04T22:16:04Z",
@@ -45425,6 +45493,23 @@
    "slug": "atp-zheng-kecmano-2026-08-02",
    "start": "2026-08-02T15:05:00Z",
    "title": "National Bank Open: Michael Zheng vs Miomir Kecmanovic",
+   "tour": "ATP"
+  },
+  "0x891c2aa05adc11791142efc3efa91351923b433231d88f79bec32f86eaa1635f": {
+   "cid": "0x891c2aa05adc11791142efc3efa91351923b433231d88f79bec32f86eaa1635f",
+   "first_seen": "2026-11-12T01:07:39Z",
+   "last_pre": null,
+   "last_scan": "2026-11-12T01:07:39Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Alexander Shevchenko",
+    "Casper Ruud"
+   ],
+   "result": null,
+   "slug": "atp-shevche-ruud-2026-11-11",
+   "start": "2026-11-11T17:05:00Z",
+   "title": "BNP Paribas Nordic Open: Alexander Shevchenko vs Casper Ruud",
    "tour": "ATP"
   },
   "0x892847e2eb07728f98ae110f3eb100bd48aa4e2829137c28accd21542c118fcb": {
@@ -86025,6 +86110,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-11-11T00:36:38Z",
+ "updated": "2026-11-12T01:07:39Z",
  "version": 1
 }
