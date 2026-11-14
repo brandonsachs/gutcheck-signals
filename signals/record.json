@@ -11,31 +11,31 @@
    "z": -1.2564216321465307
   },
   "pre-match": {
-   "brier": 0.24205425101214575,
-   "edge_pp": -5.441295546558705,
-   "implied": 0.5442914979757085,
-   "n": 247,
-   "roi": -0.08415561565743035,
-   "win_rate": 0.4898785425101215,
-   "wins": 121,
-   "z": -1.7980419829810925
+   "brier": 0.242226,
+   "edge_pp": -5.564000000000002,
+   "implied": 0.54364,
+   "n": 250,
+   "roi": -0.08698248296341873,
+   "win_rate": 0.488,
+   "wins": 122,
+   "z": -1.8490295559795449
   }
  },
  "epoch": "2026-08-04T01:02:00Z",
  "excluded_pre_epoch": 28,
- "generated": "2026-11-12T01:07:46Z",
+ "generated": "2026-11-14T22:40:41Z",
  "methodology": "Only the locked signal is scored. The signal is the verdict carried by the pre-match book the site seals at first serve. Nothing aligned at first serve means no signal on that match. Once locked it is never rewritten, so money arriving later cannot change what was called. Scoring restarts from 2026-08-04T01:02:00Z: the scanner that produced earlier locks was running roughly every 74 minutes rather than every 15, so those locks captured money well before first serve and did not measure what this record claims to. 28 earlier scored signals are excluded and kept in record-pre-cron.json. Only a lock on the match moneyline is scored. 1 lock placed on a side market by an earlier scanner fault is void and listed under voided.",
  "overall": {
-  "brier": 0.24185398406374503,
-  "edge_pp": -5.824701195219129,
-  "implied": 0.5443027888446216,
-  "n": 251,
-  "roi": -0.09297673986082251,
-  "win_rate": 0.4860557768924303,
-  "wins": 122,
-  "z": -1.9406474580448878
+  "brier": 0.24202539370078738,
+  "edge_pp": -5.94094488188977,
+  "implied": 0.5436614173228347,
+  "n": 254,
+  "roi": -0.09565490306510173,
+  "win_rate": 0.484251968503937,
+  "wins": 123,
+  "z": -1.990433497173912
  },
- "pending": 10,
+ "pending": 11,
  "pre_epoch_summary": "10 hits in 28",
  "signals": [
   {
@@ -2547,6 +2547,36 @@
    "title": "BNP Paribas Nordic Open: Lorenzo Sonego vs Quentin Halys",
    "tour": "ATP",
    "winner": "Lorenzo Sonego"
+  },
+  {
+   "hit": true,
+   "locked_at": "2026-11-12T14:20:00Z",
+   "phase": "pre-match",
+   "price": 0.49,
+   "side": "Thiago Agustin Tirante",
+   "title": "BNP Paribas Nordic Open: Thiago Agustin Tirante vs Alexander Shevchenko",
+   "tour": "ATP",
+   "winner": "Thiago Agustin Tirante"
+  },
+  {
+   "hit": false,
+   "locked_at": "2026-11-12T19:25:00Z",
+   "phase": "pre-match",
+   "price": 0.37,
+   "side": "Ugo Humbert",
+   "title": "BNP Paribas Nordic Open: Lorenzo Musetti vs Ugo Humbert",
+   "tour": "ATP",
+   "winner": "Lorenzo Musetti"
+  },
+  {
+   "hit": false,
+   "locked_at": "2026-11-13T13:10:00Z",
+   "phase": "pre-match",
+   "price": 0.61,
+   "side": "Alejandro Tabilo",
+   "title": "BNP Paribas Nordic Open: Alejandro Tabilo vs Thiago Agustin Tirante",
+   "tour": "ATP",
+   "winner": "Thiago Agustin Tirante"
   }
  ],
  "voided": [

@@ -5135,6 +5135,46 @@
    "title": "Erste Bank Open: Luca Van Assche vs Learner Tien",
    "tour": "ATP"
   },
+  "0x1066f20457ec50adaa14b492e6360d6ac4483078f415995c31f277b1eaa69c2f": {
+   "cid": "0x1066f20457ec50adaa14b492e6360d6ac4483078f415995c31f277b1eaa69c2f",
+   "first_seen": "2026-11-14T22:40:11Z",
+   "last_pre": null,
+   "last_scan": "2026-11-14T22:40:11Z",
+   "lock_closed": false,
+   "locked": {
+    "at": "2026-11-12T14:20:00Z",
+    "fish": [
+     10736.0,
+     20949.0
+    ],
+    "locked_by": "nightly",
+    "phase": "pre-match",
+    "price": 0.49,
+    "read_at": "2026-11-14T22:40:11Z",
+    "sharp": [
+     24302.0,
+     9791.0
+    ],
+    "side": 0,
+    "side_name": "Thiago Agustin Tirante",
+    "source": "at-serve-book",
+    "wallets": 22
+   },
+   "market_type": "moneyline",
+   "outcomes": [
+    "Thiago Agustin Tirante",
+    "Alexander Shevchenko"
+   ],
+   "result": {
+    "hit": true,
+    "scored_at": "2026-11-14T22:40:41Z",
+    "winner": "Thiago Agustin Tirante"
+   },
+   "slug": "atp-tirante-shevche-2026-11-12",
+   "start": "2026-11-12T14:20:00Z",
+   "title": "BNP Paribas Nordic Open: Thiago Agustin Tirante vs Alexander Shevchenko",
+   "tour": "ATP"
+  },
   "0x106ab597160d586fef71ed06ec6041a1147c65530d0e9769833dc71e95da7bd2": {
    "cid": "0x106ab597160d586fef71ed06ec6041a1147c65530d0e9769833dc71e95da7bd2",
    "first_seen": "2026-08-31T22:15:42Z",
@@ -18045,6 +18085,46 @@
    "title": "Monterrey Open: Nikola Bartunkova vs Anastasia Potapova",
    "tour": "WTA"
   },
+  "0x364f0d1cf1a28cbd5796c1a807bf20e7b3f4cd512bef20570c9a373f5b4bf4be": {
+   "cid": "0x364f0d1cf1a28cbd5796c1a807bf20e7b3f4cd512bef20570c9a373f5b4bf4be",
+   "first_seen": "2026-11-14T22:40:11Z",
+   "last_pre": null,
+   "last_scan": "2026-11-14T22:40:11Z",
+   "lock_closed": false,
+   "locked": {
+    "at": "2026-11-12T19:25:00Z",
+    "fish": [
+     45899.0,
+     15683.0
+    ],
+    "locked_by": "nightly",
+    "phase": "pre-match",
+    "price": 0.37,
+    "read_at": "2026-11-14T22:40:11Z",
+    "sharp": [
+     11249.0,
+     19162.0
+    ],
+    "side": 1,
+    "side_name": "Ugo Humbert",
+    "source": "at-serve-book",
+    "wallets": 22
+   },
+   "market_type": "moneyline",
+   "outcomes": [
+    "Lorenzo Musetti",
+    "Ugo Humbert"
+   ],
+   "result": {
+    "hit": false,
+    "scored_at": "2026-11-14T22:40:41Z",
+    "winner": "Lorenzo Musetti"
+   },
+   "slug": "atp-musetti-humbert-2026-11-12",
+   "start": "2026-11-12T19:25:00Z",
+   "title": "BNP Paribas Nordic Open: Lorenzo Musetti vs Ugo Humbert",
+   "tour": "ATP"
+  },
   "0x365a957b3c6f03d39a94080c547c31c56c177c3761599c65574921ff9ee858a2": {
    "cid": "0x365a957b3c6f03d39a94080c547c31c56c177c3761599c65574921ff9ee858a2",
    "first_seen": "2026-10-24T04:22:36Z",
@@ -24030,6 +24110,42 @@
    "start": "2026-10-09T09:00:00Z",
    "title": "Shanghai Rolex Masters: Francisco Cerundolo vs Roman Safiullin",
    "tour": "ATP"
+  },
+  "0x4889c3330569f973a0ab5f1f6b7b3bbd65d191f593fbed5db897fe1eab50b32f": {
+   "cid": "0x4889c3330569f973a0ab5f1f6b7b3bbd65d191f593fbed5db897fe1eab50b32f",
+   "close_reason": "no sealed pre-match book on the site",
+   "first_seen": "2026-11-14T22:40:11Z",
+   "last_pre": null,
+   "last_scan": "2026-11-14T22:40:11Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Jessica Pegula",
+    "Mirra Andreeva"
+   ],
+   "result": null,
+   "slug": "wta-pegula-andreev-2026-11-14",
+   "start": "2026-11-14T20:10:00Z",
+   "title": "WTA Finals, Group A: Jessica Pegula vs Mirra Andreeva",
+   "tour": "WTA"
+  },
+  "0x48cd9814ed7c7ae39464c67580d1b0df1ea347febc68f6a441f792b0cd0a6061": {
+   "cid": "0x48cd9814ed7c7ae39464c67580d1b0df1ea347febc68f6a441f792b0cd0a6061",
+   "close_reason": "no sealed pre-match book on the site",
+   "first_seen": "2026-11-14T22:40:11Z",
+   "last_pre": null,
+   "last_scan": "2026-11-14T22:40:11Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Marta Kostyuk",
+    "Coco Gauff"
+   ],
+   "result": null,
+   "slug": "wta-kostyuk-gauff-2026-11-10",
+   "start": "2026-11-12T20:15:00Z",
+   "title": "WTA Finals, Group A: Marta Kostyuk vs Coco Gauff",
+   "tour": "WTA"
   },
   "0x49290d7432b84bd2603ff972b31649a43d958a67f66ec2150fc4821d2e26e996": {
    "cid": "0x49290d7432b84bd2603ff972b31649a43d958a67f66ec2150fc4821d2e26e996",
@@ -38653,6 +38769,24 @@
    "title": "Korea Open: Tamara Zidansek vs Kimberly Birrell",
    "tour": "WTA"
   },
+  "0x72d302f8c2df2423b53c0a181802f468d21979e02e53f2f384d77f666a8e37c2": {
+   "cid": "0x72d302f8c2df2423b53c0a181802f468d21979e02e53f2f384d77f666a8e37c2",
+   "close_reason": "no sealed pre-match book on the site",
+   "first_seen": "2026-11-14T22:40:11Z",
+   "last_pre": null,
+   "last_scan": "2026-11-14T22:40:11Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Jessica Pegula",
+    "Linda Noskova"
+   ],
+   "result": null,
+   "slug": "wta-pegula-noskova-2026-11-10",
+   "start": "2026-11-12T22:20:00Z",
+   "title": "WTA Finals, Group A: Jessica Pegula vs Linda Noskova",
+   "tour": "WTA"
+  },
   "0x72e6f4325ce193a0dfc3b27e00b8c300afeb2f435ae123592ad89963e7675eba": {
    "cid": "0x72e6f4325ce193a0dfc3b27e00b8c300afeb2f435ae123592ad89963e7675eba",
    "first_seen": "2026-09-06T11:15:56Z",
@@ -41618,6 +41752,23 @@
    "start": "2026-09-16T15:45:00Z",
    "title": "Sao Paulo Open: Mary Stoiana vs Claire Liu",
    "tour": "WTA"
+  },
+  "0x7c7354fb62f14b023ca4606753a535472e0ef674d0d190e18e3feecf3a52466c": {
+   "cid": "0x7c7354fb62f14b023ca4606753a535472e0ef674d0d190e18e3feecf3a52466c",
+   "first_seen": "2026-11-14T22:40:11Z",
+   "last_pre": null,
+   "last_scan": "2026-11-14T22:40:11Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Alex Michelsen",
+    "Alejandro Tabilo"
+   ],
+   "result": null,
+   "slug": "atp-michels-tabilo-2026-11-12",
+   "start": "2026-11-12T12:05:00Z",
+   "title": "BNP Paribas Nordic Open: Alex Michelsen vs Alejandro Tabilo",
+   "tour": "ATP"
   },
   "0x7c7fde3e97d01fdf07d566ed2d6a08767c8fae1c7c9faa3794dc9f033429b4e0": {
    "cid": "0x7c7fde3e97d01fdf07d566ed2d6a08767c8fae1c7c9faa3794dc9f033429b4e0",
@@ -46536,6 +46687,24 @@
    "title": "US Open, Qualification WTA: Yue Yuan vs Mary Stoiana",
    "tour": "WTA"
   },
+  "0x8c47c79e045bf725a36a63b0e085d318957e4bb488a208b7d22eba06dadc9d73": {
+   "cid": "0x8c47c79e045bf725a36a63b0e085d318957e4bb488a208b7d22eba06dadc9d73",
+   "close_reason": "no sealed pre-match book on the site",
+   "first_seen": "2026-11-14T22:40:11Z",
+   "last_pre": null,
+   "last_scan": "2026-11-14T22:40:11Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Mirra Andreeva",
+    "Diana Shnaider"
+   ],
+   "result": null,
+   "slug": "wta-andreev-shnaide-2026-11-13",
+   "start": "2026-11-13T20:10:00Z",
+   "title": "WTA Finals, Group B: Mirra Andreeva vs Diana Shnaider",
+   "tour": "WTA"
+  },
   "0x8c4b1858779e93cab222670569322bbc0754b3ef18ab7910741e4314ffe966b1": {
    "cid": "0x8c4b1858779e93cab222670569322bbc0754b3ef18ab7910741e4314ffe966b1",
    "first_seen": "2026-08-27T05:15:51Z",
@@ -50846,6 +51015,24 @@
    "title": "Shanghai Rolex Masters: Alejandro Davidovich Fokina vs Jenson Brooksby",
    "tour": "ATP"
   },
+  "0x98a9905b6499c46698e23fefea493c0b1d78cf95c9e1935f2b1d3f3a77b9fb72": {
+   "cid": "0x98a9905b6499c46698e23fefea493c0b1d78cf95c9e1935f2b1d3f3a77b9fb72",
+   "close_reason": "no sealed pre-match book on the site",
+   "first_seen": "2026-11-14T22:40:11Z",
+   "last_pre": null,
+   "last_scan": "2026-11-14T22:40:11Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Aryna Sabalenka",
+    "Mirra Andreeva"
+   ],
+   "result": null,
+   "slug": "wta-sabalen-andreev-2026-11-10",
+   "start": "2026-11-11T22:35:00Z",
+   "title": "WTA Finals, Group B: Aryna Sabalenka vs Mirra Andreeva",
+   "tour": "WTA"
+  },
   "0x98aba026cc641e86ecd6681e9384de419726096ded672715e648b3cc1a3c66f6": {
    "cid": "0x98aba026cc641e86ecd6681e9384de419726096ded672715e648b3cc1a3c66f6",
    "first_seen": "2026-09-22T11:15:50Z",
@@ -51577,6 +51764,23 @@
    "title": "National Bank Open: Talia Gibson vs Elisabetta Cocciaretto",
    "tour": "WTA"
   },
+  "0x9a373dba2806062d334a8e036ac5605141bd05c3c68bd5df5abe92ccb06eebb7": {
+   "cid": "0x9a373dba2806062d334a8e036ac5605141bd05c3c68bd5df5abe92ccb06eebb7",
+   "first_seen": "2026-11-14T22:40:11Z",
+   "last_pre": null,
+   "last_scan": "2026-11-14T22:40:11Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Taylor Fritz",
+    "Lorenzo Musetti"
+   ],
+   "result": null,
+   "slug": "atp-fritz-musetti-2026-11-13",
+   "start": "2026-11-13T16:05:00Z",
+   "title": "BNP Paribas Nordic Open: Taylor Fritz vs Lorenzo Musetti",
+   "tour": "ATP"
+  },
   "0x9a48dbcf21d6b10cf2ea2dc2870fc88f94db5448b3cefecc1325260ac2ef5ba9": {
    "cid": "0x9a48dbcf21d6b10cf2ea2dc2870fc88f94db5448b3cefecc1325260ac2ef5ba9",
    "first_seen": "2026-08-26T05:15:50Z",
@@ -52070,6 +52274,42 @@
    "start": "2026-10-07T07:05:00Z",
    "title": "China Open: Coco Gauff vs Elise Mertens",
    "tour": "WTA"
+  },
+  "0x9bdd3edf829da95dfe03d7c94b33cf1044d8ac4c4bffce0ec9a65ca1c4afc15f": {
+   "cid": "0x9bdd3edf829da95dfe03d7c94b33cf1044d8ac4c4bffce0ec9a65ca1c4afc15f",
+   "first_seen": "2026-11-14T22:40:11Z",
+   "last_pre": null,
+   "last_scan": "2026-11-14T22:40:11Z",
+   "lock_closed": false,
+   "locked": {
+    "at": "2026-11-12T17:30:00Z",
+    "fish": [
+     16211.0,
+     0.0
+    ],
+    "locked_by": "nightly",
+    "phase": "pre-match",
+    "price": 0.5,
+    "read_at": "2026-11-14T22:40:11Z",
+    "sharp": [
+     5026.0,
+     21814.0
+    ],
+    "side": 1,
+    "side_name": "Holger Rune",
+    "source": "at-serve-book",
+    "wallets": 10
+   },
+   "market_type": "moneyline",
+   "outcomes": [
+    "Taylor Fritz",
+    "Holger Rune"
+   ],
+   "result": null,
+   "slug": "atp-fritz-rune-2026-11-12",
+   "start": "2026-11-12T17:30:00Z",
+   "title": "BNP Paribas Nordic Open: Taylor Fritz vs Holger Rune",
+   "tour": "ATP"
   },
   "0x9be4f916d2ae816bc074817fe3c62c0595658b7d808e7a53e7301b5cb4d703fe": {
    "cid": "0x9be4f916d2ae816bc074817fe3c62c0595658b7d808e7a53e7301b5cb4d703fe",
@@ -55693,6 +55933,23 @@
    "slug": "wta-hruncak-riera-2026-08-25",
    "start": "2026-08-25T17:00:00Z",
    "title": "US Open, Qualification WTA: Viktoria Hruncakova vs Julia Riera",
+   "tour": "WTA"
+  },
+  "0xa7a657b2bf862236533c46f2a213ebcc8e5ce2039be457559f06abe0f0b6402b": {
+   "cid": "0xa7a657b2bf862236533c46f2a213ebcc8e5ce2039be457559f06abe0f0b6402b",
+   "first_seen": "2026-11-14T22:40:11Z",
+   "last_pre": null,
+   "last_scan": "2026-11-14T22:40:11Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Linda Noskova",
+    "Elina Svitolina"
+   ],
+   "result": null,
+   "slug": "wta-noskova-svitoli-2026-11-14",
+   "start": "2026-11-14T22:00:00Z",
+   "title": "WTA Finals, Final Stage: Linda Noskova vs Elina Svitolina",
    "tour": "WTA"
   },
   "0xa7ac1c8effa5ee3fb9f327505f40b408065a7ce9970d2dd25dadd14880fa2c22": {
@@ -64354,6 +64611,24 @@
    "title": "San Marino: Alexandre Muller vs Mili Poljicak",
    "tour": "ATP"
   },
+  "0xc017609e846b09a7aca07af50ddaeb53431b77de61f855283e7e41969ae2915c": {
+   "cid": "0xc017609e846b09a7aca07af50ddaeb53431b77de61f855283e7e41969ae2915c",
+   "close_reason": "no sealed pre-match book on the site",
+   "first_seen": "2026-11-14T22:40:11Z",
+   "last_pre": null,
+   "last_scan": "2026-11-14T22:40:11Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Elina Svitolina",
+    "Karolina Muchova"
+   ],
+   "result": null,
+   "slug": "wta-svitoli-muchova-2026-11-10",
+   "start": "2026-11-11T20:10:00Z",
+   "title": "WTA Finals, Group B: Elina Svitolina vs Karolina Muchova",
+   "tour": "WTA"
+  },
   "0xc03d373e095022259a99ab532b35a4423271281d582165d61916394f62a937b7": {
    "cid": "0xc03d373e095022259a99ab532b35a4423271281d582165d61916394f62a937b7",
    "first_seen": "2026-08-04T22:31:05Z",
@@ -72941,6 +73216,23 @@
    "title": "Shanghai Rolex Masters: Luciano Darderi vs Stefanos Tsitsipas",
    "tour": "ATP"
   },
+  "0xd99be7d04765226f9befebbe039481dba067c112d000f011fef6f8520efb7c94": {
+   "cid": "0xd99be7d04765226f9befebbe039481dba067c112d000f011fef6f8520efb7c94",
+   "first_seen": "2026-11-14T22:40:11Z",
+   "last_pre": null,
+   "last_scan": "2026-11-14T22:40:11Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Taylor Fritz",
+    "Thiago Agustin Tirante"
+   ],
+   "result": null,
+   "slug": "atp-fritz-tirante-2026-11-14",
+   "start": "2026-11-14T12:10:00Z",
+   "title": "BNP Paribas Nordic Open: Taylor Fritz vs Thiago Agustin Tirante",
+   "tour": "ATP"
+  },
   "0xd9d57d0a14f033826a0647389cc5c17e48da61b0926aea089a94fb95fbca5b7a": {
    "cid": "0xd9d57d0a14f033826a0647389cc5c17e48da61b0926aea089a94fb95fbca5b7a",
    "first_seen": "2026-11-11T00:36:38Z",
@@ -75225,6 +75517,24 @@
    "start": "2026-08-04T17:00:00Z",
    "title": "Istanbul 2: Denis Yevseyev vs Yanki Erel",
    "tour": "ATP"
+  },
+  "0xe0bb021d899efd77bcef2966541977b0032fcbbe466d3234dcc614c8686397f7": {
+   "cid": "0xe0bb021d899efd77bcef2966541977b0032fcbbe466d3234dcc614c8686397f7",
+   "close_reason": "no sealed pre-match book on the site",
+   "first_seen": "2026-11-14T22:40:11Z",
+   "last_pre": null,
+   "last_scan": "2026-11-14T22:40:11Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Aryna Sabalenka",
+    "Elina Svitolina"
+   ],
+   "result": null,
+   "slug": "wta-sabalen-svitoli-2026-11-10",
+   "start": "2026-11-13T21:30:00Z",
+   "title": "WTA Finals, Group B: Aryna Sabalenka vs Elina Svitolina",
+   "tour": "WTA"
   },
   "0xe12c88490dbf441321edcf97b9fa7f43bbb11c7a7104604d7370d3515bf9b363": {
    "cid": "0xe12c88490dbf441321edcf97b9fa7f43bbb11c7a7104604d7370d3515bf9b363",
@@ -79295,6 +79605,46 @@
    "start": "2026-10-24T07:00:00Z",
    "title": "Ningbo Open: Leylah Fernandez vs Marie Bouzkova",
    "tour": "WTA"
+  },
+  "0xecd623d28d3ab0b43ec9e3a9056a847bd4bec7605d107878d6d69582baf67901": {
+   "cid": "0xecd623d28d3ab0b43ec9e3a9056a847bd4bec7605d107878d6d69582baf67901",
+   "first_seen": "2026-11-14T22:40:11Z",
+   "last_pre": null,
+   "last_scan": "2026-11-14T22:40:11Z",
+   "lock_closed": false,
+   "locked": {
+    "at": "2026-11-13T13:10:00Z",
+    "fish": [
+     14994.0,
+     18471.0
+    ],
+    "locked_by": "nightly",
+    "phase": "pre-match",
+    "price": 0.61,
+    "read_at": "2026-11-14T22:40:11Z",
+    "sharp": [
+     13273.0,
+     6102.0
+    ],
+    "side": 0,
+    "side_name": "Alejandro Tabilo",
+    "source": "at-serve-book",
+    "wallets": 15
+   },
+   "market_type": "moneyline",
+   "outcomes": [
+    "Alejandro Tabilo",
+    "Thiago Agustin Tirante"
+   ],
+   "result": {
+    "hit": false,
+    "scored_at": "2026-11-14T22:40:41Z",
+    "winner": "Thiago Agustin Tirante"
+   },
+   "slug": "atp-tabilo-tirante-2026-11-13",
+   "start": "2026-11-13T13:10:00Z",
+   "title": "BNP Paribas Nordic Open: Alejandro Tabilo vs Thiago Agustin Tirante",
+   "tour": "ATP"
   },
   "0xecfac1fe353f19487b9921941dfb2edfe0562e8b07afc27aad6da0ea28bcb9e7": {
    "cid": "0xecfac1fe353f19487b9921941dfb2edfe0562e8b07afc27aad6da0ea28bcb9e7",
@@ -86110,6 +86460,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-11-12T01:07:39Z",
+ "updated": "2026-11-14T22:40:11Z",
  "version": 1
 }
