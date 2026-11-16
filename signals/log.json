@@ -51187,6 +51187,23 @@
    "title": "National Bank Open: Adam Walton vs Jenson Brooksby",
    "tour": "ATP"
   },
+  "0x9942ca8ac81e3fe412570113aff464f29848752908fdc107de9180819f22d3c8": {
+   "cid": "0x9942ca8ac81e3fe412570113aff464f29848752908fdc107de9180819f22d3c8",
+   "first_seen": "2026-11-16T00:35:56Z",
+   "last_pre": null,
+   "last_scan": "2026-11-16T00:35:56Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Ben Shelton",
+    "Arthur Fils"
+   ],
+   "result": null,
+   "slug": "atp-shelton-fils-2026-11-15",
+   "start": "2026-11-15T19:40:00Z",
+   "title": "ATP World Tour Finals, John McEnroe Group: Ben Shelton vs Arthur Fils",
+   "tour": "ATP"
+  },
   "0x99599019ce3bd193926cd5f0c786f614283b6c358719c7c4e5581c6421d259d6": {
    "cid": "0x99599019ce3bd193926cd5f0c786f614283b6c358719c7c4e5581c6421d259d6",
    "first_seen": "2026-08-04T22:31:05Z",
@@ -58338,6 +58355,23 @@
    "start": "2026-10-09T07:05:00Z",
    "title": "China Open: Qinwen Zheng vs Elina Svitolina",
    "tour": "WTA"
+  },
+  "0xae5f657fa9d9d5006484f583b68014374cfe6b11e2e2d1f0e68e1be28af58435": {
+   "cid": "0xae5f657fa9d9d5006484f583b68014374cfe6b11e2e2d1f0e68e1be28af58435",
+   "first_seen": "2026-11-16T00:35:56Z",
+   "last_pre": null,
+   "last_scan": "2026-11-16T00:35:56Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Alexander Zverev",
+    "Rafael Jodar"
+   ],
+   "result": null,
+   "slug": "atp-zverev-jodar-2026-11-15",
+   "start": "2026-11-15T13:25:00Z",
+   "title": "ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Rafael Jodar",
+   "tour": "ATP"
   },
   "0xae6782aee0e1691ae063b59de9255161304a4d979451d941562fda1044a83d92": {
    "cid": "0xae6782aee0e1691ae063b59de9255161304a4d979451d941562fda1044a83d92",
@@ -86460,6 +86494,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-11-15T02:12:08Z",
+ "updated": "2026-11-16T00:35:56Z",
  "version": 1
 }
