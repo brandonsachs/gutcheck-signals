@@ -777,6 +777,23 @@
    "title": "Istanbul 2: Constantin Bittoun Kouzmine vs Daniil Ostapenkov",
    "tour": "ATP"
   },
+  "0x031c61d7020cbfa70ddc1fc7d7172183d89c23d3654468ff2c714b57865a66f7": {
+   "cid": "0x031c61d7020cbfa70ddc1fc7d7172183d89c23d3654468ff2c714b57865a66f7",
+   "first_seen": "2026-11-17T00:36:51Z",
+   "last_pre": null,
+   "last_scan": "2026-11-17T00:36:51Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Daniil Medvedev",
+    "Flavio Cobolli"
+   ],
+   "result": null,
+   "slug": "atp-medvede-cobolli-2026-11-16",
+   "start": "2026-11-16T19:55:00Z",
+   "title": "ATP World Tour Finals, Ivan Lendl Group: Daniil Medvedev vs Flavio Cobolli",
+   "tour": "ATP"
+  },
   "0x034afe6904649449d8b880be041033c732db68efcd317b4b22168c6668bf1e5a": {
    "cid": "0x034afe6904649449d8b880be041033c732db68efcd317b4b22168c6668bf1e5a",
    "first_seen": "2026-10-24T16:30:27Z",
@@ -50944,6 +50961,23 @@
    "title": "Hangzhou Open, Qualification: Masamichi Imamura vs Rio Noguchi",
    "tour": "ATP"
   },
+  "0x987a4d0ee5521882ca78261dc5b978c9af8ac41c29f2be83279f71ea2b24c7c0": {
+   "cid": "0x987a4d0ee5521882ca78261dc5b978c9af8ac41c29f2be83279f71ea2b24c7c0",
+   "first_seen": "2026-11-17T00:36:51Z",
+   "last_pre": null,
+   "last_scan": "2026-11-17T00:36:51Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Carlos Alcaraz",
+    "Frances Tiafoe"
+   ],
+   "result": null,
+   "slug": "atp-alcaraz-tiafoe-2026-11-16",
+   "start": "2026-11-16T13:10:00Z",
+   "title": "ATP World Tour Finals, Ivan Lendl Group: Carlos Alcaraz vs Frances Tiafoe",
+   "tour": "ATP"
+  },
   "0x987f24d77f17d9086dabc50d1d6680121be6279f55522f3c58298fc9e1c14fa5": {
    "cid": "0x987f24d77f17d9086dabc50d1d6680121be6279f55522f3c58298fc9e1c14fa5",
    "first_seen": "2026-08-11T22:15:54Z",
@@ -65641,6 +65675,24 @@
    "slug": "wta-liutova-kubka-2026-08-27",
    "start": "2026-08-28T15:05:00Z",
    "title": "US Open, Qualification WTA: Kristina Liutova vs Martyna Kubka",
+   "tour": "WTA"
+  },
+  "0xc3b2510e19fe017e4c497be80aa76eb4306eae3bb57e6d911fb66df51a9d6307": {
+   "cid": "0xc3b2510e19fe017e4c497be80aa76eb4306eae3bb57e6d911fb66df51a9d6307",
+   "close_reason": "no sealed pre-match book on the site",
+   "first_seen": "2026-11-17T00:36:51Z",
+   "last_pre": null,
+   "last_scan": "2026-11-17T00:36:51Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Elina Svitolina",
+    "Mirra Andreeva"
+   ],
+   "result": null,
+   "slug": "wta-svitoli-andreev-2026-11-15",
+   "start": "2026-11-15T20:10:00Z",
+   "title": "WTA Finals, Final Stage: Elina Svitolina vs Mirra Andreeva",
    "tour": "WTA"
   },
   "0xc3d8d1f391212ec295be1dcafe5ffbe6f8329bdcbf1026f6fe21b8917ca20389": {
@@ -86494,6 +86546,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-11-16T00:35:56Z",
+ "updated": "2026-11-17T00:36:51Z",
  "version": 1
 }
