@@ -55656,6 +55656,46 @@
    "title": "Cincinnati Open: Nuno Borges vs Thanasi Kokkinakis",
    "tour": "ATP"
   },
+  "0xa5de56057087074ea0d8250d3593e71edf05becf939a4291b3fbafd69d1e4613": {
+   "cid": "0xa5de56057087074ea0d8250d3593e71edf05becf939a4291b3fbafd69d1e4613",
+   "first_seen": "2026-11-19T00:36:59Z",
+   "last_pre": null,
+   "last_scan": "2026-11-19T00:36:59Z",
+   "lock_closed": false,
+   "locked": {
+    "at": "2026-11-18T19:40:00Z",
+    "fish": [
+     20260.0,
+     80377.0
+    ],
+    "locked_by": "nightly",
+    "phase": "pre-match",
+    "price": 0.43,
+    "read_at": "2026-11-19T00:36:59Z",
+    "sharp": [
+     51987.0,
+     17502.0
+    ],
+    "side": 0,
+    "side_name": "Flavio Cobolli",
+    "source": "at-serve-book",
+    "wallets": 22
+   },
+   "market_type": "moneyline",
+   "outcomes": [
+    "Flavio Cobolli",
+    "Frances Tiafoe"
+   ],
+   "result": {
+    "hit": false,
+    "scored_at": "2026-11-19T00:37:03Z",
+    "winner": "Frances Tiafoe"
+   },
+   "slug": "atp-cobolli-tiafoe-2026-11-17",
+   "start": "2026-11-18T19:40:00Z",
+   "title": "ATP World Tour Finals, Ivan Lendl Group: Flavio Cobolli vs Frances Tiafoe",
+   "tour": "ATP"
+  },
   "0xa5eb7855501ea3fcf464e68f9b4e99506b9c64e727cef1500cfa142b30bcf85e": {
    "cid": "0xa5eb7855501ea3fcf464e68f9b4e99506b9c64e727cef1500cfa142b30bcf85e",
    "first_seen": "2026-08-03T04:06:53Z",
@@ -77328,6 +77368,23 @@
    "title": "Sao Paulo Open: Suzan Lamens vs Carolina M. Alves",
    "tour": "WTA"
   },
+  "0xe697cdfd6f6b50f6428be20c1adfceeec982ba7fa991b3ac721f3b5c1284f551": {
+   "cid": "0xe697cdfd6f6b50f6428be20c1adfceeec982ba7fa991b3ac721f3b5c1284f551",
+   "first_seen": "2026-11-19T00:36:59Z",
+   "last_pre": null,
+   "last_scan": "2026-11-19T00:36:59Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Carlos Alcaraz",
+    "Daniil Medvedev"
+   ],
+   "result": null,
+   "slug": "atp-alcaraz-medvede-2026-11-17",
+   "start": "2026-11-18T13:10:00Z",
+   "title": "ATP World Tour Finals, Ivan Lendl Group: Carlos Alcaraz vs Daniil Medvedev",
+   "tour": "ATP"
+  },
   "0xe6c743cbf20dfe7632a3d98e979097864799b68e87a980e1ab680ec116fe2592": {
    "cid": "0xe6c743cbf20dfe7632a3d98e979097864799b68e87a980e1ab680ec116fe2592",
    "first_seen": "2026-08-31T13:00:22Z",
@@ -86580,6 +86637,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-11-18T00:35:53Z",
+ "updated": "2026-11-19T00:36:59Z",
  "version": 1
 }
