@@ -20881,6 +20881,23 @@
    "title": "Ningbo Open, Qualification: Tatiana Prozorova vs Kamilla Rakhimova",
    "tour": "WTA"
   },
+  "0x3da741c90a327217e96e05465d1de86350f7b20a014ac9f3a0c9eab521f4dff6": {
+   "cid": "0x3da741c90a327217e96e05465d1de86350f7b20a014ac9f3a0c9eab521f4dff6",
+   "first_seen": "2026-11-20T01:02:54Z",
+   "last_pre": null,
+   "last_scan": "2026-11-20T01:02:54Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Alexander Zverev",
+    "Arthur Fils"
+   ],
+   "result": null,
+   "slug": "atp-zverev-fils-2026-11-17",
+   "start": "2026-11-19T19:40:00Z",
+   "title": "ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Arthur Fils",
+   "tour": "ATP"
+  },
   "0x3dd26832075f3f07f08d610bddafe35a7c92351450b16c896e8b1aabff9ae3f6": {
    "cid": "0x3dd26832075f3f07f08d610bddafe35a7c92351450b16c896e8b1aabff9ae3f6",
    "first_seen": "2026-10-10T10:31:14Z",
@@ -56060,6 +56077,23 @@
    "title": "US Open, Qualification WTA: Viktoria Hruncakova vs Julia Riera",
    "tour": "WTA"
   },
+  "0xa771fad33ff45722ecb3787546c6ab2c8b3b4b2677e1d02563982d0c0ca9fef1": {
+   "cid": "0xa771fad33ff45722ecb3787546c6ab2c8b3b4b2677e1d02563982d0c0ca9fef1",
+   "first_seen": "2026-11-20T01:02:54Z",
+   "last_pre": null,
+   "last_scan": "2026-11-20T01:02:54Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Ben Shelton",
+    "Rafael Jodar"
+   ],
+   "result": null,
+   "slug": "atp-shelton-jodar-2026-11-17",
+   "start": "2026-11-19T13:10:00Z",
+   "title": "ATP World Tour Finals, John McEnroe Group: Ben Shelton vs Rafael Jodar",
+   "tour": "ATP"
+  },
   "0xa7a657b2bf862236533c46f2a213ebcc8e5ce2039be457559f06abe0f0b6402b": {
    "cid": "0xa7a657b2bf862236533c46f2a213ebcc8e5ce2039be457559f06abe0f0b6402b",
    "first_seen": "2026-11-14T22:40:11Z",
@@ -86637,6 +86671,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-11-19T00:36:59Z",
+ "updated": "2026-11-20T01:02:54Z",
  "version": 1
 }
