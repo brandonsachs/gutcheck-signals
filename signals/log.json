@@ -63489,6 +63489,24 @@
    "title": "Ningbo Open, Qualification: Mayar Sherif vs Tatiana Prozorova",
    "tour": "WTA"
   },
+  "0xbb9fa03364a605f9f0529fe37ebfb6ee41578d9950bce61f5fae1f4a6bd5903d": {
+   "cid": "0xbb9fa03364a605f9f0529fe37ebfb6ee41578d9950bce61f5fae1f4a6bd5903d",
+   "close_reason": "no sealed pre-match book on the site",
+   "first_seen": "2026-11-23T00:36:39Z",
+   "last_pre": null,
+   "last_scan": "2026-11-23T00:36:39Z",
+   "lock_closed": true,
+   "locked": null,
+   "outcomes": [
+    "Alexander Zverev",
+    "Carlos Alcaraz"
+   ],
+   "result": null,
+   "slug": "atp-zverev-alcaraz-2026-11-22",
+   "start": "2026-11-22T17:15:00Z",
+   "title": "ATP World Tour Finals, Final Stage: Alexander Zverev vs Carlos Alcaraz",
+   "tour": "ATP"
+  },
   "0xbbcf9611492a1ae5106ca1c113d06283b565349edcb7c27465bbda6a41617a5c": {
    "cid": "0xbbcf9611492a1ae5106ca1c113d06283b565349edcb7c27465bbda6a41617a5c",
    "first_seen": "2026-09-21T16:00:09Z",
@@ -86739,6 +86757,6 @@
    "tour": "ATP"
   }
  },
- "updated": "2026-11-22T00:35:20Z",
+ "updated": "2026-11-23T00:36:39Z",
  "version": 1
 }
